@@ -1,0 +1,27 @@
+{
+	"_meta": {
+			"internalCopies": [
+					"item"
+			]
+	},
+	"item": [
+			{
+					"name": "Cristallo Trova Persone",
+					"source": "HB",
+					"page": 1,
+					"rarity": "very rare",
+					"reqAttune": "da un incantatore",
+					"reqAttuneTags": [
+							{
+									"class": "."
+							}
+					],
+					"wondrous": true,
+					"entries": [
+							"Questo cristallo permette alla persona in sintonia con esso di trovare una specifica persona nel raggio di 5 km. ",
+							"Per attivare il cristallo, deve essere un rituale effettuato nel corso di un riposo corto, il quale necessiterà di un oggetto di proprietà della persona da trovare il quale verrà consumato.",
+							"Se la persona si troverà nel raggio, il cristallo inizierà a lampeggiare, aumentando la frequenza del lampeggio con la vicinanza del bersaglio. La luce diventerà fissa quando il bersaglio si troverà entro 100 metri.",
+							"Per cambiare il bersaglio, bisogna ripetere il rituale con un altro oggetto. Se chi è in sintonia con questo cristallo muore, esso non avrà più nessun bersaglio."
+					]
+			}
+}
