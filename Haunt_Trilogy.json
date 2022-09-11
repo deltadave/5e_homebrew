@@ -1,0 +1,1117 @@
+{
+	"schema": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_schema-fast/homebrew.json",
+	"_meta": {
+		"sources": [
+			{
+				"json": "haunt-trilogy",
+				"abbreviation": "pbp_ht",
+				"full": "PB Publishing The Haunt Trilogy",
+				"authors": [
+					"PB Publishing"
+				],
+				"convertedBy": [
+					"deltadave"
+				],
+				"version": "1.0",
+				"url": "https://github.com/deltadave/5e_homebrew",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 1662833146,
+		"dateLastModified": 1662833146
+	},
+	"adventure": [
+		{
+			"name": "The Haunt Trilogy",
+			"id": "pbp_ht",
+			"source": "pbp_ht",
+			"group": "homebrew",
+			"coverUrl": "https://gitlab.com/dd_5e_homebrew/pbp_ht/-/raw/6d739f2da183aa9f5e9fd669f211a0887c3c839b/1/images/Inline%20Art%20001.jpg",
+			"contents": [
+				{
+					"name" : "The Haunt 1",
+					"headers" : [
+						"Credits",
+						"Chapter 1: Introduction",
+						"Chapter 2: Montarthas Manor",
+						{
+							"depth": 1,
+							"header": "The Ground Floor"
+						},
+						{
+							"depth" : 2,
+							"header": "1. Manor Entryway"
+						},
+						{
+							"depth" : 2,
+							"header": "2. The Foyer"
+						},
+						{
+							"depth" : 2,
+							"header": "3. The Stairwell Waiting Room"
+						},
+						{
+							"depth" : 2,
+							"header": "4. The Tea Room"
+						},
+						{
+							"depth" : 2,
+							"header": "5. The Dining Room"
+						},
+						{
+							"depth" : 2,
+							"header": "6. The Ball Room"
+						},
+						{
+							"depth" : 2,
+							"header": "7. Alfresco Area"
+						},
+						{
+							"depth" : 2,
+							"header": "8. The Secret Passage"
+						},
+						{
+							"depth" : 2,
+							"header": "9. Empty Thoroughfare"
+						},
+						{
+							"depth" : 2,
+							"header": "10. The Wizard’s Bedroom"
+						},
+						{
+							"depth" : 2,
+							"header": "11. The Spell Practice Room"
+						},
+						{
+							"depth" : 2,
+							"header": "12. The Library"
+						},
+						{
+							"depth" : 2,
+							"header": "13. Escape Preparation Room"
+						},
+						{
+							"depth" : 2,
+							"header": "14. The Courtyard"
+						},
+						{
+							"depth" : 2,
+							"header": "15. The Basement"
+						},
+						{
+							"depth": 1,
+							"header": "The Second Floor"
+						},
+						{
+							"depth" : 2,
+							"header": "16. The Hallway"
+						},
+						{
+							"depth" : 2,
+							"header": "17. Guest-Rooms"
+						},
+						{
+							"depth" : 2,
+							"header": "18. The Laundry Room"
+						},
+						{
+							"depth" : 2,
+							"header": "19. The Guests Wash Room"
+						},
+						{
+							"depth" : 2,
+							"header": "20. The Servant’s Living Space"
+						},
+						{
+							"depth" : 2,
+							"header": "21. The Kitchen"
+						},
+						{
+							"depth" : 2,
+							"header": "22. The General’s Clerk"
+						},
+						{
+							"depth" : 2,
+							"header": "23. The General’s Waiting Room"
+						},
+						{
+							"depth" : 2,
+							"header": "24. A General’s Broken Heart"
+						},
+						"Chapter 3: Epilogue",
+						"Appendices",
+						{
+							"depth" : 1,
+							"header": "Appendix A: Dungeon Master’s Map"
+						},
+						{
+							"depth" : 1,
+							"header": "Appendix B: Player’s Map"
+						}
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 1
+					}
+				},
+				{
+					"name" : "The Haunt 2",
+					"headers" : [
+
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 2
+					}
+				},
+				{
+					"name" : "The Haunt 3",
+					"headers" : [
+
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 3
+					}
+				}
+
+			],
+			"level": {
+				"start": 1,
+				"end": 6
+			},
+			"published": "2017-10-31",
+			"storyline": "The Haunt"
+		}
+	],
+	"adventureData": [
+		{
+			"id": "pbp_ht",
+			"source": "pbp_ht",
+			"data": [ 
+				{
+					"type": "section",
+					"name": "The Haunt",
+					"entries": [
+						{
+							"type": "image",
+							"href": {
+								"type": "external",
+								"url": "https://gitlab.com/dd_5e_homebrew/pbp_ht/-/raw/6d739f2da183aa9f5e9fd669f211a0887c3c839b/1/images/Inline%20Art%20001.jpg"
+							}
+						},
+						{
+							"type" : "section",
+							"name" : "Credits",
+							"entries" : [
+								"{@b Author}: Phil Beckwith (P.B. Publishing)",
+								"{@b Layout}: Phil Beckwith (P.B. Publishing)",
+								"{@b Editor}: Ken Carcas",
+								"{@b Cover Artist}: Pexles.com",
+								"{@b Interior Illustrators}: Phil Beckwith (P.B. Publishing) & Michael Wolmarans (used with permission)",
+								"{@b Battle Map Cartographer}: Chris Bissette (loottheroom.uk)",
+								"{@b Playtesters}: Tanya Jackson, Ryan Matthews, Anthony Petti, and Chris Bissette",
+								"{@b Special Thanks to}: My Wife Katie, Harrison O’Sullivan, Patrick E. Pullen, Dungeon Master’s Guild Fanclub Facebook Page, and finally to everyone who has bought (and will buy) this adventure."
+							]
+						},
+						{
+							"type" : "section",
+							"name" : "Chapter 1: Introduction",
+							"entries" : [
+								{
+									"type": "entries",
+									"name": "Running this Adventure",
+									"entries": [
+										"The Haunt is a one-shot Dungeons & Dragons 5th Edition horror themed fantasy adventure. This is a challenging adventure for 4th level player groups of 3 to 5 players with some deadly encounters. However, ideally The Haunt is tailored as a medium difficulty adventure with plenty of excitement and danger for a 5th level party of 4 to 5 players.",
+										"This adventure is essentially a dungeon crawl, set in a haunted mansion. However the aim is not to just have the players move from room to room, killing creatures, and disarming traps. This adventure has a focus for story and flavor.",
+										"The Haunt is split into three chapters; Chapter 1, this chapter, is the introduction. Chapter 2 focuses on the Ground Floor, the Basement and the Second Floor of the manor. Chapter 3 contains the epilogue to complete the adventure, and provides guidance for further adventuring.",
+										"To run this adventure you need; The Dungeons and Dragons 5th Edition Players Handbook, the Dungeons and Dragons 5th Edition Monster Manual and the content supplied within this adventure.",
+										"It is highly advised to run this adventure with dim lighting (or candle-lit), spooky organ music, and have a creepy children's lullaby ready to play. This ensures the right vibe is achieved, and provide maximum satisfaction for you, the DM, and your players.",
+										{
+										"type" : "entries",
+										"name" : "Character Advancement and Milestone Leveling",
+										"entries": [
+											"This adventure is designed to utilize the Milestone leveling system, by which it is expected that the characters start at level 4 at the beginning of the adventure, and upon defeating the Night Hag Gertrude, advance directly into level 5.",
+											"This is only a suggestion, however, and you, as the DM, are in no way forced to use this method. This adventure runs perfectly fine with Experience Points based leveling, and you are encouraged to use XP if it is a better fit for you and your playing group."
+											]
+										},
+										{
+											"type" : "entries",
+											"name" : "Boxed Text",
+											"entries": [
+												"This adventure includes boxed text to assist those Dungeon Masters who like to have a description of a scene or location. The use of boxed text is by no means required; many great Dungeon Masters avoid the use of boxed text and instead feel more comfortable describing the action in their own words. You should consider what works best for you and your group. If you choose not to read aloud any of the text provided, you should at least paraphrase the information to keep the players aware of their environment."
+											]
+										},
+										{
+											"type" : "entries",
+											"name" : "Setting and Location",
+											"entries": [
+												"The Haunt is designed to be a drop and play adventure that can fit into any setting and any campaign."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Background",
+									"entries": [
+										"In ages past, there once stood a small city in these parts.",
+										"The city, being subject to constant orc attacks, maintained a sufficiently defensive militia to ward away such attacks as they occurred. This militia stood for centuries, and many commanding officers came and went throughout the years.",
+										"General Oscar Montarthas, known for being fair, firm and stern towards his men, was the last to command this post.",
+										"Not long from retirement, General Montarthas employed an advisor, Gertrude, who would assist the General in decision making with the forthcoming yearly orc invasions.",
+										"This advisor was, in fact, an evil night hag, who planned to ruin the city and use its population to feed from the power of their life force. This was achievable by seducing the General, and corrupting his heart with a powerful green emerald.",
+										"The night hag firstly fed off the life force of the manor's residents, sucking them dry. As her power grew, the population from the city were next to fall. Heavily undermanned, the city ultimately fell to the orcs and was abandoned, with only the manor standing the test of time.",
+										"To this day, the manor is the only still standing building to be seen for miles around.",
+										"Since that time, Gertrude has fed from the unfortunate passers-by who happen to accidentally wander into Montarthas Manor!"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Adventure Hooks",
+									"entries": [
+										"The adventure does not have any setting specific adventure hooks though the following are provided as suggestions to hook your players and campaign into this adventure:",
+										{
+										"type": "list",
+										"items": [
+											"The PCs have been approached by an elderly wizard who offers them a handsome reward for rescuing his apprentice who has entered but not returned from Montarthas Manor. This was two tenday ago.",
+											"The PCs have heard rumor of a powerful necromantic jewel which lies in the heart of the manor. They hear it is worth a fortune to the right people.",
+											"People have been going missing when traveling in the areas around the manor. The local town's mayor has offered some freelance adventuring work to anyone who is brave enough to enter and investigate the manor.",
+											"A great evil emanates from the grounds of the manor; all good aligned heroes feel a persistent urge to remove that evil from the world.",
+											"The PCs have been traveling a long and barren road for many days. As the winds blow a blithering gale throughout the area, the heroes long for a reprieve.",
+											"Craving a warm bowl of food, an ale, and a warm place to shelter, they come upon Montarthas Manor, which seems more hospitable as any other place around these parts."
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Chapter 2: Montarthas Manor",
+							"entries": [
+								"This mansion was once the home to the appointed General who commanded a militia based in this area long ago. At the time of the General's death, the manor was cursed by a powerfully evil Night Hag, known simply as, Gertrude. It is said that a brilliant green emerald, imbued with a great and ancient power, lies at the heart of Montarthas Manor; this is rumored to be the source of the manor's evil.",
+								{
+									"type" : "entries",
+									"name" : "The Ground Floor",
+									"entries" : [
+										"As the heroes approach the mansion; read or paraphrase the following:",
+										{
+											"type": "inset",
+											"entries": [
+												"As you approach the mansion you notice that the blackness of the stone is unnatural and almost tainted. The air grows thick, and what little light that the night gives somehow becomes duller and duller the closer that you get to the evil dwelling."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "1. Manor Entryway",
+											"entries": [
+												"Read or paraphrase the following if the heroes enter via the front door:",
+												{
+													"type": "inset",
+													"entries": [
+														"You stand in near darkness. Before you are a set of steps that lead to the high archways that govern the entryway into the mansion proper. A large set of dark oak double doors sit patiently closed awaiting your advance. You notice small crystal blue eyes peering at you from behind a dark window beside the doorway."
+													]
+												},
+												"See Area 3 for a more detailed reference for the eyes.",
+												"These doors do not open, no matter how well the PC rolls for strength or thieves tools checks. They are supernaturally held tight. The doors open only on their own accord, once the heroes give up, turn away, or have been attempting to open them for more than a few minutes.",
+												"On a successful {@b {@dc 13} Intelligence ({@skill Arcana})} check, the adventurers notice that there is an eerie essence that surrounds the doors, as if they themselves do not wish to be opened.",
+												"Once the heroes decide to give up on the door and turn away from it read or paraphrase the following:",
+												{
+													"type": "inset",
+													"entries": [
+														"As you turn from the door you hear a loud 'creeeeaaak' from behind you. You look back only to see that the doors have opened, on their own accord; those onlooking crystal blue eyes now gone. The looming black space behind the entryway stares menacingly at you, inviting you into its abode."
+													]
+												}
+											]
+										},
+										{
+											"type" : "entries",
+											"name": "2. The Foyer",
+											"entries": [
+												"{@b This room is trapped;} the trap is triggered whenever a living soul passes beyond the line between the two statues (see Ground Floor map). These, of course, are {@creature gargoyle||gargoyles} and each of them animates as soon as the trap is triggered. They fight to the death.",
+												"Read or paraphrase the following when the heroes enter this room:",
+												{
+													"type": "inset",
+													"entries": [
+														"The entry foyer has a large open space with a floor of black marble. Two imposing looking demonic statues stand to either side of the foyer as if motionlessly keeping watch over the empty room."
+													]
+												}
+											]
+										},
+										{
+											"type" : "entries",
+											"name" : "3. The Stairwell Waiting Room",
+											"entries": [
+												"This room is a raised platform, a step up from the foyer and the tea room, and is situated at the bottom of the stairwell.",
+												"There is a cushioned sitting couch in the south-west corner of the room, it has an old worn children's doll laying on it, a successful {@dc 10} {@b Intelligence ({@skill Investigation})} check reveals the eyes of the doll are strangely similar to those seen peering through the window before entering the mansion from the front door.",
+												"In the north-east corner is the stairwell climbing up to {@b The Second Floor}, or down to {@b The Basement}. A portcullis blocks the way up until the party has explored at least 5 rooms on the Ground Floor (in total), it then opens by itself. Situated to the right of the stairwell is a statue of a griffon sitting atop of a pedestal holding up one of its front talons in a \"knocking\" type stance.",
+												"The griffon statue is an opening mechanism for secret door system 1 (S1). Pulling down on the griffon's raised talon activates 2 secret doors. One opens, while the opposite closes, and vice versa.",
+												"This means that the two doors are never be open at the same time, and to get through the secret passage, the adventurer needs someone or something to pull the lever twice.",
+												"{@b Note}: This mechanism and secret door system is designed to split the party and isolate PCs to add to the suspense of the haunted mansion.",
+												{
+													"type": "image",
+													"href": {
+														"type": "external",
+														"url": "https://gitlab.com/dd_5e_homebrew/pbp_ht/-/raw/6d739f2da183aa9f5e9fd669f211a0887c3c839b/1/images/Inline%20Art%20003.png"
+													}
+												}
+											]
+										},
+										{
+											"type" : "entries",
+											"name": "4. The Tea Room",
+											"entries": [
+												"The mansion's tea room is a large sunken room with a fireplace and hearth situated in the north-west corner. There are three small round tables for guests to sit and consume tea and other assorted refreshments. A glass chandelier hangs on a sturdy chain from high above.",
+												"{@b Event}. As the heroes move through the room, the chandelier falls and crashes just behind them, the supporting chain swinging with movement.",
+												"{@b S1}: This is a secret door; it is activated by pulling the griffon statue's raised claw (a leaver) down ({@b area 3}). This opens and closes it. When the heroes first enter the mansion, the door is closed and looks like a wall; a {@b {@dc 13} Wisdom ({@skill Perception})} check successfully spots the secret door.",
+												{
+													"type": "image",
+													"href": {
+														"type": "external",
+														"url": "https://gitlab.com/dd_5e_homebrew/pbp_ht/-/raw/6d739f2da183aa9f5e9fd669f211a0887c3c839b/1/images/Inline%20Art%20004.png"
+													}
+												}
+											]
+										},
+										{
+											"type" : "entries",
+											"name": "5. The Dining Room",
+											"entries": [
+												"This is the General's dining room, and it has an open entrance to it via the tea room (area 4). Standing from outside the entrance the heroes simply see an empty old dusty dinner table.",
+												"As soon as they step beyond the entrance for the first time, the place comes alive as the heroes step into the middle of a ghostly dinner party.",
+												"When the heroes step up the steps and into the dining room for the first time, read or paraphrase the following:",
+												{
+													"type": "inset",
+													"entries" : [
+														"As you step up into the dining room from the sunken tea room, the air grows warm. Suddenly the room comes to life, as ghostly apparitions appear seated at the once empty table.",
+														"A large dinner party is being held it seems, as a roasted hog materialises, along with plates of all varieties of food. Jugs of foaming ale are being shared between ghostly companions.",
+														"A large spectral human man stands at the head of the table, saying nothing, a serious scowl and frown is cemented over his face as he overlooks his guests who seem to be enjoying themselves."
+													]
+												},
+												"The ghosts pay no heed to the party providing they do not interact with them. If the adventurers leave the room without interacting with anything, the dinner party simply disappears as soon as they step foot into another room.",
+												"If the heroes attempt to interact with any of the ghostly dinner party, read or paraphrase the following.",
+												{
+													"type": "inset",
+													"entries": [
+														"The room abruptly becomes quiet, all talking and laughter has ceased. Every ghost in the room is now facing you when the man at the head of the table rushes toward you, floating right through the hard wooden dining table. (@b \"You should not be here! LEAVE THIS PLACE!!!!\"} He screams as he rushes closer.",
+														"Then as quick as the party had started, the room is empty, dark and cold again. The ghosts are nowhere to be seen, and there is no sign of the man who had rushed at you."
+													]
+												},
+												"If the heroes linger here (for more than 5 minutes in-game time), the room engulfs itself in flames, these are apparitions also.",
+												"Have the heroes roll a {@b {@dc 15} Wisdom} saving throw; failure results in 1d4 psychic damage per round that their heroes stay in the room.",
+												"Once the heroes leave the room, they notice that the flames disappear as quickly as they began. Nothing appears to be burnt in the room, and the heroes don't appear to have burns to their bodies."
+											]
+										},
+										{
+											"type" : "entries",
+											"name": "6. The Ballroom",
+											"entries": [
+												"The ballroom was once the center of entertainment for the General and his distinguished guests. Many nights were spent drinking, dancing and laughing. In the end, though, this became the place where his world started to fall apart.",
+												"As the heroes enter the ball room, read or paraphrase the following:",
+												{
+													"type": "inset",
+													"entries": [
+														"As you enter the large double doors, a large room opens before you. A large chandelier hangs from the high ceiling, and an old dance floor stretches before you. A large glass folding door opens onto an alfresco area on the east wall.",
+														"Materializing from thin air you see the man who had rushed at you, ending the ghostly dinner party in the dining room. He seems younger somehow, as if this is a vision into an earlier time in his life.",
+														"A beautiful woman enters from nothingness, dressed in a flowing black gown, her eyes dark and dangerous. He holds her and looks into those eyes, and she looks back into his.",
+														"\"{@b We will disappear, just the two of us, my love}\" the man says dreamily.}",
+														"\"{@b Oh, General Montharthas, but what of your wife? And we have work to do.}\" She reminds him.",
+														"\"{@b Never mind her, she will cope. And your army of undead... Let us not talk of this tonight}\" he replies as their apparitions fade and the room is once again empty."
+													]
+												},
+												"The heroes find nothing of note in the room other than the alfresco area entrance which leads to area 7."
+											]
+										},
+										{
+											"type" : "entries",
+											"name": "7. Alfresco Area",
+											"entries": [
+												"This alfresco area is a fenced off private swimming pool area, with three ruined deck chairs at the southern end of the pool.",
+												"The water remaining in the pool is still and algae green, nothing can be seen beneath its surface. Every now and then, a ripple emerges from its depths. There are multiple skeletal remains around the closest side of the pool.",
+												"A {@b {@dc 13} Wisdom (Passive Perception)} notices a gleaming bejeweled sword laying on the deck beside the pool on the opposite side of the area (shown on the map as an X).",
+												"If the heroes attempt to retrieve the sword from the opposite side of the alfresco area, or if they come within 5ft of the poolside, a guard {@creature Beholder Zombie} rises from the murky green water and attacks the party.",
+												"The Beholder Zombie does not leave the alfresco area, but the heroes must defeat it one way or another to retrieve the jeweled sword.",
+												"{@b Loot}: Choose either one of the following:",
+												{
+													"type" : "list",
+													"items": [
+														"{@b Level 4 (party average) and below}; any +1 magic weapon that the party is lacking.",
+														"{@b Level 5 (party average) and higher}; {@item Flame Tongue} (longsword)."
+													]
+												}
+											]
+										},
+										{
+											"type" : "entries",
+											"name": "8. The Secret Passage",
+											"entries": [
+												"This room is bare and only boasts hard stone blocks on all of the walls. At either end of the room is a door that can only be opened and closed by pulling the statue griffon talon (area 3).",
+												"The secret door system is designed so that only 1 door can be opened at any one time. When one opens, the other closes. And the trigger needs to be done from outside of the room. This means that it might require 2 people to get through to the opposite side."
+											]
+										},
+										{
+											"type" : "entries",
+											"name": "9. Empty Thoroughfare",
+											"entries": [
+												"This room is empty and provides a walkway for those who know the secret ways of the manor."
+											]
+										},
+										{
+											"type" : "entries",
+											"name": "10. The Wizard's Bedroom",
+											"entries": [
+												"An old rotted wooden bed lies in shambles to the southern side of this 20x20 ft. room. There is an old desk, much in the same state as the bed, to the western side of the room. A successful {@b {@dc 10} Wisdom ({@skill Perception})} check finds:",
+												{
+													"type" : "list",
+													"entries" : [
+														"A {@item scroll of invisibility}. A {@b {@dc 10} Intelligence ({@skill Arcana})} check reveals its magical preservation to stand the test of time, and",
+														"A page from an ancient journal. A {@b {@dc 13} Wisdom ({@skill Perception})} check alerts the character that touching it makes it crumble to dust. It reads the following:"
+													]
+												},
+												{
+													"type" : "entries",
+													"entries": [
+														{
+															"type": "entries",
+															"name": "12th day of Mirtul",
+															"entries" : ["Today the General meets with his new advisor, she comes highly regarded! Hopefully she can guide the General down the righteous path."]
+														}
+													]
+												},
+												{
+													"type" : "entries",
+													"entries": [
+														{
+															"type": "entries",
+															"name": "14th day of Mirtul",
+															"entries" : ["The new advisor Gertrude has only been in our service for two days, and already I see a change in the General. He hangs on to every word she spills, I only hope that it is the word of good."]
+														}
+													]
+												},
+												{
+													"type" : "entries",
+													"entries": [
+														{
+															"type": "entries",
+															"name": "25th day Mirtul",
+															"entries" : [
+																"Something is wrong. The General dismisses the Lords, he has advised that he will not meet with them in council about the orc armies marching upon us.",
+																"This new advisor holds all of his attention, she feeds him the poison of her words and turns him against his people. She must be stopped!"
+															]
+														}
+													]
+												},
+												{
+													"type" : "entries",
+													"entries": [
+														{
+															"type": "entries",
+															"name": "30th day of Mirtul",
+															"entries" : ["Today is the day that I, Marple Brightshine, make a stand for the greater good! She will die by my hand and my name will be forever muddied. But I see her for what she really is, a night witch!"]
+														}
+													]
+												},
+												"The Journal ends with that last entry, nothing more.",
+												"{@b Note}: The month of Mirtul is used in the above journal entry, this is a Forgotten Realms calendar month. If you are running this adventure in another setting, please feel free to change the month in the journal to that of your choosing."
+											]
+										},
+										{
+											"type" : "entries",
+											"name": "11. The Spell Practice Room",
+											"entries": [
+												"This room is a large open space, with three stone mannequins along the southern wall. These seem to have once been practice targets as behind them, large black blast marks dirty the wall with silhouettes. There is a large iron double door entry into the next room; the doors are blackened from fire.",
+												"{@b The secret way out}. There is a secret door that can be found with a successful {@b {@dc 15} Wisdom ({@skill Perception})} check along the northern wall. A successful {@b {@dc 15} Strength ({@skill Athletics})} check opens the door; its trigger mechanism being lost long ago in a fire that destroyed the {@b Library (area 12)}."
+											]
+										},
+										{
+											"type" : "entries",
+											"name": "12. The Library",
+											"entries": [
+												"All four walls of this room are badly burnt. There is ash and rubble littered across the floor, mixed in amongst the remains of old burnt books from ages past. Faintly, in amongst the remains, can be seen the slightly hidden piles of humanoid skeletons. The only thing that seems intact and whole in this room is a leather cloak draped over the half melted remains of a metal coat stand.",
+												"This is in-fact a {@creature Cloaker}. If the characters are acting suspicious toward it, a successful {@b {@dc 16} Intelligence ({@skill Nature})} check, recognises it as a cloaker.",
+												"Once the Heroes are beyond the threshold of the doors and inside the old burnt library, the cloaker surprises them (if not discovered) and attacks until it has 5 hit points remaining. It then attempts to flee to another part of the wizard's quarters, only to surprise the party again at the DM's discretion."
+											]
+										},
+										{
+											"type" : "entries",
+											"name": "13. Escape Preparation Room",
+											"entries": [
+												"This room is a secret room that appears to be a kind of preparation room. There are 4 faded black cloaks with hoods hanging on hooks. This was once the escape route for the General and his Wizard, should the manor be taken in a siege. A door leads out to a courtyard garden area."
+											]
+										},
+										{
+											"type" : "entries",
+											"name": "14. The Courtyard",
+											"entries": [
+												"This courtyard garden area is lined with shrubs and hedge bushes. In the north-eastern corner of the courtyard, there is a hidden hatch through shrubs and the outer wall, allowing those using the passage a ready escape to the field beyond (not featured in this adventure). A successful {@b {@dc 13} Wisdom ({@skill Perception})} check notices the hatch."
+											]
+										},
+										{
+											"type" : "entries",
+											"name": "15. The Basement",
+											"entries": [
+												"The heroes find an open door at the bottom of the stairs.",
+												"Once the heroes enter the basement, the door slams shut and a noxious green gas begins to fill the room. There is a half made flesh golem lying on an operating table, with a bucket of body parts beside it.",
+												"On the desk beside the operating table the heroes find a waxy lab diagram with notes scribbled over it. One of the notes is an incomplete \"formula\" (number sequence puzzle).",
+												"It provides the heroes with the correct body parts to use.",
+												"Each of the numbers align to a tagged corresponding body part. Give players the handout on the next page.",
+												"Read or paraphrase the following:",
+												{
+													"type": "inset",
+													"entries": [
+														"You enter the room, and suddenly the door slams shut behind you. A locking mechanism with a 4 digit code blocks the way and green noxious gas begins to fill the room.",
+														"In the room you see a half made flesh golem lying on an operating table, it is missing only hands, feet and a brain. A large mechanism with a crank and coils sits behind it with rods connected to each of the golem's temples.",
+														"To the left of the golem are three large buckets holding many feet, hands, and brains. Some rusty operating tools and a needle and thread sit on the table next to it.",
+														"To the right of the golem sits a desk with a waxed scrap of paper that looks to be a diagram of a humanoid body. It has notes scribbled all over it."
+													]
+												},
+												"To escape the trapped room the heroes must;",
+												{
+													"type": "list",
+													"entries": [
+														"First: Figure out which body parts to use. As each of the numbers are correctly answered, that body part can automatically be found in the bucket with a corresponding tagged number. Answer: 4, 12, 50",
+														"Second: Succeed DC 13 Intelligence (Medicine checks for each body part to attach them to the flesh golem. If the PCs fail the skill check 3 times, the gas renders them unconscious (see the note below).",
+														"Third: Kick-start the golem. A DC 15 Intelligence (Arcana) check realises that either starting the magical mechanism with the crank to conduct electricity through it, or use any lightning based spell wakes the golem."
+													]
+												},
+												"Once the golem is complete, it uses the thoughts from the brain inserted into its body to open the door.",
+												"Read or paraphrase the following:",
+												{
+													"type": "inset",
+													"entries": [
+														"As the air energizes and you feel static energy tingle around the room, the now completed golem begins to move. It awakens, straight away sniffing the air. It moves quicker than you expect and rushes towards the locking mechanism on the door. Pushing 4 digits, the door opens and the gas clears."
+													]
+												},
+												"Loot: A {@item Bag of Holding} can be found.",
+												"Note: If the heroes are unable to solve the puzzle after 20 minutes real-time; the gas renders them unconscious, and they wake in Level 2 (area 24: A General's Broken Heart) in a pile. Run that scene as described.",
+												{
+													"type": "inset",
+													"entries": [
+														"{@b Number Sequence Puzzle: Answers}",
+														"2, 7, 3, 8, ? ({@b 4} : sequence is +5, -4, +5, -4)",
+														"3,12,6,24,? ({@b 12} : sequence is x4, /2, x4, /2)",
+														"8,16,22,44,? ({@b 50}: sequence is x2, +6, x2, +6)"
+													]
+												},
+												{
+													"type": "image",
+													"href": {
+														"type": "external",
+														"url": "https://gitlab.com/dd_5e_homebrew/pbp_ht/-/raw/6d739f2da183aa9f5e9fd669f211a0887c3c839b/1/images/Inline%20Art%20005.jpg"
+													}
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Second Floor",
+									"entries": [
+										"The second floor of Montarthas Manor is riddled with danger and evil creatures. While the Ground Floor was primarily utilised to immerse the heroes in the tragic story of the manor, the second floor is where the heroes finally experience the horrors for themselves.",
+										{
+											"type": "inset",
+											"name": "The Evil Doll",
+											"entries": [
+												"On entering each of the rooms on the second floor, roll a d%, there is a 40% chance that the evil doll makes an appearance.",
+												"Each time that she does, refer to the below table and run the respective events.",
+												"If another encounter happens in the room, run that encounter first, then describe the sudden appearance of the doll.",
+												{
+													"type": "table",
+													"caption": "Evil Doll Appearances",
+													"colLabels": [
+														"Appearance",
+														"Encounter"
+													],
+													"colStyles": [
+														"col-2 text-left",
+														"col-6 text-left"
+													],
+													"rows": [
+														[
+															"1st time:",
+															"The doll is be sitting on an any piece of furniture, she does nothing until the heroes leave the room, which is when she activates her Frightening Lullaby feature, then she moves to attack with her Claw. On her second turn she uses her Shadow Blend ability at first opportunity."
+														],
+														[
+															"2nd time:",
+															"The doll actively turns its head slowly with an evil grin on her face and attack the heroes with a Knife. For her second round action she uses her Shadow Blend ability to escape."
+														],
+														[
+															"3rd time:",
+															"The doll uses her Shadow Blend ability to surprise attack one of the heroes. She drops from the shadowy corners onto their back with a Knife attack. Then she fights per initiative, unless Shadow Blend recharges (DM to check each round). When it does recharge, she uses this to escape. The doll reappears again at a later part in the adventure (DM's discretion) to menace the party again, and again."
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Flavour notes",
+											"entries": [
+												"{@b Note 1:} Describe the doll to have evidence of 'repairs' after the first fight. It shows up with twine and patches mended over its body. This suggests that it has been repaired, and explains the doll's HP regeneration between encounters.",
+												"{@b Note 2:} Sporadically, as the PCs explore the manor, they can hear a haunting girlish giggle now and then. It is the doll playing with them, scaring them for its own amusement.",
+												"{@creature evil doll|pbp_ht|Evil Doll}",
+												{
+													"type": "image",
+													"href": {
+														"type": "external",
+														"url": "https://gitlab.com/dd_5e_homebrew/pbp_ht/-/raw/6d739f2da183aa9f5e9fd669f211a0887c3c839b/1/images/Inline%20Art%20006.png"
+													}
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "16. The Hallway",
+											"entries": [
+												"There is a soft green glow flickering in this hallway, but there seems to be no source for the light. A DC 15 Intelligence (Arcana) check shows that the source of the green glow is necrotic energies moving about the manor's second floor, like blood through a vein."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "17. Guest-Rooms",
+											"entries": [
+												"These rooms are standard guest rooms; both are dusty and full of sticky cobwebs. Upon entry to either Guest Room, roll 1d20; if you roll an even number, 2 x {@creature Phase Spider||Phase Spiders} phase in and attempt to attack the heroes from above the doorway."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "18. The Laundry Room",
+											"entries": [
+												"This is an old laundry room with a bench that runs along the southern wall, and a large iron stirring pot for washing clothes.",
+												"A ghostly apparition is stirring an ectoplasmic load of dirty clothes. She fades once the party attempts to interact or they enter the room."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "19. The Guests Wash Room",
+											"entries": [
+												"This room has a large washing tub, a bench stretches around the south-western corner of the room. An old bloodied towel hangs from a towel rack.",
+												"Read or paraphrase the following:",
+												{
+													"type" : "inset",
+													"entries": [
+														"As you enter what looks to be an old washroom, you first notice the bloodied towel hanging from the towel rack. A wash tub sits along the northern wall of the room. Then you notice it; a naked body lies within the otherwise empty tub, blood gushing from the woman's wrists."
+													]
+												},
+												"The 'body' is a {@creature ghost}, and only attacks if the heroes attempt to \"save\" it or interact with it in any way."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "20. The Servant's Living Space",
+											"entries": [
+												"As the heroes approach this door from the hallway, they hear a thumping sound, getting louder and louder the closer that they get to it. Behind the door awaits a {@creature Ghast} who commands 2 x {@creature Ghoul||Ghouls}",
+												"They can smell the living flesh coming their way, and in their excitement, are giving away their position of surprise.",
+												"Neither party is surprised when the door is finally opened.",
+												"The door is locked and it has been for a very long time. A successful {@b {@dc 15} Dexterity ({@skill Thieves' Tools})} check unlocks the door.",
+												"Due to their irrational state caused from hunger, the ghast and ghouls attack and fight to the death. The room is the old servant's living quarters. There is the shared lavatory in the north east room and the shared bathing area in the south east room."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "21. The Kitchen",
+											"entries": [
+												"This room is the Kitchen. There is a hotplate with a fire-pit below it, though it has not been used for a millennia. There is a bench on the southern wall, and wooden cupboards fixed above head height on all sides. Pots, pans, knives and cups, dulled and tarnished from age, hang from hooks below the cupboards. Along the southern wall there is a hole in the floor which was once used for a pulley driven dumb waiter between the downstairs kitchen and this room.",
+												"The hole is big enough for a medium sized creature to fit through it.",
+												"The heroes instantly see a small treasure chest on the hotplate on the opposite side of the room when they enter. It is locked; a {@b {@dc 15} Dexterity ({@skill Thieves' Tools})} check unlocks it, or a {@b {@dc 13} Strength ({@skill Athletics})} check breaks it open.",
+												"{@b It's a trap!} When the heroes enter the room, a successful {@b {@dc 15} Wisdom ({@skill Perception})} check notices the air has grown colder and the cupboard doors move slightly with a creak by themselves.",
+												"As soon as the heroes reach halfway across the kitchen, an unknown force causes the knives, pots, and pans to slowly detach themselves from their hanging hooks. The cupboards above head height then suddenly start to fling open and closed viciously. With each thrust of the cupboard doors; the ancient knives, pots and silverware fly across the room to crash into the opposite wall.",
+												"The cupboards contain the essence of a {@creature Poltergeist}. Each time a knife is detached from its hook and thrown, the cupboard door opens and closes. Destroying the cupboards stops the attacks from that particular cupboard. Each cupboard is AC 10 and has 10 Hit Points. Destroying 4 of the cupboards destroys the Poltergeist.",
+												"This should be treated as a combat encounter, have your group roll for initiative as soon as the knives, pots, and pans detach themselves from their hooks. Any hero inside the room needs to succeed on a {@b {@dc 13} Dexterity} saving throw at the start of each of their turns, else be hit by multiple projectiles for a total of 1d6 bludgeoning & slashing damage.",
+												"{@b Treasure}: The small chest contains 248 gp, the markings on the coins are of an unknown origin, lost to history."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "22. The General's Clerk",
+											"entries": [
+												"This is the clerk's office, where a writing desk sits in the south-western corner and a single door on the eastern wall.",
+												"Behind the desk, a skeleton is busy at work writing down something in a translucent ethereal ledger book.",
+												"Read or paraphrase the following:",
+												{
+													"type": "inset",
+													"entries" : [
+														"As you enter the room you notice something that seems very unnatural, though not unexpected in a place such as this. It is a skeleton busy at work behind a writing desk, frantically writing notes in an translucent ethereal ledger book.",
+														"It looks up at you with empty eye sockets, its jaw starts to move as a hauntingly high pitched voice says \"{@b ahh, you are here! He has been waiting for you!... You may proceed Advisor Gertrude!}\"",
+														"From behind, you feel something evil and dark trespass through your bodies, as the aspect of a dangerously beautiful woman with dark and deadly eyes walks straight through you, a smirk on her ghostly smile. She walks straight through the closed door and disappears, while the skeleton clerk goes back to his duties."
+													]
+												},
+												"If the heroes attempt to physically interact with the skeleton it falls limp and crumbles to ash. It ignores them completely otherwise."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "23. The General's Waiting Room",
+											"entries": [
+												"A long bench stretches the northern wall of this extended waiting room. On the southern wall, two large oak doors stand closed. A tree is carved upon the door with leaves carved at the end of each branch, saying the names of each general that had served and lived within the manor, including their years of servitude. The Generals names appear from the earliest at the top to those later further down. The last name on the tree says \"General Oscar Montarthas\"; there are no more.",
+												"Read or paraphrase the following:",
+												{
+													"type": "inset",
+													"entries": [
+														"As you look around the room, it appears empty at first, but within the blink of an eye, a small pretty girl, no more than 5 or 6, is suddenly sitting on the long bench that stretches the northern wall. She seems to be waiting patiently. The dark and deadly looking woman appears in the room, smiles at the child, and offers her a children's doll. The girl smiles with joy as the woman evaporates. The child's smile turns to pain and anguish as blood soaked stab wounds begin to appear on her silky white dress. She falls limp and tumbles to the floor before disappearing. You notice that the doll is left lying on the bench, a knife in its hand and a grin on its face."
+													]
+												},
+												{
+													"type": "list",
+													"entries": [
+														"If the heroes have not yet defeated the evil doll in a final confrontation during exploration of the manor thus far, have the doll attack the heroes; it fights until it has only 5 Hit Points remaining, and then use its Shadow Blend feature to escape once more.",
+														"If the doll has been defeated earlier in the adventure, the doll that has been left in this room is just an apparition and disappears if the heroes physically interact with it."
+													]
+												},
+												"{@b The door}, although unlocked, appears to be stuck from the other side. A successful {@b {@dc 13} Strength ({@skill Athletics})} check opens the door. Upon opening, the heroes notice a large, heavy, chest has been strategically placed to prevent the door from opening.",
+												"{@b Treasure}: The chest contains small iron bars, 12 in total, worth 1gp a piece.",
+												{
+													"type": "image",
+													"href": {
+														"type": "external",
+														"url": "https://gitlab.com/dd_5e_homebrew/pbp_ht/-/raw/6d739f2da183aa9f5e9fd669f211a0887c3c839b/1/images/Inline%20Art%20007.png"
+													}
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "24. A General's Broken Heart",
+											"entries": [
+												"As the heroes open the door, have them each roll a {@b {@dc 17} Strength} Saving Throw to resist being pulled involuntary into the dark room beyond, the doors slamming behind them.",
+												"{@b Note:} If, by some miracle, they all pass the saving throw, then only the lowest roll is pulled into the room.",
+												"As the fight erupts within the room, those who resisted the 'pull' have to contend with bashing down the door (AC 13, 40 Hit Points) to save their comrade, while their comrade proceeds to get butchered. This happens slowly, of course, to allow the others a chance to enter the fight.",
+												"Once the doors slam, read or paraphrase the following:",
+												"As soon as you hear the doors slam shut from behind, a great gust of wind blasts the room around you; sending dust, paper and curtains flying around the room. Piles of rotting corpses litter the creaky wooden floor.",
+												"Then you see him, on the ceiling, a shell of a man, shriveled, tortured and used. His body and arms semi moulded into the blackened muck that replicates a ceiling. Slimy black vines creep through his flesh pinning him to the ceiling, as the ends of the vines expand into drooling suckers that feed from his life force.",
+												"A glow of green hue emanates from his chest where a green emerald spews out evil energies into the mansion distributing the feed to all areas of the living building. The most potent looking of these green energies flows directly into a lifeless body slumped with its head flung back over a wooden chair.",
+												"Once the heroes move to investigate further, or attempt to leave the room, read or paraphrase the following:",
+												{
+													"type": "inset",
+													"entries": [
+														"The body snaps its head back from over the chair and back into position. You recognise her from the apparitions of the manor. It is the dark advisor Gertrude. She grins wide and evil, then cackles a haunting laugh as her features grow long and haggard. Her skin turns midnight blue and her pupils turn the red of the 9 hells. She attacks!"
+													]
+												},
+												"This is Gertrude, she is an ancient {@creature Night Hag}, and has been feeding off the necrotic energies for a millennia.",
+												{
+													"type": "entries",
+													"name": "Tactics",
+													"entries": [
+														"{@b Round 1:} Gertrude casts create undead to create 3 ghouls from the littered corpses around the room. She commands them to attack the closest hero.",
+														"{@b Round 2:} She casts magic missile targeting 3 different heroes if possible.",
+														"{@b Round 3:} Gertrude then casts create undead again to create 3 more ghouls and commands them to attack the closest hero.",
+														"{@b Bonus action:} She pull green necrotic energy from her victim on the ceiling and regain 3d6 Hit Points.",
+														"{@b Round 5:} Gertrude casts ray of enfeeblement on the largest and strongest looking hero.",
+														"{@b Round 6 and onward:} She attacks to kill remaining conscious heroes, as per DM's discretion.",
+														"{@b Note:} Gertrude has 1 more bonus action charge of necrotic HP regain (3d6) from her victim on the ceiling."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Development",
+													"entries": [
+														"If Gertrude is defeated, she shrivels and dies, turning into a pool of black ooze. Her shriveled victim is still attached to the ceiling; however after a moment the black vines wither away and die. As the vines die; they release the man with the emerald embedded in his chest, and he falls heavily to the floor.",
+														"Read or paraphrase the following:",
+														{
+															"type":"inset",
+															"entries": [
+																"As the vines release the victim on the roof, he falls heavily to the floor, landing on his back with an 'oof'. He breathes shallowly and as you look over him he smiles at your, and whispers 'thank you' before breathing his last breath and finally disintegrating into a pile of ash. The emerald is the only thing remaining, and it shines brightly with arcane energy."
+															]
+														},
+														"A successful {@b {@dc 13} Intelligence ({@skill Arcana})} check shows that the energy emanating from the emerald is necrotic energy. Identifying this relic reveals the emerald's power and details.",
+														"Once the heroes have finished with this room, or if they linger too long, read or paraphrase the following:",
+														{
+															"type": "inset",
+															"entries": [
+																"You all suddenly feel the room rumble, as dust falls through the cracks and holes in the ceiling. Then, suddenly, the entire manor begins to shake, as the walls start to decay and erode.",
+																"The manor, it seems, is caving in on itself, and will likely be nothing but a pile of rubble before long."
+															]
+														},
+														"The heroes need to leave immediately. The building starts to fall in on them on the following events:",
+														{
+															"type": "list",
+															"entries": [
+																"If the heroes linger for too long in the room.",
+																"After moving through three areas/rooms of the manor "
+															]
+														},
+														"{@b Loot:} The heroes find the Leacher's Emerald, Gertrude's heartstone, and her soul bag (containing 1 evil soul).",
+														"{@b When the building starts to fall:} For every 15 ft. that the heroes move (or if they linger in one spot), each hero must succeed a DC 13 Dexterity Saving Throw to dodge the falling debris, on failure they take 1d10 bludgeoning damage.",
+														"{@b After 8 Saving throws:} Montarthas Manor falls into dust and rubble. Any hero still inside the manor takes 1d100+10 bludgeoning damage."
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Chapter 3: Epilogue",
+							"entries": [
+								"As the heroes escape the manor it falls in a heap of rubble. Depending on how this adventure ends, and the fate of the evil doll, read or paraphrase one of the following epilogues:",
+								{
+									"type": "entries",
+									"name": "If the evil doll survives",
+									"entries": [
+										"If the evil doll survives, read or paraphrase the following:",
+										{
+											"type": "inset",
+											"entries": [
+												"You manage to escape the falling manor, which has been the epitome of true evil. The night hag, Gertrude, has been defeated and the undead have been laid to rest.",
+												"You know not who the hag's victim was, however, but they did leave you the emerald in their departure.",
+												"Now, standing before you, are the piles of rubble and decayed remains of the manor; finally resting in peace.",
+												"The night begins to grow old as the first hints of dawn start to creep over the horizon. It is then, amongst the woods that surround the manor; you all notice a pair of glowing crystal blue eyes.",
+												"A horrifying girlish giggle carries over the, now, still night air, and the eyes fade into blackness."
+											]
+										},
+										"This ending has been left open on purpose. This gives you, the DM, a possible reoccurring villain in the Evil Doll. She could simply disappear, leaving the party paranoid as they leave the area, expecting her to ambush them night after night. Or the doll could follow the party and randomly haunt them for the rest of their journey, only to engage them later down the track in another epic climatic battle."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "If the evil doll was defeated",
+									"entries": [
+										"If the evil doll was defeated, read or paraphrase the following:",
+										{
+											"type": "inset",
+											"entries": [
+												"You manage to escape the falling manor, which has been the epitome of true evil. The night hag, Gertrude, has been defeated, the horrifying evil doll was removed from this world, and the undead have been laid to rest.",
+												"You know not who the hag's victim was, however, but they did leave you the emerald in their departure.",
+												"Now, standing before you, are the piles of rubble and decayed remains of the manor; finally resting in peace.",
+												"The night begins to grow old as the first hints of dawn start to creep over the horizon. Today is going to be a good day, well a better day, you hope."
+											]
+										},
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://gitlab.com/dd_5e_homebrew/pbp_ht/-/raw/6d739f2da183aa9f5e9fd669f211a0887c3c839b/1/images/Inline%20Art%20009.png"
+											}
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Appendix A: Dungeon Master's Maps"
+						},
+						{
+							"type": "section",
+							"name": "Appendix B: Player's Maps"
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "The Haunt 2",
+					"entries": [
+						{
+							"type": "image",
+							"href": {
+								"type": "external",
+								"url": "https://gitlab.com/dd_5e_homebrew/pbp_ht/-/raw/master/2/images/image-012.png"
+							}
+						},
+						{
+							"type": "section",
+							"name": "Credits",
+							"entries": [
+								""
+							]
+						},
+						{
+							"type": "section",
+							"name": "Chapter 1: Introduction",
+							"entries": [
+								""
+							]
+						},
+						{
+							"type": "section",
+							"name": "Chapter 2: St. Greycastle's Hospital",
+							"entries": [
+								""
+							]
+						},
+						{
+							"type": "section",
+							"name": "Chapter 3: Not So Fast",
+							"entries": [
+								""
+							]
+						},
+						{
+							"type": "section",
+							"name": "Appendix",
+							"entries": [
+								""
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "The Haunt 3",
+					"entries" : [
+
+					]
+				}
+			]
+		}
+	],
+	"monster": [
+		{
+			"name": "Evil Doll",
+			"source": "pbp_ht",
+			"page": 0,
+			"size": [
+				"T"
+			],
+			"type": "construct",
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				14
+			],
+			"hp": {
+				"average": 119,
+				"formula": "14d10 + 42"
+			},
+			"speed": {
+				"walk": 20
+			},
+			"str": 7,
+			"dex": 18,
+			"con": 17,
+			"int": 8,
+			"wis": 10,
+			"cha": 16,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				{
+					"resist": [
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical weapons",
+					"cond": true
+				}
+			],
+			"immune": [
+				"poison"
+			],
+			"vulnerable": [
+				"fire"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"paralyzed",
+				"poisoned",
+				"unconscious"
+			],
+			"languages": [
+				"Common"
+			],
+			"cr": "4",
+			"trait": [
+				{
+					"name": "False Appearance",
+					"entries": [
+						"While the evil doll remains motionless, it is indistinguishable from an ordinary, inanimate children's doll."
+					]
+				},
+				{
+					"name": "Frightening Lullaby",
+					"entries": [
+						"Once per day, the evil doll can use a bonus action to sing a creepy children's lullaby. All creatures within a 30 ft. radius, that can hear it, must succeed a {@dc 15} Wisdom saving throw.  On a failed saving throw the creature becomes {@condition frightened} and must succeed on another {@dc 15} Wisdom saving throw to break the enchantment at the end of their next turn. On a second failed save, the creature then becomes {@condition paralyzed}, and can attempt a {@dc 15} Wisdom saving throw on each turn.  Once it has succeeded a saving throw, the creature is no longer {@condition paralyzed}"
+					]
+				},
+				{
+					"name": "Shadow Blend {@recharge 5}",
+					"entries": [
+						"As a bonus action, the evil doll can disappear to the evil places that lurk in the shadows. Use this feature as an escape mechanism."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The evil doll makes two attacks: one with its knife and one with its claw."
+					]
+				},
+				{
+					"name": "Claw",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5ft., one target. Hit 7 ({@damage 1d6 + 4}) slashing damage."
+					]
+				},
+				{
+					"name": "Knife",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5ft., one target. Hit 11 ({@damage 2d6 + 4}) piercing damage."
+					]
+				}
+			],
+			"traitTags": [
+				"False Appearance"
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"C"
+			],
+			"damageTags": [
+				"P",
+				"S"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"conditionInflict": [
+				"frightened"
+			]
+		}
+	],
+	"item": [
+		{
+			"name": "The Leacher's Emerald",
+			"source": "php_ht",
+			"page": 0,
+			"rarity": "rare",
+			"reqAttune": true,
+			"wondrous": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Cost:",
+					"entries": [
+						"500-5000 gp",
+						"This green emerald is an ancient relic imbued with necrotic energies by an evil necromancer long ago.",
+						"Its master and wielder, once attuned, can attempt to magically implant the emerald into the chest of any living creature. The creature must successfully win a Grappling (PHB, pg. 195) contest to be able to resist the attempt.",
+						"As a bonus action the emerald's master can use it to transfer {@dice 3d6} Hit Points from the victim to them-self if it is within 60 ft. The emerald has two charges per day and regains all of its charges at dawn.",
+						"The gem exerts no control over the victim otherwise, but the master of the emerald knows it's direction and distance at all times. If the emerald crosses into another plane, the owner knows which one."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Extraction",
+					"entries": [
+						"A skilled physician can remove the gem on a successful DC 17 Intelligence ({@skill Medicine}) check, but the patient suffers {@damage 4d10} piercing damage on every attempt. A greater restoration spell can be used to eject the gem.",
+						"The emerald radiates evil, and should its 'master' ever use it for it's intended purpose, their alignment permanently shifts a step closer to evil."
+					]
+				}
+			]
+		}
+	]
+}
