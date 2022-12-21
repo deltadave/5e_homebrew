@@ -1,0 +1,357 @@
+{
+	"$schema": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_schema-fast/homebrew.json",
+	"_meta": {
+		"sources": [
+			{
+				"json": "gp_anpcg",
+				"abbreviation": "gp_anpcg",
+				"full": "Grim Press Adaptable NPCs of the Guild",
+				"authors": [
+					"Grim Press"
+				],
+				"convertedBy": [
+					"deltadave"
+				],
+				"version": "1.0.0",
+				"color": "ffffff",
+				"url": "https://github.com/deltadave/5e_homebrew/",
+				"dateReleased": "2023-02-01"
+			}
+		],
+		"status": "wip",
+		"dateAdded": 1671579707,
+		"dateLastModified": 1671579711
+	},
+	"adventure": [
+		{
+			"name": "Grim Press Adaptable NPCs of the Guild",
+			"id": "gp_anpcg",
+			"source": "gp_anpcg",
+			"group": "other",
+			"level": {
+				"start": 1,
+				"end": 16
+			},
+			"published": "2023-02-01",
+			"coverUrl": "",
+			"contents": [
+				{
+					"name" : "Adaptable Non-Player Characters of the Guild",
+					"headers" : [
+						"Adaptable Non-Player Characters",
+						"Pathway to Adventure"
+					]
+				}
+			]
+		}
+	],
+	"adventureData": [
+		{
+			"id": "gp_anpcg",
+			"source": "gp_anpcg",
+			"data": [
+				{
+					"type": "section",
+					"name": "Adaptable NPCs of the Guild",
+					"page": 2,
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Credits",
+							"page": 2,
+							"entries": [
+								"{@bold Publisher}: DMs Guild",
+								"{@b Project Oversight}: Grim Press",
+								"{@b Designers}: Anthony Alipio, Trevor Armstrong, R.P. Davis, Jeffrey Fischer, Aaron Gentry, E.R.F. Jordan, Darren Kenny, J.B. Little, Steve Pankotai, John Parker, Cody Rakai, Devon Rule, Rachel Savicki, Walter Srebalus, Sven Truckenbrodt, Wyatt Trull, J.A. Valeur, Lydia Van Hoy, Matthew Whitby",
+								"{@b Editors}: Trevor Armstrong, Aaron Gentry",
+								"{@b Artists}: Tomasz Chistowski, Bob Greyvenstein",
+								"{@b Cartography}: Eventyr Games, Tehox Maps",
+								"{@b Layout}: Trevor Armstrong"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "About this Product",
+							"page": 2,
+							"entries": [
+								"Amazing things happen when talented minds are brought together for a common goal, Adaptable NPCs of the Guild is proof of this! Following in the footsteps of the best selling #AdaptableNPCs line of products produced by the Grim Press, ANPCs of the Guild has surpassed all of our expectations. Tomasz Chistowski's art has been brought to life by over eighteen amazing authors from the DMs Guild, providing unique non-player characters to populate the world of Faerûn!",
+								"Contained within this book are 63 unique non-player characters that can serve any number of roles in your player's adventures. Much like the others in its namesake, the ultimate goal of this supplement is to present a repertoire of quest givers and companions that can accompany players on their adventures; being diverse enough to add immersion without introducing unwanted complexity.",
+								"Additionally, an engaging Pathway to Adventure called Hero's Quest has been included, written by the talented J.A. Valeur. This quest, designed for four to six characters of 2nd level, uses many of the Adaptable NPCs in this book and can be played upon detailed maps (both DM & Player versions) created specifically for this adventure! Also, the Hero's Quest is fully scalable for higher level play and includes custom quest hooks to drop this adventure into popular WotC campaigns such as Lost Mine of Phandelver, Waterdeep: Dragon Heist, Storm King's Thunder, and Baldur's Gate: Decent into Avernus."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Referenced Works",
+							"page": 0,
+							"entries": [
+								"D&D 5e Dungeon Master's Guide, 2014",
+								"D&D 5e Monster Manual, 2014",
+								"D&D 5e Volo's Guide to Monsters, 2016",
+								"D&D 5e Mordenkainen’s Tome of Foes, 2018"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "On the Cover",
+							"page": 2,
+							"entries": [
+								"Tomasz illustrates the manipulative red witch, attempting to beguile a host of players with tales prophesying riches and grander beyond their wildest imaginations."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Grim Press",
+							"page": 2,
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": ""
+									},
+									"title": "Grim Press"
+								},
+								"DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eberron, the dragon ampersand, Ravnica and all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries.",
+								"This work contains material that is copyright Wizards of the Coast and/or other authors. Such material is used with permission under the Community Content Agreement for Dungeon Masters Guild.",
+								"All other original material in this work is copyright 2020 by the Grim Press and published under the Community Content Agreement for Dungeon Masters Guild"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Adaptable Non-Player Characters",
+							"page": 3,
+							"entries": [
+								"Do your players seek the training of a seasoned armsmaster? Maybe they've been tasked with the need to seek out a retired Red Wizard of Thay to divulge information on one of the many secretive factions across Faerûn! Whatever the quest, the NPCs found within this supplement can serve many roles. With their mixed motivations and alignments, you can be certain that more than a few will be suitable for inclusion as plot drivers in any type of campaign a DM is planning to run. These NPCs can be used as traditional non-player characters by the dungeon masters or controlled by your players as mercenaries for hire. Alternatively, DMs may wish to run these NPCs as adventuring companions, accompanying your players for a short time.",
+								{
+									"type": "entries",
+									"name": "Adaptable NPCs by Challenge Rating",
+									"page": 3,
+									"entries": [
+										"CR 1/2",
+										"The [Dauntless Neophyte]",
+										"CR 1",
+										"The [Aspiring Mercenary]",
+										"The [Bulwark Tinker]",
+										"The [Hedge Wizard]",
+										"CR 2",
+										"The [Dark Druid]",
+										"The [Dauntless Veteran]",
+										"The [Draconic Renegade]",
+										"The [Fire of Anger]",
+										"The [Moonlit Shadow]",
+										"The [Teeth Collector]",
+										"CR 3",
+										"The [Cult Martyr]",
+										"The [Dead Man Walking]",
+										"The [Sewer Druid]",
+										"The [Sunwitch]",
+										"The [Wildwood Virago]",
+										"The [Woodland Outrider]",
+										"CR 4",
+										"The [Armsmaster]",
+										"The [Bee Keeper]",
+										"The [Chromaturgist]",
+										"The [Marked Hunter]",
+										"The [Martinet]",
+										"The [Tile Shark]",
+										"The [Wayfarer]",
+										"CR 5",
+										"The [Abandoned Knight]",
+										"The [Azure Artisan]",
+										"The [Dauntless Champion]",
+										"The [Defender of Justice]",
+										"The [Elk Spiritrager]",
+										"The [Infernal Warrior]",
+										"The [Shield Sentinel]",
+										"The [Stormzerker]",
+										"The [Wildwood Zealot]",
+										"The [Witchtaker]",
+										"CR 6",
+										"The [Flameblade Magus]",
+										"The [Ironstring Bard]",
+										"The [Man-at-arms]",
+										"The [Pyromancer]",
+										"The [Rebel Knight]",
+										"The [Red Witch]",
+										"The [Troll Mystic]",
+										"CR 7",
+										"The [Blind Auspex]",
+										"The [Bound Wraith]",
+										"The [Court Mage]",
+										"The [Half-Dragon Revenant]",
+										"The [Sylvan Defender]",
+										"CR 8",
+										"The [Autumn Shepherd]",
+										"The [Bladesinger]",
+										"The [Glacius Knight]",
+										"CR 9",
+										"The [Flamecaller]",
+										"The [Retired Red Wizard]",
+										"The [Rune Weaver]",
+										"The [Shadow Mage]",
+										"CR 10",
+										"The [Avenging Angel]",
+										"The [Fallen Angel]",
+										"The [Stasis Dragon]",
+										"CR 11",
+										"The [Agarion]",
+										"The [Chosen of Tiamat]",
+										"CR12",
+										"The [Champion of Mielikki]",
+										"CR 13",
+										"The [Dread Wyrm]",
+										"The [Worldly Riftcaller]",
+										"CR 14",
+										"The [Purifier]",
+										"CR 15",
+										"The [Haunted]",
+										"CR 16",
+										"The [Baelnorn Lich]"
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Abandoned Knight",
+							"page": 4,
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": ""
+									}
+								},
+								"Sitting near a shoddily made campfire, jilted thoughts of former friends weigh heavily on the abandoned knight's mind.",
+								"Having been discarded seemingly on a whim by those considered allies or as part of a calculated plan by former associates, the reason matters little. The abandoned knight contemplates the apparently unanswerable question and becomes obsessed with reason they were betrayed.",
+								"Slow to Trust. Having been tossed aside like a rusty broken sword, no longer of any use, abandoned knights understandably have strong feelings of distrust towards anyone who might reach out to them for companionship.",
+								"Enlightened or Enraged. The quest to confront their former allies typically culminates at a point where the abandoned knight must make a choice. Will they become consumed by anger and lash out at those who left them behind? Or maybe their time alone has allowed them to reflect, realizing that everything happens for a reason even though it was not have been immediately evident. Perhaps the path chosen will be influenced by the strangers encountered during the abandoned knight's time of sorrow...",
+								"[Abandoned Knight]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Pathway to Adventure",
+							"page": 93,
+							"entries": [
+								""
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"monster": [
+		{
+			"name": "Abandoned Knight",
+			"source": "gp_anpcg",
+			"page": 3,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"any"
+				]
+			},
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				{
+					"ac": 18,
+					"from": [
+						"{@item plate armor|PHB|plate}"
+					]
+				}
+			],
+			"hp": {
+				"average": 110,
+				"formula": "17d8 + 34"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 17,
+			"dex": 9,
+			"con": 14,
+			"int": 11,
+			"wis": 13,
+			"cha": 7,
+			"skill": {
+				"athletics": "+6",
+				"survival": "+4"
+			},
+			"passive": 11,
+			"languages": [
+				"any one language (usually Common)"
+			],
+			"cr": "5",
+			"trait": [
+				{
+					"name": "Action Surge (Recharges After a Short or Long Rest)",
+					"entries": [
+						"After taking an action on its turn, the abandoned knight can take one additional action."
+					]
+				},
+				{
+					"name": "Obtuse",
+					"entries": [
+						"The abandoned knight makes Wisdom (Insight) checks with disadvantage."
+					]
+				},
+				{
+					"name": "Survivor",
+					"entries": [
+						"The abandoned knight regains 10 hit points at the start of its turn if it has at least 1 hit point but fewer hit points than half its hit point maximum."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The abandoned knight makes two melee attacks."
+					]
+				},
+				{
+					"name": "Greatsword",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) slashing damage."
+					]
+				},
+				{
+					"name": "Dagger",
+					"entries": [
+						"{@atk mw,rw} {@hit 6} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}5 ({@damage 1d4 + 3}) piercing damage."
+					]
+				}
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"C",
+				"X"
+			],
+			"damageTags": [
+				"P",
+				"S"
+			],
+			"miscTags": [
+				"MW",
+				"RW",
+				"THW"
+			]
+		}
+	],
+	"item": [
+
+	],
+	"table": {
+
+	}
+}
