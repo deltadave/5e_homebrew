@@ -248,6 +248,251 @@
 						},
 						{
 							"type": "entries",
+							"name": "The Armsmaster",
+							"page": 0,
+							"entries": [
+								"Adventurers, militia, and soldiers alike all require training in the art of melee combat. The armsmaster is one who, through rigorous training and battle-hardened experience, has risen through the ranks and is now responsible for ensuring the passing of martial knowledge to those entrusted to protect the citizens of the realm.",
+								"The armaster has seen more than their fair share of combat, and now most if not all their former companions have passed on. The armsmaster has no patience for those who view war and combat as glorious and will swiftly rebuke those who view war for any less than it is: hell. Their demeanour is gruff and impatient, speaking in barking tones that only the foolish would not heed. But those who listen to the armsmaster may find their skill in battle allows them to breathe for yet another day.",
+								"{@b Skilled Combatant}. The armsmaster has honed their abilities through disciplined and regimented training, practicing the same strikes and guards until they are second nature. This makes the armsmaster a skilled combatant, one difficult to overcome by simple strength or arms.",
+								"{@b Master Tactician}. In the heat of combat and in the absence of a skilled commander, the armsmaster serves as leader to those around them. The calming presence bolters nearby allies and lends strength to their arms.",
+								"{@b Weapons Training}. The armsmaster, having spent countless years mastering use of different weapons, is capable of bestowing even the most inept of adventurers with a fraction of his ability. Through an intensive training regime combined with repetitive exercises and drills, the armsmaster may train a willing and able student in the use of a fighting style of their choice. The services of an armsmaster come at a premium price, however, and their training program requires a significant time commitment.",
+								"{@b Optional Training: Fighting Styles}",
+								"The armsmaster can be introduced into a long running campaign as a means to allow characters to train a particular fighting style, detailed in the table below. The training is meant to occur during Downtime Activities (DMG pg.127), with the fighting styles themselves outlined in the Player's Handbook (PHB pg.72).",
+								"[Armsmaster]",
+								{
+									"type": "table",
+									"caption": "Armsmaster Fighting Style Training Table",
+									"colLabels": [
+										"Fighting Style",
+										"Training Time",
+										"Cost"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-2 text-center",
+										"col-2 text-center"
+									],
+									"rows": [
+										[
+											"Archery",
+											"10 x 3d6 days",
+											"10 x 2d10 gp"
+										],
+										[
+											"Defense",
+											"10 x 1d6 days",
+											"10 x 5d10 gp"
+										],
+										[
+											"Dueling",
+											"10 x 3d6 days",
+											"10 x 2d10 gp"
+										],
+										[
+											"Great Weapon Fighting",
+											"10 x 2d6 days",
+											"10 x 3d10 gp"
+										],
+										[
+											"Protection",
+											"10 x 2d6 days",
+											"10 x 3d10 gp"
+										],
+										[
+											"Two-Weapon Fighting",
+											"10 x 4d6 days",
+											"10 x 1d10 gp"
+										]
+									]
+								},
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500066/hV-rHJq9P7_wA0VvfGSNHw/max.jpg?1671603265"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Aspiring Mercenary",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319501716/yTTWjWBP65ExnKUFAgk8sQ/max.jpg?1671604763"
+									}
+								},
+								"Large cities are often filled with aspiring mercenaries, hoping to find mentors or take on low level contracts. The contracts that they do get are often close to meaningless; they rarely do more than settle petty squabbles or collect money for low level thugs. Aspiring mercenaries may be hired by adventurers as bodyguards or hired to follow them and thwart their plans. Due to the competitive nature of their work, aspiring mercenaries rarely work together or form alliances – the world of contract work is every person for themselves.",
+								"Most aspiring mercenaries are eager to learn and gain a leg up on their competition, though few possess many valuable skills upon starting out. They may know their way around a sword, but their tactical knowledge leaves a little to be desired. With enough training, however, they can become skilled spies or assassins.",
+								"{@b Lone Wolf}. While aspiring mercenaries rarely form pacts with each other, it is not uncommon for them to take on work offered by a party of adventurers. Often this work includes following them on their journeys, serving as extra muscle, or an extra pair of eyes. Most aspiring mercenaries are not likely to turn against those providing them with gold and work experience, as they are in need any references they can get, but as with any line of work there are always a few bad apples.",
+								"{@b Roguish Skills}. Aspiring mercenaries tend to focus their training on things like stealth and persuasion, which allow them to better hunt their mark and barter for higher wages.",
+								"Even those newest to the occupation often know their way around tricky conversations and dark shadows.",
+								"{@b Mercenary Variants}",
+								"Those of any heritage may aspire to become a mercenary for hire. While the statblock provided is for a tiefling, you may change the Innate Spellcasting section of the statblock to better represent any of the races found in the 5th Edition D&D ruleset. Some recommendations are included below:",
+								"{@b Aasimar}",
+								"At will: light",
+								"1/day each: bless, cure wounds",
+								"{@b Dragonborn}",
+								"At will: guidance",
+								"1/day each: command, dragon's breath",
+								"{@b Dwarf}",
+								"At will: resistance",
+								"1/day each: enhance ability, thunderwave",
+								"{@b Elf}",
+								"At will: dancing lights",
+								"1/day each: calm emotions, charm person",
+								"{@b Gnome}",
+								"At will: mending",
+								"1/day each: comprehend languages, find traps",
+								"[Aspiring Mercenary]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Autumn Shepherd",
+							"entries": [
+								"Autumn is a time of transition between the lively growth of summer and the freezing decay of the coming winter. While many people take this time to celebrate the success of a fruitful harvest and to enjoy the company of neighbors before the isolating frosts set in, autumn shepherds thrive in the transition itself, finding power in the balance of nature. They find faith in the transitory nature of all things, rather than in any specific deity, and in doing so can learn to wield powers similar to the most devoted of clerics without ever dedicating themselves to a higher power. Believing it is their duty to draw upon these talents to shepherd others through transitions in life, they are as much at home by a death bed as is in a birthing room, though often welcome in neither.",
+								"The autumn shepherd is illusive. Having made peace with both life and death as mere inevitabilities, they rarely feel the need for companionship, preferring instead to connect to the wilderness and its ever-changing seasons. Some rumor that their mastery over the flow of time allows them to move from one autumn to the next without so much as existing during the seasons in between.",
+								"When they do have reason to interact with others, autumn shepherds prove to be unnervingly insightful. Their solitude and connections to both life and death make them eccentric.",
+								"At the same time, an increased lifespan has given them substantial insight into how other people think. The combined effect is that they are capable of making themselves unnervingly terrifying or incredibly comforting to complete strangers with only a few words.",
+								"{@b Unwelcome Presence}. Having made peace with death, the autumn shepherd has no qualms about hastening the demise of those who they believe cannot or should not be saved. This tendency makes them unwelcome in most settlements despite their incredible healing abilities, and it is not uncommon for locals to place a bounty on an autumn shepherd's head should they discover one resides in their area. Further complicating the situation, the autumn shepherd's insight into people's nature gives her uncanny ability to sway crowds, making her presence in populated areas a potential threat to those in power, most of whom are more than happy to vilify them for their association with death. As a result, the autumn shepherd generally avoids other people, choosing instead to live as a hermit in places where nature mirrors the transitional state to which they have devoted themself.",
+								"{@b Living in Flux}. The autumn shepherd's most impressive abilities derive from their connection to the very essence of transition. Through incredible training and focus, they have learned not only to make peace with the transitional state of life, but also to bend that transition to their will. If they desire, an autumn shepherd can cause a person's age to advance or regress significantly. Through this talent they are also capable of extending their own life substantially, and some rumor that they can live indefinitely unless violently killed.",
+								"Their ability to bestow youth is perhaps the primary reason people choose to seek them out. However, such quests are risky undertakings. There are few autumn shepherds deems worthy of additional years, and many hapless adventurers have believed themselves about to receive such a boon only to find themselves further aged by the autumn shepherd's magic instead.",
+								"[Autumn Shepherd]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500072/kDHBug0GlpJ-aFkc7uDVdg/max.jpg?1671603265"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Avenging Angel",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500068/c2g0ztQJqHEQZjVTO-tFaA/max.jpg?1671603265"
+									}
+								},
+								"Celestials are not immune to the tendencies of their humanoid counterparts toward hero worship. Indeed, the gods rely on this trait, with themselves as the object of that worship. However, when they are supplanted by a lesser being, they are less accepting of this behavior. Among celestials, these, usually young, hero worshipers are most commonly known as avenging angels, reflecting their tendency toward revering one among their kind who has been wronged for being right.",
+								"In the case of the avenging angel, the object of that worship has changed over the millennia, but since at least 1354 DR it has been, without exception, Zariel – their common name thus shortened to Zariel avenger.",
+								"As with their predecessors, Zariel avengers have adopted a romanticized version of Zariel in their words, deeds, and persona. They express their disdain for the celestials who shrink back, while they press the battle against evil forward to where it dwells. While it is unlikely that one would go so far as self-mutilation, it is not uncommon for one to prosthetically adorn their left arm with a vicious weapon. It is rare, but one might shave their head. There are limits to the degree they will go, though, celestials have fantastic hair.",
+								"{@b Not so Good}. In the hubris of their relative youth and immortality, they frequently exceed the limits of their wisdom and succumb to temptation and pride. Thus, veiled in the fog of war, Zariel avengers often struggle with their own degree of fallenness, ranging from simple verbal defiance to formalizing evil contracts similar to Zariel’s.",
+								"{@b Frontline Fighters}. Zariel avengers gravitate to the frontlines in the battle against evil, where devils court humanoids and where demons erupt from the abyss.",
+								"However, given their skill for invisibility and knack for appearing humanoid, they are not easily detected. In recent years, Baldur’s Gate has attracted a large number of attractive foreigners who ask a lot of questions and a greater number of treasure-seekers and adventurers who were last seen in one’s company.",
+								"[Avenging Angel]"
+
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Azure Artisan",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319501723/2c4VShSl5amrKoaGDn-UVg/max.png?1671604763"
+									}
+								},
+								"Azure Artisans are eerie humanoids figures with blight blue markings and dwell on the Ethereal Plane.",
+								"{@b Creation's Craftsmen}. When Ptah, Creator of the Universe, was summoned by Lord Ao to request that deities of the multiverse create powerful avatars in their likeness to populate Toril, the Opener of the Ways assisted those who agreed to make the sacrifice and the journey. This assistance came in the form of spawning a new breed of creature to serve a singular purpose; the task of working alongside these deities to ensure their avatars were accurate representations.",
+								"{@b Branded for Travel}. Azure artisans are embroidered with a magical blue ink, forming tattoos that granted the ability to travel between planes at will.",
+								"{@b Dull Immortality}. When their purpose had been fulfilled, Ptah departed and the azure artisans were left with little direction. Knowing that their creator often wandered the Ethereal Plane, azure artisans spent many a millennia searching for their maker in this barren purgatory. Now derelict beings, they unknowingly began to absorb the ethereal essence of ghosts, allowing their lives to become incessant.",
+								"{@b Finding Purpose}. Their inherent nature to create has guided these artisans use their magical ability to phase in and out of the Ethereal Plane. They now spend their time searching the bordering planes for rare minerals and gemstones; bringing them back to the Ethereal Plane with the purpose of crafting wonderous creations. In particular, these artisans have a fondness for azurite, assuming its coloring is somehow related to the tattoos that brand their bodies.",
+								"[Azure Artisan]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Baelnorn Lich",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319806409/RTdD3UF8N73__Ipm_XuTag/max.jpg?1671828194"
+									}
+								},
+								"Sometimes simply called baelnorns, these extremely rare undead beings are elves who chose a path of prime duty to serve beyond death. Unswervingly protecting their clan and its holdings for centuries, the majority of baelnorn were spellcasters in life, and they maintained their mental and magical abilities in their new undead state.",
+								"Ritualistic Creation. The method of becoming a baelnorn is wrapped in a high magic ritual. Very few felt the need to store their souls in a phylactery, as their undeath was gifted to them by the Seldarine. These baelnorn used soulless clones of themselves to avoid destruction, and their souls wander to an unharmed mortal shell should they be harmed.",
+								"Singular Purpose. The choice to embrace undeath was not undertaken lightly. Allowed only in the rarest of occasions, such as a clan or settlement having need of lorekeepers beyond the norm. Even if an elf truly wanted to become a baelnorn for their clan's benefit, the Coronal, the High Mages, and the elders of the particular clan had to be in solitary to allow this sacrifice.",
+								"Experiences of the Past. Unlike many other forms of undead creatures, a baelnorn retaines all of the memories, personality, and abilities that it possessed in life — but now has a virtual eternity to hone its skills, inevitably becoming immensely powerful.",
+								"Holy Undead. Baelnorn are considered holy beings by despite their undeath. While deities tasked with overseeing the eternal cycle of existence view the creation of undead beings as blights upon Faerûn, a baelnorn's quest to preserve elven heritage against evil is considered a noble purpose beyond judgement.",
+								"Undead Nature. A baelnorn lich doesn't require air, food, drink, or sleep.",
+								"A Baelnorn's Lair",
+								"Baelnorns reside in ancient ruins, dusty libraries, magic academies, or holy temples. They are tasked with safeguarding the sacred treasures belonging to their elvish clan. A baelnorn lich encountered in its lair can draw upon its power to take lair actions and has a challenge rating of 18 (20,000 XP).",
+								"Lair Actions",
+								"On initiative count 20 (losing initiative ties), the baelnorn can take a lair action to cause one of the following magical effects; the baelnorn can't use the same effect two rounds in a row:",
+								"The baelnorn rolls a d6 and regains a spell slot of that level or lower. If it has no spent spell slots of that level or lower, nothing happens.",
+								"The baelnorn telepathically influences up to 8 creatures of its choice that it can see within 120 feet. Each target must make a DC 18 Wisdom saving throw. On a failed save, the target must use an action on its next turn to complete a simple task described by the baelnorn to the best of its ability. Creatures that can't be charmed are immune to this effect.",
+								"The baelnorn utters an ancient elven phrase. Each creature of its choosing that can hear the baelnorn (though it does not need understand it) must succeed on a DC 18 Wisdom saving throw or vanish from its current plane of existence and appear in the Ethereal Plane. The creature remains on this plane until the end of its next turn, at which point it returns to an unoccupied space of the baelnorn's choosing that it can see within 10 feet of the space that the creature vanished from.",
+								"[Baelnorn Lich]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319711930/0Jgs7Znz54fQKnzmr2JbUQ/max.png?1671753510"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Bee Keeper",
+							"entries": [
+								"The forests teem with tiny beasts that are usually ignored by travelers and adventurers - swarms of ants, bees, wasps, and other insects. Even the keepers of the forests, such as rangers and druids, rarely take much notice of these critters.",
+								"The bee keeper, of course, is different. This hermit has found among the insect swarms of the wilderness what they could not find in humanoid society - a sense of community and wholeness. The bee keeper protects the interests of these often ignored creatures, for they have no other protectors and yet perform fundamentally important duties within the ecosystems of the forest.",
+								"{@b Cranky Hermit}. Even among those who live in the woods and prefer to be apart from civilization, the bee keeper stands apart. The bee keeper does not appreciate the druids, rangers and other wanderers in the forest who disdain the tiniest creatures that keep this ecosystem functional. The bee keeper is thus usually less than inclined to interact with other humanoids, often not speaking a word in months or even years.",
+								"{@b Swarm Mentality}. The bee keeper sees themselves as part of the swarms they tend. They do not have a strong sense of self and will sacrifice themselves for their swarms if that is the best option to ensure their continued well-being. This mental shift permeates their whole behavior, often referring to themselves in the third person.",
+								"{@b Friend of Swarms}. While swarms of beasts are often regarded as dangerous and possibly bound together to act as one by a malicious influence, the bee keeper is on good terms with them. The bee keeper interacts with swarms as easily as other keepers of the wild interact with individual beasts. The bee keeper even attracts swarms of bees and wasps that would not otherwise congregate.",
+								"{@b Protector of Swarms}. This strange mutual attraction between the bee keeper and their swarms may be perceived as sinister by some, but the bee keeper does not harbor any ill intent towards others - so long as they leave the swarms of the forest alone. The bee keeper is particularly hostile to anyone who attempts to steal honey from the hives under their protection, cut wood in a part of the forest where ants have made their hills, or root out a nest of giant wasps bothering nearby settlements. The bee keeper considers the activities of the swarms at least as legitimate as the interests of humanoids - and far more worthy of protection, considering the low priority other protectors of the wild favor them with.",
+								"{@b Insect Spies}. An ant crawls over an adventurer's boot, a bee buzzes around their head - tiny swarm insects usually go completely unnoticed by the unsuspecting traveler. The bee keeper takes advantage of this by regularly communing with the swarm insects in their domain to learn who passes through the forest. If the bee keeper grows suspicious of anyone, they send out spies specifically to track the potential intruder. Larger groups of travelers, especially when wellarmed or obviously proficient in magic, and travelers from foreign lands particularly arouse the bee keeper's suspicion.",
+								"{@b Speak with Bees}. The bee keeper can communicate with bees, wasps, and other Tiny swarm insects as if affecting them with a speak with animals spell.",
+								"[Bee Keeper]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319501714/u1dzfks0sON2tpNcvGWf0Q/max.jpg?1671604763"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Bladesinger",
+							"entries": [
+								"Bladesingers are students of a uniquely elven fighting style, a masterful melding of arcane magic and martial swordplay.",
+								"The training they go through is grueling and requires dedication of countless years even by elven standards. The style of a Bladesinger is defensive, they are the last to strike until the perfect opening presents itself. They will dance around near endlessly, letting their opponent grow sloppy, and strike with deadly efficiency.",
+								"The nature of their arcane abilities often reflect their martial abilities, prioritising spells that keeps them agile, allows them to close the distance, and ultimately end the fight. All Bladesingers wish to be in the heat of melee conflict, that is where they can flourish and thrive. That is not to say that they cannot work from afar, the toying dance of an archer and a Bladesinger is a sight to behold. With each arrow dodged by the narrowest of margins, as the distance between the two closes, the panic that grows within the archer and the unsettling calm that remains in the Bladeslinger.",
+								"Bladesingers come equipped with long slender blades, sometimes in pairs, sometimes those swords are crescent shaped, all depending on their individual tastes. They rarely wear thick suits of armor, opting for reinforced chainmail, or studded leathers to keep them as agile as possible. Most complete their outfit with richly dyed tabards or cloaks, fabrics that twirl and catch the wind as they battle.",
+								"Most Bladesingers travel alone, they are solitary defenders of elven domains and go where they are needed. It is rare that any conflict requires more than one Bladesinger, but it is not unheard of.",
+								"{@b The Bladesong}. The naming of bladesong stems simply from the combination of a flurry of blade whirls and the arcane chanting of the wielder. The bladesong is both as enchanting as it is dangerous. Most encounters with a Bladesinger begin slow, an occasional clash of blades and elegant dodge. However, as tempers of their opponents grow, as does the tempo of the blades, until there is a final crescendo and the Bladesinger stands victorious.",
+								"Some Bladesingers lean heavily into the concept of a Bladesong, openly singing louder than the sounds of battle. It is their war-cry and to those who know, can be just as haunting as they sing with perfect clarity and calm, despite the cleaving wounds they’ve just dealt.",
+								"{@b Dancers of Battle}. For anyone who has the privilege of watching a Bladesinger fight it is more akin to a dance than a battle. The Bladesinger is the choreographer and their opponent an unwilling partner, and yet the battle feels meticulously rehearsed. Occasionally, the Bladesigner cuts tauntingly, deep enough to feel, but shallow enough so that the fight may continue.",
+								"Most Bladesingers are adept enough to take on three average opponents at once, deftly moving to keep each one scrambling and enraged. Others are said to be able to handle upwards of a dozen enemies, which can all be due to clever use of their surroundings, and a fair share of disorganisation on their opponent’s end. Bladesingers travel alone, meaning they often are outnumbered but very rarely outmatched.",
+								"{@b Training in War and Song}. From a young age, bladesingers are taught how to cast their arcane magic while wearing light armor and using martial weapons. More impressive is the performance they put on while doing so.",
+								"[Bladesinger]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319501722/nGHCO7P56XWC5JrhTf9ZtA/max.jpg?1671604763"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
 							"name": "Pathway to Adventure",
 							"page": 93,
 							"entries": [
@@ -6526,7 +6771,7 @@
 					"human"
 				]
 			},
-			"alignment": "lawful neurtal",
+			"alignment": ["L", "N"],
 			"ac": [
 				{
 					"ac": 18,
