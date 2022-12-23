@@ -219,16 +219,33 @@
 									"type": "image",
 									"href": {
 										"type": "external",
-										"url": ""
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319501760/CQFFzz0AkvD53OQ9fNURrg/max.png?1671604816"
 									}
 								},
 								"Sitting near a shoddily made campfire, jilted thoughts of former friends weigh heavily on the abandoned knight's mind.",
 								"Having been discarded seemingly on a whim by those considered allies or as part of a calculated plan by former associates, the reason matters little. The abandoned knight contemplates the apparently unanswerable question and becomes obsessed with reason they were betrayed.",
-								"Slow to Trust. Having been tossed aside like a rusty broken sword, no longer of any use, abandoned knights understandably have strong feelings of distrust towards anyone who might reach out to them for companionship.",
-								"Enlightened or Enraged. The quest to confront their former allies typically culminates at a point where the abandoned knight must make a choice. Will they become consumed by anger and lash out at those who left them behind? Or maybe their time alone has allowed them to reflect, realizing that everything happens for a reason even though it was not have been immediately evident. Perhaps the path chosen will be influenced by the strangers encountered during the abandoned knight's time of sorrow...",
+								"{@b Slow to Trust}. Having been tossed aside like a rusty broken sword, no longer of any use, abandoned knights understandably have strong feelings of distrust towards anyone who might reach out to them for companionship.",
+								"{@b Enlightened or Enraged}. The quest to confront their former allies typically culminates at a point where the abandoned knight must make a choice. Will they become consumed by anger and lash out at those who left them behind? Or maybe their time alone has allowed them to reflect, realizing that everything happens for a reason even though it was not have been immediately evident. Perhaps the path chosen will be influenced by the strangers encountered during the abandoned knight's time of sorrow...",
 								"[Abandoned Knight]"
 							]
 						},
+						{
+							"type": "entries",
+							"name": "The Agarion",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500069/Qlls-JPs1crpJ0xcMpdn7g/max.jpg?1671603265"
+									}
+								},
+								"Born out of the deceitful union between a fiend and a human, much in the same way as their cambion siblings, agarions retain more of their human parent's appearance. Although their skin has an ashen coloring, missing are the horns, wings, and tails that their kinfolk brandish so proudly. The lack of these features allows agarions to inconspicuously assimilate themselves into many populations throughout the multiverse.",
+								"{@b Lust for Destruction}. While agarions may not share a strong physical resemblance to their fiendish parents, their personality and motivations are certainly cut form the same cloth. Deceiving the gullible and twisting the ideals of the noble are favorite pastimes of the agarion, but don't let their enjoyment of these tasks fool you... Agarions rarely act without the underlying motivation of self benefit.",
+								"{@b Graz'zt's Chosen}. As with their cambion siblings, it is common knowledge that Graz'zt's fervor for procreation with humanoids has led to the demon lord siring many agarions and cambions alike; those who help him sow chaos across the multiverse. However, unlike the cambions that are viewed primarily as soldiers and henchmen, agarions bread by the Dark Prince's act as infiltrators and assassins. Seeking out high-profile targets and decerning valuable information, or when the time requires it, assassinating those who might oppose their obsidian-skinned begetter.",
+								"[Agarion]"
+							]
+						}
 						{
 							"type": "entries",
 							"name": "Pathway to Adventure",
@@ -442,6 +459,18 @@
 					"entries": [
 						"The agarion has advantage on saving throws against spells and other magical effects."
 					]
+				},
+				{
+					"name": "Sneak Attack (1/Turn)",
+					"entries": [
+						"The agarion deals an extra 14 ({@damage 4d6}) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the agarion that isn't incapacitated and the agarion doesn't have disadvantage on the attack roll."
+					]
+				},
+				{
+					"name": "Vanish",
+					"entries": [
+						"The agarion can use the Hide action as a bonus action on its turn. Also, it can't be tracked by nonmagical means, unless it chooses to leave a trail."
+					]
 				}
 			],
 			"action": [
@@ -480,7 +509,8 @@
 			],
 			"traitTags": [
 				"Magic Resistance",
-				"Magic Weapons"
+				"Magic Weapons",
+				"Sneak Attack"
 			],
 			"senseTags": [
 				"D"
