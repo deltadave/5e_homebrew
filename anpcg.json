@@ -491,6 +491,374 @@
 						},
 						{
 							"type": "entries",
+							"name": "The Blind Auspex",
+							"entries": [
+								"Amongst diviners is an ancient gem of wisdom: do not lose yourself to what could be. This is more than just an adage, for diviners that probe the future too often might fall prey to an insidious curse that renders the wizard blind. With the present firmly locked away from their sight, most of these wizards go mad, tormented by what could have been and what has still yet to pass.",
+								"{@b Auspex's Bane}. The origin of the sight-stealing curse is mired in mystery. Some scholars believe it to be loosed by a jealous deity of knowledge. Others lay the blame at the feet of demons, who hunger to make a mockery of every gift given by the gods, especially portents. More than one legend features a powerful hag keen to bestow clairvoyance on a wizard at the inevitable cost of their earthly sight. Despite their aptitude for divination, no blind auspex is able to magically research the origin of the curse; their spells simply fail. This humorless irony has been known to drive an auspex mad.",
+								"{@b Sight of the Unseeing}. A blind auspex takes clumsily to its new lot in life. However, after several months, or even weeks, the auspex develops a keen awareness of its surroundings.",
+								"This is no gift, merely a consolation. Their world is blue and blurred, swirling with itinerant premonitions that afford them a half-sight—not enough to truly perceive reality, but enough to remind them of that which they've lost.",
+								"{@b Obsession}. Every blind auspex obsesses over the very vision that provoked the curse. Try as they might, they must return to that premonition, which they can recall with perfect clarity. Often this premonition is of a personal nature, directly involving those the auspex cares most deeply for: a lover, a child, a kingdom or cause to which they've devoted their lives.",
+								"A blind auspex can always be found muttering about this grim portent; messily scrawling it on parchment or drawing it upon clouded mirrors; or preparing for that inevitability—as if they have any chance to alter the future that stole from them everything.",
+								"{@b Fatalistic Despair}. A desperate need to thwart the future comes to drive just about every blind auspex. However, after several vain years, the diviner might lose themselves to crushing despair. As this sorrow deepens, they begin to willfully ignore and purposely withhold any good that can be found in the visions that so often visit their minds. Given time, this grim oracle cannot even comprehend these good omens, only the ill. Few listeners can stomach this unceasing tide of woe and soon an auspex might find themselves cloistered to some lonely cloister — far from mirth and men — where they can continue to spin their dark yarns in peace.",
+								"To them, life is but a bitter joke, simple and inescapable. If perception truly is reality, none knows it better than the auspex, and if only they would acknowledge that, in the many visions that crowd their mind, there is more than one in which they pull themselves from this pit of despair and return to the world that once welcomed them.",
+								"{@b Auspex's Staff}",
+								"Weapon (quarterstaff), uncommon (requires attunement by a spellcaster)",
+								"When you strike a creature with this staff, it must succeed on a Wisdom saving throw (save DC 15) or suffer disadvantage on any attack it makes before the end of its next turn.",
+								"[Blind Auspex]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500065/vb6LazDJbiECCmKU9nSUNA/max.jpg?1671603265"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Bound Wraith",
+							"entries": [
+								"Wizards on the path to lichdom can’t afford to make any mistakes when it comes to attaining their immortality. If the final ritual should go awry, it would mean losing not just their lifetime’s worth of study and acquired knowledge, but their life but as well. So they do what successful artisans have always done in perfecting their craft: they practice - and in this case, on other people.",
+								"Most often, the test subjects are captured enemies that have attempted (and failed) to assassinate the wizard. Other times, they are hapless innocents, caught up in the wrong place at the wrong time. On rare occasions, a willing and ambitious, if quite foolish, apprentice voluntarily undergoes the experiment hoping to prove fealty towards their master, or perhaps leapfrog them in achieving undeath.",
+								"But those aspiring towards lichdom are rarely the fool. The phylactery, into which the subject’s mortal coil is placed, is bound to the wizard’s will, not that of their subject. This results in the formation of a chained wraith rather than the creation of a rival lich - assuming the process is successful, of course. The majority of a necromancer’s early attempts simply end in failure and the death of the subject in question, but those that survive the process become bound into eternal servitude of their new master.",
+								"{@b Seething Anger}. A bound wraith typically remembers most, if not all, of its former life. However, the frustration of suddenly having no free will of their own often turns into a burning hatred for the master they must now serve for all eternity. Since they are powerless to act against their master, they unleash their fury at anyone and anything that gets in the way of completing the tasks they have been assigned.",
+								"{@b Unwieldy Power}. Regardless of their origin, a bound wraith is never fully prepared for the raw power that accompanies their transformation. Even long after their initiation into the ranks of the undead, outbursts of arcane energy occasionally surge through the tortured soul, causing additional pain and suffering. Whether they are unintended side-effects or purposeful punishments, these wracking seizures diminish the power a bound wraith can wield, thus helping its master establish and maintain dominance.",
+								"{@b Phylactery Failsafe}. A wizard bent on immortality leaves nothing to chance. Part of controlling a bound wraith is having the ability to destroy it. Rather than hiding away for safekeeping, they display the phylactery containing the wraith's soul prominently on the creature’s chest, often via a set of magically-imbued chain links.",
+								"{@b Undead Nature}. A bound wraith doesn't require air, food, drink, or sleep.",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319501715/EsEVmRxVZrTckzwSaYQNSg/max.jpg?1671604763"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Bulwark Tinker",
+							"entries": [
+								"Orc warlords and chieftains often seek out the services of a bulwark tinker before battle. Ensuring siege engines and mount barding are in good working order is critical to a campaign's success.",
+								"While skilled armorers and weaponsmiths are indispensable, it's the bulwark tinker who can improvise and innovate when materials are scarce. A bulwark tinker will typically contract with the orcs of their own tribe, but there are those who are available for freelance or mercenary work, especially during times when their tribe is not at war.",
+								"{@b Supply and Demand}. Although the pay is quite good, bulwark tinkers are a rarity in most orc tribes. The prestige of being a decorated war hero often outshines the work of those who helped keep that warrior alive from the sidelines.",
+								"That is not to say a bulwark tinker can't swing a hammer in battle when needed, but their skilled labor and time are usually better served in a different capacity.",
+								"{@b Gold Before Glory}. Bulwark tinkers measure success on a different scale than their warrior counterparts. Less concerned with gaining personal status and recognition, the bulwark tinker looks to the bigger picture. They know that war is so often a game of attrition, and that good protection, as much as raw power and aggression, can mean the difference between victory and defeat. They also take a more pragmatic worldview, recognizing that while an honorable death on the battlefield might merit rewards in the afterlife, there's nothing wrong with enjoying some rewards in this life either.",
+								"{@b Tinkered Treasures}. Often, bulwark tinkers must make do with what is readily available rather than start from scratch with fresh materials. Second-hand metals and used lumber are the staples of their craft. Yet therein lies their genius and the unique niche they fill. Caltrops from broken halberd tips, shields from discarded wagon wheels, ball bearings from a reworked length of chain are all just a day in the life of these non-magical transmuters. They don't simply make things, they make things better, and they create more from less.",
+								{
+									"type": "table",
+									"caption": "Sundries and Services",
+									"colLabels": [
+										"Item",
+										"Price"
+									],
+									"colStyles": [
+										"col-4 text-center",
+										"col-2 text-left"
+									],
+									"rows": [
+										[
+											"Light Armor Reinforcement",
+											"5-30 gp*"
+										],
+										[
+											"Medium Armor Reinforcement",
+											"40-100 gp*"
+										],
+										[
+											"Heavy Armor Reinforcement",
+											"free estimate"
+										],
+										[
+											"Siege Engine Tune-up",
+											"50 gp"
+										],
+										[
+											"Recycled Melee Weapon",
+											"3-5 gp*"
+										],
+										[
+											"Makeshift Shield",
+											"3 gp*"
+										],
+										[
+											"Flame-resistant Boat Decking",
+											"free estimate"
+										],
+										[
+											"Spiked Punching Gauntlet",
+											"5 sp*"
+										],
+										[
+											"Other Miscellany",
+											"variable"
+										]
+									],
+									"footnotes": [
+										"*bulk pricing available"
+									]
+								},
+								"[Bulwark Tinker",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319844304/baJ5-94_OJN4WDdc6KIiDA/max.png?1671847884"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Champion of Mielikki",
+							"entries": [
+								"Mielikki is the goddess of forests, druids, rangers and woodland beings. Considering that her portfolio includes not only the creatures that dwell in the woods, but also those that protect the balance of nature, she occasionally interferes more directly on the Material Plane than other gods of nature. One such interference is her electing a worthy champion to fight for the woodlands.",
+								"The champion of Mielikki is typically chosen from a matrilineal lineage of wood elves. While this means that a male wood elf can become a champion, Mielikki typically chooses a female. Her reasons for this are as unknown as when and where she will choose a champion. Sometimes centuries go past without a champion, sometimes there are several at once throughout the world.",
+								"{@b Follower of Mielikki}. Mielikki usually selects individuals who have proven themselves devoted followers. Some wood elves from the relevant bloodline pray and train their whole lives, hoping to be found worthy. This is not to say that Mielikki's chosen champions don't sometimes struggle with their responsibilities.",
+								"{@b Protector of the Forest}. The champion of Mielikki has one primary responsibility: protect the forests from outside influence, destruction and desecration. How a champion dispenses this duty is largely up to them. Mielikki does not often issue direct commands. This strange duality, being chosen by the goddess and then left with a responsibility that seems so broad and daunting, challenges many champions.",
+								"They often seek advice from druid circles and clerics of the goddess or by directly communing with the forest.",
+								"{@b Wild Mount}. Mielikki gifts her champions with a majestic wild beast as a mount that is magically bonded to them. This mount typically takes the form of a large flying animal native to the forested region where her champion is chosen.",
+								"Mielikki particularly favors the giant eagle. The arrival of the mount and the bond with the champion is how Mielikki proclaims her choice to the champion and often remains the most direct contact she makes with her.",
+								"[Champion of Mielikki]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319845759/UJp3vi_r3W7DLrkZnfmu9Q/max.jpg?1671848712"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Chosen of Tiamat",
+							"entries": [
+								"Zealots that spend their lives in service to evil dragons may gain the favor of the Dragon Queen, Tiamat. Such creatures, regardless of their race, stature, or physical form, are remade to resemble their draconian masters, taking the form of a dragonborn. While the color may vary, Chosen of Tiamat often appear powerful, regal, imposing, and of a color related to the dragon or dragons they have served so dutifully in their past, lesser life.",
+								"{@b Draconian Inheritance}. When a chosen of Tiamat takes its new form, they are imbued with the elemental chaos from which all creation formed. It gives them access to potent, innate magical powers and the ability to collect and exhale a cloud of unformed elemental energy. The Queen of Evil Dragons' favor also fills her chosen with unbridled strength and perseverance far beyond mortal understanding, making them exceptionally deadly hardy and powerful combatants.",
+								"Not all that is given is beneficial. Many chosen of Tiamat are imbued with unnatural fragments of arcane lore, remembrances of long-lost treasure hoards, or the ancient history of bygone ages. Such memory fragments can plague a chosen's thoughts to the point of madness. Some become so single-minded in their pursuit that they will even enlist the services of sellswords, adventurers, or mages for hire to track down ancient ruins, excavate lost dragon burial chambers, or steal priceless relics once coveted by long-dead dragons.",
+								"{@b Fanatics of Strength}. In their new life in service to The Queen of Chaos, most chosen of Tiamat find themselves driven with an unreasonable hunger to amass wealth, power, and status. They often form militant sects of half-dragons, cultists, and disillusioned dragonborn, acting as mercenaries, cutthroats, or amass magical relics to enact powerful rituals in service to evil dragons. It is not uncommon to find a single Chosen of Tiamat in league with devils and evil wizards, though their own ends may remain hidden from their cohorts until a vicious moment of betrayal.",
+								"[Chosen of Tiamat]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319852405/_n78iq2sr4ysvTtQFs12Zw/max.png?1671853549"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Chromaturgist",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319859169/G05Vk8OE1igXd2u_UoOZkQ/max.png?1671859447"
+									}
+								},
+								"It is no secret that colors can evoke emotional responses in creatures - and it is this truth that chromaturgy is founded upon. Chromaturgists, as they're known, take advantage of these natural emotions to amplify the effects of their spells on others.",
+								"{@b Chromaturgy}. A blend of enchantment and illusion magic, chromaturgy is used to emotionally manipulate a creature's heart through its mind. Most folk exposed to this magic never and even realize they've been manipulated.",
+								"While it's normal for spells to produce visual phenomena, only chromaturgy channels its magic directly into these phenomena. Its naysayers claim it to be a \"niche\" art or even a \"hedge wizard's best bet,\" but make no mistake: it's often the subtlest magics that evoke the greatest changes and feats.",
+								"{@b For Good}. Good-hearted chromaturgists use their craft to heal the heart and mind, often visiting victims of trauma.",
+								"Their spells can soothe the pain of relating their tale and it's for this reason that courts of law in magical societies call upon chromaturgists during investigations or trials. Outside the safety of the city, itinerant chromaturgists will visit wartorn villages or the sites of massacres, helping the survivors in the only way they can.",
+								"{@b For Ill}. It is easy to use chromaturgy for evil ends, and it's an unfortunate truth that this is what draws most to the craft - for it takes much experience in enchantment and illusion magic, and practitioners of these schools already have the means to corrupt one's mind and senses. While as any tool has the capacity of being used for evil, these magi deserve greater scrutiny, given how subtle chromaturgy can be.",
+								"[Chromaturgist]",
+								{
+									"type": "table",
+									"caption": "Emotions Behind Color",
+									"colLabels": [
+										"Color",
+										"Emotion"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-3 text-center"
+									],
+									"rows": [
+										[
+											"Pink",
+											"comfort / vulnerability"
+										],
+										[
+											"Red",
+											"passion / aggression"
+										],
+										[
+											"Orange",
+											"confusion / discord"
+										],
+										[
+											"Yellow",
+											"joy / hope"
+										],
+										[
+											"Green",
+											"tranquility / harmony"
+										],
+										[
+											"Blue",
+											"peace / melancholy"
+										],
+										[
+											"Violet",
+											"fear / loathing"
+										]
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Court Mage",
+							"entries": [
+								"Who is the mysterious newcomer among the courtly elite?",
+								"The person bending the ear of the King and Queen, who seems to have appeared as suddenly as the wind and knows all of the royal court’s secrets?", "Hidden behind a veil of arcane power, the court mage is a master of statecraft, manipulation, and above all, magic. An influential power throughout the realm, they often provide counsel on matters of the arcane - but whose ends do they truly serve? Certainly, some are just and noble, bettering the causes of freedom and light. Others, however, are dark and self-serving, seeking only to expand their own power.",
+								"Court mages generally employ a delicate touch with magic, preferring to use subtle spells when possible. However, that doesn't mean their power is limited in any way - indeed, rare is the court mage that cannot back up their manipulations with raw unbridled power. They always have an escape plan in case their machinations are discovered; most would opt for a simple vanishing act, but others would happily burn down the palace as a cover only to appear again next month in the neighboring kingdom.",
+								"{@b Courtly Intrigue}. Court mages thrive by knowing everything that happens within the walls of the palace. They are trained not only in magic, but in stealth and speechcraft.",
+								"They are especially adept in matters relating to their home court and become wary of newcomers that may alter any forthcoming plans, yet they keep an open mind towards any opportunities that arise.",
+								"{@b Quiet Tongue, Deft Hands}. Subtlety is a primary survival trait for the court mage. Through practice and training, they have learned to cast all but the most complex spells silently.",
+								"Additionally, the court mage is well versed in the usage of thieves' tools - the best secrets are always found behind locked doors.",
+								"{@b Manipulator}. The court mage has years of practice at bending others to their will. They are masters of deception, and the magical effects of their mind-altering magics are extremely potent.",
+								"Court Mage's Shawl",
+								"Wondrous item, rare (requires attunment by a spellcaster) When you wear this shawl, you are able cast spells of 3rdlevel or lower without the spell's verbal or somantic components.",
+								"[Court Mage]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500145/qQsPRmiePlrfJPsY7z42yA/max.png?1671603270"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Cult Martyr",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500101/Jiwk1e_Fm-SUjGRJayez3g/max.png?1671603266"
+									}
+								},
+								"Wounds, to a cult martyr, are a privilege, a boundless pleasure in service to the unknowable dark forces to which they have bound themselves by blood. Their fervor is anguish, their prayers are suffering, and their reward is exquisite agony. They are often found skulking in the shadows of whatever chamber is home to fell rituals in the name of their dark gods or among the ranks of fanatic killers sewing chaos in the darkened city streets.",
+								"{@b Mockeries of Suffering}. The notions of mortality and servitude prove amusing to the dark gods that cult martyr's worship. It is through a blood ritual, learned only from the whisperings of beings beyond the mortal plane or the pages of the Book of Vile Darkness itself, that these fanatics become twisted parodies of mortality. When wounded, the cult martyr feels a fleeting moment of intense pleasure and strength, instead of pain. Those whose devotion falters may be driven mad, content to flay themselves until nothing remains.",
+								"{@b Maddened Revelers}. Even the most keen minded and sure cultist who undergoes the blood rituals to become a cult martyr will awaken find their sanity tenebrous at best. They are prone to bouts of shaking, speaking in tongues, and mindless dances in honor of whatever dark power corrupted their bodies and souls.",
+								"[Cult Martyr]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Dark Druid",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500102/gNGCkTSEQRaDZerlCT7wpg/max.png?1671603267"
+									}
+								},
+								"With civilizations pushing ever further into the world around them, a druid’s work to maintain the balance of nature only becomes more difficult. Naturally, not all druids are happy to watch as fields and forests are cleared to make room for sprawling cities. A dark druid is a druid who has decided that the expansion into their territories must stop, at any cost, lest the balance of nature be irreparably upset. While their actions may be questionable, they are not all evil–merely doing what they believe needs to be done.",
+								"Dark druids tend to favor nature’s more chaotic forces.",
+								"Some have been known to use their powers to encourage tumultuous weather, while others may use their powers to bring forth plagues. When in cities they might be found using necrotic magic to speed up the decay of buildings or encouraging plant overgrowth.",
+								"{@b Guardian of Nature}. One may find a dark druid waiting near entrances to forest paths, stopping all who enter to interrogate them about their plans. Anyone they deem to be a hazard may be run out of the area or outright attacked in an attempt to defend the forest. They take offence to anything that could be perceived as a danger to nature, such as unattended campfires, and will often seek out those responsible to hold them accountable.",
+								"{@b One With the Earth}. While all druids share a connection to nature, the connection of dark druids is more primal.",
+								"Because they believe the encroaching civilizations to be evil, they reject anything produced or offered by them. They prefer to live entirely off the land, often living in small burrows or huts carefully constructed from fallen trees. Often, they surround themselves with wildlife, and may be seen living with any manner of creatures from insects to bears.",
+								"{@b Regional Effects}. The presence of a dark druid can twist the forest in which they live, creating a dark and wild environment. The forest in which a dark druid resides is the source of strange regional effects. Any regional effect that requires a creature to make a saving throw uses the save DC of the dark druid’s most powerful ability. These effects either end immediately if the druid dies or abandons the lair, taking up to 2d10 days to fade away.",
+								"The region within 1 mile of a dark druid’s home is warped by their magic and twisted connection to nature, which creatures one or more of the following effects:",
+								{
+									"type": "list",
+									"style": "list-hang",
+									"items": [
+										"Insects, amphibians, and other creatures appropriate to the dark druid are found in great profusion.",
+										"Beasts that have an Intelligence score of 2 or lower are charmed by the dark druid and aggressive toward intruders in the area. If the dark druid focuses, as if it were concentrating on a spell, it can see and hear through the eyes and ears of a beast creature that is within 100 feet of it, gaining the benefits of any special senses that the beast has. During this time, the dark druid is deaf and blind with regard to its own senses.",
+										"The region takes twice as long as normal to traverse (difficult terrain), since the plants grow thick and twisted.",
+										"The dark druid and any beasts charmed by it retain their normal movement speed in this area."
+									]
+								},
+								"[Dark Druid]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Dauntless Adventurer",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319862057/W6Pcp5IkiOoSaAW3yGIDpQ/max.png?1671862601"
+									}
+								},
+								"Adventurers come in all shapes and sizes; some wish to protect the weak, while others only seek to fatten their coinpurse. Whatever their motives, dauntless adventurers may all have one thing in common: the an unwaivering bravery for their quest!",
+								"{@b Naivety into Sophistication}. Should the brave, yet foolhardy, dauntless adventurer successfully navigate lifethreatening perils and avoid meeting an untimely end early in their career, they will gain the much needed real-world experience to grow. What was unbridled enthusiasm, which some might call naivety, blossoms into valuable wisdom.",
+								"[Dauntless Neophyte]",
+								"[Dauntless Veteran]",
+								"[Dauntless Champion]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Dead Man Walking",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500105/ilbCmoWJxRsZ3hp2z8a9jg/max.png?1671603267"
+									}
+								},
+								"No sage, be he never so wise, knows from whence comes these pestilent undead. Some suspect they are sent from the Far Realm to walk among us, waiting, watching, until the stars are aligned, and time is right for them to kill everyone and everything so the dead can reign.",
+								"In the meantime, they look like us, talk like us, and live like us. They have jobs, they pay taxes, they serve on town councils, they are journeymen and guildmasters. Some even become adventurers, gaining treasure, magic, and experience which they put to their own mysterious purposes.",
+								"There is no known way to tell a dead man walking from living humans except accidentally, when they come into contact with magical means of detecting or affecting the undead. They are as subject to such effects as any other undead creature, though they try to play it off with another plausible explanation.",
+								"{@b Patience of the Dead}. Adventurers one day captured a dead man walking and took it to be questioned. The creature laughed at the inquisitors' threats, said nothing, dissolved into a mass of wriggling worms, and killed everyone in the room. Only a well-timed fireball prevented the vile thing from creating more dead men walking to replace the entire staff of a holy temple.",
+								"[Dead Man Walking]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Defender of Justice",
+							"entries": [
+								"In any organized society, there are those who chafe against the oppression inherent in the system. Most find ways to look away and focus on their personal joy. The defender of justice, for one reason or another, found herself unable to do so.",
+								"Perhaps the oppression is personal for her, perhaps her religious devotion has led her to believe that this is her calling, or perhaps she simply cannot accept the things she has seen. In any event, the defender of justice has taken it upon herself to fight back against the society in which she lives.",
+								"However, while the defender of justice is moralistic, she is not suicidal. She knows that she is just one person standing against a far more powerful system that will eagerly vilify and crush her if her opposition is discovered. While she has taught herself to defend herself, her goal is not armed conflict. Instead she hopes to disrupt normal operations of the local government in more subtle ways. She might seek to cause an accident along a road, preventing supplies from reaching a destination, or she might make sure that important letters between government officials get lost in transit. She knows that she is operating alone, and she knows that she will only be able to continue so long as she remains hidden. If she is particularly fortunate, she might find an opportunity to hide herself within the very systems she seeks to dismantle, using her innate talents to gain work as a member of the city guard or as a courier for an official, only to use that position to gain access to secure locations or expose ruinous secrets to the common people.",
+								"Regardless of where the defender of justice lives, and regardless of the actual circumstances of her situation, one thing always holds true - she fervently believes that the system in which she lives is beyond repair, and she can no longer stand by and do nothing.",
+								"{@b Fleet Minded}. The defender of justice is lucky if she has time to carefully plan her next action. Most often, she is left to confront injustice when she sees it. As a result, she is adept at thinking on the fly and working with whatever she has on hand. She can masterfully take an unexpected opportunity or a chance meeting and use it for her advantage, and she is particularly adept at misdirection. Often someone meeting her will not discover they have been misled until days later, and even then may not realize that the defender of justice was the reason for their misfortune. While these skills would make her an excellent spy, she is far too distrustful of most established organizations to take on such a role. If the defenders of justice do choose to support other rebels, it is only on her own terms.",
+								"{@b Just a Face in the Crowd}. The cities are full of everchanging faces. Most of them are easy to forget. One of the most powerful abilities in the defender of justice's arsenal is her ability to simply not draw attention to herself. She is a master of knowing when she is being watched and when she can slip away unnoticed. To further avoid being recognized, she often alters her appearance by changing hair styles or patterns of dress, or by donning face paint likely to distract from her less malleable physical features. She is adept at evading detection and, in the event she is spotted, she is equally adept at avoiding being identified. While not a master of disguise in the traditional sense, she is a chameleon who can appear to belong in almost any place.",
+								"[Defender of Justice]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500106/FCKeAp_1lRNxRso0pAC-oQ/max.png?1671603267"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Draconic Renegade",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319862884/N-Jud9WxgN5AaLkeRGOktQ/max.png?1671863589"
+									}
+								},
+								"Dissention amongst draconic clans can be highly irregular, but not unheard-of. Dragonkin are a disciplined race, devoted to their clans to a fault. Draconic renegades are individuals who do not see eye to eye with their brethren. It may be the case that they ate more closely linked to the very dragons themselves; driven to hoard wealth, typically going as far as stealing from their own clan and becoming exiled.",
+								"Once left to their own devices, these individuals find a number of ways to enrich their lives. Capable warriors, dragonkin can make for devoted protectors or dangerous mercenaries, should the promised reward be sufficient.",
+								"{@b All for One, and None for All}. Lacking trust after being betrayed by their clans, Draconic Renegades will often sneak what they can for themselves without others knowing. Only through a deep and meaningful bond, can this self-preserving tendency be broken.",
+								"Draconic Ancestry",
+								"Here the draconic renegade has taken on the statistics of a bronze dragon. You can change these to represent the different dragonborn draconic ancestries.",
+								"The draconic renegade's damage resistance, draconic weapon and breath weapon are determined by the dragon type, as shown in the Draconic Ancestry table found in the Player's Handbook (pg.34).",
+								"[Draconic Renegade]"
+							]
+						},
+						{
+							"type": "entries",
 							"name": "Pathway to Adventure",
 							"page": 93,
 							"entries": [
@@ -2214,7 +2582,7 @@
 				{
 					"name": "Perpetual Blindness",
 					"entries": [
-						"Nothing short of a wish spell can cure the auspex of its blindness."
+						"Nothing short of a {@spell wish} spell can cure the auspex of its blindness."
 					]
 				},
 				{
@@ -2411,30 +2779,6 @@
 					"name": "Bound",
 					"entries": [
 						"The wraith is magically bound to its master. The master can telepathically communicate its wishes to the wraith, and the wraith must obey to the best of its abilities. If the wraith is within 60 feet of its master, half of any damage the master takes (rounded up) is transferred to the wraith."
-					]
-				},
-				{
-					"name": "Seething Anger",
-					"entries": [
-						"A bound wraith typically remembers most, if not all, of its former life. However, the frustration of suddenly having no free will of their own often turns into a burning hatred for the master they must now serve for all eternity. Since they are powerless to act against their master, they unleash their fury at anyone and anything that gets in the way of completing the tasks they have been assigned."
-					]
-				},
-				{
-					"name": "Unwieldy Power",
-					"entries": [
-						"Regardless of their origin, a bound wraith is never fully prepared for the raw power that accompanies their transformation. Even long after their initiation into the ranks of the undead, outbursts of arcane energy occasionally surge through the tortured soul, causing additional pain and suffering. Whether they are unintended side-effects or purposeful punishments, these wracking seizures diminish the power a bound wraith can wield, thus helping its master establish and maintain dominance."
-					]
-				},
-				{
-					"name": "Phylactery Failsafe",
-					"entries": [
-						"A wizard bent on immortality leaves nothing to chance. Part of controlling a bound wraith is having the ability to destroy it. Rather than hiding away for safekeeping, they display the phylactery containing the wraith's soul prominently on the creature's chest, often via a set of magically-imbued chain links."
-					]
-				},
-				{
-					"name": "Undead Nature",
-					"entries": [
-						"A bound wraith doesn't require air, food, drink, or sleep."
 					]
 				},
 				{
