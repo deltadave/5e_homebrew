@@ -53,12 +53,10 @@
 				{
 					"type": "section",
 					"name": "Adaptable NPCs of the Guild",
-					"page": 2,
 					"entries": [
 						{
 							"type": "entries",
 							"name": "Credits",
-							"page": 2,
 							"entries": [
 								"{@bold Publisher}: DMs Guild",
 								"{@b Project Oversight}: Grim Press",
@@ -508,7 +506,6 @@
 		{
 			"name": "Abandoned Knight",
 			"source": "gp_anpcg",
-			"page": 3,
 			"size": [
 				"M"
 			],
