@@ -859,6 +859,236 @@
 						},
 						{
 							"type": "entries",
+							"name": "The Dread Wyrm",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320116456/YR53CL4WqoP-8pXd_lZJ7w/max.png?1672110943"
+									}
+								},
+								"Inhabiting mountainous valleys and terrorizing the communities that choose to reside there is recreational for what the locals have branded dread worms. While more feral than their wyvern kin, these predators are also more cunning.",
+								"They revel in turning a townsfolk's laughter and chatter into shrieks of terror with their mere presence.", 
+								"{@b Distinctive Features}. Soaring in the skies above, the dread wyrm's long neck and prehensile tail are unmistakable as it weaves in and out of the clouds.",
+								"Silent Flight. The dread wyrm's slender body grants it the ability to move through the air with an uncanny grace. They are able to glide for long periods without flapping their wings.",
+								"{@b Razor-sharp Scales}. Their trademark barbs are specialized scales that form a spiked carapace, providing a strong deterrent against physical attacks. Those foolish enough to brandish melee weapons against these wyrms soon learn of their mistake when pieces of the scales easily shatter into small blade-like projectiles that assault their assailant. While removing their protective armoring might seem like a decent long-term strategy, it is folly as their scales regenerate at an alarming rate, ensuring the dread wyrm is always protected from those who would seek to do it harm.",
+								"{@b Masterful Escapist}. In the unlikely event that a dread wyrm is outmatched, they have an one more impressive trick at their disposal; the ability to release smoke from the tips of their pointed scales. The scales are hollow and adjoined to specialized glands which enable a sudden burst of smoke; a smog which envelopes the battlefield and makes it possible for the dream wyrm to make a hasty retreat.",
+								"[Dread Wyrm]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Elk Spiritrager",
+							"entries": [
+								"Few totemic warriors of the wild choose to bond with the spirit of the elk, instead preferring the predatory spirits: the wolf, the bear, the panther, among others. It takes patience to bond with the elk; make no mistake, those that honor this animal spirit are no less fearsome than their predatory counterparts. The bear and wolf fight to feed; the elk fights to survive. Only with a clear mind can this beast expect to survive the wilds, and so too do followers of the elk spirit.",
+								"These totemic warriors, lither than shadows but just as quiet, fight with wild abandon. Given time, some will merge fully with their honored spirit, becoming one with the beast.",
+								"{@b Spirit Bond}. For some totemic warriors, it is not enough to merely honor the spirit of the elk; they must instead bond with the animal in a primal union. Driven by visions, the warrior finds a living elk. Always does the beast approach first, driven to give its body so that it might live forever in the warrior. An ancient ritual is done under the light of the moon, in which the elk is butchered, and its antlers are made into a crown that are worn until first light. If they are worthy, they rise as a spiritrager - a warrior with two souls living together in one body.",
+								"{@b Elk Spiritrager Weapons and Tactics}",
+								"Like the animal they so revere, elk spiritragers are quick and lithe. They serve as sentries, messengers, and spies for their people. Thanks to their ritualistic magic, they can spy on invaders from afar and turn to animals (often deer) as confidants.",
+								"The bond between the elk and the totemic warrior is permanent. Some continue to honor its sacrifice by fashioning its bones into arrows and other weapons. Likewise, they can call upon the elk's spirit to explode out from their chest, lighting the path ahead and inhibiting the spiritrager's foes.",
+								"In combat, an elk spiritrager relies on its incredible speed, preferring hit-and-run tactics, especially after it takes a heavy beating. Thanks to its Trampling Charge trait, it can take the Disengage action to retreat and still harm foes that block its retreat. Likewise, they can rely on the spirit of the elk to shield them from harm.",
+								"[Elk Spiritrager]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500153/Pgv-loAOT82F0FcdHOBwnw/max.png?1671603271"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Fallen Angel",
+							"entries": [
+								"In the worlds above the Material Plane, many an angel conducts the will of its godly master: conducting their worshippers, spreading their doctrine, and holding back the hordes of fiends and aberrations that would see their divine empire crumble. These celestial beings are dedicated in mind, body, and soul to the cause of their deities---but that doesn't make them infallible. Rarely, an angel is tempted away from the path of good: the angel's pride leads it to commit terrible, unforgivable acts in the name of faith, and for those acts it is cast from the Upper Planes and stripped of its divine purpose.",
+								"The result of this corruption is a fallen angel: a powerful celestial without master or cause, wandering the planes in search of a new purpose. Though a fallen angel loses its ability to heal and raise the dead, it still wields the radiance and awe-inspiring presence of a duty-bound angel.",
+								"Additionally, it is restricted by none of the rules or expectations of a true angel, making it a force to be reckoned with on the field of war.",
+								"{@b The Search for Identity}. As most angels were fashioned specially for their purpose in the Upper Planes, an angel stripped of its cause most often undergoes a crisis of identity.",
+								"In many cases, a fallen angel will rebel against the cause of its former master, seeking out their old enemies and joining the ranks of evil. These angels are given a place of honor among the armies of devils and demons, as their radiance makes them valuable assets in the Blood War and other conflicts of the Lower Planes. However, the same angels are rarely trusted to do more than fight: in the eyes of a general, a fallen angel has already proven itself untrustworthy to any cause it promises itself to.",
+								"In other cases, fallen angels will seize their descent from grace as an opportunity to define themselves. Such an angel might establish a faith or church in its own name, hoping to gift others the pious live it couldn't have. Alternately, it might assume control of a cult of fanatics and zealots, amassing power and territory in the Material Plane. The latter type of fallen angel is sometimes referred to as a \"celestial warlord\" or \"tyrant emissary\".",
+								"{@b Altered Form}. Though a fallen angel is severed from the source of its creation, it retains most of the shape of a true angel - enough to fool the untrained eye of the average mortal.",
+								"The differences between an angel and its fallen kin are subtle: for instance, a fallen angel is still beautiful, but its beauty is accompanied with a sense of loss, as if the watcher is looking upon a ruined painting or a shattered sculpture.",
+								"The exception to this rule of subtlety is the matter of halos.",
+								"In many faiths, a halo is a symbol of the angel's duty; as such, when the angel falls, its master shatters the halo, representing their broken oath. This shattered halo manifests on many fallen angels as a pair of twisted horns or a broken crown of metal. A fallen angel bent on deceiving others always hides this mark, as it goes a long way in exposing the angel's true intentions.",
+								"{@b Immortal Nature}. A fallen angel doesn't require food, drink, or sleep.",
+								"[Fallen Angel]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320122090/nMVc2F53Q7ScAfijIBgbPA/max.png?1672115473"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Fire of Anger",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320124860/2_cxlFo32NJ8nMxnU0JElA/max.png?1672117903"
+									}
+								},
+								"In the High Forest of western Faerûn dwell clans of elves who returned from Evermeet seeking to re-establish the elvish kingdom of Eaerlann. They love the deep woods, the laughing waters, and walking free under the stars, and they would take the Forest back from the innumerable tribes of orcs, gnolls, and fey'ri which infest it.",
+								"The last inspires their particular fury. When the Harpers laid waste to the tanarukk hordes which overran Hellgate Keep, it was natural for the wood-elf clans to ally themselves with the treant guardians of what was left of that terrible place. An adventurer who tries to come nigh Hellgate Keep must first brave the fury of the clans before ever she comes near enough the Keep's ruins to espy its tumbled walls, much less the living trees which stand sentinel around its perimeter.",
+								"Clad in simple garments of furs and hides and living in harmony with their beloved forest, the clans live in high platforms among the High Forest's soaring trees. Their villages are found everywhere from the Star Mounts to the Grandfather Tree to Hellgate Keep. Some say they have retaken the Stronghold of the Nine and raised its defenses.",
+								"Irrespective of where they're found, they do not welcome visitors, even other elves.",
+								"{@b Loathing for Demons}. Nothing is more likely to cause a Fire of Anger to enter a berserk rage than espying a creature which shows fiendish blood. They approach other creatures peacefully at first, warning them to turn away from the tribe's territory. But if an orc, gnoll, or worse, a tiefling comes into their view, they attack first and ask questions of the corpses.",
+								"Many among the wood-elf clans are old enough to remember when the tanarukk soldiers of Hellgate Keep raided throughout the High Forest and beyond, and they neither forgive nor forget.",
+								"[Fire of Anger]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Flameblade Magus",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320126436/MS3Z_JVvKXIYy4CLJuSULA/max.png?1672119861"
+									}
+								},
+								"Wizards dedicate years of their lives studying one or a few of the many schools of magic, however there are also those who study War Magic, which isn’t confined to a single school and uses everything available to a sole purpose. The same could be said for those who study to become magus of the flameblade, any school of magic at their disposal to tackle one issue; demons.",
+								"Chaos embodied, demons flock in packs that would sooner tear one another apart than fight together. They threaten the very order of the planes, so with careful consideration, a college of wizards vowed to dedicate their lives to ensure any potential demon uprising is hastily quelled.",
+								"As their name suggests, flameblades are equipped with blazing swords, hot with arcane fire. They are bound to their blade and using it as an arcane focus when casting spells.",
+								"Flameblades can channel spells into the blade to deal devastating swipes or utilize the flame to protect themselves.",
+								"Some flameblades wear chain or studded cloth, but most have confidence in their magic to keep them safe from harm.",
+								"Despite what they might wear, there are two defining features of any flameblade; the ornate blackened sword that burns all the while it is drawn, and the thick leather sash, covered in iron rings from which the flameblade’s spellbook hangs.",
+								"{@b Order of the Flameblades}. While the Order are not secretive about their intentions, they have no base of operations, and meet sporadically. Flameblades scour the land alone.",
+								"{@b Mind over Might}. All flameblades understand the battle in which they face may be an endless one. They enter most battles knowing they will be outnumbered. However, their solemn vow to stem the demon invasion, and knowledge that no matter their numbers, they’ve mentally prepared for a thousand different outcomes. Flameblades use their magic to compensate when facing demons on uncanny strength, because why make ten slashes when one magically enchanted blade swing should suffice.",
+								"[Flameblade Magus]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Flamecaller",
+							"entries": [
+								"The school of evocation magic focuses on the ability to call forth mystical energies to produce a physical effect.",
+								"Practitioners of this school are capable of producing devastating elemental magics, shooting bolts of lightning from their fingertips, summoning forth frigid blasts of ice, or throwing exploding fireballs into the midst of their foes.",
+								"The flamecaller is one who has always felt a close attunement and was capable of manipulating flames, even from a young age. Their abilities manifested as a result of their extreme temper, which can cause unintentional and spectacularly devastating results. Fearing a lack of control over these abilities, the young flamecaller was sent to a college of magi to learn to harness and control their gift.",
+								"Sensing their raw talent and potential for destruction, learned magi have trained the flamecaller to control their emotions and focus them into their castings, giving them a mastery over flames that only the most powerful wizards can hope to achieve. Their focus on fire magics does, however, leave the flamecaller's abilities in other areas of magic lacking.",
+								"Due to their intense schooling and need to maintain emotional control, flamecallers are intensely disciplined and rigid in their thoughts. They are stubborn, and while slow to anger they can unleash firestorms capable of causing complete destruction to anything in their path.",
+								"Flamecallers are highly sought after for their ability to cause ruin in opposing forces. They can be found at the vanguards of assaults where their powers can be fully unleashed upon their foes.",
+								"{@b Empowered Evocations}. The flamecaller can use ambient heat from the environment as well as energy from both magical and nonmagical heatsources to empower their evocations, causing additional destructive effects.",
+								"{@b Fiery Wrath}. When angered, a flamecaller may unleash its fury in a wave of flame that emanates outward from it.",
+								"Creatures caught within the flame wave are charred to the bone, few withstanding the wrath of a flamecaller. However, calling forth enough energy to cast such an evocation leaves the flamecaller drained and in need of rest.",
+								"{@b Immunity to Flame}. The flamecaller take no damage from magical or nonmagical fire, and has resistance against coldbased attacks.",
+								"{@b Self-Immolation}. While their magics predominantly focus on wreaking havoc upon their enemies, the flamecaller is not without potent defenses of it's own. With a simple incantation they can light themselves on fire, scorching nearby creatures while the flamecaller feels naught but a gentle warmth.",
+								"{@b Summoner of Flame}. The most powerful of flamecallers can summon forth spîrits of destruction, a whirling force that creates havoc around it. These fire elementals only loosely obey their summoner, knowing that the flamecaller is immune to their presence. They elemental may however turn its attention on any nearby, making this ability one best used in desperate times.",
+								"[Flamecaller]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500109/ZC1YULKBG6wTAMlTWHs93Q/max.png?1671603268"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Glacius Knight",
+							"entries": [
+								"Eldritch spirits are the ghostly presences of long deceased beings. While most of their essence has faded away over time, echoes of their existence are still found in all corners of the world. The influence of eldritch energies is often perceived by layfolk as a prickling sensation on the nape of the neck, a sudden shiver and puckering of gooseflesh on even the hottest of days, or a sense of déjà vu that causes one to pause and peer over their shoulder.",
+								"Learning to manipulate such magical energies usually requires intensive training and discipline, leaving little time for attuned creatures to master martial disciplines such as swordplay. However, some warriors possess an intimate ability to tune into the arcane, and their inherent intelligence and curiosity has enabled them to pick up an understanding of the mystical arts to compliment their martial training. This allows them to augment their martial prowess with a limited ability to cast magical spells, typically called eldritch knights.",
+								"The glacius knight is one such warrior. This sect of eldritch knights channel the ghostly energies of eldritch spirits into chilling elemental magics that drain the heat from even the most furious flames and shield the glacius knight from attack.",
+								"The glacius knight is also able to channel these energies into their blade, causing it to emit a cold flame, which embodies the persona of glacius knight's demeanour: cold, calculating, and calm under even the direst of circumstances.",
+								"{@b Chilling Bond}. The greatsword of the glacius knight can be wielded by no other - it is bonded to its master. The energies within obey only the glacius knight; other creatures attempting to wield it find the blade with leap and jerk while in their grasp as though the weapon were possessed.",
+								"{@b Presence of Frost}. The swirling eldritch energies that surround the glacius knight draw energy from its surroundings. Nearby creatures feel chilled, an ability that the glacius knight has honed to freeze would-be attackers to prevent them from escaping its reach.",
+								"{@b Eldritch Mist}. The glacius knight has learned how to channel the eldritch mist, forming a bond that allows it to rapidly moving across the battlefield to evade foes or come to an ally's aid. Creatures within the path of the glacius knight feel an icy chill as it passes by them.",
+								"{@b Variant: Auril's Chosen}",
+								"While wandering the frozen wastelands in solitude, many glacius knights turn to the Frostmaiden's cold embrace for guidance. Those that do gain:",
+								"{@b Alignment}: Any evil",
+								"{@b AC}: 18 (plate)",
+								"{@b Proficiency}: Increased by 1 (+4 total). All saving throws, skill checks, and attack rolls that it is proficient in increase by 1.",
+								"{@b Spellcasting}: The Auril's chosen is a 5th-level spellcaster, and gains two 3rd level spell slots. It learns the following spells: fear, sleet storm.",
+								"{@b Glacial Presence}. The Auril's chosen's weapon attacks deal an additional 14 (4d6) cold damage (6d6 total).",
+								"{@b Challenge Rating}: 11 (7,200 XP)",
+								"[Glacius Knight]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320127339/yMiKN76N0ZsLmmTNyZzq-Q/max.png?1672120758"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Half-Dragon Revenant",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500116/r_lyw-ynyJjXQ7aNeDv_1A/max.png?1671603268"
+									}
+								},
+								"Times are known when half-dragons have met cruel and undeserving fates during their lives. During particularly savage deaths, their souls have clawed back into their body and reanimated them with powerful mystical magic, with one goal: to seek revenge. Superficially, it resembles an animate corpse - a zombie, but a burning within an undead halfdragon's eyes is the will and steadfastness to hunt the one who wronged it in life.",
+								"If the half-dragon revenant's body is destroyed or otherwise unavailable, the spirit of the revenant enters another available humanoid corpse. No matter what body the revenant uses, the person or creature who wronged it in life will soon learn of revenant’s presence.",
+								"{@b Insatiable Hunger for Revenge}. Normally, a revenant only has one year to exact revenge, but the naturally-magical blood of dragons has extended this tenfold. For a full decade, the half-dragon revenant's soul will continue to hunt its adversary. When its target dies, or if the revenant fails to kill its adversary before its time runs out, it crumbles to ash and its soul fades into the afterlife. If its foe is too powerful for the revenant to destroy on its own, it may seek out worthy allies to help fulfill its blight.",
+								"{@b Sample Half-Dragon}",
+								"The Half-dragon here is a half-white dragon. Use the half-dragon template found in the Player's Handbook (pg.180) to create other dragon types.",
+								"[Half-Dragon Revenant]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Haunted",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320127937/jRe8K9-DhmRVB-WXlVzz9g/max.png?1672121278"
+									}
+								},
+								"Due to a plethora of bloodcurdling nightmares that consumed their childhoods, the haunted are never fully aware if they are in control of their surrounding while awake.",
+								"This blight plagues them well into their early adult years, but not all is perilous as it seems. Through many restless nights, the haunted are able to slowly learn how to commune with that which terrifies when they close their eyes - spirits caught in-between this life and the next: a perpetual purgatory.",
+								"{@b Whisperer for Lost Souls}. Although it is not clear how to help those who cannot pass on, the spirits welcome a presence they can communicate with. While this is initially unsettling to many haunted, they eventually begin to understand the figures that populated their dreams as a child are not a threat to them; rather, they are communicating in the only way they are able. Many haunted will spend their days searching for the reason these lost souls can't travel peacefully into the afterlife and try to help them, should they be able.",
+								"{@b Gifts from Beyond the Grave}. Spirits that commune with the haunted are able to affect the Material Plane through sheer force of will, using the haunted's body as a vessel.",
+								"Seemingly supernatural occurrences, eventually the haunted are able to focus this power to assist them in life.",
+								"{@b Unsettling Powers}. While not practised spellcasters, the haunted have a learned what may appear as arcane spells to others: magic twisted due to the forces present in their being.",
+								"The spell shield would look like spirit skulls swirling about the haunted instead of a invisible barrier of magical force, for example.",
+								"[Haunted]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Hedge Wizard",
+							"entries": [
+								"Just outside the village is a hut made of leaves, mud, and sticks that's partially built into a hedge. There's always a thin plume of smoke coming out of the hole in the hut's roof, and the smoke always smells ... funny. The peasants tell their children not to play with the man who lives in the hut, but they visit him anyway, because he makes the best sweets.",
+								"The man who lives in the hut is on the downhill side of middle age. Once he was a student at a prestigious magical university who showed considerable talent at the Art. One day, while he was away at school, something happened. He never talks about it; he just sits on the air, either in his hut or hovering just off the ground right outside the front door. He stares into space, smokes a foul old clay pipe, and talks to his pet raven.",
+								"He's very friendly, always willing to chat a bit with anyone who stops by. His eyes can be a bit unnerving, as they're covered with a film of glittering silver. He can clearly see just fine as he floats around the hut and his herb garden.",
+								"The villagers come to him when they're ill or injured, for his herbal remedies always fix the problem, from infected wounds to incontinence to impotence. Characters might approach him for poultices (25 gp) with which they can treat wounds or gain fighting energy.",
+								"{@b Herbal Healing Poultice}",
+								"Wondrous item, common",
+								"As an action, a creature can apply this herb-soaked cloth to a wound to regain 1d4 hit points.",
+								"{@b Puff, Puff, Pass}. The hedge wizard offers his visitors a toke from his pipe. The herb therein is a mixture of any number of things, some of which are beneficial and others which are more mysterious. When a creature smokes the pipe, it must make a Constitution saving throw. On a failure, it takes 1d8 necrotic damage and is stunned. On a success, its Wisdom and Charisma scores increase by 1 until the creature finishes its next long rest. The hedge wizard is immune to this effect.",
+								"{@b Raven Familiar}. The hedge wizard's best friend is his raven familiar. The hedge wizard would be lost without his little friend, with whom he has in-depth conversations about life, the universe, and everything.",
+								"{@b Yeah, Well, That's Just, Like, Your Opinion, Man}. The only thing the hedge wizard's familiar can say, regardless of the question asked.",
+								"{@b Herbal Energy Mushroom}",
+								"Wondrous item, common",
+								"As an action, you can swallow this foul-tasting mushroom to gain 2d4 temporary hit points which last for 1 hour. At the end of the duration, you gain a level of exhaustion.",
+								"[Hedge Wizard]"
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320128538/tTn4eZLMZwF7fJKTa63f7g/max.png?1672121842"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
 							"name": "Pathway to Adventure",
 							"page": 93,
 							"entries": [
