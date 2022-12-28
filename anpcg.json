@@ -1077,7 +1077,7 @@
 								"{@b Herbal Energy Mushroom}",
 								"Wondrous item, common",
 								"As an action, you can swallow this foul-tasting mushroom to gain 2d4 temporary hit points which last for 1 hour. At the end of the duration, you gain a level of exhaustion.",
-								"[Hedge Wizard]"
+								"[Hedge Wizard]",
 								{
 									"type": "image",
 									"href": {
@@ -1085,6 +1085,774 @@
 										"url": "https://s3.amazonaws.com/files.d20.io/images/320128538/tTn4eZLMZwF7fJKTa63f7g/max.png?1672121842"
 									}
 								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Infernal Warrior",
+							"entries": [
+								"Possibly the result of some hellish ritual, ancient nobles willingly make pacts with great demonlords, and thus tying the fates of their descendents to be forever cursed with demonic traits. Over generations, these humanoids became known as among other things: hellions, fiends, with some even seeing them no different than tieflings. Despite millennia that have followed, the taint of demonic blood has not lessened its impact upon them.",
+								"The infernal warrior is the collimation of this ostracization from society. They are generally humanoid in appearance, yet their heritage is clear to all who gaze upon them. Large horns sprout from their head, an expressive four-foot tail twitches and jumps as would a cats, and their teeth are naturally pointed and sharp. Most disconcerting of all are the solid colored eyes, often jet black or blood red.",
+								"Due to their appearance, they are often shunned and mistrusted by layfolk. As a result, they tend to be suspicious of strangers and distrustful of the world in general, knowing that they themselves are the only ones to be relied upon.",
+								"{@b Demonic Blood}. The blood of the infernal warrior runs hot, granting them a limited resistance to heat and flames.",
+								"Furthermore, their bloodline and inherent suspicious nature allows the infernal warrior to discern and see mysteries concealed in the dark.",
+								"They also make ferocious combatants. An inherent strength allows them to wield greatweapons such as glaives, greataxes, halberds and the like with relative ease, which lends itself to being capable alone as they explore the road.",
+								"{@b Embracing the Horns}. Infernal warriors have sought to profit upon the reputation of their heritage, choosing to be proud of their appearance and reputation, allowing it to shape who they are, drive fear into the hearts of those they oppose. As a result, their demeanour when facing those outside of their select inner circle is charismatic and intimidating, fearless and bold.",
+								"{@b Suspicious Nature}. The infernal warrior is neither easily deceived nor influenced. They are keen observers of body language and other subtleties. Those who attempt to deceive them will not be given a second chance to do so.",
+								"{@b Variant: Champion of Zariel}",
+								"The Archduchess of Avernus is always willing to accept those of fiendish heritage into her ranks, assuming they show promise. Those that do gain:",
+								"{@b Alignment}: Lawful evil",
+								"{@b AC}: 16 (half plate)",
+								"{@b Damage Immunities}: Fire",
+								"{@b Magic Resistance}. The champion of Zariel has advantage on saving throws against spells and other magical effects.",
+								"{@b Fury of Hell}: The champion of Zariel's weapon attacks deal an additional 10 (3d6) fire damage (4d6 total).",
+								"{@b Challenge Rating}: 7 (7,200 XP)",
+								"[Infernal Warrior]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500110/g8jJ5zRJEganxdihWv4Hqw/max.png?1671603268"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Ironstring Bard",
+							"entries": [
+								"The reputation of an Ironstring bard often precedes them, the Dwarven Showstoppers. Depending on who you ask, they are either the fastest mandolin player across the realm, or the hardest hitting brawlers you’ll ever grapple with. While ironstring bards do possess bardic magic, it is never their focus in teachings. They’re taught enough that in a pinch, it’ll give them the advantage over other performers, or combatants. Other bard schools will teach the countless rules for how to structure music or a fight, ironstring bards thrive in the chaos.",
+								"They typically wear fine clothes, dyed in the richest of reds or greens, earned from countless roof-raising performances.",
+								"The ironstring mandolin is a thing of beauty. Finely crafted iron wood reinforced with steel throughout. This is for two purposes, sturdiness and for whacking individuals. Most people hit by an Ironstring mandolin never forget the soreness the next morning, despite forgetting everything leading up to the whack. It their main weapon, other weapons they possess such as daggers or handaxes are merely a distraction, or to be used only in dire situations.",
+								"Confidence is a core tenant in the teachings of the Ironstring clan. Their bards must be confident in their musical, magical, and fighting skills, but that shouldn’t stop them from occasionally gloating. This is why from an initial meeting; they can seem rather brazen and cocky. The second tennant they teach is to never start a performance or a fight.",
+								"If a tavern has a bard, ironstring bards will insist that the tavern’s bard plays first, if only to improve their performance by comparison. For a fight the same sentiment applies.",
+								"{@b Ironstring}. The Dwarven clan of Ironstring lives by a sole motto - “Play loud, fight louder.” While most clans settle to carving out a fortress within a mountain to call their home, the Ironstrings are a roaming caravan of musicians. Bards travel far and wide for the honour of seeing the Ironstrings perform, and fighters arrive once the songs have ended and the fights begin.",
+								"Due to their travelling nature, the Ironstring clan is incredibly well respected as at the drop of a hat they will pack up and travel tirelessly to other dwarven keeps in need. When any ironstring bard announce their desire to travel, the clan are understandably disappointed, but who better to scour the land singing the praises of the Ironstring clan than one of their own.",
+								"{@b Showstopper}. The origins of the Showstopper nickname for ironstring bards somewhat fits the dichotomy of their teachings. When the Ironstrings would meet with other bards, they would ensure that an Ironstring played last because who could follow such a skilled musician? Their music would enchant those listening, bringing even the most stubborn of dwarves up onto their feet. However, it wasn’t until the sun set, the booze had ran out, and the crowd grew rowdy that the nickname took hold.",
+								"No matter how early or late an ironstring bard arrived at a brawl, it was only mere moments away from being stopped.",
+								"So, if someone refers to an Ironstring Bard as “Showstopper” and they have all their teeth, they’ve seen them perform and well, if they’re missing some, they’ve seen them brawl.",
+								"[Ironstring Bard]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500107/OUiahIEYD1gUM0DsSrv9Iw/max.png?1671603267"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Man-at-Arms",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320185387/5GDbTdK_wSBxtoBGQHWTzw/max.png?1672171049"
+									}
+								},
+								"Though legions of citizens become part of their homeland's military, the lion's share of warfare has and will always fall to for-profit soldiers known as mercenaries, sellswords, and soldiers of fortune. Many veterans, unsuited to civilian life, find themselves unsettled and wishing to a return to the peculiar structure and camaraderie of war. Such people, highly trained, seasoned in the art of negotiating battle, and fighting for thrill and profit, may be labeled a man-at-arms.",
+								"{@b Machines of War}. A man-at-arms is trained to fight with a variety of weapons and has, through study and experience, a keen understanding of siege tactics, battlefield maneuvers, and elaborate training programs meant to unify and harden groups of mercenaries under their charge. A man-at-arms is likely to keep most of their worldly possessions at hand as expensive weapons, armor, equipment, and mounts, oftentimes making them more flamboyant and flashier than courtly knights despite their more modest daily lifestyle.",
+								"{@b By Land, Sea, or Air}. While common soldiers may be stationed at a single outpost for a decade, a man-at-arms is much more likely to travel great distances with their mercenary company in pursuit of coin and conflict. As such, they have at least a passing knowledge of all means of transportation and battlefronts, be they aboard ship, land mount, or areal combat. A man-at-arms who can expertly step into a variety of roles will find themselves with many more opportunities to sell their services. Some even keep trained exotic mounts, such as riding lizards, griffons, and even giant seahorses for such occasion as they are needed.",
+								"{@b Natural Leaders}. With experience comes respect among mercenary bands. A single man-at-arms can have twenty or more mercenaries under their command in battle. Though they, themselves, take orders and enact battle plans of their commanders, their word is practically law among common recruits and sellswords. During battle, the presence and commands of a man-at-arms could reshape the entire battle in the mercenaries' favor, overcoming seemingly overwhelming odds.",
+								"[Man-at-Arms]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Marked Hunter",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320190890/lBz8qGDyRSxTbQmAGgwLcQ/max.png?1672173573"
+									}
+								},
+								"Wild elves, or green elves as they are known to some, are those who do everything within their power to remain close to nature. They prefer to wear little, covering their earned furs, feathers, body paints, and in some cases tattoo. Marked hunters are those who believe those who specialise in the hunt, believing that their role within the circle of life is of the utmost importance.",
+								"They do not hunt for thrills, only for necessity. From hares to bears, they treat each hunt with equal respect. One the kill is complete; they add markings to their body that gives them a temporary blessing of that animal’s essence. Depending on where the markings are placed, shows how the marked hunter treated the fight. A tattoo on their face is one that was hard fought, two animals on equal footing, whereas those smaller around the legs were trivial. The shape of the tattoo tells a lot about the hunt, those which are circular or smooth were low threats, whereas the ragged ones were more dangerous.",
+								"A marked hunter that returns home with a tattoo upon their face are welcomed as heroes, celebrations are held for an entire ten-day where the entire tale of the hunt is retold in detail. Marked Hunters are often granted titles that reflect their proudest kill, but these titles often change as their hunts progress. Names for adolescent marked hunters could be “Hare of Haste”, where elders would have “Mother of Bears” and such titles.",
+								"Fundamentally, marked hunters do not take kindly to intruders within their domains. Anything that risks upsetting the delicate balance of nature is considered a threat.",
+								"However, their ability to stalk, lends them to simply watching any trespassers, waiting until they make one slight before being dealt with using savage efficiency.",
+								"{@b Essence of the Kill}. Marked Hunters make use of a combination of druidic craft and runic magic, the tattoos on their bodies are made using the blood of their hunt. During marking, the marked hunter enters a trance as their natural instincts takes over the process of tattooing. The spirits meet with the essence of the creature they simply killed, as they begin to understand the core of what it means to be that creature.",
+								"Once the marking is complete, marked hunters possess heightened senses or abilities akin to the animal slain. For example, a recently slain hare can grant bursts of incredible speed, whereas a bear would make their strikes far more ferocious. Their enhanced abilities are initially fleeting, but with each kill the Marked Hunter learns more of the beast’s nature, until they embody the essence of the beast.",
+								"{@b Marks of the Hunt}. Wyverns, dragons, and hydras, any of these markings are considered legendary for any marked hunter. They are so uncommon, and most do not even survive the attempt. Most marked hunters work in solitude, wishing for the marks on the body to be earned entirely by their own merit, however some believe wholeheartedly in the power of the pack. The markings gathered during a pack hunt are either split or granted upon the one who dealt the killing blow. Marked hunters are not competitive in nature, one with three markings are not lesser than one with eight, both have contributed to the cycle of life.",
+								"[Marked Hunter]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Martinet",
+							"entries": [
+								"Well equipped, expertly trained, and practiced in the art of quelling riotous outbursts from the realm's most deadly citizens, martinet forms cohorts: standing together as a single, unshakable force. They act as both shield and spear for the citizenry. Putting their honor and lives on the line, they stand back to back and shoulder to shoulder with their fellow martinets against any threat to themselves and a civilized way of life.",
+								"{@b Answers to a Growing Threat}. With the coming of threats capable of displacing or destroying entire villages, cities, or even wiping clean an entire region of citizens, so to have come powerful adventurers to stand opposed to those threats, defeat them, and alter the very fate of life itself for a great many people. However, there must be judiciary balance in all things. Common militia and city guards are woefully illequipped to enforce governmental law on those as capable and well equipped as proven adventurers often are. in response, the martinets were trained to do exactly that.",
+								"{@b Honed Warriors}. Martinet cohorts, often referred to simply as “martinets,” are hand-chosen from enlisted soldiers, mercenaries, noble houses, and even young wouldbe adventuring fellowships for their skill in battle, unwavering determination, or implacable moral character. It is through rigorous training in group tactics, martial combat, and study in the application of magic that a martinet is forged into the nigh unstoppable combatant unit they are. Armed with silvered or adamantine weapons, sturdy armor, and strong, broad shields, a cohort of martinets can turn away nearly all attackers and retaliate just as effectively.",
+								"{@b Strength in Numbers}. The bulk of Cohort training is in the mastery of weathering vicious attacks and surviving long enough to subdue powerful, resourceful foes. As such, when two or more martinets stand together as a single unit, their tactics, training, and even the application of rudimentary magic can make them a neigh unstoppable force. A common phrase during training is ” A martinet alone is exposed.” It is not unlikely to see a single Martinet flee from a battle until reinforcements arrive. Some mistake the maneuver as cowardice and pursue, often running headlong into a deadly reprisal.",
+								"{@b The Cohort}",
+								"It is uncommon to see a more than two fully trained martinets in a village or town with a small populace unless traveling or on training exercises.",
+								"In large settlements they travel as a traditional unit, called a “cohort,” which is made up of 6 martinets. When facing a single adversary, they form a crescent moon shape, back their target into a corner, and surround it. When surrounded themselves, the Cohort forms a diamond shape around the two most wounded martinets, who support the rest. When in dire circumstances, mages accompany the cohort and are protected on all sides by the trained martinets.",
+								"[Martinet]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319711931/u30Z1nZtsIf2h0gArX4vCg/max.png?1671753510"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Moonlit Shadow",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500139/_BtEIXAV8S4CwSe8VExmjA/max.png?1671603270"
+									}
+								},
+								"Elves of the deep woods are a people draped in mystery. They largely keep to themselves and hope outsiders do the same.",
+								"Those elves that do venture beyond the forest’s edge are are typically scouts, diplomats, or sometimes outcasts, but rarely representatives the populace as a whole.",
+								"The scouts are trained foresters, remaining hidden unless revealing themselves is required to protect the territory they patrol. Diplomats are politicians, groomed to ferret out knowledge without divulging more than is necessary to maintain the appearance of peaceful intentions - but who can trust the words of an outcast when everything they say is tainted by whatever circumstances forced their separation from their homeland?",
+								"Yet it is from these pariahs that stories of the moonlit shadows come. Stories the scouts claim ignorance of and which the diplomat’s dismissals fairy tales. But the outcast is unafraid to speak on the matter, for what more do they have to lose?",
+								"{@b Sworn to Serve}. Moonlit shadows are said to be the deadly enforcers of the wood elf society, bound by blood and sorcery to mete out whatever justice the kingdom requires.",
+								"They come from all walks of life, from the humblest of glade dancers to the highest of court nobles — even the crown princess herself might be called into the ranks should she pass the test. It is not clear why such a clandestine organization was founded to begin with, nor what rituals the candidates must undergo, but at the end of their trials they are transformed into something both more, and yet less, of their former selves.",
+								"{@b Of Light and Dark}. Irrespective of their rank and station, each moonlit shadow draws power from two aspects of the night: the light and the dark. Moonbeams and starlight are their guiding beacons, while shadows and gloom wrap them in protective mantles. Thus, it is at night when a moonlit shadow is at its most powerful. Sliding effortlessly between the trees, they are mere whispers and flickers of darkness.",
+								"[Moonlit Shadow]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Purifier",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320221129/sO0sGIg-tg6sJJjmnd_Wmw/max.png?1672188190"
+									}
+								},
+								"Believing that they their purpose on the Material Plane is singular in nature, purifiers are master of hunting the undead and cleansing all corrupted lands where these foul beasts once walked. Famed heroes in their own right, though they complete their mission not for glory, purifiers are drawn to areas intense undead activity.",
+								"{@b Spreading Knowledge}. Purifiers know the strengths and weaknesses of many types of undead, and they openly spread their teachings to those they meet in the hopes that their underlings may better defend from the soulless. Often sought out by religious orders, these hunters seek no reward for their deeds beyond the satisfaction they gain from cleansing the land of an undead blight.",
+								"{@b Bane of the Dead}. These experts have encountered (and eradicated) almost every form undead in existence. A ghastly ghoul, an eerie poltergeist, or an infamous lich - there are no strength or weakness they have not studied and confirmed.",
+								"{@b Purifier Tactics}",
+								"{@b Gather the Townsfolk}. Instead of rushing head first into battle against hordes of undead, the purifier will gather townsfolk, train them on how kill the vile undead.",
+								"{@b Empower the Brave}. Should a purifier be unable to deal with an undead blight directly, it may bestow the bravest among a party of adventurers with a boon by enchanting a weapon with its Blessing of the Blade feature.",
+								"[Purifier]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Pyromancer",
+							"entries": [
+								"Of all the different schools of magic in the known realms, the art of pyromancy is among the oldest and most primal. A pyromancer draws on the spark of heat inherent in almost every form of living thing---be it the light of the sun, the warmth of the earth, or the passion buried deep in the caster's own heart, like a miniature volcano waiting to erupt.",
+								"Because of its universal nature, most creatures are capable of some form of pyromancy, given the proper tutelage.",
+								"This is not to say, however, that the art of pyromancy is simple. Like the flame itself, pyromancy is violent and unpredictable, spreading out of control with the slightest lapse in concentration. Pyromancy draws heavily on its wielder, and without proper discipline, it will rage through the caster's body and consume it like dry tinder. The most accomplished pyromancers have a mantra: \"It is much more difficult to hold a candle than to start a wildfire.\"",
+								"{@b Druidic Heritage}. Many of the oldest druidic circles are dedicated to pyromancy and the flame. These circles emphasize the duality of flame: though fire can be a powerful force of destruction, it can also nurture the wielder with warmth and light. The most accomplished of these benevolent circles can perform great and unusual feats with pyromancy, such as purging the body of poison and disease or dispelling enchantments and other shadows over the mind.",
+								"However, just as many druidic circles choose to emphasize the violent aspect of flame. These circles ravage the enemies of nature, using fire to decimate crops, fill the air with suffocating smoke, and melt the metal structures and shrines of the civilized world. These druids aren't always evil, but they generally lean towards the chaotic, believing that the imposition of order is a plague on nature---and fire is the most potent cure.",
+								"{@b Other Sources}. Although it is the most common source of pyromancy, a relationship with nature is not the only way to procure a mastery of flame. In the field of wizardry, the School of Evocation represents expert control over energy and creation. Many evocationists choose to focus on fire in particular, as its properties surrounding heat and light make it extremely versatile.",
+								"On the other hand, many consider pyromancy a dark magical art, and for good reason. Pyromancy is a power gifted to many a cultist or warlock by the masters of the Lower Planes. The most significant example of this phenomenon is the archdevil Mephistopheles, who perverted pyromancy to create hellfire. Mephistopheles distributed this flame to his cultists---sometimes because he believed they were capable of controlling it, but most often because their annihilation at their own hands was amusing to him.",
+								"Pyromancers that wield hellfire are particularly dangerous, as their flame is able to burn fiends, elementals, and other fire-aligned creatures.",
+								"{@b Kossuth's Guidance}. While the Elemental Primordials typically keep their worshipers at an arms length, the Tyrant Among Fire has been known to take an interest in pryomancers on Material Plane. In rare cases, when a pryomancer shows exceptional promise, Kossuth may reached out by injecting signs or visions into their fiery magics, with the goal of guiding them towards joining one of the three traditions that worships the Lord of Flames: the disciples of the Phoenix, the disciples of the Salamander, or the Brothers and Sisters of the Purifying Flame.",
+								"[Pyromancer]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500134/edTMbxTgkdr7B8_shI5o5A/max.png?1671603270"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Rebel Knight",
+							"entries": [
+								"It is generally unknown who was the first rebel knight and where the order originated or if there even is an order.",
+								"Reports of knights bearing the distinct red and black colors, always traveling alone, are rare enough that it is unlikely that two would cross paths much less share a common quest.",
+								"They may just be lone fighters who have embraced a common legend.",
+								"Although these grizzled knights are notoriously short on words–some might say surly–this much has been surmised by those who have been fortunate enough to fight alongside them in one cause or another. Reports from those who have met them in battle are beyond rare, so history is lacking their perspective.",
+								"As some knights age and wizen, they discover that their loyalty has been misplaced. The vast majority of those who faulter, simply disappear–either at the hands of their peers or by fleeing into obscurity. Only the most accomplished are brave and feared enough to openly reject the reign of their patron and survive. As fierce, determined, and undaunted as they were when their purpose was subject to royal decree, they are more so when united to their moral cause.",
+								"Rebel knights are easily identified by the colors and nature of their regalia. Some witnesses believe that the red and black represent the blood and death that come to those who dare oppose their cause. Others suggest that the colors represent a loose association with established factions that have benefitted from their solidarity–red for the historical purpose, if not the persons, of the Lord’s Alliance, and black for the Order of the Gauntlet. If there is a thread of truth to this speculation, the associations are likely distant; as these lone warriors are too jaded by the ruse of diplomacy presented by the Lord’s Alliance, and their sense and execution of justice too individualized for the Order of the Gauntlet. As such, neither faction would turn away the assistance of a knight adorned in the red and the black.",
+								"{@b Symbolic Patron}. Rather than bearing the coat of arms for a particular dominion or principality, each knight carries the banner, and affects the appearance, of the animal symbol that best represents their personal mission. This symbolic patron is usually one of the simple beasts, and although the lion is the most common symbol among coats of arms, it is never adopted by a rebel knight.",
+								{
+									"type": "table",
+									"caption": "Symbolic Patron",
+									"colLabels": [
+										"Symbolic Patron",
+										"Typical Cause",
+										"Ability Bonus"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-3 text-center",
+										"col-2 text-center"
+									],
+									"rows": [
+										[
+											"Bear, Boar",
+											"Protection from physical domination; children.",
+											"Strength"
+										],
+										[
+											"Fox, Weasel",
+											"Protection from subterfuge and trickery.",
+											"Dexterity"
+										],
+										[
+											"Serpent, Lizard",
+											"Protection from undead, disease, and decay.",
+											"Constitution"
+										],
+										[
+											"Eagle, Wolf",
+											"Protection from magical domination; the uneducated.",
+											"Intelligence"
+										],
+										[
+											"Owl, Rhino",
+											"Protection from insidious threats and demonic influence.",
+											"Wisdom"
+										],
+										[
+											"Rooster, Tiger",
+											"Protection from social domination and devils; the poor",
+											"Charisma"
+										]
+									]
+								},
+								"[Rebel Knight]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500143/j_AC5KLEFXFVxbKVEOg5JQ/max.png?1671603270"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Red Witch",
+							"entries": [
+								"Not to be confused with the Red Wizards of Thay, a red witch can be a powerful ally or an even more powerful foe. Much like the wizards of a similar name, they often worship deities whose portfolios include power or deceit, such as Bhaal.",
+								"Though they believe themselves to have a deeper understanding of their chosen deities’ motivations, the “motivations” of that deity are always suspiciously favorable of the red witch. While they prefer to manipulate and coerce their way into positions of power, often using their alleged godly connections, they become incredibly ruthless when confronted or directly opposed. It is not uncommon for a scorned red witch to attempt to raze an entire town and build a new one in its place with their handful of followers.",
+								"Despite their evil nature, a red witch can be an excellent ally - when the terms suit them, of course. They may seek out adventurers to help see their opposition declared heretics, or to take out those who publicly question the red witch’s godly connection. They are rarely straightforward or honest with these requests, however, and are capable of weaving lies and half-truths into convincing tales.",
+								"{@b Godly Connections}. Every red witch claims to have a superior connection to their chosen deity, though few if any are ever clerics or actual clergy members. They frequently claim to have prophetic visions, which they then manipulate others into fulfilling. You can often find them making a show of reading omens in flaming braziers or pools of blood.",
+								"Though they claim these messages are directly from their deity, they are always made up to suit the red witch’s own desires and goals. Due to their talent for manipulation, it is uncommon for common folk to become suspicious of a red witch’s claims. Those who do often disappear, or find themselves mysteriously having a change of heart.",
+								"{@b Blood Magic}. The most powerful red witches have the power to not only manipulate a creature’s mind, but their body as well. While most find this kind of magic abhorrent, the witches see no problem using it to get their way. Any ability that blood magic may have to be used benevolently is lost on them; their desire to harness the power of blood is purely for selfish means. A lust for power drives them to use any measures necessary to succeed.",
+								"{@b Devilish Charm}. Though they typically make no deals with devils, unwilling to offer even a crumb of their power to another being, the charm wielded by red witches is dastardly.",
+								"Even without magic, a red witch could bring a kingdom under their thumb with a well-placed rumor and a smile.",
+								"Being magic users, however, no red witch will test their luck by relying on charisma alone. All of the witches have an arsenal of spells at their disposal, with a focus on bending the minds of others in their favor. They may have minions under their spell, ready to fight for them, or politicians ready to imprison the witch’s opposition. One should never underestimate the power a red witch holds over those around them.",
+								"{@b Variant: Bhaal's Chosen}",
+								"The Lord of Murder takes a special interest in red witches that swear their fealty. Those that do gain:",
+								"{@b Spellcasting}: Bhaal's Chosen is an 11th-level spellcaster, and gains 1 additional 5th level spell slot and a 6th level spell slot. It learns the following spells: cloud kill, disintegrate.",
+								"{@b Challenge Rating}: 8 (3,900 XP)",
+								"[Red Witch]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500132/tJiV6CN-m0BXIj6TOkWjIA/max.png?1671603270"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Retired Red Wizard",
+							"entries": [
+								"The Red Wizards of Thay terrorized the rest of Faerûn for hundreds of years. The only magocracy on Toril, Thay is a place where to practice the Art is to be of the ruling class.",
+								"These days, Red Wizards don't have the fearsome reputation they used to have. Red Wizards travel throughout the Realms, selling and trading spells and magic items, and seeking longforgotten magic. If you ask them why, they'll say \"purely for the good of the Art!\" But wise folk take that with more than a few grains of salt.",
+								"Another type of Red Wizard appearing more and more often in western lands are Red Wizards who call themselves \"retired.\" They say politics in Thay is exciting. What they mean by \"exciting\" is \"a process where you rise over the smoldering corpse of the person just above you on the ladder\". For some Thayan wizards, the process of murder and paranoia becomes too much, so they teleport as far away from Thay as possible and disappear.",
+								"Some Red Wizards retire to small towns and hamlets throughout Faerûn, such as the town of Yartar; a town about as far from Thaymount as it's possible to go without taking ship to the Moonshaes. They are likely to let hair grow out to hide tattoos, change their names, and grow a fabulous moustache. If anyone asks about their patched old red robes, they tell tails of second-hand bargain shopping and couldn't pass them up despite the color.",
+								"Retired wizards might hire themselves out to adventuring parties looking to augment their magical firepower in hopes of a renewed excitement that has been fleeting over the years since their departure.",
+								"{@b Magical Artillery}. Red Wizards specialize in a certain school of magic, devoting themselves to it and ignoring the others. Many retired red wizards are evokers, specializing in destructive spells.",
+								"{@b Quiet Fence}. Many retired wizards maintain their lust for magical items, and have developed a reputation for paying handsomely to acquire them. Local adventurers (and the Hand of Yartar thieves' guild) know this well, and their homes typically see many visitors entering with wears and leaving with a full coin purse.",
+								"{@b Terrible Secret}. Retired red wizards lives in fear. The Red Wizards of Thay don't just let a wizard retire quietly; you either learn to cope with the Thayan system or you die. Those that do flee fear the Thayans will come after them one day.",
+								"Constant fear guides their interactions, for should anyone find out who they really are and where they come from, they'll either be run him out of town, or worse. A retired red wizard will kill to keep their secret.",
+								"{@b Wand of Deliberation}",
+								"Wondrous item, rare (requires attunment)",
+								"When a creature that you can see within 60 feet of you casts a spell that requires concentration, you can use your reaction to have the creature make a DC 15 Constitution saving throw. On a failure, the spell has no effect. The creature losses the spell slot.",
+								"[Retired Red Wizard]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320226260/Z1FGR0ijQt9ZxqEDyAwjwQ/max.png?1672190598"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Rune Weaver",
+							"entries": [
+								"It has been said that the quill is mightier than the sword, and that is true for none more so than the rune weaver. Rune weavers are masters of written arcana. They understand that magic is the true language of the universe, and they are more fluent than any other. Although they prefer solitude to study, a rune weaver's skill is extremely valuable to any who can entice them to ply their trade.",
+								"Each rune weaver has a preferred medium for their art.",
+								"Some carry mighty tomes, others small notebooks. Especially rare rune weavers take ink to skin, permanently tattooing runes onto themselves and others.",
+								"{@b Runic Mastery}. Rune weavers have spent their life studying every kind of rune. There is no sigil, no glyph, no word of power that they cannot recognize. Rune weavers can create their own runes with relative ease, the complex motions and intricate details serving as a second nature.",
+								"Many runes are well-known and powerful, but each rune weaver has at least one private rune of their own making.",
+								"Some use their abilities to hide secrets or store power, while others use their abilities for the betterment of all.",
+								"For many rune weavers, their specialization comes at a cost. The singular focus on arcane runes and glyphs does not allow time to study more common areas of spellcraft. Often, rune weavers display incredible feats of arcane engineering while being unable to produce even simple cantrips.",
+								"{@b Disciplined Mind}. Complicated runes, sigils, and glyphs are pedestrian to a rune weaver. They cast such spells much more quickly and effectively than other spellcasters.",
+								"{@b Universal Understanding}. Rune weavers read the language of magic, and no lesser language holds any secrets to them. Rune weavers are capable of reading any written language, the intent of the words magically imparted to them.",
+								"{@b Rune Options}",
+								"{@b Rune of Fire}. On a weapon, this rune provides +1d6 fire damage. On a worn object, this rune provides resistance to fire damage.",
+								"{@b Rune of Frost}. On a weapon, this rune provides +1d6 cold damage. On a worn object, this rune provides resistance to cold damage.",
+								"{@b Rune of the Mountain}. On a weapon, this rune provides +1d6 bludgeoning damage. On a worn object, this rune provides resistance to bludgeoning damage.",
+								"{@b Rune of the Sky}. On a weapon, this rune provides +1d6 lightning damage. On a worn object, this rune provides resistance to lightning damage.",
+								"{@b Rune of the Grave}. On a weapon, this rune provides +1d6 necrotic damage. On a worn object, this rune provides resistance to necrotic damage.",
+								"{@b Rune of Grace}. On a worn object, this rune provides a +2 bonus on Dexterity ability checks.",
+								"{@b Rune of Vision}. On a worn object, this rune provides a +2 bonus on Intelligence ability checks.",
+								"{@b Rune of Poise}. On a worn object, this rune provides a +2 bonus on Wisdom ability checks.",
+								"{@b Rune of Beauty}. On a worn object, this rune provides a +2 bonus on Charisma ability checks.",
+								"[Rune Weaver]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500128/zyuZLxwVID0jWoRrPWilwA/max.png?1671603269"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Sewer Druid",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500118/zPct9pxH9JFhPWJ0XEtqBw/max.png?1671603268"
+									}
+								},
+								"Not every druid protects the scenic mountains or lush forests.",
+								"\"Sewer druid\" is a somewhat derogatory term for adherents of the Old Faith who choose the less glamorous borders between civilization and nature. Some actually live in sewer tunnels; others dwell in abandoned ruins or sea caves accessible only at low tide. Other names for them include \"rat kings\" or \"street shamans.\"",
+								"{@b Outcasts by Choice}. Sewer druids have chosen to live alongside society without taking part in it. They frequently have reputations as madmen or misanthropes, but something has drawn them to remain in the city. Perhaps they have some lingering affection for the world they have left behind, or perhaps they just have sympathy for the small creatures crushed beneath the city's boots.",
+								"Sewer Druids often prefer the company of animals, adopting colonies of rats or flocks of birds. They tend to eschew shapeshifting, asking favors from their animal friends rather than adopting their forms.",
+								"{@b Grounded Spirituality}. Sewer druids revere nature without romanticizing it. If a sewer druid worships a particular god, they will often talk about them more like an old friend than a transcendent being. If they serve animal spirits, their offerings will be food rather than prayers.",
+								"{@b Eyes Everywhere}. A sewer druid can be a valuable resource for those seeking information. They have a close bond with a city's vermin and know much about what takes place there. Rats live in every nook and cranny of a city while birds fly overhead looking for discarded scraps. The animals don't understand complex concepts but will know about new construction, large gatherings, and the like.",
+								"{@b Anonymous Guardians}. Monsters like oozes and giant spiders are usually accepted as part of the druid's territory, but the presence of undead or aberrations is one of the few affronts that may drive them to seek outside help. Many an underdark incursion has been prevented by a rat bringing a message to a city's leaders.",
+								"{@b A Sewer Druid's Lair}",
+								"Most sewer druids rarely venture outside their subterranean lairs, preferring to use animals as their eyes and ears in the outside world. A sewer druid encountered in its lair can draw upon its power to take lair actions and has a challenge rating of 5 (1,800 XP).",
+								"{@b Lair Actions}",
+								"On initiative count 20 (losing initiative ties), the sewer druid takes a lair action to cause one of the following effects; the sewer druid can’t use the same effect two rounds in a row:",
+								{
+									"type": "list",
+									"style": "list-hang",
+									"items": [
+										"A swarm of rats under the sewer druid's control forms within 30 feet of it. The swarm remains for 1 minute, until the druid dies, or until the druid dismisses it as a bonus action.",
+										"Fetid gas bursts up in a 5-foot radius sphere within 60 feet of the sewer druid. A creature in the area must make a DC 13 constitution save or be poisoned until the end of its next turn.",
+										"A tide of filthy muck spreads over a 20-foot square within 60 feet of the sewer druid, making it difficult terrain for 1 minute (the sewer druid is not affected in this area)."
+									]
+								},
+								"[Sewer Druid]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Shadow Mage",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320229964/e7nTsq1wcG8__tulAcR7rg/max.png?1672192444"
+									}
+								},
+								"Mystra’s weave flows differently in each plane and through every element, touching each essence that resides within. A wizard's ability to harness these different essences and combine them allows for unique kinds of magic to be created and wielded. Shadow mages understand this connection as much as anyone, but while others might try to engage with the Weave for curiosities sake, these wizards know that the search for knowledge will always lead to power.",
+								"Those that gain an understanding of the Weave in these elements and the ability to control it, gain with it a knowledge that is not seen by many. One needs to understand the Weave that resides in the shadow to tap into it. Extracting this magic allows them to harness the Weave to utilize the powers from light and darkness. Using this magic allows the shadow mage to craft magic that mixes the forces of illusions and conjuration, blending a craft that is rarely shared. By default, shadow mages become the protectors of this knowledge, allowing them to bring forth a power that can protect or destroy those around them.",
+								"{@b Shadow Touched}. With shadow essence running through their veins, shadow mages know that their power is dependent upon the darkness of the shadows around them.",
+								"Finding ways to be surrounded or near these areas is going to be vital to their success in maintaining their power during combat. While it may be seen as a weakness when one runs to the darkness to hide, the shadow mage is entering the darkness to harness the power within.",
+								"{@b Shadow Weavers}. The shadow mage being a weaver of light and darkness is known for making illusions of shadows to dance. Sometimes these shadows can be in a playful manner to entertain others by conjuring shadow puppets.",
+								"Other times what was once an innocent shadow puppet can now be their ally in defeating their foes.",
+								"[Shadow Mage]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Shield Sentinel",
+							"entries": [
+								"When soldiers take to the frontline of battle with the proper military training, they eye their foe to gage the proper actions of the situation. The more battles they witness, the more experienced they become on utilizing their skills. Becoming a hardened soldier, they gain the insight of understanding the strength of numbers and moving as a single unit to maintain control of the battlefield.",
+								"Throughout the land, shield sentinels can be found in any place that previously had armies or employed soldiers for combat. They are always ready for combat and martially trained with the shield able to use it offensively and defensively; a shield sentinel will never be seen without it in their hand.",
+								"The shield sentinel being a veteran of combat has developed a keen eye for positioning themselves strategically to aid their allies. As the battle rages on around them, they aim to control the tides with their shield, applying skills taught and acquired through years of combat. Utilizing their strength with their shield, they are dependable and reliable, making them an excellent addition to any party.",
+								"{@b Inspirational Leaders}. Shield sentinels are natural leaders and aspire to rise during times of need. Prior to planned combat, they reach out to their allies and engage in inspirational dialogue to motivate and prepare them for the coming battle ahead. Such inspiring engagements energize their allies, allowing them to harness the strength of being found in the shield sentinel’s words.",
+								"{@b Shield Skills}. A shield in a skilled hand can be as useful as a bladed weapon in combat. When combat erupts, the shield sentinel is the one you want next to you - a guide to control the surrounding chaos. Driven to protect others, the shield sentinel will go to great lengths to place themselves between their allies and pending danger.",
+								"{@b Valiant Safeguard}",
+								"Armor (shield), rare (requires attunement)",
+								"This shield has 3 charges, which recharge a dawn. While you are holding it, you can speak its command word as a reaction to cause the shield to create a projection of itself to protect a creature that you can see within 15 feet of you that is being attacked. The creature adds a +5 bonus to its AC for the triggering attack, then the projection fades.",
+								"[Shield Sentinel]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320230762/Eyzq_G3tHFzcWZ7_p-Ywnw/max.png?1672192850"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Stasis Dragon",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500103/jeyqcgvn3GjxJ8nZDuPROA/max.png?1671603267"
+									}
+								},
+								"Natives of the Elemental Plane of Earth, stasis dragons hibernate deep within the earth’s crust or in the heart of enormous mountains, curling up on the threshold of a planar gateway. The dragon’s body, lying half in the Material Plane and half in the Plane of Earth, acts as a formidable seal while they sleep.",
+								"Dormant for centuries at a time, these primeval beasts are said to devour mountains upon waking from their long slumber. As much a force of nature as it is a living creature, a stasis dragon cares little for the destruction it causes in its efforts to sate its hunger.",
+								"Yet there is a method to its madness. Certain environmental conditions trigger the waking of a stasis dragon. For example, if a region has been poisoned (by magical or mundane means) to such an extent that nature cannot recover on its own, a stasis dragon could arise to purge the land of toxins. Likewise, if there is an extended imbalance between good and evil or between law and chaos, a stasis dragon might awaken to reset the scales.",
+								"{@b Noble Purpose}. Younger stasis dragons eat less and explore more, getting to know the territory they have been entrusted to safeguard. While generally larger in comparison to their more colorful cousins, stasis dragons are typically less intelligent. However, neither are they as conniving or capable of intentional evil. Golden treasures and dominion over others are motivations for lesser dragons.",
+								"{@b Stasis Chamber}. Stasis dragons favor natural caverns with tight spaces and few entry points, and unless the dragon has just recently settled down for its centuries long slumber, the area is rich with flora (lichen or moss) and fauna (insects and crustaceans) that naturally fill the subterranean habitat.",
+								"These locations have a natural affinity for and a primal connection with the Elemental Plane of Earth, creating interesting anomalies in the region:",
+								{
+									"type": "list",
+									"style": "list-hang",
+									"items": [
+										"Tunnels and passageways leading to the lair constantly shift and change; the way in is never the same way out.",
+										"Deep crevasses within 1 mile of the dragon’s lair form portals to the plane of earth, allowing creatures of elemental earth into the world to dwell nearby.",
+										"If the dragon dies, these effects fade over the course of 1d10 days as the planar gateway it guarded collapses in on itself."
+									]
+								},
+								"[Stasis Dragon, Young]"
+
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Stormzerker",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500133/X1vGh2SvRMf6qY3Oj86a-A/max.png?1671603270"
+									}
+								},
+								"From deep within the wastelands and deserts comes a barbarian tribe of half-dragons and dragonborn. Descendants of blue dragons, these wild warriors harness the power of their ancestors to fuel their rage and fury.",
+								"Much like their dragon ancestors, these blue half-dragons and dragonborn prefer living in desert caves they call sietches. These villages, or sietches, are designed to be hidden from outsiders so the tribe can live in secret when necessary, which are not unlike other barbarian tribal villages but only inhabited by blue half-dragons and dragonborn.",
+								"Amongst these barbarian half-dragons and dragonborn are a select few who are elite warriors, capable of harnessing the breath of their ancestors and using the power of the storm dragons to enhance their prowess in battle.",
+								"The stormzerkers often patrol the deserts and wastelands around their secretive sietches in small groups. When trouble brews, the horns are sounded, and the barbarian hordes assemble to defend their sietches. At the center of the barbarian army are elite stormzerkers, leading the charge against their foes.",
+								"Unlike their blue dragon ancestors, these barbarians are not typically evil in nature. They are indifferent to most folk who are not their kin and not of the tribe. However, they are quick to hostility when their way of life or their sietches are threatened. They will often go to battle simply to protect the secrecy of their cave-villages as well.",
+								"{@b Draconic Nature}. Half-dragons are incapable of having natural born offspring. Those that wish to propagate must find other ways to do so, almost always involving magic. By way of compensation, half-dragons are blessed with long life.",
+								"Barring unforeseen misfortune, a typical half-dragon's life expectancy is twice that of its no draconic line, so that a halfdragon human might live more than a century and a half.",
+								"In the case of these desert barbarians, they have developed a deep connection to spiritual magic that allows them to procreate and continue the tribe's lineage.",
+								"{@b Storm Aura}. When stormzerkers fight, they emanate a stormy magical aura. This aura is filled with the crackling power of lightning and makes the stormzerkers dangerous foes to get close to.",
+								"{@b Breath Weapon}. Not all blue half-dragons are capable of wielding the power of their ancestral lightning breath, but stormzerkers can. These barbarian warriors can unleash a bolt of lighting from their maws in much the same way as their much larger ancestors can, though their breath is weaker in strength.",
+								"[Stormzerker]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Sunwitch",
+							"entries": [
+								"Most practitioners of magic shy away from the light of day if their art is one of woe and corruption. Almost the polar opposite of these dark magi, the sunwitch channels the beauty of the sun into her magic—an ancient magic known as solomancy.",
+								"{@b Shadowbane}. A sunwitch is detested by all manners of creatures that skulk through the shadows: wraiths, bodaks, subterranean horrors, and, of course, vampires. Sunlight is to these monsters anethema. It comes as no surprise, then, that once a sunwitch is discovered in their territory, the creature does not rest until he or she is strung up and quartered, the light of their magic lost to the darkness that pervades that dismal demesne.",
+								"{@b The Dawn After Dark}. Sunwitches are a symbol of hope— in fact, their magic cannot be evoked by those afflicted with sorrow. Only those with a pure heart (or delusions thereof) that shines with mirth and joy can call upon the power of solomancy. When a sunwitch has proven problematic for a foe that cannot face him or her on the battlefield, that villain often resorts to breaking them emotionally targeting their friends, family members, causes, or even just strangers.",
+								"Every person has a breaking point, after all, and eventually, the sunwitch must crumble - right?",
+								"Alas, a sunwitch's mettle is made of sterner stuff. Their magic depends on it and even reinforces their ability to hope, to see past the veil, to push on when the wise and the weak have already faltered. To break them is to break a mountain.",
+								"{@b Doomed to Die}. It's true that the good die young—for sunwitches that do not continue their crusade against the dark often find that the powers that once came so easily to them become more distant and harder to harness. Like a sword whose only whetstone is further conflict, a sunwitch unwilling to part with their gift will find no shortage of causes to champion. The simple truth of it is this: most sunwitches perish in their duty. The forces of evil that they so vex are without number. A sunwitch, like any other person, can only ply their luck so long before they themselves faulter. It only takes one mistake to kill a man; the sunwitch is always under fire. Either the sunwitch dies in service for a just cause or lives long enough to see him- or herself become a mere shadow of their former selves.",
+								"{@b Variant: Radiant Sunwitch}",
+								"A sunwitch that continues its craft can later grow into the legacy of a radiant sunwitch. Those that do gain:",
+								"{@b Spellcasting}: The radiant sunwitch is a 7th-level spellcaster, and gains 1 additional 3rd level spell slot and a 4th level spell slot. It learns the following spells: fireball, sickening radiance.",
+								"{@b Challenge Rating}: 4 (1,100 XP)",
+								"[Sunwitch]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320233451/1WvYOlNSeNUE5Hq5tWLWew/max.png?1672194048"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Sylvan Defender",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500122/PXcc_3EuKIiAepQnfZcYtw/max.png?1671603269"
+									}
+								},
+								"The Emerald Enclave - one of Faerûn's largest and most active factions - has its origins in the Vilhon Reach. The Reach is part of the Sea of Fallen Stars in central Faerûn, a long, narrow strip of sea that points like a finger from Turmish toward Calimshan.",
+								"Headquartered on the island of Ilighôn, the Emerald Enclave guards the mouth of the Vilhon Reach. From there it acts as protector of all of Faerûn's forests, from Chult to the Lluirwood, from the Forest of Lethyr to Neverwinter Wood.",
+								"For centuries, they have fought against human encroachment on the forests. In the beginning, the druids fought Chondathan loggers over-harvesting in the Chondalwood.",
+								"Later, they simply destroyed loggers. When Chondath sent soldiers to teach them a lesson, the druids destroyed armies.",
+								"When, many years ago, Turmish tried to invade Ilighôn, the Enclave destroyed cities.",
+								"{@b Stalwart Defenders}. Now that the faction has activities and responsibilities throughout Faerûn, it no longer rules any place with an iron fist. Some members of the faction, however, have not forgotten their original purpose. The sylvan druids defend their woodlands with every ounce of magic, power, and spite they can bring to bear.",
+								"These druids don't hug trees. They send elementals to destroy anyone and anything who threatens their trees - that is, if they don't just change shape into a ferocious creature rip out the offender's throat.",
+								"[Sylvan Defender]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Teeth Collector",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320234178/sw9yZ8Jkgv825NbQgSLgjw/max.jpg?1672194546"
+									}
+								},
+								"Teeth collectors from a cursory glance, may appear just like any other goblin, and while their pointed ears or bulbous nose might confirm those beliefs; teeth collectors are rather unique. In any gathering band of goblins, they are often one of the eldest - surviving twice as long as most comes with a certain amount of wisdom, or so they would have you believe.",
+								"Teeth collectors, as their name might suggest, are fascinated with teeth or fangs of all creature. They are avid collectors, a connoisseur of sorts. Their leather armor is covered in a mixture of sharpened fangs. For weaponry, the wield a club that is adorned in a vast collection of sharpened teeth, making each hit feel as if you’re being bitten by a savage beast.",
+								"These goblins have the potential to become a somewhat competent goblin boss, if they set their mind to it. A teeth collector could easily unite a small band of goblins to a common tooth related cause. Unfortunately, greed holds on tightly; they often can’t imagine sharing a single tooth, or trust anyone to get teeth on their behalf.",
+								"{@b Trophy Collection}. Wherever a teeth collector goes, their trophy collection comes with them - even into the heat of battle. Often wearing teeth along a necklace or having a multitude of fangs tied to his leather armor, teeth collectors can have up to three leather pouches of varying sizes filled with teeth. Some goblins follow a strict one tooth per creature rule, one that they often break if they find a creature with a pair of huge fangs, because what goblin wouldn’t collect them all? The bags have no semblance of order, so you’re just as likely to find a the tooth from a cow as an ogre.",
+								"Some teeth collectors can tell the exact origin of when and where they found each tooth, recounting the story and keeping the valuable teeth close in secret hidden collections.",
+								"Simply because in the heat of battle, they’re just as likely to throw a bag of sharpened teeth if it means they’ll escape to find more, and arguably better teeth.",
+								"{@b Opportunist}. Some may question the authenticity of how a teeth collector claimed some of their teeth. Rightfully so, as only a low percentage of any number of a teeth collector’s collection are earned by their own fighting efforts. However, despite being ill-gotten gains, they’ll protect their collection using tooth and nail. Most teeth are merely found in caves and in forests, or in some cases collected by finding a dazed creature to aggressively yank teeth from.",
+								"{@b Variant}: Maglubiyet's Chosen",
+								"While some teeth collectors are simply fascinated with growing their personal stash, others salvage the dead's ivories as a tribute to the High Chieftain.",
+								"Those that do gain:",
+								"{@b Cheat Death} (1/Day). When Maglubiyet's chosen is reduced to 0 hit points but not killed outright, it can drop to 1 hit point instead.",
+								"{@b Desperate Attacks}. If Maglubiyet's chosen has less than half of its total maximum hit points, it has advantage on melee weapon attacks.",
+								"{@b Challenge Rating}: 3 (700 XP)",
+								"[Teeth Collector]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Tile Shark",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500131/r9W-Y3GPHm5JOxQ25o8CUQ/max.png?1671603270"
+									}
+								},
+								"Gambling with tiles of bone and bamboo takes some practice; winning with them takes skill, luck, and at times brazen confidence.",
+								"As with most games of chance, cheating is a time(dis)honored tradition in mahjong. But is it cheating to create magical mechanisms that just happen to provide a slight (or sleight of hand) advantage at the table? or is it simply leveraging one’s natural talents to put forth one’s best efforts?",
+								"{@b Unconventional Crafter}. The tile shark is a meticulous crafter, imbuing finely constructed pieces with a spark of magic. Resourceful and creative, tile sharks are always looking for ways to up their game.",
+								"{@b Backup Plan}. Living the life of a tile shark isn’t without its risks, so it pays to be prepared for a fight - or a speedy exit.",
+								"Sometimes hurling magically enhanced mahjong tiles or rapid-fire launching arcane fireworks is just the distraction needed. Having a quick disguise and an alter ego or three doesn’t hurt either.",
+								"{@b Arcane Hwach’a}",
+								"{@b Armor Class} 18 (natural armor)",
+								"{@b Hit Points} 22 (5d8)",
+								"{@b Speed} 15 ft., climb 15 ft.",
+								"{@b Damage Immunities} poison damage, psychic damage",
+								"{@b Condition Immunities} all conditions",
+								"As a bonus action on the Tile Shark's turns, it can command the Arcane Hwach’a to use a volley attack (described below), and move up to its movement speed.",
+								"{@b Volley}. Ranged Spell Attack: +7 to hit, reach 120 ft., any number of targets in a 15-foot-diameter-circle. Hit: 4 (1d8) force damage.",
+								"[Tile Shark]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Troll Mystic",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320237274/XZetr32fNveyE7HdDjSFnA/max.png?1672196513"
+									}
+								},
+								"Not all trolls are mindless eating machines. It is unknown how long trolls are capable of living, due to their natural ability to regenerate. Some trolls survive for decades. Some, for even longer ...",
+								"Deep in the swamps, bogs, and natural wilds where trolls make their homes, there are a few who have lived longer, survived more fights, and have matured and learned along the way. Amongst those few are even rarer trolls - those with innate magical abilities.",
+								"{@b Respected Leaders}. Between their age and their mystical magical powers, other trolls fear and respect these mystics so much that they are naturally thrust into the role of leader of troll bands, whether they seek leadership or not.",
+								"{@b Sacrificial Magic}. Some sorcerers are masters of blood magic, others claim their is dragon's blood in their ancestry and that is their source, while other sorcerers aren't sure of the source of their innate magical abilities.",
+								"Troll mystics power their magic through their flesh. Often when troll mystics cast their spells, the somatic component involves chopping off a finger or a bit of flesh. While most troll bits that are cut off can grow into new trolls, in this case, the corrupted magic consumes the flesh to power the spell.",
+								"{@b Wild Magic Limbs}. Whenever a troll mystic takes at least 15 slashing damage from one attack, roll a d20 on the Wild Magic Limbs table to determine what else happens to it.",
+								"When indicated, roll on the Wild Magic Surge table (PBH pg.104) to determine an effect (results that have to do with sorcery points should be rerolled).",
+								{
+									"type": "table",
+									"caption": "Wild Magic Limbs",
+									"colLabels": [
+										"d20",
+										"Result"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-5 text-left"
+									],
+									"rows": [
+										[
+											"1-10",
+											"Nothing else happens."
+										],
+										[
+											"11-14",
+											"One leg is severed from the troll if it has any legs left. This leg is instantly consumed by wild magic. Roll on the Wild Magic Surge Table."
+										],
+										[
+											"15-18",
+											"One arm is severed from the troll mystic if it has any arms left. The arm is instantly consumed by wild magic. Roll on the Wild Magic Surge Table."
+										],
+										[
+											"19-20",
+											"The troll is decapitated. The troll's head is instantly consumed by wild magic.  Roll three times on the Wild Magic Surge table. If the troll can't regenerate, it dies."
+										]
+									]
+								},
+								"Variant: Troll Shaman",
+								"Troll mystics that are uninterested in overseeing their kin inevitably set out on their own, giving them time to further delve into the mystic arts.",
+								"Those that do gain:",
+								"{@b Spellcasting}: The troll shaman is a 7th-level spellcaster, and gains 1 additional 3rd level spell slot and a 4th level spell slot. It learns the following spells: misty step, blight, polymorph.",
+								"{@b Challenge Rating}: 7 (2,900 XP)"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Wayfarer",
+							"entries": [
+								"Most Wayfarers make their living as guides, scouts, or bounty hunters, putting their expert training and keen senses to use traveling to the most hostile, remote places in of the known and unknown world. Should travelers, intent on venturing into the jaws of the unknown, be wise enough to enlist the services of a wayfarer for the journey, they just may just return from the expedition unscathed.",
+								"{@b Meticulous Trackers}. It is said that a wayfarer with a mind to do so could follow the wing beats of a sparrow through a sandstorm. It is not uncommon for a wayfarer to spot signs of natural predators, ambushes, or detect the traces of lingering magical effects with just a glance. While utilizing their years of experience, natural ability, and study, some laypeople may mistake a wayfarer's tracking ability as magical in nature.",
+								"While some are known to utilize such magic, it is often unnecessary and considered a luxury.",
+								"{@b Unburdened Pathfinders}. Most wayfarers have little need for heavy packs or beasts of burden laden with supplies.",
+								"What they need, the environment can easily provide. From braiding spools of vine rope, crafting cactus needle caltrops, or creating water jugs from plants or shells, a wayfarer is seldom caught underprepared.",
+								"{@b Natural Predators}. Though their many remarkable talents and skills lie in navigation and tracking, wayfarers are capable of stalking through the world like hunting cats, striking with deadly efficiency while armed with all manner of weapons and magic. Their spells, much like their prowess in combat, are focused on stealth, speed, and survival above all else. The wayfarer's path is a difficult one, and all would be wise to never underestimate their resolve.",
+								"{@b Variant: Wayfarer Beast Trainer}",
+								"Some wayfarers train and travel with powerful companions that help them navigate the world and aid them in combat. Those that do gain:",
+								"{@b AC}: 16 (breastplate)",
+								"{@b Traveling Companion}: A beast that has a challenge rating of 3 (or lower)",
+								"{@b Multiattack}. The wayfarer beast trainer uses its companion's attack, then makes two scimitar attacks.",
+								"{@b Companion Attack}. The wayfarer beast trainer's animal companion moves up to its speed and makes a single melee attack against a creature of the wayfarer beast trainer's choice. If the target is within 5 feet of the wayfarer beast trainer, the attack is made with advantage.",
+								"{@b Challenge Rating}: 6 (2,300 XP)",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500155/bchXNJ0o5BQ3u0iMqlEcGA/max.png?1671603271"
+									}
+								},
+								"[Wayfarer]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320238579/hwDD9f_cWe8D8x4YtPa-Sg/max.png?1672197459"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Wildwood Virago",
+							"entries": [
+								"Rarer than myth, silent and unseen, only a whisper of legendary ...",
+								"These elves of the forest are it's protectors. Fierce, deadly, and decidedly vicious in their defense of the forests of the land. Dedicated to the gods of nature and keeping the natural beauty of the forests secure, these warriors train and mercilessly defend their forest realms with deadly cruelty.",
+								"Living in secret enclaves, deep within their forests, the wildwood virago are legendary warrior women. Training for decades before they're allowed to participate in the defense of the forest, these women are highly disciplined soldiers, capable of nearly silent coordinated attacks on forest invaders and monsters.",
+								"{@b Forest Speech}. The wildwood virago begin learning from an early age a special language that combines bird, insect, and animal sounds with complex hand signals that allows an entire army to communicate and coordinate attacks on unsuspecting forest invaders.",
+								"{@b Dedicated Protectors}. Devoted to their forests, the wildwood virago will defend their forest borders with extreme prejudice. When outsiders enter their forest, they follow, observe, and silently judge. Those who simply pass through their forest, treating it with the respect it is due, never know how close they came to a violent and swift end.",
+								"On the other hand, those who come to abuse the natural beauty and wonder of their forest are buried in it's soil, fuel for the forest to grow upon.",
+								"{@b Isolationism}. The virago are usually very isolated from the rest of the world. Their common tongue would be heavily accented, perhaps even a bit broken as if they aren't fully fluent in the language. They are also be very aggressive towards outsiders and may even act superior.",
+								"Even passerby’s that had proven they were no threat to the forest may still be treated with extreme caution and suspicion.",
+								"{@b Patrols}. The wildwood virago hunt and patrol their forests in small tactical units, usually in groups of four or five. When they find an outsider or a group of outsiders that have entered their forest, they shadow them, observing while remaining unseen and unheard.",
+								"If the outsiders do not violate the forest under the wildwood virago's protection, they will allow the outsiders to pass unharmed and unaware of their presence. But if an outsider violates the sanctity of the forest, the virago will call out using their forest speech to bring in enough reinforcements for them to have decidedly deadly and insurmountable odds against the invaders.",
+								"When those invaders inevitably fall, the wildwood virago bury the dead where they were slain, unless their presence would corrupt the forest.",
+								"{@b Wildwood Virago Tactics}",
+								"The wildwood virago usually tries to break line of sight using the foliage and trees of the forest for cover and concealment, then attempts to hide from her foes to obtain advantage on her first attack in the following round.",
+								"[Wildwood Virago]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320238808/Lkxa7tdQ96_iOQVPr4pEgg/max.png?1672197652"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Wildwood Zealot",
+							"entries": [
+								"Armed with prehistoric power, ferocious forest defenders, willing to give the last full measure of devotion...",
+								"To think of them as simply druids is to not see the forest for the trees.",
+								"These forest-dwellers are fierce and utterly lethal. Their wholehearted devotion to the forest is rivaled only by the institutional loyalty trained into the wildwood virago. Their spellcasting is granted not by gods of nature, but by primal forces far more ancient and primal than mere 'gods'.",
+								"The zealots of the wild woods are soft-spoken whisperers when they speak to the trees and animals of the land, but when their forest is threatened, their voices boom out terrible words of power to bring forth the powers of nature against those that would violate the forest.",
+								"{@b Isolated}. When alone, a wildwood zealot will often employ the animals of the forest when he needs assistance to ward off invaders of his forest. But when in the company of wildwood virago, a wildwood zealot will allow the warrior women to do much of the fighting, instead using his spells and abilities to support and heal them as needed.",
+								"When possible, a wildwood zealot will prepare an area to combat his foes, even using woodland beings to guide their foes to an area he has prepared with the Druid Grove spell.",
+								"The wildwood zealots probably have not spoken out loud for many months, if not years, so their voices may be rough and they many pause several times in their speaking as they are trying to remember the right words. They would are always aggressive and angry with those who have invaded the forest.",
+								"The wildwood zealots often live in absolute isolation, plants and animals their only companions. But sometimes, they live in forest enclaves, surrounded by legendary warriors also devoted to the forest's safety. When they do, they often parent many children to further the future generations of arboreal protectors.",
+								"{@b Primal Spellcaster}. Most druids pray to gods of nature or the feywild. Not the wildwood zealots. They devote their faith in primal forces of nature and are rewarded with powerful magic.",
+								"{@b Shapechanger}. The wildwood zealots, like many druids, are capable of changing into a beast form. Most wildwood zealots have a form they prefer. Usually this beast takes the form of a primal beast they have a spiritual connection with.",
+								"[Wildwood Zealot]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320239369/kLTMV3oCZNaIyX1Ateh5dg/max.png?1672198054"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Witchtaker",
+							"entries": [
+								"Witchtakers are warlocks who specialize in capturing their targets alive. They are experts in bringing enemies to the brink of death then snatching them away before anyone can stop them.",
+								"Death would be a welcome escape for many of a witchtaker's captives. The sort of beings powerful enough to dispatch a witchtaker rarely do so out of mercy.",
+								"{@b Hell's bounty hunters}. The first witchtakers served devils, hunting down any mortal who dared break an infernal contract. But they soon found that their skills were in high demand from mortals as well, kidnapping nobles from their beds and hunting down outlaws no one else would dare to capture.",
+								"Now witchtakers can be found serving all sorts of masters, from crime lords to kings and from the nine hells to mount celestia. Some practice their craft out of a sense of justice, but most care only for gold and power.",
+								"{@b Savvy pursuit}. Witchtakers are expert trackers, using skills both magical and mundane to hunt their targets. They often bribe servants or pickpockets to steal a lock of hair or personal possession from their target to enhance the effectiveness of their scrying spells.",
+								"{@b Arcane secrets}. The magical techniques taught to witchtakers are closely-guarded secrets. Even the most powerful archmages have been unable to replicate their mastery of teleportation circles. Some scholars theorize that the first witchtakers must have been taught by some ancient being involved in the construction of the circles themselves.",
+								"Witchtakers usually know the sigil sequences for several permanent teleportation circles but may not be welcome at all of them. More than one witchtaker has been banned from a city after a dangerous enemy followed them back through their portal.",
+								"{@b Witchtaker Patrons}",
+								"The statistics presented here represent a witchtaker who could be found serving variety of masters. If you want to customize a witchtaker to follow a specific patron, here are some suggestions:",
+								"{@b Archfey}. Add sleep (13d8) and dominate person to the spells known.",
+								"{@b Celestial}. Add cure wounds (5d8 + 4) and flame strike to the spells known.",
+								"{@b Fiend}. Add fireball (10d6) to the spells known and resistance to fire damage.",
+								"{@b Great Old One}. Add telepathy 60 ft. to languages and Synaptic Static to spells known.",
+								"{@b Hexblade}. The pact rod is replaced by a pact blade that deals 8 (1d8 + 4) slashing damage plus 9 (2d8) force damage.",
+								"{@b Undying}. Add silence and contagion to the spells known.",
+								"[Witchtaker]",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319500114/W_--iAZFJSpPaZFcZ-SlCA/max.png?1671603268"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Woodland Outrider",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320240218/Cs0oJ5iTa0yPh6kKcAEGKA/max.png?1672198855"
+									}
+								},
+								"Clad in light leathers and creeping amongst the shadows of undergrowth in the tangles of the forest, the woodland outrider is a stealthy and secretive scout. Preferring to operate alone, the woodland outrider is a loner at ease in forest environments and with the creatures therein but finds the bustle and crowding of urban centers distasteful. While they prefer a life of solitude and exploration, they will at times join with groups of like minded adventurers when their curiosity is piqued. They care little for treasure and riches, seeking only to explore their domains and watch over the creatures therein.",
+								"{@b Keen Senses}. The woodland outrider is keen of eye and ear, able to notice the subtlest of tracks and trails. They can even discern the changes in bird songs that may suggest their quarry is near.",
+								"{@b Master of the Forest}. With their intimate knowledge of the forest, the presence of a woodland outrider is difficult to detect even to the most alert and wary quarry. They are patient, remaining motionless until they are absolutely certain movement is safe.",
+								"{@b Poisonous Arrows}. The woodland outrider is a skilled archer. Their study of the forest allowed them to develop a potent toxin that coats their arrowheads, immobilizing targets within moments of being even grazed by one of their envenomed arrows.",
+								"[Woodland Outrider]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Worldly Riftcaller",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320240701/ptaBDFBvOjWsfdCN6NIKDA/max.png?1672199073"
+									}
+								},
+								"Imbued with the essence of the planes themselves, worldly riftcallers have a special connection with spheres throughout the multiverse that allows them to travel between them seemingly on a whim. Known to embrace the chaotic nature inherent between conflicting planear ideologies, many riftcallers become overzealous in their interactions with denizens of their current local.",
+								"{@b Planewalker}. While others struggle to understand the planes and their connections, the worldly riftcaller can easily stride between worlds, cross greater distances and call upon planar beings to unleash their raw elemental power in their service.",
+								"{@b Unstable Magic}. The use of this rift magic can take a massive toll not only on the landscape, but on the riftcaller's own bodies as well. Skin may burn away to ash, hair singed beyond repair, even the loss of limbs is not uncommon. The deadliest event usually occurs upon the death of someone who harnesses this magic. When their body no longer contains such raw, unstable power - it is unleashed in a massive burst of raw force that desolates everything nearby.",
+								"{@b Otherworldly Equipment}. Through their travels, the worldly riftcallers meet many different beings from across the Multiverse. Their charming nature allows them to befriend many local denizens, which enables trade for many unique artifacts. Common among worldly riftcallers are their signature protective drapings and flintlocks, although they all seem to be vague on where they've acquired these items.",
+								"{@b Last Resort}. The secret weapon of the worldly riftcaller is the power to summon an enormous power from the rift itself, known as a sundering. This power can be used to devastating effect when properly employed, but could also result in the destruction of buildings, death of innocents, and devastation of the landscape.",
+								"[Worldly Riftcaller]"
+
 							]
 						},
 						{
