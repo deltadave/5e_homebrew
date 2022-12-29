@@ -2152,12 +2152,136 @@
 								"Hint: Foe’s Room Puzzle",
 								"You can make solving the Foe’s Room riddle easier by describing to any character who could feasibly see themselves in any blank surface (such as when they draw a sword or step close to the pool’s edge), how their reflection seems to smile wistfully for a brief moment. This may make the solution feel a bit less earned but beats never solving the riddle."
 							]
-						}
+						},
 						{
 							"type": "entries",
 							"name": "T4. Liar's Room",
 							"entries": [
-								""
+								"When the party enters this room from ‘T3. Foe’s Room’, read or paraphrase the following description:",
+								"The vaulted ceiling of this large, square chamber rises 30 feet above water level and is supported by 10 stone pillars. You arrive on a balcony with a 3-foot stone railing. Stairs on either side of the doorway leads 10 feet down to the floor.",
+								"Immediately in front of you, an elevated walkway leads to a glowing stone pedestal on a platform in the room’s centre. At the far end of the chamber, small steppingstones span a luminescent pool to a crescent-shaped section of floor. On this small isle sits an elaborate stone sarcophagus, surrounded by unimaginable treasures: coffers overflowing with gold and platinum, scrolls and books, as well as swords, shields and other items, their strong glow and exquisite make hinting at their magical power. At the southern end of the chamber a small set of stairs lead to a platform before a large mural depicting scene of battle. At the northern end of the chamber, several stairs lead up to a balcony just below the chamber's ceiling, ending at another platform and a mural showing a scene with several figures in joyous celebration.",
+								"This room presents itself as the hero’s last resting place, but that is not entirely true. The hero lies entombed behind the mural atop the balcony by the northern wall, where only those who knows the hero’s life and history will think to look.",
+								"{@b Stone Pedestal}. This stone pedestal sheds dim, blue light in a 30-foot radius. Inscribed on its slanted surface is the following poem in Common:",
+								"“Welcome friend, see clear where I lie,",
+								"Among my greatest treasure, my tomb you find, Resting forever, where lies won’t reach.”",
+								"This poem gives subtle hints about how to find the hero’s actual tomb (see ‘True Sarcophagus’ below).",
+								"{@b Murals}. Most of this room’s murals show fictitious events:",
+								"Piergeiron ruthlessly executing captive enemy soldiers, flying into war on the back of a red dragon, and conquering civilized settlements by sword and torch. A creature that examines the murals and succeeds on a {@b DC 13 Intelligence (History) check} recognizes that these images are lies. A character who has spent time looking at the murals in ‘T1. Entry Hall’, or who has previously succeeded on an Intelligence (History) check pertaining to the hero, has advantage on this check.",
+								"{@b Secret Door}. Only one mural, which decorates a 10-by-10foot section of the wall atop the northern balcony, shows a true event: an aging Piergeiron in joyous celebration alongside his daughter, Aleena Paladinstar and several of his friends, such as the Archmage Khelben Blackstaff and the adventurer Mirt. Piergeiron is smiling and raising a hand in salute to a crowd of cheering Waterdhavians. This scene is referenced in the poem – Piergeiron’s friends and family are his greatest treasures, and because this is the highest point in the room, the lava (or ‘lies’) won’t reach it (see ‘False Sarcophagus’). A character that investigates the mural up close notices that Paladinson’s raised hand is a pressure plate. If pushed, the wall slides open to reveal Piergeiron’s true sarcophagus.",
+								"{@b True Sarcophagus}. This small, musty room bears no ornaments, and contains nothing except for a sturdy stone sarcophagus. Within the sarcophagus, Piergeiron lies perfectly preserved by a permanent casting of the spell gentle repose. Interred with the hero are his magic items:",
+								"commander’s hope, ally’s reflection, and soldier’s luck. There are no more traps or riddles in the tomb – any character can simply reach down and take the items.",
+								"{@b False Sarcophagus}. The sarcophagus on the isle at the eastern end of the room is a decoy, meant to lure tomb robbers to their death. The treasures scattered around it are all made of painted iron, and the only enchantments on them are simple light spells to make them appear magical. The sarcophagus is empty.",
+								"If the false sarcophagus or any of the treasure surrounding it is touched, the doors back to ‘T3. Foe’s Room’ slams shut and become magically sealed for 1 minute. Have the characters roll initiative as all the water in the chamber turns into smoldering lava and begins rising toward the ceiling.",
+								"At initiative 20 each round after the first, the lava rises 5 feet until it reaches just to the edge of the northern balcony at initiative 20 on the fifth round. The lava remains here during the sixth round, before it begins receding at the same pace at the start of the seventh round.",
+								"At first glance, this trap seems like a death sentence for anyone inside the room. However, the lava is a lie – an illusion that works much like the spell phantasmal force. The lava exists only in the mind of the characters, who think they can hear, smell, and even feel the lava’s heat. A creature ‘submerged’ in the lava is blinded, moves at half speed, and takes 1d6 psychic damage (which it perceives as fire damage), when it enters the lava for the first time on a turn or ends its turn there. At any point on its turn, a creature can use its action to examine the illusion with a {@b DC 13 Intelligence (Investigation) check}. On a success, the creature realizes that the lava is an illusion, and is no longer affected by it.",
+								"The illusion, which is considered a 5th level spell, can be suppressed for 1 hour with a casting of dispel magic.",
+								"Otherwise, the illusion persists until the lava has receded back to water level again after 1 minute, upon which the doors leading out of the room to ‘T3. Foe’s Room’ also reopen.",
+								"{@b Hint: Liar’s Room Puzzle}",
+								"Hopefully, the characters will be wary of the sarcophagus and treasures directly in front of them, once they have read the poem on the stone pedestal. If the lava illusion is triggered, the fact that the lava never reaches the balcony where the secret door is should serve as another clue.",
+								"If the characters still can’t figure out where the true tomb is, you can have the hero deliver the treasures to the characters magically during their encounter with the Black Blade (see ‘The Hero’s Items’), or after their encounter with the villains."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Black Blade",
+							"entries": [
+								"While the characters have been exploring the hero’s tomb, the quasit Nuyk has been trailing them invisibly. When they found the way into ‘T4. Liar’s Room’, Nuyk hurried back to fetch Tarquin and the rest of the Black Blade. A short while later – quickly bypassing the traps and riddles in the other rooms – the Black Blade shows up to confront the party in ‘T4. Liar’s Room’.",
+								"{@b Stealth}. Upon their arrival, Tarquin ([draconic renegade]), Janiel ([moonlit shadow]), and Orwen ([sewer druid]) take position by the door and wait for an opportune moment to ambush the party, such as when the characters either find the true sarcophagus, or trigger the illusion on the false sarcophagus.",
+								"Have the villains make a group {@b Dexterity (Stealth) check} against the party’s passive Perception to determine how many characters are surprised once combat breaks out.",
+								"{@b Diplomacy}. If the characters clearly see Tarquin and the rest of the band entering the room, Tarquin attempts diplomacy first. He gloats about how he has tricked the characters into doing his dirty work for him, before offering them the opportunity to leave with their lives if they lay down their weapons and surrender.",
+								"In truth, Tarquin intends to slaughter the party once they have been disarmed, which a character succeeding on a {@b DC 13 Wisdom (Insight) check} realizes as soon as he says it.",
+								"{@b Combat}. In combat, Tarquin and the rest of the Black Blade focuses on getting the tomb’s treasure and may even inadvertently trigger the illusion on the false treasure as they do so. While tough and persistent, the tomb robbers are not suicidal. Any member of the Black Blade reduced to less than a third of their maximum hit points attempts to flee. If unable to do so, they throw down their weapons in surrender, if they think it will save their lives.",
+								"{@b Treasure}. Each member of the Black Blade carries the arms and armor featured in their statistics, explorer’s backpacks with 3 rations, and a pouch containing 1d4 onyxes (50 gp each) and 2d20 gp. Orwen also has a potion of resistance (cold) and Tarquin has the black blade.",
+								"{@b Note: Final Encounter Difficulty}",
+								"The final encounter with the Black Blade can be very tough, especially if it occurs while illusory lava is filling the chamber. While the best encounters are usually those that challenge the characters most, a total party kill is rarely fun for anyone.",
+								"Below are some ways you can adjust the difficulty of the final encounter to avoid catastrophe.",
+								"{@b Adjusting Hit Points}. The Black Blade would have had to face one of their members’ evil reflection in ‘T3. Foe’s Room’. You can use this encounter as an excuse to bring down their hit points or take away uses of their spells or class features.",
+								"{@b Using the Illusion}. If the characters are falling for the illusion and losing the fight because of it, you can allow any player character that takes damage from the lava to roll a {@b DC 13 Intelligence (Investigation) check} to disbelieve it, without using an action to do so. Simultaneously, you can also have the members of the Black Blade waste their actions attempting to examine the lava or escape from it, rather than attack the party.",
+								"{@b The Hero’s Blessing}. You can also use the characters’ heroic struggle with the NPCs to further enhance the mystic nature of the tomb. If faring badly, you can have the hero’s disembodied voice sounds in each player character’s head:",
+								"“There’s greatness inside you – all you have to do is believe in yourself”, granting them 10 temporary hit points and the effect of the bless spell (no concentration required) for 10 minutes.",
+								"{@b The Hero’s Items}. The hero’s magical items may also lend aid to the characters. If they have found the items before encountering the Black Blade, you can allow the characters to instantly attune to the items, so they can use them in combat. If they haven’t found the items yet, you can also have the weapon, shield and boots appear magically in the hands of one or more characters during the battle, as the hero’s disembodied voice says: “Your cause is just, adventurers. May these items serve you in your fight against evil, as they once served me.”"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Developments",
+							"entries": [
+								"If all goes well, the characters end up defeating the Black Blade and claiming the hero’s magic items. Depending on how they received the quest to go to the Hero’s Tomb, the adventure can end in various ways.",
+								"The Black Blade",
+								"If the characters manage to capture members of the Black Blade, they may be able to learn who sent them – perhaps Lord Protector Dagult Neverember, or another villainous character relevant to your campaign – unless you decide that the Black Blade is simply an opportunistic band of adventurers of dubious moral character, employed only by their own greed.",
+								"Members of the Black Blade that manage to escape the tomb may also become recurring villains, showing up to accost the party later in the campaign, perhaps still looking for the hero’s treasures – or revenge!",
+								"The Hero's Treasures",
+								"Depending on who gave the characters their mission, they may feel obliged to return the magic items, or leave them at the hero’s tomb.",
+								"If you want the characters to keep the treasure, you can have the hero’s disembodied voice speak to them while within the tomb: “My treasures are yours now. Keep them with you, use them for good, and – when your days of fighting evil are over – return them to me, so that other heroes like yourself can find them when it’s their turn to rise up.” Similarly, if the characters actually seem like decent, goodly heroes, a friendly character that hired the party to retrieve the items – such as Mirt of Waterdeep – can suggest that the characters hold on to them, and only return them when they no longer have use of them."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Adapting the Adventure",
+							"entries": [
+								"Just like the book this adventure comes with – Adaptable NPCs of the Guild – this adventure is created to be highly adaptable, making it usable in virtually any campaign or setting. Below is advice on how to adapt the adventure to your campaign and your party’s level.",
+								"{@b Adventure Background}",
+								"The essence of the adventure’s background is simple: a hero has been laid to rest with their magic treasures, protected from thieves and tomb robbers by puzzles and traps. A band of nefarious tomb robbers are trying to steal the magic treasures but have so far been stymied by the tomb’s defenses.",
+								"The most important thing to establish here is the identity of the hero since that will influence where the tomb is located and why the tomb robbers are trying to retrieve the hero’s treasures. Below are examples of suitable heroes you can use if the tomb is placed in the Forgotten Realms.",
+								"{@b Lord Nasher Alagondar}",
+								"Lord Nasher ruled Neverwinter until his death in the late 1300s. If you use Nasher, the tomb could be in the Neverwinter Wood and the murals in ‘T1. Entry Hall’ would show Lord Nasher adventuring with his party, The Northern Four, that time he slew a minotaur in battle, and the ruler embracing his son, Bann Alagondar.",
+								"{@b Lord Dhelt}",
+								"Lord Dhelt was Elturel’s High Rider and ruler until his death in the late 1300s. If using Lord Dhelt, the tomb could be in the Wood of Sharp Teeth, and the murals in ‘T1. Entry Hall’ would show Lord Dhelt on patrol with Elturel’s Hellriders, fighting off shadowy assassins in his bedchamber, and embracing his lover, the wizard Baranta Chansil.",
+								"{@b King Gareth Dragonsbane}",
+								"Gareth Dragonsbane was king of Damara until the late 1300s DR. If you use Gareth Dragonsbane, his tomb could be in Dunwood and the murals in ‘T1. Entry Hall’ would show King Gareth protecting the village of Bloodstone from an army of bandits, defeating the undead armies of the WitchKing Zhengyi, and holding hands with his wife Christine and son Murtil Dragonsbane.",
+								"{@b Adaptable Adventure Hooks}",
+								"Just like the adventure’s background, the hooks for the adventure given on pg.93 are also highly adaptable. Below are some ideas about how to fit the adventure into popular official fifth edition campaigns (beware, spoilers ahead!)",
+								"{@b Baldur's Gate: Decent into Avernus}",
+								"When speaking with Sylvira Savikas in Candlekeep, the wizard may urge the party to retrieve the items of Lord Dhelt, Elturel’s most revered ruler, from his tomb in the Wood of Sharp Teeth before their descent into Avernus. In this case, the Black Blade could be hired by High Overseer Thavius Kreeg shortly before his defeat at the hands of the heroes.",
+								"They could also be simple opportunists capitalizing on the chaos that has gripped Elturgard since Elturel’s disappearance and left the tomb completely unguarded by patrolling Hellriders.",
+								"{@b Lost Mine of Phandelver}",
+								"At any point during the characters’ stay in Phandalin, Sister Garaele, the young elf acolyte who acts as caretaker for the Shrine of Tymora, informs the characters that her ‘friends’ (the Harpers) have seen rough-looking sorts camped out by Lord Nasher Alagondar’s tomb in the Neverwinter Wood. She asks the characters to go to the tomb and secure the items, lest they fall into the hands of wrongdoers.",
+								"In this case, the tomb robbers could be hired by Dagult Neverember, who wants to use the items to cement his legitimacy as ruler of Neverwinter.",
+								"{@b Storm King's Thunder}",
+								"The threat of the rampaging giants – or the ancient dragon secretly behind it all – warrants the retrieval of the noble hero Piergeiron the Paladinson’s magic items from his tomb in Westwood.",
+								"The characters can learn about the tomb from the giant wizard Zephyros (who can even fly the characters to the edge of the Westwood) at the end of Chapter 1. The quest for Piergeiron’s items can also replace quest hooks given by NPCs at the end of Chapter 2, such as Urgala Meltimer in Triboar, Duvessa Shane in Bryn Shander, or Zi Liang in Goldenfields. The characters may also receive the quest from the heroic frost giant Harshnag once they meet up with him during Chapter 3.",
+								"In either case, you can have the Black Blade be sent by Iymrith, who wants to ensure that the magic items can’t be used to foil her evil plans.",
+								"{@b Waterdeep: Dragon Heist}",
+								"At any point during Chapter 2 or even at the end of the campaign, a friendly faction tasks the party with retrieving the arms and armor of Piergeiron the Paladinson in Westwood. The faction is acting on rumors that Lord Dagult Neverember – ousted Open Lord of Waterdeep – wants to spite Waterdeep by robbing their famed hero’s tomb.",
+								"This faction quest works particularly well if given by Vajra Safahr (Gray Hands), Mirt (Harpers), Jalester Silvermane (Lord’s Alliance), or Savra Belabranta (Order of the Gauntlet).",
+								"The characters’ reward is 1 renown with their faction, and the right to carry the items if they use them to aid Waterdeep and its citizens.",
+								"{@b Adjusting the Difficulty}",
+								"As written, the adventure will give a party of 2nd-level adventurers a tough challenge (especially one with fewer than five adventurers). If you feel the party may be overwhelmed by their final encounter with the Black Blade, consider removing the Janiel from the adventure entirely.",
+								"{@b Adjusting to 3rd Level}",
+								"For parties of four to six, you can increase difficulty by making the following changes:",
+								"T2. Thief’s Room. The traps deal 3d8 damage.",
+								"T4. Liar’s Room. The illusion deals 2d6 damage.",
+								"{@b Adjusting to 4th Level}",
+								"For parties of four to sixs, you can increase difficulty by making the following changes:",
+								"T2. Thief’s Room. The traps deal 3d8 damage.",
+								"T3. Foe’s Room. The witch’s statue is a red witch.",
+								"T4. Liar’s Room. The illusion deals 2d6 damage.",
+								"Black Blade. Tarquin is a stormzerker.",
+								"{@b Adjusting to 5th Level}",
+								"For parties of four to six, you can increase difficulty by making the following changes:",
+								"T2. Thief’s Room. The traps deal 4d8 damage and the DC for each saving throw increases to 14.",
+								"T3. Foe’s Room. The knight’s statue is an dauntless champion, the witch’s statue is a red witch, and the undead’s statue is a half-dragon revenant.",
+								"T4. Liar’s Room. The illusion deals 2d6 damage and the DC for discerning the illusion increases to 14.",
+								"Black Blade. Asiira is an infernal warrior and Tarquin is a stormzerker.",
+								"{@b Adjusting to 6th Level}",
+								"For parties of four to six, you can increase difficulty by making the following changes:",
+								"T2. Thief’s Room. The traps deal 4d8 damage and the DC for each saving throw increases to 14.",
+								"T3. Foe’s Room. The knight’s statue is an dauntless champion, the witch’s statue is a red witch, the monster’s statue is a chimera and the undead’s statue is a halfdragon revenant.",
+								"T4. Liar’s Room. The illusion deals 2d6 damage and the DC for discerning the illusion increases to 14.",
+								"Black Blade. Asiira is an infernal warrior, Tarquin is a stormzerker, and Janiel is an elk spiritrager.",
+								"{@b Adjusting to 7th Level}",
+								"For parties of four to six, you can increase difficulty by making the following changes:",
+								"T2. Thief’s Room. The traps deal 5d8 damage and the DC for each saving throw increases to 15.",
+								"T3. Foe’s Room. The knight’s statue is an dauntless champion, the witch’s statue is a red witch, the monster’s statue is a chimera and the undead’s statue is a halfdragon revenant.",
+								"T4. Liar’s Room. The illusion deals 3d6 damage and the DC for discerning the illusion increases to 15.",
+								"Black Blade. Asiira is an infernal warrior, Tarquin is a stormzerker, and Janiel is an elk spiritrager."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Magic Items",
+							"entries": [
+								"Below are all the magic items the characters can find while delving into the Hero’s Tomb. Two options are given for commander’s hope, ally’s reflection and soldier’s luck, enabling you to give the characters the more powerful version of an item if they complete the adventurer at a higher level. Alternatively, you can give characters the weaker version first, and let the items become more powerful as the characters advance in level or perform heroic deeds."
 							]
 						}
 					]
