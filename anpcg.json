@@ -11563,7 +11563,130 @@
 			"entries": [
 				"This shield has 3 charges, which recharge a dawn. While you are holding it, you can speak its command word as a reaction to cause the shield to create a projection of itself to protect a creature that you can see within 15 feet of you that is being attacked. The creature adds a +5 bonus to its AC for the triggering attack, then the projection fades."
 			]
+		},
+		{
+			"name": "Ally's Reflection",
+			"source": "gp_anpcg",
+			"baseItem": "shield|PHB",
+			"type": "S",
+			"rarity": "rare",
+			"reqAttune": true,
+			"weight": 6,
+			"ac": 2,
+			"bonusAc": "+1",
+			"entries": [
+				"This magic shield is crafted from a single sheet of platinum and embroidered with silver and gold.",
+				{
+					"type": "entries",
+					"name": "Ally's",
+					"entries": [
+						"While wielding this magic shield, you gain a +1 bonus to AC for every ally within 5 feet of you that isn't {@condition incapacitated} (up to a maximum of +2)."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Reflection",
+					"entries": [
+						"When a creature misses you with a weapon attack while you are wielding this magic shield, you can choose to reflect the attack back on the attacker. The creature must make a new attack roll for the attack against its own AC. On a hit, the creature takes damage and suffers other effects of the attack as normal. Once used, this property can't be used again until the next dawn."
+					]
+				}
+			]
+		},
+		{
+			"name": "Black Blade",
+			"source": "gp_anpcg",
+			"baseItem": "battleaxe|PHB",
+			"type": "M",
+			"rarity": "rare",
+			"reqAttune": true,
+			"weight": 4,
+			"weaponCategory": "martial",
+			"property": [
+				"V"
+			],
+			"dmg1": "1d8",
+			"dmgType": "S",
+			"dmg2": "1d10",
+			"axe": true,
+			"weapon": true,
+			"entries": [
+				"The blade of this magic battleaxe is so dark it seems to absorb light rather than reflect it.",
+				{
+					"type": "entries",
+					"name": "Master",
+					"entries": [
+						"This magical battleaxe contains a transmuted quasit. While attuned to the weapon, you can use an action to speak the battleaxe's command word and throw it up into the air. The battleaxe becomes a quasit, that is under your control and acts on its own initiative count.",
+						"The creature obeys any verbal commands that you issue to it (no action required by you). The creature reverts back to the weapon after if it's reduced to 0 hit points, or if you use a bonus action to end the transformation. Once used, this property can't be used again until the next dawn."
+					]
+				}
+			]
+		},
+		{
+			"name": "Commander's Hope",
+			"source": "gp_anpcg",
+			"baseItem": "longsword|PHB",
+			"type": "M",
+			"rarity": "very rare",
+			"reqAttune": true,
+			"weight": 3,
+			"weaponCategory": "martial",
+			"property": [
+				"V"
+			],
+			"dmg1": "1d8",
+			"dmgType": "S",
+			"dmg2": "1d10",
+			"bonusWeapon": "+1",
+			"recharge": "dawn",
+			"rechargeAmount": 3,
+			"charges": 3,
+			"sword": true,
+			"weapon": true,
+			"entries": [
+				"This magic sword is of excellent make, bearing faintly glowing runes on its adamantine blade. You have a +1 bonus to attack and damage rolls made with this magic sword.",
+				{
+					"type": "entries",
+					"name": "Commander's",
+					"entries": [
+						"When another creature within 30 feet that can hear and see you makes an attack roll while you are holding this magic sword, you can use your reaction to give that creature advantage on its roll."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Hope",
+					"entries": [
+						"This magic sword has 3 charges. While you carry it, you can use an action and expend 1 or more of its charges to cast {@spell aid}. For 1 charge, you cast the 2nd-level version of the spell. You can increase the spell slot level by one for each additional charge you expend. You can also use an action and expend 2 of its charges to cast {@spell beacon of hope}. The sword regains all expended charges daily at dawn."
+					]
+				}
+			],
+			"attachedSpells": [
+				"aid",
+				"beacon of hope"
+			]
+		},
+		{
+			"name": "Soldier's Luck",
+			"source": "gp_anpcg",
+			"rarity": "rare",
+			"reqAttune": true,
+			"wondrous": true,
+			"entries": [
+				"While clearly well-made, these otherwise unremarkable boots hide the great power contained within.",
+				{
+					"type": "entries",
+					"name": "Soldier's",
+					"entries": [
+						"While wearing these magic boots, you have advantage on death saving throws and saving throws against being {@condition frightened}."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Luck",
+					"entries": [
+						"While wearing these magic boots, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. Once used, this property can't be used again until the next dawn."
+					]
+				}
+			]
 		}
-		
 	]
 }
