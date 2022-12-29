@@ -1854,11 +1854,308 @@
 								"[Worldly Riftcaller]"
 
 							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Pathway to Adventure",
+					"entries": [
+						{
+							"type": "image",
+							"href": {
+								"type": "external",
+								"url": "https://s3.amazonaws.com/files.d20.io/images/319711924/d9bwuw6bgm5eInDPZUX2qQ/max.jpg?1671753510"
+							}
+						},
+						"An adaptable adventure for fifth edition Dungeons & Dragons, this Pathway to Adventure provides an engaging adventure with printable battle maps that Dungeon Masters can use to introduce some Adaptable NPCs contained within this book to their players.",
+						{
+							"type": "entries",
+							"name": "Introduction",
+							"entries": [
+								"In The Hero's Tomb, the characters are sent to retrieve powerful magic items from the tomb of a long-dead hero before a rival party of villainous adventurers beats them to it!",
+								"Along the way, the heroes will interact with interesting NPCs and face devious traps and riddles.",
+								"Being adaptable, this adventure is designed to fit a party of anywhere from 2nd to 7th level. In addition, the adventure’s background and hooks are also highly customizable, allowing you to use the Hero’s Tomb in virtually any campaign. The following adventure is set on the Sword Coast in the Forgotten Realms and balanced for party of 2nd-level adventurers, but on pg.102 you will find guidelines for adjusting the adventure to fit your campaign – as well as advice on how to include it in official campaigns."
+							]
 						},
 						{
 							"type": "entries",
-							"name": "Pathway to Adventure",
-							"page": 93,
+							"name": "Adventure Background",
+							"entries": [
+								"This adventure is centered around the tomb of a virtuous, honorable – and deceased – person of note. In the description below, the hero is assumed to be Piergeiron the Paladinson, but you can find more examples of suitable heroes on pg.101.",
+								"When Piergeiron the Paladinson, Open Lord of Waterdeep, died of old age in 1379 DR, he was interred in a tomb in Westwood, a few days ride north of Waterdeep along the Long Road. The beloved leader was buried with his magic arms and armor to keep them safe until the realm needed them once more. To dissuade tomb robbers, but still make it possible for true and noble heroes to visit Piergeiron and even retrieve the items in times of great need, the tomb contains riddles, traps and guardians to test the might and mettle of any who dares enter, allowing only heroes of noble character to find Piergeiron’s physical remains.",
+								"For more than a century, these protective measures have worked as intended, allowing Piergeiron to rest peacefully.",
+								"Indeed, most have forgotten about the tomb of the famous hero. One who has not forgotten, however, is Dagult Neverember. The disgruntled noble was deposed as Open Lord of Waterdeep by Laeral Silverhand in 1489 DR, and while he remains Lord Protector of Neverwinter, Dagult still holds a grudge.",
+								"Embittered, and growing increasingly tyrannical, Dagult Neverember has decided that Piergeiron’s treasures should rightfully belong to him. Hesitant to openly provoke Waterdeep and his powerful predecessor by sending Neverwinter soldiers to raid the hero’s tomb, Dagult has hired a band of nefarious adventurers to do his dirty work.",
+								"Led by the ruthless Tarquin, the Black Blade – as this band of adventurers call themselves – are now attempting to break into Piergeiron’s tomb and claim his long-lost treasures."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Adventure Hooks",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319711927/16RwQ6C5fFOkTYLVgZVxKw/max.png?1671753510"
+									}
+								},
+								"Below are three ways you can hook the characters into going to the Hero’s Tomb.",
+								{
+									"type": "entries",
+									"name": "A Chance Adventure",
+									"entries": [
+										"The adventure’s first encounter happens when the party comes across a ruthless mercenary pressing a peaceful wizard for information about the tomb (see: Under Duress, pg.94). Hooking the characters into the adventure can be as simple as having them stumble upon this encounter on their travels, after which the wizard tells the characters about the Hero’s Tomb, including the presence of powerful magic items.",
+										"The wizard beseeches the party to stop the tomb robbers and claim the hero’s items before they are stolen and used for evil."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Safekeeping",
+									"entries": [
+										"Mirt, a retired adventurer and one of Waterdeep’s Masked Lords, has heard rumors that Dagult Neverember is planning to claim Piergeiron the Paladinson’s magic items. Busy with matters of politics and – like Dagult Neverember himself – unwilling to start a diplomatic feud with Neverwinter, he opts to send proxies to retrieve the treasures. Mirt offers the adventurers a prize of 200 gp each if they can bring the items back to Waterdeep for safekeeping. He secretly hopes that they will show themselves to be noble heroes, in which case he will allow them to keep Paladinson’s treasures, as long as they use them for good."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Dire Need",
+									"entries": [
+										"If your campaign has a dire threat looming in the future, such as a rampaging dragon, an approaching army, or a demonic incursion, the hero’s tomb can offer a way for the heroes to prepare themselves for the battles ahead. The adventurers learn that the tomb holds magic items and that noble souls are permitted to claim them if the need is great enough.",
+										"Alternatively, you can have a friendly NPC, such as Mirt, or the leader of a relevant faction, suggest that the characters go to the hero’s tomb and retrieve the items to improve their chances against the looming danger."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Adventure Synopsis",
+							"entries": [
+								"This adventure constitutes a full day of adventuring and should take around 3–6 hours to play through. The adventure likely unfolds in the following sequence:",
+								"As the characters near the hero’s tomb they run into a mercenary accosting a wandering wizard. If they save the wizard or capture the mercenary, the characters discover that a band of ruthless tomb robbers are attempting to break into the hero’s tomb. Before the characters can reach the tomb, these tomb robbers - called the Black Blade - hide nearby.",
+								"From their hiding place they spy on the party in the hope that the characters will show them how to get past the tomb's magic defenses. From their hiding place, they follow the party’s progress, hoping that the adventurers will be able to lead them past the tomb’s magic defenses.",
+								"Within the tomb, the party must first pass through the Thief’s Room, where a devious riddle and dangerous traps punish thieves. In the Foe’s Room, the party will face dangerous foes, yet only be allowed entry once they realize that the worst foe is always oneself. In the Liar’s Room, the characters will seemingly have found their prize only to discover that the treasures before them are lies, crafted to burn those who falsely claim to know the hero. In the end, the tomb robbers show up to steal the tomb’s treasures from the characters. Only through heroic effort – and perhaps with a bit of the hero’s aid – will the adventurers be able to leave the Hero’s Tomb with both their lives and the wealth within."
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "The Hero's Tomb",
+					"entries": [
+						"In this description of the adventure, it is assumed that the party are 2nd-level adventurers, and that the tomb belongs to the former Open Lord of Waterdeep Piergeiron the Paladinson, who’s interred in Westwood, about 100 miles north of Waterdeep. See pg.102 for advice on how to adapt the adventure’s difficulty and descriptions to fit your game.",
+						{
+							"type": "entries",
+							"name": "The Hero's Tomb",
+							"entries": [
+								"In this description of the adventure, it is assumed that the party are 2nd-level adventurers, and that the tomb belongs to the former Open Lord of Waterdeep Piergeiron the Paladinson, who’s interred in Westwood, about 100 miles north of Waterdeep. See pg.102 for advice on how to adapt the adventure’s difficulty and descriptions to fit your game."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Getting to the Tomb",
+							"entries": [
+								"As the characters near Piergeiron the Paladinson’s tomb within Westwood, they stumble upon the hedge wizard Kopernikus being threatened by Asiira, an aspiring mercenary with the Black Blade."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Getting to the Tomb",
+							"entries": [
+								"As the characters near Piergeiron the Paladinson’s tomb within Westwood, they stumble upon the hedge wizard Kopernikus being threatened by Asiira, an aspiring mercenary with the Black Blade."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Under Duress",
+							"entries": [
+								"As the characters come within a few miles of the hero’s tomb, they hear loud voices coming from up ahead. Read or paraphrase the following description:",
+								"As you round a bend in the road, you hear loud voices coming from up ahead. Past trees, foliage, and the abandoned ruins of an old tollhouse, you can discern two figures standing in the middle of a rickety bridge spanning a deep ravine. A female figure is holding a slender man at arm’s length, the latter’s feet dangling more than 30 feet above the shallow river below. As you come closer, you can make out the words being shouted:",
+								"“Tell me everything you know about the tomb, you useless dimwit! And be quick about it – my arms are getting tired.”",
+								"The figure dangling from the bridge is the hedge wizard Kopernikus. Holding him is Asiira (aspiring mercenary), an enforcer for the Black Blade. While her companions are attempting to bypass the hero’s tomb’s defenses, the female tiefling is scouting the surrounding area to make sure they are working undisturbed. She came across Kopernikus, who readily explained that he was heading to the hero’s tomb. She is now interrogating the wizard under duress, believing – errantly – that the wizard knows how to bypass the tomb’s riddles and defenses. For his part, Kopernikus is calmly explaining that he does not know anything, appearing quite unconcerned with the danger of his predicament.",
+								"{@b Stealth}. If the characters succeed on a group {@b Dexterity (Stealth) check} against Asiira’s passive Perception, they can get within 30 feet of the henchman without being noticed.",
+								"They won’t be able to come any closer, unless invisible or hidden with magic. If Asiira takes damage while surprised, she loses hold of Kopernikus, dropping him from the bridge.",
+								"{@b Diplomacy}. If the characters approach openly, Asiira notices them once they are 60 feet away. She growls for the party to “mind your own business, this ain’t your fight!” and threatens to “throw this dolt off the bridge if you take one step closer”.",
+								"{@b Rope bridge encounter}",
+								"You can use this map to run the encounter. The characters are approaching from the west when the encounter starts, and Asiira will flee to the south if able.",
+								"{@b Rope bridge}. Each of the two ropes tethering the bridge haves AC 10 and 5 hit points.",
+								"{@b Ravine}. The ravine is 30 feet deep. A creature tethered to a rope can safely climb the ravine at half speed. Without rope, a character must succeed on a {@b DC 13 Strength (Athletics)} check to climb the ravine at half speed, falling into the ravine below on a failure.",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320354071/iAhvVrqnfu9qK3UdRHh7ow/max.png?1672276742"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Asiira (aspiring mercenary)",
+							"entries": [
+								"Asiira is a ruthless mercenary, driven only by her greed for coin, power and infamy.",
+								"{@b Conversation}. Asiira refuses to answer any questions, instead offering only her own: “why are you here?” and “what do you know about the tomb?”. If the characters claim to know a way into the tomb, she insists they tell her immediately, refusing offers to let them accompany her back to the tomb. When she thinks she has gotten all the information she can out of the characters, she flees with Kopernikus, destroying the bridge behind her as she does.",
+								"{@b Combat}. If the characters act hostile, Asiira makes good on her threat and lets Kopernikus drop 30 feet into the river below. She then runs to the opposite end of the bridge, slashes the ropes holding the bridge to cover her retreat, and retreats back to her friends at the hero’s tomb.",
+								"{@b Capture}. If the characters have Asiira at their mercy, and threaten to either harm her or offer her a bribe of at least 100 gp, she can tell them the following:",
+								{
+									"type": "list",
+									"style": "list-hang",
+									"items": [
+										"Asiira is a member of the Black Blade, an adventuring troupe led by the dragonborn Tarquin (draconic renegade).",
+										"The other members are Janiel (moonlit shadow) and Orwen (sewer druid).",
+										"The Black Blade has been sent to the hero’s tomb to retrieve something, but she doesn’t know what or for whom – and doesn’t care much. Tarquin usually keeps the details to himself, and she never asks questions.",
+										"Her job was to keep prying eyes away while the others tried (unsuccessfully, so far) to break into the tomb."
+									]
+								},
+								"{@b Treasure}. Asiira carries her weapons and armor, as well as a pouch containing 54 gp, 12 sp and an onyx (50 gp).",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": ""
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Kopernikus (hedge wizard)",
+							"entries": [
+								"Once a promising apprentice to a renowned mage, Kopernikus one day abandoned his studies and ventured into the woods to live as a hermit. He resides in a small hut not far from the hero’s tomb, where he spends his days tending a small herbal garden and smoking his pipe. Kopernikus has no goals or ambitions beyond continuing his calm, quiet existence.",
+								"If saved by the characters, the wizard mutters “by Mystra, that was intense, huh” before sitting down on a rock. After calming his nerves, the wizard happily gives the party the following information:",
+								{
+									"type": "list",
+									"style": "list-hang",
+									"items": [
+										"A few times each month, Kopernikus hikes up to the hero’s tomb to gaze blankly at the pretty murals in the tomb’s foyer. He was on his way to the tomb, when the tiefling assaulted him. She wanted to know how to get into the tomb – apparently, she and her companions intended to rob the tomb of its treasures.",
+										"Not wanting to disturb the peace of whoever is interred within, Kopernikus has never tried to delve further into the tomb. He can only describe ‘T1. Entry Hall’.",
+										"If the characters are not already heading to the tomb, Kopernikus urges them go there to retrieve the hero’s items before these “bad sorts” do. He can recount the tomb’s history and insists that taking the items is “totally cool”, as long as they’re used for good. Kopernikus is willing to accompany the party to the tomb – and even further into it – if they ask him kindly. As a self-proclaimed “lover, not a fighter”, the wizard isn’t of much use in combat, unless the situation is truly desperate."
+									]
+								},
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": ""
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Developments",
+							"entries": [
+								"If Asiira escapes the party, she hurries back to the tomb to warn Tarquin about the coming adventurers. Thinking quickly, Tarquin orders the druid Orwen to cast pass without trace on the tomb robbers, so they can stealthily vacate the tomb and find a hiding place nearby without leaving any tracks. Here, Tarquin turns his magic battleaxe, the black blade, into Nuyk the quasit (MM pg.63), and commands the fiend to invisibly spy on the party. Tarquin instructs Nuyk to return to him once the characters have bypassed all the tomb’s defenses and reached the hero’s treasures. The Black Blade’s plan is to learn how the party solves the tomb’s riddles, so they can enter the tomb behind them and ambush the characters when they reach the hero’s last resting place in ‘T4. Liar’s Room’. Because the quasit is invisible, it is highly unlikely the characters will notice they are being spied on.",
+								"If Asiira is killed or captured, or otherwise unable to warn the Black Blade herself, the tomb robbers are instead warned about the party’s coming by chirping ravens friendly to the druid Orwen. The birds also warn the Black Blade if Asiira escapes with the characters in close pursuit. In either case, the Black Blade responds the same way, using pass without trace to hide nearby and sending Nuyk to spy on the party. If Asiira escapes the party only to arrive at the tomb and find it empty, she curses her unreliable friends and takes up position in ‘T1. Entry Hall’, preparing to ambush the characters when they enter the tomb."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Areas in the Hero's Tomb",
+							"entries": [
+								"A few miles further up the road from their encounter with Asiira and Kopernikus, the characters come upon the entrance to the hero’s tomb.",
+								"Each room is detailed in the following pages for this Pathway to Adventure, with their room numbers referring to the Dungeon Master's map below. Full resolution player's maps have been made available as additional downloads to run this adventure at your table.",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/320378255/qOm7hqzAgNxrlAnm7aiO2g/max.png?1672292140"
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "General Features",
+							"entries": [
+								"The tomb is cut into natural rock by expert craftsmen but bears the clear signs of prolonged disuse.",
+								"{@b Ceilings}. The tomb’s ceiling is 30 feet above the floor.",
+								"{@b Illumination}. The interior of the tomb is cast in dim light from various glowing pillars and pedestals.",
+								"{@b Pools}. The pools of water are 10 feet deep."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Tomb Entrance",
+							"entries": [
+								"Read or paraphrase the following description:",
+								"Carved into the side of a small, rocky hill is a square opening about 10 feet on each side, revealing a set of stone stairs descending into darkness. While this unassuming entrance hardly seems befitting of a legendary hero, the name inscribed in faded letters above the open entrance leaves no doubt: you have found the hero’s tomb.",
+								"The entrance to the hero’s tomb is unremarkable, hinting at Piergeiron the Paladinson’s famed humility.",
+								"{@b Tracks}. A character that succeeds on a {@b DC 10 Intelligence (Investigation)} or {@b Wisdom (Survival)} check easily finds four sets of humanoid footprints leading into the tomb. Since Orwen cast pass without trace to obscure the Black Blade’s passage out of the tomb, only one set of tracks – Asiira’s – lead out again, making it seem like the other tracks’ owners are still inside."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "T1. Entry Hall",
+							"entries": [
+								"When the party enters the tomb, read or paraphrase the following description:",
+								"Descending the stairs, you find yourself in a dark hallway leading into a crescent-shaped room. Immediately before you stands a stone pedestal, which gives off a dim, blue light.",
+								"The walls around you feature elaborate murals depicting scenes of battle and other heroic deeds. On the far side of the tomb’s entrance is a set of closed stone doors.",
+								"This room is an entry hall for visitors and pilgrims to the hero’s tomb.",
+								"{@b Stone Pedestal}. This stone pedestal sheds dim, blue light in a 30-foot radius. Inscribed on its slanted surface is the hero’s name, and the following poem in Common:",
+								"“Within lies a hero, always honest and true, Welcoming to any wearing friendly smiles, Thief, foe, or liar – a warning to you:",
+								"You will find naught inside but trials!’",
+								"This poem is both a clue to opening the first door, as well as a hint at the challenges that lie ahead in ‘T2. Thief’s Room’, ‘T3. Foe’s Room’ and ‘T4. Liar’s Room’.",
+								"{@b Murals}. The murals on the walls depict various scenes from Piergeiron’s life – his impeccable career in Waterdeep’s City Guard and his victory in battle over the dracolich Kistarianth in 1369 DR. Most prominent is a mural of Piergeiron proudly and lovingly holding the shoulders of his daughter, Aleena Paladinstar, who was a famous hero in her own right. While it may not seem important to the characters at the time, knowledge about Piergeiron’s life will aid them in ‘T4. Liar’s Room’.",
+								"{@b Tracks}. A character that succeeds on a {@b DC 10 Intelligence (Investigation)} or {@b Wisdom (Survival)} check picks up three sets of humanoid footprints heading towards the closed stone door opposite the entrance. A character already following tracks found outside automatically finds these tracks.",
+								"{@b Puzzle Doors}. The large doors leading east from this room are locked with powerful magic that can only be dispelled by the spell wish or dispel magic cast using a 9thlevel spell slot. The doors glide open if a creature approaches to within 5 feet of the doors while smiling."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "T2. Thief's Room",
+							"entries": [
+								"When the party enters this room from ‘T1. Entry Hall’, read or paraphrase the following description:",
+								"The roof of this circular chamber is held up by a single stone pillar in its centre. Immediately in front of the entrance stands another stone pedestal, its blue light casting the entire room in dim light. Along the walls are four pieces of furniture: a bookshelf filled with books and scrolls, a large wooden chest, a single bag hanging on a peg, and a neatly made bed. At the opposite end of the chamber is another pair of closed stone doors with a heavy brass lock in their center.",
+								"This room is riddled with traps meant to punish thieves. Any characters following tracks found in ‘T1. Entry Hall’ will notice that the footprints do not continue into this room, instead ending abruptly before the door.",
+								"{@b Stone Pedestal}. This stone pedestal sheds dim, blue light in a 30-foot radius. Inscribed on its slanted surface is a single sentence in Common:",
+								"“The key is kept where the thief looks last.”",
+								"This cryptic sentence is a clue to finding the key that will open the double doors at the eastern end of the room.",
+								"{@b Detect Magic}. The chest, bookshelf, bag, and bed within this room are all magically trapped. If cast, the spell detect magic shows that the chest has an conjuration aura, the bookshelf has an abjuration aura, the bag has a transmutation aura and the bed has an enchantment aura.",
+								"The traps can’t be discovered or disarmed through mundane means, but each magical trap can be suppressed for 1 hour if the spell dispel magic is cast on them.",
+								"{@b Chest}. This large wooden chest is empty except for a magically conjured cloud of poisonous gas, imperceptible from the outside. If opened, the gas is released in a large cloud, forcing each creature within 20 feet to make a {@b DC 13 Constitution} check. On a failed save, a creature takes 2d8 poison damage and is poisoned for 1 hour. On a success, the creature takes only half that much damage and isn’t poisoned.The chest is otherwise empty.",
+								"{@b Bookshelf}. The books and scrolls on this bookshelf are inscribed with explosive glyphs. If a book or scroll is touched, the glyphs are triggered, forcing each creature within 20 feet to make a {@b DC 13 Dexterity} saving throw. A creature takes 2d8 fire damage on a failed save, or half as much on a success. The explosion completely incinerates the bookshelf and all the books.",
+								"{@b Bag}. This bag is enchanted with transmutation magic to bite the hand of anyone who tries to open it (the bag has +5 to Strength (Athletics) checks). If the grapple succeeds, the target takes 2d8 slashing damage at the start of each of its turns, as the bag’s strings tightens around its forearm. A grappled creature can escape by succeeding on a {@b DC 13 Strength (Athletics)} or {@b Dexterity (Acrobatics)} check.",
+								"Nearby creatures can use the Help action to aid the grappled creature.",
+								"{@b Bed}. This neatly made bed has a strong enchantment on it, that causes any who touch it to fall into a fitful slumber. A creature that touches the bed must make a {@b DC 13 Wisdom} saving throw. On a failed save, the creature takes 2d8 psychic damage and falls unconscious. At the end of each of its turns, the creature repeats the saving throw, ending the effect on a success, or taking another 2d8 psychic damage on a failure.",
+								"Puzzle Doors. The doors leading into ‘T3. Foe’s Room’ are magically sealed like the doors in ‘T1. Entrance Hall’. The lock can’t be picked through mundane or magical means. The only way to open the doors from within this room is by using a specific key, which is hidden where “the thief looks last”:",
+								"among their own belongings. Any character that reaches into their own pocket, bag, or pouch in search of a key will feel their fingers close around a large brass key, which fits snugly into the lock. As soon as the key is used, it disappears into magic mist and any triggered magic traps within the room are restored.",
+								"Hint: Thief’s Room Puzzle",
+								"If the characters are completely stymied by the puzzle in the Thief’s Room, you can have the key appear among the possessions of the first character that looks in their bag, belt or pockets for anything, whether it be a spell component, potion of healing or simply a bite to eat. Alternatively, you can have the key appear in the lock after all four traps are triggered, which would also fit decently with the riddle’s description of “where the thief looks last”."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "T3. Foe's Room",
+							"entries": [
+								"When the party enters this room from ‘T2. Thief’s Room’, read or paraphrase the following description:",
+								"You enter a large chamber supported by four pillars. Directly in front of you is another glowing pedestal. At the end of four broad pathways spanning shimmering pools of calm water stand four statues carved in exceptional detail: an armored knight, a woman with her hands lifted in spellcasting, a humanoid with the mindless expression of the undead, and a large, monstrous creature. Each statue carries a large key dangling from a chain around its neck.",
+								"The statues in this room guard the tomb against the hero’s foes and carry strong transmutation auras. The pools of water in this room are 10 feet deep.",
+								"{@b Stone Pedestal}. This stone pedestal sheds dim, blue light in a 30-foot radius. Inscribed on its slanted surface is a single sentence in Common:",
+								"“To find the key you must face the warrior’s greatest foe.”",
+								"This cryptic sentence is a clue to finding the key to the puzzle doors (see Puzzle Doors).",
+								"{@b Statues}. The four statues in this room are made from indestructible blocks of stone. The statues animate into creatures of flesh and blood if the key hanging from their necks are tampered with in any way. The statue of a knight becomes a [dauntless veteran], the statue of a female spellcaster becomes a [sunwitch], the undead humanoid becomes a [dead man walking], and the monstrosity becomes a [manticore].",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://s3.amazonaws.com/files.d20.io/images/319711937/D2oKsSQnxgajyfDIQ354VQ/max.png?1671753511"
+									}
+								},
+								"The statues can't be surprised and act immediately when animated. The animated statues can’t speak or otherwise communicate, and mindlessly attack nearby creatures with weapons or spells until reduced to 0 hit points. The animate statues can’t leave the Foe’s Room. When a creature is defeated, it magically reforms as a statue where it stood before, leaving behind only the key it had hanging around its neck.",
+								"{@b Puzzle Doors}. The doors leading into ‘T4. Liar’s Room’ are magically sealed like the doors in ‘T1. Entrance Hall’ and ‘T2. Thief’s Room’. They can only be opened by using the right key. None of the keys held by the statues around the room work in the lock, and only disappear into mist when placed in the lock when used.",
+								"To find the right key, a character “must face the warrior’s greatest foe”. The answer to this riddle is that a warrior’s greatest foe is itself – its own fears or reckless bloodlust, and the demons it carries within, which every warrior must battle every day, lest it destroys them.",
+								"A character that spends a few moments regarding themselves in a mirror or mirror-like surface – such as the pools of water in the room – sees their reflection wearing a large, brass key dangling from a chain around their neck.",
+								"Their reflection then comes to life, rising from the water or emerging from the reflective surface the character used to view themselves.",
+								"This reflection is a creature with the same statistics as the character, including its items, alignment, and personality, except that it doesn’t communicate. If it would be within the character’s nature to do so, the reflection gives the character the key around its neck before disappearing in a magical mist. Otherwise, if the character is evil, distrustful, or greedy – a villain, in other words – the reflection attacks with everything it has to destroy its creator. If rendered unconscious or reduced to 0 hit points, the reflection and everything it is carrying or wearing disappears in a magical mist, leaving behind only the brass key hanging from its neck.",
+								"The key can be used to open the doors to ‘T4. Liar’s Room’, after which it also disappears into mist.",
+								"Hint: Foe’s Room Puzzle",
+								"You can make solving the Foe’s Room riddle easier by describing to any character who could feasibly see themselves in any blank surface (such as when they draw a sword or step close to the pool’s edge), how their reflection seems to smile wistfully for a brief moment. This may make the solution feel a bit less earned but beats never solving the riddle."
+							]
+						}
+						{
+							"type": "entries",
+							"name": "T4. Liar's Room",
 							"entries": [
 								""
 							]
@@ -11144,8 +11441,5 @@
 			]
 		}
 		
-	],
-	"table": {
-
-	}
+	]
 }
