@@ -69,7 +69,7 @@
 			"source": "gp_anpcg",
 			"data": [
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "Adventure Background",
 					"entries": [
 						"This adventure is centered around the tomb of a virtuous, honorable – and deceased – person of note. In the description below, the hero is assumed to be Piergeiron the Paladinson, but you can find more examples of suitable heroes on pg.101.",
@@ -81,7 +81,7 @@
 					]
 				},
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "Adventure Hooks",
 					"entries": [
 						{
@@ -118,7 +118,7 @@
 					]
 				},
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "Adventure Synopsis",
 					"entries": [
 						"This adventure constitutes a full day of adventuring and should take around 3–6 hours to play through. The adventure likely unfolds in the following sequence:",
@@ -128,22 +128,21 @@
 					]
 				},
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "The Hero's Tomb",
 					"entries": [
 						"In this description of the adventure, it is assumed that the party are 2nd-level adventurers, and that the tomb belongs to the former Open Lord of Waterdeep Piergeiron the Paladinson, who’s interred in Westwood, about 100 miles north of Waterdeep. See pg.102 for advice on how to adapt the adventure’s difficulty and descriptions to fit your game."
 					]
 				},
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "Getting to the Tomb",
 					"entries": [
 						"As the characters near Piergeiron the Paladinson’s tomb within Westwood, they stumble upon the hedge wizard Kopernikus being threatened by Asiira, an aspiring mercenary with the Black Blade."
 					]
 				},
-				
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "Under Duress",
 					"entries": [
 						"As the characters come within a few miles of the hero’s tomb, they hear loud voices coming from up ahead. Read or paraphrase the following description:",
@@ -167,7 +166,7 @@
 					]
 				},
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "Asiira (aspiring mercenary)",
 					"entries": [
 						"Asiira is a ruthless mercenary, driven only by her greed for coin, power and infamy.",
@@ -195,7 +194,7 @@
 					]
 				},
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "Kopernikus (hedge wizard)",
 					"entries": [
 						"Once a promising apprentice to a renowned mage, Kopernikus one day abandoned his studies and ventured into the woods to live as a hermit. He resides in a small hut not far from the hero’s tomb, where he spends his days tending a small herbal garden and smoking his pipe. Kopernikus has no goals or ambitions beyond continuing his calm, quiet existence.",
@@ -219,7 +218,7 @@
 					]
 				},
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "Developments",
 					"entries": [
 						"If Asiira escapes the party, she hurries back to the tomb to warn Tarquin about the coming adventurers. Thinking quickly, Tarquin orders the druid Orwen to cast pass without trace on the tomb robbers, so they can stealthily vacate the tomb and find a hiding place nearby without leaving any tracks. Here, Tarquin turns his magic battleaxe, the black blade, into Nuyk the quasit (MM pg.63), and commands the fiend to invisibly spy on the party. Tarquin instructs Nuyk to return to him once the characters have bypassed all the tomb’s defenses and reached the hero’s treasures. The Black Blade’s plan is to learn how the party solves the tomb’s riddles, so they can enter the tomb behind them and ambush the characters when they reach the hero’s last resting place in ‘T4. Liar’s Room’. Because the quasit is invisible, it is highly unlikely the characters will notice they are being spied on.",
@@ -227,7 +226,7 @@
 					]
 				},
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "Areas in the Hero's Tomb",
 					"entries": [
 						"A few miles further up the road from their encounter with Asiira and Kopernikus, the characters come upon the entrance to the hero’s tomb.",
@@ -242,7 +241,7 @@
 					]
 				},
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "General Features",
 					"entries": [
 						"The tomb is cut into natural rock by expert craftsmen but bears the clear signs of prolonged disuse.",
@@ -252,7 +251,7 @@
 					]
 				},
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "Tomb Entrance",
 					"entries": [
 						"Read or paraphrase the following description:",
@@ -262,7 +261,7 @@
 					]
 				},
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "T1. Entry Hall",
 					"entries": [
 						"When the party enters the tomb, read or paraphrase the following description:",
@@ -279,7 +278,7 @@
 					]
 				},
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "T2. Thief's Room",
 					"entries": [
 						"When the party enters this room from ‘T1. Entry Hall’, read or paraphrase the following description:",
@@ -302,7 +301,7 @@
 					]
 				},
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "T3. Foe's Room",
 					"entries": [
 						"When the party enters this room from ‘T2. Thief’s Room’, read or paraphrase the following description:",
@@ -331,7 +330,7 @@
 					]
 				},
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "T4. Liar's Room",
 					"entries": [
 						"When the party enters this room from ‘T3. Foe’s Room’, read or paraphrase the following description:",
@@ -359,7 +358,7 @@
 					]
 				},
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "The Black Blade",
 					"entries": [
 						"While the characters have been exploring the hero’s tomb, the quasit Nuyk has been trailing them invisibly. When they found the way into ‘T4. Liar’s Room’, Nuyk hurried back to fetch Tarquin and the rest of the Black Blade. A short while later – quickly bypassing the traps and riddles in the other rooms – the Black Blade shows up to confront the party in ‘T4. Liar’s Room’.",
@@ -380,7 +379,7 @@
 					]
 				},
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "Developments",
 					"entries": [
 						"If all goes well, the characters end up defeating the Black Blade and claiming the hero’s magic items. Depending on how they received the quest to go to the Hero’s Tomb, the adventure can end in various ways.",
@@ -393,7 +392,7 @@
 					]
 				},
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "Adapting the Adventure",
 					"entries": [
 						"Just like the book this adventure comes with – Adaptable NPCs of the Guild – this adventure is created to be highly adaptable, making it usable in virtually any campaign or setting. Below is advice on how to adapt the adventure to your campaign and your party’s level.",
@@ -455,7 +454,7 @@
 					]
 				},
 				{
-					"type": "entries",
+					"type": "section",
 					"name": "Magic Items",
 					"entries": [
 						"Below are all the magic items the characters can find while delving into the Hero’s Tomb. Two options are given for commander’s hope, ally’s reflection and soldier’s luck, enabling you to give the characters the more powerful version of an item if they complete the adventurer at a higher level. Alternatively, you can give characters the weaker version first, and let the items become more powerful as the characters advance in level or perform heroic deeds."
