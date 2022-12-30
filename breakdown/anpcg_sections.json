@@ -38,8 +38,27 @@
 				{
 					"name" : "Adaptable Non-Player Characters of the Guild",
 					"headers" : [
-						"Adaptable Non-Player Characters",
-						"Pathway to Adventure"
+						"Introduction",
+						"Adventure Background",
+						"Adventure Hooks",
+						"Adventure Synopsis",
+						"The Hero's Tomb",
+						"Getting to the Tomb",
+						"Under Duress",
+						"Asiira (aspiring mercenary)",
+						"Kopernikus (hedge wizard)",
+						"Developments",
+						"Areas in the Hero's Tomb",
+						"General Features",
+						"Tomb Entrance",
+						"T1. Entry Hall",
+						"T2. Thief's Room",
+						"T3. Foe's Room",
+						"T4. Liar's Room",
+						"The Black Blade",
+						"Developments",
+						"Adapting the Adventure",
+						"Magic Items"
 					]
 				}
 			]
@@ -141,25 +160,12 @@
 				},
 				{
 					"type": "entries",
-					"name": "The Hero's Tomb",
-					"entries": [
-						"In this description of the adventure, it is assumed that the party are 2nd-level adventurers, and that the tomb belongs to the former Open Lord of Waterdeep Piergeiron the Paladinson, who’s interred in Westwood, about 100 miles north of Waterdeep. See pg.102 for advice on how to adapt the adventure’s difficulty and descriptions to fit your game."
-					]
-				},
-				{
-					"type": "entries",
 					"name": "Getting to the Tomb",
 					"entries": [
 						"As the characters near Piergeiron the Paladinson’s tomb within Westwood, they stumble upon the hedge wizard Kopernikus being threatened by Asiira, an aspiring mercenary with the Black Blade."
 					]
 				},
-				{
-					"type": "entries",
-					"name": "Getting to the Tomb",
-					"entries": [
-						"As the characters near Piergeiron the Paladinson’s tomb within Westwood, they stumble upon the hedge wizard Kopernikus being threatened by Asiira, an aspiring mercenary with the Black Blade."
-					]
-				},
+				
 				{
 					"type": "entries",
 					"name": "Under Duress",
