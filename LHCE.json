@@ -1,0 +1,69 @@
+{
+	"schema": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_schema-fast/homebrew.json",
+	"_meta": {
+		"sources": [
+				{
+						"json": "gp_lhce",
+						"abbreviation": "gp_lhce",
+						"full": "Legendary Hunts Coastal Encounters",
+						"authors": [
+								"Grim Press"
+						],
+						"convertedBy": [
+								"deltadave"
+						],
+						"version": "1.0",
+						"url": "https://github.com/deltadave/5e_homebrew",
+						"targetSchema": "1.0.0"
+				}
+		],
+		"dateAdded": 1672640448,
+		"dateLastModified": 1672640456
+	},
+	"adventure": [
+			{
+				"name": "Legendary Hunts Coastal Encounters",
+				"id": "gp_lhce",
+				"source": "Legendary Hunts Coastal Encounters",
+				"group": "other",
+				"level": {
+					"start": 1,
+					"end": 20
+				},
+				"published": "2020-06-01",
+				"storyline": "Legendary Hunts",
+				"coverUrl": "",
+				"contents": [
+					{
+						"name" : "Legendary Hunts: Coastal Encounters",
+						"headers" : [
+							"Legendary Hunts: Coastal Encounters"
+						]
+					}
+				]
+			}
+	],
+	"adventureData": [
+		{
+			"id": "gp_lhce",
+			"source": "Legendary Hunts Coastal Encounters",
+			"data": [ 
+				{
+					"type": "section",
+					"name": "Credits",
+					"entries": [
+					]
+				}
+			]
+		}
+	],
+	"monster": [
+
+	],
+	"item": [
+
+	],
+	"spell": [
+		
+	]
+}
