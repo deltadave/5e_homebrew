@@ -1,5 +1,5 @@
 {
-	"schema": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_schema-fast/homebrew.json",
+	"schema": "https://github.com/TheGiddyLimit/5etools-utils/tree/master/schema/brew-fast/homebrew.json",
 	"_meta": {
 		"sources": [
 				{
@@ -50,15 +50,1000 @@
 			"data": [ 
 				{
 					"type": "section",
-					"name": "Credits",
+					"name": "Legendary Hunts: Coastal Encounters",
 					"entries": [
+						{
+							"type": "image",
+							"href": {
+								"type": "external",
+								"url": ""
+							},
+							"title": "Front Cover"
+						},
+						{
+							"type": "entries",
+							"name": "Credits",
+							"entries": [
+								"{@b Legendary Hunts Lead Designer}: Vall Syrene",
+								"{@b Editor}: Joshua Barbeau",
+								"{@b Adventure Writers}: Blue Maelstrom, Jimmy Meritt, Vall Syrene",
+								"{@b Creature Lore}: Ayla Finnegan, Blue Maelstrom, Jimmy Meritt, Joshua Barbeau, Vall Syrene",
+								"{@b Stat Block Design}: Darren Kenny, Vall Syrene",
+								"{@b Magical Items}: BornToDoStuff, Vall Syrene",
+								"{@b Interior Creature Art:} Florian Jonak, Vall Syrene",
+								"{@b Cover Art}: Johannes Holm ( https://johannesholm.pb.online/ )",
+								"{@b Landscape Photography}: Ayla Finnegan",
+								"{@b Encounter Icon Mechanics} &copy; 2020 Vall Syrene/Vall Does DnD",
+								"{@b Artist Credits}",
+								"Scattered envelopes and scroll art &copy; Anderson Maia",
+								"Border art &copy; The Knotty Works",
+								"Some artwork &copy; 2019 Dean Spencer, used with permission. All rights reserved.",
+								"Publisher's Choice Quality Stock Art &copy;Rick Hershey/Fat Goblin Games",
+								"Modular Notice Boards Graphic Assets by Elven Tower",
+								"Cartography and Forgotten Adventures",
+								"Encounter Icon Art &copy;2020 Brittney Hay",
+								"Indesign template by Nathana&#xeb;l Roux",
+								"{@b Playtesters}",
+								"Angus McQuarrie, Ayla Finnegan, Brian Poel, Caitlin O'Sullivan, Eric Cairns, Mark Ando, Mark Dreessen, Matthew Braithwaite, Mike Horstmanshof, Russ Lindsay, Tony Parker, Vall Syrene",
+								"{@b On the cover}: A lone adventurer stands ready to deliver the killing blow to a monstrous oceanic titan in this beautiful painting by Johannes Holm.",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": ""
+									}
+								},
+								"{@b Special Thanks}",
+								"My wonderful partner who tolerated my late nights and hard work for the past year, my incredible fans, (whom without this book wouldn't have been possible), the DMsGuild creative community, Devi Ishtar for her Atropos lore ideas, Laura Hirsbrunner for her cover layout insight, Bryan Holmes for being the greatest hype-man I could ask for, and Steve Fidler, R.P. Davis and Nathana&#xeb;l Roux for their Indesign advice keeping my sanity intact.",
+								"\"In loving memory of Eddie Collins, whose love and support for my writing pushed me to better myself after each release. Even though you never understood it, you loved my strange little hobby all the same. This one's for you.\"",
+								"- Vall Syrene, 2020",
+								"\"I'd like to dedicate my contributions to this book in loving memory of Jessica and Carlos Pereira.  In 2012 I lost the love of my life, Jessica. Grieving her was the hardest thing I've ever had to do, but it was made easier by the fact that her family allowed me to grieve with them. While working on this book, Jessica's father Carlos passed. Thank you, Carlos, for welcoming me into your family with open arms and becoming one of my dearest friends. I still keep your daughter alive in my memories every single day, and now I do so for you, too.\"",
+								"- Joshua Barbeau, 2020"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Vall Does DnD",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": ""
+									}
+								},
+								"Disclaimer: This handbook contains a host of titanic, destructive, world shattering monsters, awesome magical weapons and fantastic coastal critters for your D&D games. Vall Does DnD does not take any responsibility for TPKs or character deaths resulting from, but not limited to: Challenging the deep dweller to a one on one combat, taking a swim in a suspicious looking coral reef, stealing gold from a bathyal beholder or befriending floating critters at sea.",
+								"DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eberron, the dragon ampersand, and all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries.",
+								"This work contains material that is copyright Wizards of the Coast and/or other authors. Such material is used with permission under the Community Content Agreement for Dungeon Masters Guild.",
+								"All other original material in this work is copyright 2020 by Vall Syrene, Jimmy Meritt, Joshua Barbeau, Darren Kenny, BornToDoStuff, Ayla Finnegan and Blue Maelstrom, and published under the Community Content Agreement for the Dungeon Masters Guild."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Contents",
+							"entries": [
+								"Introduction",
+								"What are Legendary Hunts?",
+								"Using This Supplement",
+								"Harvesting Creature Parts",
+								"Encounter Icons",
+								"Chapter 1: The Deep Dweller",
+								"Chapter 2: Umbrafang",
+								"Chapter 3: The Abyss Maw",
+								"Chapter 4: The Bathyal Beholder",
+								"Chapter 5: Ophelia The Death Crab",
+								"Chapter 6: The Sea Flayer",
+								"Chapter 7: The Reef Swarm",
+								"Chapter 8: The Endraleth",
+								"Chapter 9: Coastal Critter Bestiary",
+								"Coastal Creature Scale Chart"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Introduction",
+							"entries": [
+								"There are many terrible fables told to sailors when at sea. Most are nothing but tall tales, fabricated by malicious captains to keep their motley crews in line. Those with a shred of truth once began believable, but have since became more fantastical with each retelling. Others, however, are very real. Tales of ancient titans who dwell beneath the crashing waves of the sea, and monstrous creatures of legendary repute that, to this day, still remain a deadly threat to all who brave the terrors of the briny deep."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "What Are Legendary Hunts?",
+							"entries": [
+								"Legendary hunts are short monster hunting adventures a Dungeon Master can use to populate their Dungeons & Dragons campaigns. Each hunt focuses on a particular creature of legend, from the mighty and colossal deep dweller, to the strange and twisted bathyal beholder. Many of these creatures may exist at the same time, and overcoming each one can grant rare and powerful items. The fanged teeth of the deep dweller, for example, can be harvested and transformed into fearsome weapons, while segments of the bathyal beholder's shell can be turned into armor with unique magical properties.",
+								"Each legendary hunt has a number of stages characters must go through before encountering the creature itself. Some legendary creatures, for example, require the characters to sail to a particular location and speak a mysterious shanty in order to summon it. Others might only appear on certain days, or must be lured out with an item or body part from a particular creature. Once summoned, a legendary creature fights with a monstrous ferocity and intelligence that can challenge even the bravest of characters."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Using This Supplement",
+							"entries": [
+								"Many of the legendary creatures in this book have been written as unique monsters. Some are balanced to be fought against by a ship and crew on the high seas, while others are designed for smaller adventuring parties of varying level. Each hunt is divided into its own chapter, presenting a full color image of the legendary creature, lore, tall tales, and particular habits it is said to have, before outlining the regional and local effects the appearance of such a creature brings with it. Each chapter ends with a short quest involving the monster, various plot hooks to introduce it to your D&D games, a harvest table, and items a player can craft from harvested parts.  This supplement also assumes you have access to, or basic knowledge of the Monster Manual, Player's Handbook, Dungeon Master's Guide, and Ghosts of Saltmarsh. Sometimes a quest in this book refers to one of the above supplements. These references are abbreviated as follows:",
+								"Monster Manual: (MM)",
+								"Player's Handbook: (PHB)",
+								"Dungeon Master's Guide: (DMG)",
+								"Ghosts of Saltmarsh: (GoS)",
+								"If you see a creature's name in bold, that is an indication its stat block can be found in the Monster Manual, unless specified otherwise.  While these creatures have been designed as unique encounters for nautical and coastal adventures, this doesn't mean you can't tweak their origins or lore to fit in a different setting. The bathyal beholder, for example, could be changed to be the head of a cult located in a mysterious swamp, or inserted as a random encounter characters might come across in an ancient dungeon."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Harvesting Creature Parts",
+							"entries": [
+								"Each legendary hunt in this supplement lists certain body parts that may be harvested from the creature therein, be them suckers, teeth, mandibles, blood, flesh or anything else as noted in their chapter. If the idea of harvesting pieces of dead monsters and turning them into useful items is appropriate for your campaign, the harvesting table in each chapter will tell you what body parts may be harvested, how difficult they are to craft, and the resulting item it can be turned into.",
+								"Below is an example of the tables you can find in this supplement, as well as a breakdown of what each column means.",
+								"{@b DM's Note}: Magical items harvested from these creatures are intended to be rewards in their own right. However, should you feel your players deserve more monetary rewards or other items, you are welcome to modify this to suit your campaign.",
+								"{@b Table Guide}:",
+								"{@b Body Part}: The part of the body that is being harvested, and how many pieces may be obtained from a successful harvest attempt.",
+								"{@b Harvest DC}: This details the ability check and DC required to successfully harvest the chosen part and any storage requirements the part has. Each body part may only be successfully harvested once, unless specified otherwise, after which the body part is destroyed. If a creature fails the harvesting check by 5 or more, the body part is also destroyed, and can't be harvested again.",
+								"If harvesting a body part requires two or more checks, the checks can be performed by any creatures involved in the harvesting.  A ranger, for example, might decide to join in on the harvesting by making the required Wisdom (Survival) check, leaving the Dexterity (Sleight of Hand) check to the rogue. Other characters can take the Help action to grant the harvesting characters advantage on the aforementioned checks.",
+								"{@b Items Available to Craft}: This column lists the item or items that may be crafted from harvested creature parts. You can only produce one of the listed items with each crafting attempt. The crafted item's properties are detailed at the end of the chapter.",
+								"{@b Item Crafting Requirements}: This section details any requirements that must be met to turn the harvested body part into an item. Harvested pieces that note a storage requirement (such as a vial or barrel of salt) must be placed in their respective containers immediately after being harvested, and should remain in the container until used in crafting. A harvested piece degrades over time when not placed in its particular container or being used for crafting. Each piece can remain outside of a container for a maximum of 1d4 hours (ignoring crafting times) before succumbing to rot. A rotten piece can't be crafted. If an item is listed under two or more tools, proficiency in and access to both sets of tools are required, though these proficiencies can be shared over multiple characters. For example, one character could take part in the crafting and have proficiency in one set of tools, and another character could also take part in the crafting and provide the proficiency needed for the other set of tools.",
+								"{@b Crafting DC}: The ability check and DC that must be met to successfully craft an item, and the time required to do so. If this check is failed by 5 or more, the harvested pieces used are destroyed in the crafting process.",
+								"If crafting an item requires two or more checks, the checks can be performed by any creatures taking part in the crafting of the item. A barbarian, for example, might decide to make the required Strength (Athletics) check, leaving the Intelligence (Arcana) check to the wizard. Other characters can take the Help action to grant the crafting characters advantage on the aforementioned checks.",
+								"The table guide shown above has can also be found next to each chapter's harvest table for ease of reference when running these adventures."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Encounter Icons",
+							"entries": [
+								"The stat blocks in this supplement use a collection of icons known as Encounter Icons. These icons are designed to offer advice to Dungeon Masters on the creature's behavior or see what kind of abilities it might have at a glance.",
+								"Some icons might contradict each other, but this is intentional.  Icons are noted on a stat block in order of importance, with the most important icon on the left and the least important on the right. For example, a dragon would have lair lurker first, followed by the archer icon, then the rusher icon. For a dragon, remaining in its lair is far more important than staying at range breathing fire, and setting fire to its enemies is more important than rushing in with tooth and claw.",
+								"The icons are purely an advisory tool. If you feel a creature would act a particular way that goes against its original design, then feel free to modify its behavior to suit your encounter.",
+								"{@b Encounter Icon Descriptions}",
+								"Each icon represents a particular set of tactics which are detailed below. The icons are in alphabetical order.",
+								"{@b The Tank}: A creature with this icon often has a lot of hit points or a high AC (sometimes both) and is able to take a beating, but not necessarily inflict much in return. These creatures are usually intended to be used as frontline fighters against melee-heavy enemies or act as protectors for spellcasters. A tank's primary tactic is to soak up incoming attacks and focus on a single target at a time, shrugging off most damage while slowly whittling away its target's hit points.",
+								"{@b The Ambusher}: A creature with this icon usually has lower than average hit points but a higher than average AC and deals increased damage, especially when surprising a target. An ambusher is intended to be used stealthily, waiting for the opportune moment to strike. An ambusher's primary tactic is to pick off one target at a time, starting with the weakest looking creature first. It uses hit and run tactics to confuse its opponents and retreats if cornered or close to defeat.",
+								"{@b The Afflicted}: A creature with this icon primarily uses diseases or condition effects such as paralysis or poison to debilitate their targets. An afflicted is intended to be used aggressively, and spreads its attacks out between multiple targets first. The afflicted prioritizes attacking those who are immune to its debilitating ailments, or those who have the ability to cure them, ensuring they are dead before turning its attention to other targets.",
+								"{@b The Rusher}: A creature with this icon focuses their attacks on a single creature at a time and continues until it is dead. The rusher is intended to be a challenging foe, and usually has either a few heavy hitting attacks, or many smaller attacks it can use to continually pressure its target. A rusher often attacks relentlessly and fights to the death.",
+								"{@b The Defender}: A creature with this icon usually has a lot of resistances and condition immunities. A defender is intended to act as the opposite to the rusher, spreading out its attacks between nearby enemies and usually sharing an icon with the tank, spellcaster or ranger.",
+								"The defender's primary tactic is to be cautious and careful when attacking, only moving in for the kill when it has a clear sign of victory and falling back or hunkering down if outnumbered.",
+								"{@b The Caster}: A creature with this icon is capable of casting spells or generating magical effects. A caster is intended to be played based on its other icons, but is likely to recognise other creatures with the caster icon more easily. The caster's primary tactic is to eliminate rival casters as early as possible to establish magical dominance on the battlefield.",
+								"{@b The Lair Lurker}: A creature with this icon has access to a lair. A lair lurker is intended to be played based on the combination of other icons on its stat block. The lair lurker's primary tactic is to use minions or lair actions to debilitate its enemies, and given the choice, fights from within its lair.",
+								"{@b The Lone Wolf}: A creature with this icon prefers to fight alone, and doesn't work well with other groups of creatures. The lone wolf is intended to be used as a boss monster, assassin, or other solitary creature. It's primary tactic depends on the other icons present on its stat block.",
+								"{@b The Pack Hunter}: A creature with this icon prefers to fight in groups to surround and overwhelm its foes with coordinated attacks.  The larger the group, the more aggressive the attack. A pack hunter will usually have lower hit points or AC than other monsters to counter balance the intended numbers implied in their use. It is unusual to encounter one of these individually, though it might happen if they face weaker foes.",
+								"{@b The Underling}: A creature with this icon normally has extremely low hit points, AC and damage output, and act as minions in a hierarchy. An underling is intended to be used as a buffer to protect more valuable targets, or serve as chaff characters can fight their way through with little difficulty. An underling's primary tactic is dictated by other icons on its stat block.",
+								"{@b The Archer}: A creature with this icon might excel at long range combat or have high mobility and rely on hit-and-run tactics; they avoid lingering in melee range if they can avoid it. The archer is intended to be used at mid to long range, where it can pick off its foes with relative impunity. Its primary tactic is usually to avoid melee creatures and focus on ranged enemies first, making good use of cover.",
+								"{@b Creature Rarity}",
+								"The icons in this supplement sometimes show in different colors.",
+								"These colors dictate how rare a creature is intended to be in the world. Conventionally, the rarer a creature is, the more powerful it is, and the more abilities it has at its disposal:",
+								"{@b Black}: The creature is commonly found in the world and can be seen regularly in its natural habitat. It is nothing overly extraordinary, though some creatures may still be considered exotic by passing travellers.",
+								"{@b Blue}: The creature is uncommon and might have unique features. Such a creature is much more difficult to locate in the wild and might require help from a hunter or tracker, or only live in very particular environments.",
+								"{@b Red}: The creature is rarely seen, and often has more than one special feature or legendary actions.  It might use a lair. These creatures are not easy to find, even by skilled trackers, usually requiring magical assistance.",
+								"{@b Orange}: The creature is regarded as a myth or legend, only ever spoken of in long forgotten stories and tall tales. The creature is often unique, either in name, existence or some other method and might have many special features and legendary actions. It is likely to use a lair.",
+								"{@b Example Stat Block}",
+								"An example of how these encounter icons are used is shown in the driftwood mimic stat block opposite. The driftwood mimic isn't often seen but can be found in the wild, so it's encounter icons are displayed in blue. Its primary tactic is to ambush its victims, so it features the ambusher icon first.  Additionally, a driftwood mimic usually hunts alone, lacking both the intelligence and desire to work alongside other creatures; thus, it has the lone wolf icon.",
+								"{@b Ready The Cannons!}",
+								"Encounter icons added to ship stat blocks act as an advisory for NPC crew and captains. If players are in charge of the ship, the encounter icons can be ignored in favour of their decisions.",
+								"Additionally, several ships in this book use gunpowder cannons. If your setting doesn't include gunpowder, these cannons can instead be magical creations, powered by arcane runes or mystical enchantments, or you can simply replace them for ballista."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Chapter 1: The Deep Dweller",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": ""
+									}
+								},
+								"It is said that the fearsome kraken rules the sea, a far more deadly and horrific entity rules in the perpetual, abyssal darkness below. Known to many as the deep dweller, this vast, colossal creature lurks within the bowels of the material plane, using huge submerged Underdark tunnels to traverse the world.",
+								"Illithids once attempted to capture the titan and dominate its predatory mind with psychic strikes. Their psychic strikes augmented the deep dweller, granting it the horrifying capability to consume thoughts and memories as easily as it consumes the flesh of anything it encounters."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "A Timeless Beast, Ever Hungry",
+							"entries": [
+								"The deep dweller resides in the lowest regions of the world, surfacing once every 200 years in search of its rival of the seas, the monstrous kraken. Rarely do the two creatures ever meet, but this predatory migration causes catastrophic effects for any who dwell in its path whenever the deep dweller appears. Cyclones tear across the sea for miles in every direction, while cities and port towns become assailed with sudden flash floods and battered by vast lightning storms.  A foreboding silence precedes the arrival of the deep dweller. Fish and other marine life scatter as its grasping tendrils pry and creep towards the waters surface, while seawater becomes coated in a magical, inky blackness. Fishing galleons are dragged into the dark depths as the deep dwellers grasping tendrils rip vast holes in their hulls. When it attacks, everything nearby is drawn towards its maw in a sudden torrent of undersea currents.",
+								"Coastal city walls are crushed under the deep dwellers massive bulk as it surfaces to prey on moored fishing trawlers, tearing apart ocean trading towns and silencing entire populations with sanity-consuming psychic screams.",
+								"{@b Motivations}",
+								"The deep dweller is a creature born of pure evil and malice, and seeks only to consume and destroy. It fears nothing, and only retreats from combat if all its tentacles have been severed, or its eyes have been punctured. The deep dweller is fiercely territorial, and it believes its territory to be the entire ocean, with its only competitor being the kraken. It knows the location of every water borne gargantuan creature or entity within a five-mile radius, and pursues each of them relentlessly.",
+								"Should the deep dweller ever face a kraken and emerge victorious, it drags the corpse down into the depths of the ocean, and doesn't return to the surface again for 500 years.",
+								"{@b Adults and Juveniles}",
+								"Only one deep dweller is thought to exist at a time, and its growth takes hundreds of years. A juvenile deep dweller, while not as strong as its adult counterpart, is still more than a match for a conventional sailing ship or party of unprepared adventurers. Juvenile deep dwellers follow a similar hunting pattern to their adult counterparts, and still exhibit many similar features, including any lair and regional effects its adult version is capable of creating. The items a character can craft from a deep dweller varies depending on its current age.",
+								"{@b A Deep Dweller's Lair}",
+								"The deep dweller resides in the darkest depths of the ocean, where light can't reach. When it surfaces, it brings a magical darkness with it, which serves as a mobile lair. This moving lair is beneath the waves, but generates a powerful lightning storm wherever it resides, which covers the surface of the water above the lair itself. Magical darkness fills the area of the lair underneath the water, and movement within it is considered difficult terrain for any creature that doesn't have a swimming speed.",
+								"Creatures and ships caught in the storm above the lair have their maximum speed reduced by 10 feet, and visibility is reduced to a maximum of 120 feet regardless of vision, due to the lashing rain and natural darkness of the storm clouds. The storm can't be dispelled while the lair exists.",
+								"The lair covers a 500-foot radius, centered on the deep dweller.",
+								"Whenever the deep dweller moves, the lair also moves with it.  When the deep dweller is defeated or vanishes, the lair also vanishes, and the lightning storm dissipates in 1d4 hours.",
+								"The deep dweller surfaces once every 200 years. It remains surfaced for 7 days. At the end of the 7th day it dives back down into the depths of the ocean and falls into a deep slumber, which lasts for 175 years.",
+								"{@b Lair Actions}",
+								"On initiative count 20 (losing initiative ties), the deep dweller takes a lair action to cause one of the following magical effects:",
+								"A sudden surge of water pulses out from the centre of the deep dweller's lair. Each creature or ship in the waters within 120 feet of the deep dweller must succeed on a DC 23 Strength saving throw or be pushed up to 60 feet away from it. Ships that fail this saving throw are also turned to face a random direction, as per the table below. On a successful save, creatures and ships are pushed 10 feet away from the deep dweller instead, and ships retain their current facing.",
+								"Lightning bolts strike down from the surrounding storm. The lightning bolts strike up to 3 targets within the storm that aren't completely submerged underwater. Each target must make a DC 23 Dexterity saving throw. A target takes 10 (3d6) lightning damage on a failed save, or half as much on a successful one.",
+								"Strong winds rush across the top of the lair, bringing with it a sudden magical darkness. Vision within the storm is reduced to 30 feet until initiative count 20 on the next round.",
+								{
+									"type": "table",
+									"caption": "Ship Direction Table",
+									"colLabels": [
+										"D8",
+										"Result"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-4 text-left"
+									],
+									"rows": [
+										[
+											"1",
+											"North"
+										],
+										[
+											"2",
+											"North-East"
+										],
+										[
+											"3",
+											"East"
+										],
+										[
+											"4",
+											"South-East"
+										],
+										[
+											"5",
+											"South"
+										],
+										[
+											"6",
+											"South-West"
+										],
+										[
+											"7",
+											"West"
+										],
+										[
+											"8",
+											"North-West"
+										]
+									]
+								},
+								"{@b Regional Effects}",
+								"The region surrounding a deep dweller's lair is warped by the creature's monstrous presence, creating the following magical effects:",
+								"The deep dweller knows the location of every gargantuan or larger water borne entity within 5 miles of it.",
+								"Aquatic beasts within 6 miles of the lair flee, leaving the area devoid of sea life, such as breaching whales, or pods of dolphins.",
+								"The deep dweller can alter the weather at will in a 5 - mile radius centred on its lair. The effect is identical to the control weather spell, but it can't create calming or mild weather effects, such as clear skies, or light rain.",
+								"When the deep dweller dies or retreats at the end of its 7 day period, all of these regional effects fade immediately."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Size Comparison Chart",
+							"entries": [
+								"Below is a visual guide to give the Dungeon Master an idea of the size of an adult deep dweller, in comparison to a traditional sailing ship (30 crew), shark, and human of average height.",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": ""
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Summoning the Deep Dweller",
+							"entries": [
+								"The deep dweller can be awoken from its slumber beneath the waves by speaking aloud a magical sea shanty, while on board a ship sailing through a storm at night. The shanty must be spoken or sung aloud by a character with Spellcasting, Ritual Casting, or Pact Magic features.",
+								"If the shanty is spoken successfully, all sources of light (magical or otherwise) are magically doused. If all lights remain doused in this manner for 10 minutes, the summoning is complete and the deep dweller awakens. The deep dweller appears within 1 mile of the creature that summoned it, and is hostile to all creatures.",
+								"{@b The Deep Dweller Sea Shanty}",
+								"This shanty can be sung or spoken, and is most commonly known by elf sailors. It is often seen as a bad omen to come across a ship singing this during the night, and the shanty is known to strike fear and terror in kraken priests and sahuagin, making it a useful tool for adventurers combating such foes. The shanty is as follows:",
+								"\"In the night on sails of old",
+								"Atop the winds of water cold",
+								"Deep within the dark abyss",
+								"Lies a beast asleep in bliss",
+								"When storms abound and lightning calls",
+								"The sea she boils and darkness falls",
+								"It wakes, it roars, writhes and creeps",
+								"While rising from the briny deep",
+								"Woe betide all creatures be,",
+								"Hear them scream, watch them flee!",
+								"The great consumer, the eater of worlds",
+								"It searches, it grasps, maw unfurled",
+								"For those who dare to sail on seas",
+								"Ruled by a beast, that we name thee",
+								"The Dweller of the Deep!\"",
+								"[Deep Dweller (Adult)]",
+								"[Deep Dweller (Juvenile)]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Harvesting Deep Dweller Parts",
+							"entries": [
+								{
+									"type": "table",
+									"caption": "Harvesting Table",
+									"colLabels": [
+										"Body Part",
+										"Harvest DC",
+										"Items Available to Craft",
+										"Item Crafting Requirements",
+										"Crafting DC and Time Taken"
+									],
+									"colStyles": [
+										"col-2 text-left",
+										"col-2 text-left",
+										"col-2 text-left",
+										"col-2 text-left",
+										"col-4 text-left"
+									],
+									"rows": [
+										[
+											"Dweller Tentacle (Flesh) (3d10 pieces)",
+											"DC 15 Wisdom (Survival) Salted storage barrel (Max of 8 pieces per barrel)",
+											"Deep Dweller Leather (4 pieces required) Deep Dweller Shield (2 pieces required) Dweller Skin Coating (10 pieces required)",
+											"Leatherworker's tools: All items Tinker's tools: Dweller Skin Coating",
+											"Deep Dweller Leather: DC 15 Strength (Athletics) 4 Hours Deep Dweller Shield: DC 14 Strength (Athletics) 3 Hours Dweller Skin Coating: DC 14 Strength (Athletics) DC 15 Intelligence (Tinker) 24 hours, over 3 days."
+										],
+										[
+											"Dweller Tentacle (Suckers) (2d10 pieces)",
+											"DC 16 Wisdom (Survival) Storage container, filled with fresh seawater (Max of 8 pieces per container)",
+											"Grasping Fluid (3 pieces required) Medicinal Tape (5 pieces required)",
+											"Alchemist's Supplies: Grasping Fluid Herbalism Kit: Medicinal Tape",
+											"Grasping Fluid: DC 15 Intelligence (Arcana) 8 Hours Medicinal Tape: DC 15 Wisdom (Medicine) 6 Hours"
+										],
+										[
+											"Dweller Tentacle (Spines) (5d10 pieces)",
+											"DC 15 Wisdom (Survival)",
+											"Deep Blade (3 pieces required) Dweller Axe (5 pieces required) Dweller Arrowheads (set of 20) (10 pieces required)",
+											"Smith's Tools: All items",
+											"Deep Blade: DC 15 Strength (Athletics) 4 Hours Dweller Axe: DC 15 Strength (Athletics) 4 Hours Dweller Arrowheads (set of 20): DC 14 Dexterity (Sleight of Hand) 5 Hours"
+										],
+										[
+											"Dweller Fang (1d12 fragments)",
+											"DC 16 Dexterity (Sleight of Hand)",
+											"Deep Fang Daggers (2 fragments required) Notched Dweller Whip (3 fragments required)",
+											"Smith's Tools: All items Leatherworker's Tools: Notched Dweller Whip",
+											"Deep Fang Daggers: DC 15 Dexterity (Sleight of Hand) 3 Hours Notched Dweller Whip: DC 15 Dexterity (Sleight of Hand) 3 Hours"
+										],
+										[
+											"Dweller Blood (1d10 samples)",
+											"DC 15 Intelligence (Arcana) and Wisdom (Survival) Empty Glass Vials (1 vial per sample of blood taken)",
+											"Deepblood Poison (1 vial required) Mindspike Potion (2 vials required)",
+											"Poisoner's Kit: Deepblood Poison Alchemist's Supplies: Mindspike Potion",
+											"Deepblood Poison: DC 16 Intelligence (Arcana) 6 Hours per vial Mindspike Potion: DC 16 Intelligence (Arcana) 6 Hours per vial"
+										]
+									]
+								},
+								"The deep dweller is not a creature that is easy to kill. If reduced to 0 hit points or otherwise defeating at sea, it retreats back into the depths of the ocean and falls into a deep slumber. Assuming a band of resourceful characters haven't found a way to beach, corner, or otherwise successfully kill the deep dweller outright and it escapes to the depths below, all is not lost! Players can still harvest parts from severed limbs and broken fangs removed during the battle.  The deep dweller has a number of vast tentacles it uses to rip and tear at a ship's hull. Each of these tentacles features a series of razorsharp teeth surrounded by suckers, which can be severed and harvested to transform into fearsome weapons and items. In addition, the deep dweller's large maw sports a vast array of fangs, which can be damaged and removed, should an adventurer feel lucky enough to do so.",
+								"The deep dweller's stat block details how much damage each tentacle can take before it is severed, or how to break one of its fangs.",
+								"{@b Table Guide}:",
+								"{@b Body Part}: The part of the body that is being harvested, and how many pieces may be obtained from a successful harvest attempt.",
+								"{@b Harvest DC}: This details the ability check and DC required to successfully harvest the chosen part and any storage requirements the part has. Each body part may only be successfully harvested once, unless specified otherwise, after which the body part is destroyed. If a creature fails the harvesting check by 5 or more, the body part is also destroyed, and can't be harvested again.",
+								"If harvesting a body part requires two or more checks, the checks can be performed by any creatures involved in the harvesting.",
+								"A ranger, for example, might decide to join in on the harvesting by making the required Wisdom (Survival) check, leaving the Dexterity (Sleight of Hand) check to the rogue. Other characters can take the Help action to grant the harvesting characters advantage on the aforementioned checks.",
+								"{@b Items Available to Craft}: This column lists the item or items that may be crafted from harvested creature parts. You can only produce one of the listed items with each crafting attempt. The crafted item's properties are detailed at the end of the chapter.",
+								"{@b Item Crafting Requirements}: This section details any requirements that must be met to turn the harvested body part into an item. Harvested pieces that note a storage requirement (such as a vial or barrel of salt) must be placed in their respective containers immediately after being harvested, and should remain in the container until used in crafting. A harvested piece degrades over time when not placed in its particular container or being used for crafting. Each piece can remain outside of a container for a maximum of 1d4 hours (ignoring crafting times) before succumbing to rot. A rotten piece can't be crafted. If an item is listed under two or more tools, proficiency in and access to both sets of tools are required, though these proficiencies can be shared over multiple characters. For example, one character could take part in the crafting and have proficiency in one set of tools, and another character could also take part in the crafting and provide the proficiency needed for the other set of tools.",
+								"{@b Crafting DC}: The ability check and DC that must be met to successfully craft an item, and the time required to do so. If this check is failed by 5 or more, the harvested pieces used are destroyed in the crafting process.",
+								"If crafting an item requires two or more checks, the checks can be performed by any creatures taking part in the crafting of the item. A barbarian, for example, might decide to make the required Strength (Athletics) check, leaving the Intelligence (Arcana) check to the wizard. Other characters can take the Help action to grant the crafting characters advantage on the aforementioned checks."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Crafted Items",
+							"entries": [
+								"The crafted items listed below are in alphabetical order. Some items on this list can only be crafted using materials harvested from either the adult or juvenile deep dwellers respectively. The items properties change depending on which version of the creature it is crafted from, with the juvenile properties displayed by default and the upgraded adult properties displayed atop the description. Each item lists the school of magic it radiates, should it be the target of detect magic or similar spells. These changes are detailed in the item's entry.",
+								"[Deep Blade]",
+								"[Deep Dweller Leather]",
+								"[Deep Dweller Shield]",
+								"[Deep Fang Daggers]",
+								"[Deepblood Poison]",
+								"[Dweller Arrowhead]",
+								"[Dweller Axe]",
+								"[Dweller Skin Coating]",
+								"[Grasping Fluid]",
+								"[Medicinal Tape]",
+								"[Mindspike Potion]",
+								"[Notched Dweller Whip]",
+								"Selling Harvested Materials",
+								"Materials harvested from the deep dweller can be sold to interested third parties, such as collectors, arcane scholars and nobility. Items can also be sold to criminal black-market dealers at an increased price, should the character have a criminal contact or background. The Harvest Value table details average sale guidelines for a piece of each material type.",
+								"Costs may fluctuate based on your campaign's economy, sale location, or per trader, at the discretion of the Dungeon Master.",
+								{
+									"type": "table",
+									"caption": "Harvest Value Table",
+									"colLabels": [
+										"Material Name",
+										"Sale Price",
+										"Black Market Price"
+									],
+									"colStyles": [
+										"col-3 text-center",
+										"col-2 text-center",
+										"col-2 text-center"
+									],
+									"rows": [
+										[
+											"Dweller Tentacle (Flesh)",
+											"400 gp (Adult) 300 gp (Juvenile)",
+											"650 gp (Adult) 500 gp (Juvenile)"
+										],
+										[
+											"Dweller Tentacle (Spines)",
+											"250 gp (Adult) 150 gp (Juvenile)",
+											"300 gp (Adult) 200 gp (Juvenile)"
+										],
+										[
+											"Dweller Tentacle (Suckers)",
+											"300 gp (Adult) 175 gp (Juvenile)",
+											"450 gp (Adult) 300 gp (Juvenile)"
+										],
+										[
+											"Dweller Fang",
+											"200 gp (Adult) 100 gp (Juvenile)",
+											"350 gp (Adult) 200 gp (Juvenile)"
+										],
+										[
+											"Dweller Blood",
+											"500 gp (Adult) 375 gp (Juvenile)",
+											"800 gp (Adult) 600 gp (Juvenile)"
+										]
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Devil of the Deep",
+							"entries": [
+								"{@b Recommended Character Level}: 11 - 13 (Adult) 5 - 6 (Juvenile)",
+								"{@b Minimum Equipment Required}: A sailing ship (GoS, Appendix A: Of Ships and the Sea) with a crew of at least 30 sailors and a hull with at least 300 hit points. At least one magical weapon, and 4 Potions of Healing.",
+								"{@b Recommended Equipment Required}: A warship (GoS, Appendix A: Of Ships and the Sea), with at least 30 crew, and a hull with at least 400 hit points. At least 3 magical weapons, and a spellcaster with access to healing magic.",
+								"{@b Party Size}: 4 - 6",
+								"{@b Difficulty}: Deadly (4), Deadly/Hard (6)",
+								"{@b Quest Creature}: Deep Dweller",
+								"{@b Quest overview}",
+								"Captain Tr'alik, owner of the infamous sailing ship The Rising Tide, is looking for crew members to join him on a hunt for the elusive and dangerous deep dweller. Having faced the beast before and lived to tell the tale, Tr'alik is fueled by revenge and hatred. If the beast is awoken, but not defeated, it could easily spell doom for many coastal towns and cities, including Saltmarsh itself.",
+								"{@b Important Quest Notes}",
+								"This quest provides a basic layout and stat block for The Rising Tide, and assumes it is crewed by 20 NPC sailors, including Captain Tr'alik. Feel free to modify this quest to suit your needs, but be aware the NPCs and ship provided all meet the bare minimum requirements. NPC stat blocks for this quest are located in the Monster Manual."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Stage 1: Meeting the NPCs",
+							"entries": [
+								"Upon hearing of the recruitment availability, the characters are introduced to Captain Tr'alik at the Saltmarsh docks. Tr'alik is an aging high elf, covered in battle scars and speaks in a gruff, broken common. He appears to twitch at random intervals, and often snaps aggressively at crew mates only he can see. A DC 15 Wisdom (Medicine) check reveals he is partially insane, and while stable enough to captain a vessel, could be prone to making rash decisions. A DC 16 Intelligence (Arcana) check reveals magical scars across the back of his head, evidence of severe psychic trauma explaining his mental state.",
+								"Tr'alik reveals to the characters that he has dreamt of the beast for many years, but recently his dreams have become more nightmarish, leading him to believe his monstrous nemesis is returning from its generations-long slumber. He seeks to awaken the deep dweller with an ancient sea shanty; taking his revenge and driving it back to the depths of the ocean before the beast begins preying on trading vessels and coastal regions.",
+								"He claims the deep dweller's tentacles are extremely valuable, and should the characters help him take revenge on the creature, any materials they harvest from it are theirs to keep."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Stage 2: Exploration",
+							"entries": [
+								"When the characters set sail, the deep dweller is not yet awake.",
+								"Captain Tr'alik orders the crew to set sail to a particular area of the ocean he remembers facing the deep dweller at before. This journey takes three days. During that time, the characters can help the running of the ship and question members of the crew and the captain himself on tales, legends and first hand experiences of the deep dweller by making various ability checks.",
+								"{@b Assisting the Crew}",
+								"Below is a list of ability checks characters can make to help maintain The Rising Tide as she sails on the high seas. The party can perform up to three different ability checks per day. Each check takes 1d4 hours to complete.",
+								"A successful check increases The Rising Tide's condition by 1 point, to a maximum of +5. A failed check decreases its condition by 1 point, to a maximum of -5. Consult the condition table, detailed in stage 3 of this quest, to find out how the ship's final condition affects the deep dweller encounter.",
+								"{@b Check the Sails} ({@b DC 15 Strength (Athletics) check}). A character helps ensure the rigging is aligned and undamaged, making repairs where they are needed to help The Rising Tide catch the wind effectively.",
+								"{@b Repair The Hull} ({@b DC 15 Strength (Athletics) check}). The character helps make repairs to the hull, replacing rotting wood and ensuring the ship doesn't spring leaks during the voyage. This check automatically succeeds if the character has access to the mending cantrip.",
+								"{@b Swab The Deck} ({@b DC 15 Strength (Athletics) check}). The character swabs the deck to keep it clear of hazards, such as seaweed or algae build up, and re-applies a new coat of paint to protect the wood from exposure to the elements.",
+								"{@b Clear Barnacles} ({@b DC 15 Constitution check)}. The character is lowered into the water to chip barnacles from the ship's keel.",
+								"{@b Prepare Food} ({@b DC 15 Wisdom (Survival) check}). The character helps the cook prepare food on board for the crew. This includes jobs such as catching fish, cleaning the kitchen, chopping vegetables and rationing out water supplies.",
+								"{@b Researching The Deep Dweller}",
+								"During the exploration stage, characters can also choose to gather information pertaining to the deep dweller. This information can be collected by reading through research notes stored on the ship, or listening to tall tales from sailors and the mad ramblings of Captain Tr'alik himself.",
+								"A character not assisting the crew can instead choose to gather information on the deep dweller to better prepare their party for the upcoming encounter by making one of the ability checks detailed below. A character can attempt each check once over the course of this quest. If a check is failed, a false piece of information about the legendary creature is gathered instead.",
+								"{@b Ask Crew About Stories} ({@b DC 15 Charisma (Persuasion) check}). The character spends time with various crew members to compare stories they've heard about the deep dweller:",
+								"(Failure) \"I heard that it's got tentacles a mile long, and it can suck the face right off your head!\"",
+								"(Success) \"I've heard that it can get into your head with magic, and if it grabs you, it'll eat your brains without needin' to bother breakin' your skull.\"",
+								"{@b Ask Crew About Rumours} ({@b DC 15 Charisma (Persuasion) check}). The character asks crew members about any rumours they heard of the area they are heading to.",
+								"(Failure) \"I ain't hear nothin' of note really. Sea's the sea.\" (Success) \"I heard last time the Captain was here was 200 years ago, and when he was, there wasn't a fish around for miles. It was like they'd all run off. It was right stormy too.\"",
+								"{@b Question The Captain} ({@b DC 15 Charisma (Persuasion) check}). The character questions Captain Tr'alik on his previous encounter with the deep dweller.",
+								"(Failure) [Eyes Wide and Crazed] \"That beast'll get what's coming to it! I saw it tear my ship to pieces in the blink of an eye, and I only got one good shot at it with me cannon. Held onto a raft for three days before I was found! Mark my words, this time it'll be different!\"",
+								"(Success) [Solemn and Serious] \"T'was a stormy night when the beast did rise from the depths. It grabbed my first mate, and stole the mind from her body. I still hear her screams at night. That thing's not natural, I'll tell you that. It's got some magic about it. When it arrives, the waters turn black, and a storm the likes of which you've never seen'll assail us before the beast does.\"",
+								"{@b Compare Research Notes} ({@b DC 15 Intelligence (Investigation) check}).",
+								"The character spends a few hours reading research papers on board the ship, checking navigation records, and comparing interesting events to learn more about the deep dweller's movements.",
+								"(Failure) Little of these notes makes sense. Likely exaggerated reports from drunken sailors.",
+								"(Success) The creature seems to hunt large ships, and sinks them by tearing at the underside of their hulls. It uses its tentacles to hold larger prey in place before biting into it with a large fanged maw. Severing the tentacles seems to be the most reliable way to defeat it.",
+								"{@b Observe Wildlife} ({@b DC 15 Intelligence (Nature) check}. The character spends time recording the actions of nearby wildlife and theorises how a large predator might interact with them.",
+								"(Failure) It's likely this creature is a simple-minded beast, and any stories are simple exaggerations of tall tales.",
+								"(Success) This creature is extremely intelligent, and if it preys on ships in similar size to The Rising Tide, it is likely of gargantuan proportions. Anything of that size is unlikely to succumb to paralysis and prove difficult, if not impossible, to restrain.",
+								"By the second day, a large portion of the sea life in the area vanishes. This is noticeable to any character who spends any length of time observing the wildlife. On the third day, the ship arrives at Captain Tr'alik's co-ordinates, and the sea appears to be eerily calm. Tr'alik waits until nightfall before presenting the ancient sea shanty to the characters, and requesting one of them with magical proficiency read it aloud to rouse the deep dweller from the ocean depths.",
+								"If no character has magical proficiency, assume instead the deep dweller has awoken of its own accord, and continue to stage 3 of this quest."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Stage 3: The Hunt",
+							"entries": [
+								"This stage of the quest begins with The Rising Tide suddenly being assailed by a ferocious storm. A DC 17 Intelligence (Arcana) check reveals this storm to be magical in nature, and not a natural occurrence. The storm continues to rage throughout the encounter, and only subsides once the deep dweller is defeated.",
+								"If The Rising Tide is sunk and the characters are defeated or choose to flee, the deep dweller continues attacking any remaining crew for 1d4 rounds before swimming away, taking the storm with it. The condition The Rising Tide is in affects the difficulty of this encounter, as detailed on the Condition Table.",
+								{
+									"type": "table",
+									"caption": "Condition Table",
+									"colLabels": [
+										"Ship Condition Points",
+										"Details"
+									],
+									"colStyles": [
+										"col-3 text-center",
+										"col-5 text-center"
+									],
+									"rows": [
+										[
+											"+4 to +5" ,
+											"The ship and crew (including characters) gain a +1 bonus to all ability checks, attacks, and damage rolls while aboard, and advantage on Dexterity saving throws."
+										],
+										[
+											"+2 to +3",
+											"The ship gains a +1 bonus to all ability checks, attacks, and damage rolls."
+										],
+										[
+											"+1 to -1",
+											"No effects"
+										],
+										[
+											"-2 to -3",
+											"The ship suffers a -1 penalty to all ability checks and attack rolls."
+										],
+										[
+											"-4 to -5",
+											"The ship and crew (including characters) suffer a -1 penalty to all ability checks and attack rolls while on board."
+										]
+									]
+								},
+								"{@b Deep Dweller Tactics}",
+								"The deep dweller begins the encounter hidden beneath the waves as magical darkness spreads beneath the ship.",
+								"Characters can hear the howls of the deep dweller by making a {@b DC 15 Wisdom (Perception) check}, revealing its position on a success. If no character notices the deep dweller, it has advantage on its initiative check at the start of the combat.",
+								"The deep dweller targets the ship's underbelly first, making tentacle attacks and attempting to grapple it while remaining underwater to mitigate damage from the crew on board. As long as the deep dweller has taken less than 100 damage, it continues to focus its attention on the ship. When it has the ship grappled, it tries to bite its prey. If the bite hits, the deep dweller breaks one of its fangs off, which remains trapped in the ship's hull. Thereafter, the deep dweller only uses its Tentacle attacks and Constrict feature against the ship.",
+								"Once it has taken enough damage, it shifts its attention from the ship to the crew. The deep dweller prioritizes its attacks against creatures in the water or in the air. If none are in the water or air, it attacks those on deck at random. Save the captain and the characters, assume any attack which hits a crew member does enough damage to drop them in one hit. Once more than half the crew has been killed in this manner, the deep dweller shifts its focus exclusively to the characters and the ship, which it continues to attack with at least one tentacle each turn.",
+								"If the deep dweller is reduced to half its hit points or fewer, it prioritizes using its Psychic Drain as often as it is able.",
+								"Characters can attempt to determine the health (or combat ability) of the deep dweller by making a DC 20 Wisdom (Insight) check. On a success, the character knows the deep dweller is one of the following:",
+								"198 - 396 hit points/6+ tentacles: Combat Capable",
+								"197 - 99 hit points/3 - 5 tentacles: Slightly Weakened",
+								"98 or less hit points/2 or less tentacles: Weak and Struggling",
+								"If defeated, the deep dweller flees into the depths of the ocean, and doesn't return. Any swallowed creatures that are still alive are vomited out along with a large trail of black, bloody ichor as the deep dweller flees.",
+								"Any tentacles severed during the combat remain floating atop the water or on The Rising Tide's deck or interior, depending on how and where they were severed."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Stage 4: Completion",
+							"entries": [
+								"Upon defeating the deep dweller, the remaining crew celebrate their victory and begin helping the characters repair the ship and harvest any severed body parts. The crew sails back to Saltmarsh as heroes, and the characters are awarded all harvested material to do with as they wish.",
+								"If Captain Tr'alik survived the encounter with the deep dweller, he offers to transport the characters to whatever port they would like, and presents them with free room and board in a tavern of their choosing for 2d6 days once they arrive, as a final display of his gratitude.",
+								"If the characters are defeated, the deep dweller swims away in search of more ships to attack. It arrives and attacks the port of Saltmarsh in 5 days, before vanishing into the sea and falling into a deep slumber for another 175 years. The last view the characters see of the deep dweller before it leaves is the storm moving in the direction of Saltmarsh. Whether or not the characters can arrive in time to stop the deep dweller from destroying Saltmarsh, however, is entirely down to you as Dungeon Master."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Notable NPCs and Other Stat Blocks",
+							"entries": [
+								"{@b Name}: Captain Tr'alik",
+								"{@b Race}: High Elf (He/Him)",
+								"{@b Alignment}: Chaotic neutral",
+								"{@b Occupation}: Captain of The Rising Tide",
+								"{@b Stat Block}: Pirate (GoS, Appendix C: Monsters and NPCs) or Bandit Captain",
+								"{@b Personality Trait}: Stubborn, determined, haunted by memories of the crew he lost, light sleeper, enjoys singing.",
+								"Other Stat Blocks In This Quest",
+								"A basic map and stat block for The Rising Tide is can be found at the end of this chapter."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Other Plot Hooks",
+							"entries": [
+								"Here are a few examples of other plot hooks and bounties you can use to introduce the existence of the deep dweller to your Dungeons & Dragons campaign:",
+								"Merchant vessels off the nearby coast have been vanishing for the past few days. The local guard suspects piracy, while many other sailors are blaming the terrible weather.",
+								"However, Tila Dimlit, the town's divination wizard, has foreseen a much more terrifying culprit, blaming the mysterious disappearances on a growing darkness which she claims is spreading across the sea at an increasingly rapid pace.",
+								"Those wishing to investigate these claims further should speak with Captain Ilimir of the Purple Rose as soon as possible.",
+								"Old Spot, the elderly fisherman that frequents the local taverns, keeps rambling on about hearing a cry for help when he's out on his boat. The local guards have gone to check, but returned empty handed, claiming the old man was just going senile. That was a few days ago, and I've not seen Spot since.",
+								"Anyone willing to look into his disappearance can find me near the Old Mare on Sleeper's Street.",
+								"Ask for Jasper.",
+								"A young fisherman, down on his luck and drowning his sorrows in cheap ale, staggers over, slamming a hand down on the wooden table in front of you. He holds in his other hand a crumpled piece of parchment he claims he found adrift in a bottle at sea.",
+								"Looking the faded writing over, you make out what appears to be the words to an old sea shanty. The young man grins, placing his palm face up towards your face.",
+								"\"Worth a few coin?\" He asks, drunkenly."
+							]
+						}
 					]
 				}
 			]
 		}
 	],
 	"monster": [
-
+		{
+			"name": "Deep Dweller (Adult)",
+			"source": "",
+			"page": 0,
+			"size": [
+				"G"
+			],
+			"type": {
+				"type": "monstrosity",
+				"tags": [
+					"titan"
+				]
+			},
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 18,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 396,
+				"formula": "24d20 + 144"
+			},
+			"speed": {
+				"walk": 20,
+				"swim": 80
+			},
+			"str": 30,
+			"dex": 11,
+			"con": 22,
+			"int": 24,
+			"wis": 18,
+			"cha": 20,
+			"save": {
+				"str": "+17",
+				"dex": "+7",
+				"con": "+13",
+				"int": "+14",
+				"wis": "+11"
+			},
+			"senses": [
+				"blindsense 120 ft (blind beyond this radius)."
+			],
+			"passive": 14,
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical weapons",
+					"cond": true
+				}
+			],
+			"immune": [
+				"lightning",
+				"poison",
+				"psychic"
+			],
+			"conditionImmune": [
+				"charmed",
+				"frightened",
+				"paralyzed",
+				"poisoned"
+			],
+			"languages": [
+				"telepathy 120 ft"
+			],
+			"cr": "24",
+			"trait": [
+				{
+					"name": "Creature of Legend",
+					"entries": [
+						"The deep dweller is a creature of legend. Its weapon attacks are magical, and it can't be killed by conventional means. If the deep dweller is reduced to 0 hit points it instead flees, retreating into the abyss of the sea, and doesn't return for 500 years. During this time, it can't be re-summoned, and it regrows all severed tentacles or fangs over the course of 1 year.",
+						"The deep dweller only dies if it can't retreat into the sea when it's reduced to 0 hit points, such as if it is beached, or suffocates."
+					]
+				},
+				{
+					"name": "Freedom of Movement",
+					"entries": [
+						"The deep dweller ignores difficult terrain, and magical effects can't reduce its speed or cause it to be {@condition restrained}. It can spend 5 feet of movement to escape from nonmagical restraints or being {@condition grappled}."
+					]
+				},
+				{
+					"name": "Legendary Resistance (3/Day)",
+					"entries": [
+						"If the deep dweller fails a saving throw, it can choose to succeed instead."
+					]
+				},
+				{
+					"name": "Psychic Horror",
+					"entries": [
+						"The deep dweller can use its telepathy only to display nightmarish images or feelings of abject horror.  Survivors of an attack by the deep dweller often experience nightmares and disturbed sleep for many months afterwards."
+					]
+				},
+				{
+					"name": "Tentacles and Fangs",
+					"entries": [
+						"The deep dweller has eight tentacles and four fangs. The tentacles can each be severed by magical slashing damage, and the fangs can be broken by magical bludgeoning damage. A tentacle has AC 20 and 30 hit points. A fang has AC 20 and 15 hit points. The deep dweller is defeated if all its tentacles are severed, and can't use its Bite if all fangs are broken."
+					]
+				},
+				{
+					"name": "Water Breathing",
+					"entries": [
+						"The deep dweller can only breathe underwater.  While out of water, the deep dweller can hold its breath for 4 hours."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The deep dweller makes three tentacle attacks, each of which it can replace with one use of Constrict. It can replace one tentacle attack with one use of Psychic Drain. The deep dweller can use different tentacles for each attack."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"Melee weapon attack: {@hit 17} to hit, reach 5ft., one target. {@h}23 ({@damage 3d8 + 10}) piercing damage. If the target is a Large or smaller creature {@condition grappled} by the deep dweller, that creature is swallowed, and the grapple ends. While swallowed, the creature is {@condition blinded} and {@condition restrained}, it has total cover against attacks and other effects outside the deep dweller, and it takes 35 ({@damage 10d6}) acid damage at the start of each of the deep dweller's turns. If the deep dweller takes 30 damage or more on a single turn from a creature inside it, the deep dweller must succeed on a {@dc 25} Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall {@condition prone} in a space within 10 feet of the deep dweller. If the deep dweller is reduced to 0 hit points or otherwise defeated, it vomits out all swallowed creatures and a burst of black, bloody ichor before fleeing."
+					]
+				},
+				{
+					"name": "Tentacle",
+					"entries": [
+						"Melee weapon attack: {@hit 17} to hit, reach 30 ft., one target.  {@h}20 ({@damage 3d6 + 10}) bludgeoning damage, and if the target is Large or smaller it is {@condition grappled} (escape {@dc 18}). Until this grapple ends, the target is {@condition restrained}, and if the deep dweller attacks and hits another target with the same tentacle, instead of grappling the new target, the currently {@condition grappled} creature takes 7 ({@damage 2d6}) bludgeoning damage. If the deep dweller hits a Huge or larger target with three tentacle attacks in the same round, it can use all three tentacles to grapple the target, and the deep dweller can't use those tentacles on another target until this grapple ends.  Constrict. Melee weapon attack: {@hit 17} to hit, reach 30 ft., one target {@condition grappled} by the deep dweller. {@h}31 ({@damage 6d6 + 10}) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Psychic Drain",
+					"entries": [
+						"One creature {@condition grappled} by the deep dweller must make a {@dc 23} Intelligence saving throw. A creature takes 22 ({@damage 4d10}) psychic damage on a failed save, and half as much on a successful one, and the deep dweller regains a number of hit points equal to half the damage dealt. If the saving throw fails by 10 or more, the {@condition grappled} creature suffers a long-term madness."
+					]
+				},
+				{
+					"name": "Blinding Scream {@recharge 5}",
+					"entries": [
+						"The deep dweller unleashes a pulse of psychic energy, which radiates out from it in a 120foot radius sphere. Creatures in the area must make on a {@dc 23} Intelligence saving throw. A creature takes 22 ({@damage 4d10}) psychic damage and is {@condition blinded} for 1 minute on a failed save, or takes half as much damage and isn't {@condition blinded} on a successful one. A {@condition blinded} creature can attempt this saving throw again at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature can't be {@condition blinded} by this feature for the next 24 hours."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Tentacle Attack or Constrict",
+					"entries": [
+						"The deep dweller makes one tentacle attack, or uses its Constrict."
+					]
+				},
+				{
+					"name": "Psychic Drain (Costs 2 Actions)",
+					"entries": [
+						"The deep dweller uses its Psychic Drain."
+					]
+				},
+				{
+					"name": "Psychic Redoubt (Costs 3 Actions)",
+					"entries": [
+						"The deep dweller recharges its Blinding Scream."
+					]
+				}
+			],
+			"traitTags": [
+				"Legendary Resistances",
+				"Water Breathing"
+			],
+			"actionTags": [
+				"Multiattack",
+				"Swallow",
+				"Tentacles"
+			],
+			"languageTags": [
+				"TP"
+			],
+			"damageTags": [
+				"A",
+				"B",
+				"P",
+				"Y"
+			],
+			"miscTags": [
+				"RCH"
+			],
+			"conditionInflict": [
+				"blinded",
+				"grappled",
+				"restrained"
+			]
+		},
+		{
+			"name": "Deep Dweller (Juvenile)",
+			"source": "",
+			"page": 0,
+			"size": [
+				"G"
+			],
+			"type": {
+				"type": "monstrosity",
+				"tags": [
+					"titan"
+				]
+			},
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 203,
+				"formula": "14d20 + 56"
+			},
+			"speed": {
+				"walk": 10,
+				"swim": 70
+			},
+			"str": 22,
+			"dex": 16,
+			"con": 18,
+			"int": 18,
+			"wis": 14,
+			"cha": 16,
+			"save": {
+				"con": "+8",
+				"int": "+8",
+				"wis": "+6"
+			},
+			"senses": [
+				"blindsense 60 ft (blind beyond this radius)."
+			],
+			"passive": 12,
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical weapons",
+					"cond": true
+				}
+			],
+			"immune": [
+				"lightning",
+				"poison",
+				"psychic"
+			],
+			"conditionImmune": [
+				"charmed",
+				"frightened",
+				"paralyzed",
+				"poisoned"
+			],
+			"languages": [
+				"telepathy 60 ft"
+			],
+			"cr": "13",
+			"trait": [
+				{
+					"name": "Creature of Legend",
+					"entries": [
+						"The deep dweller is a creature of legend. Its weapon attacks are magical, and it can't be killed by conventional means. If the deep dweller is reduced to 0 hit points it instead flees, retreating into the abyss of the sea, and doesn't return for 500 years. During this time, it can't be re-summoned, and it regrows all severed tentacles or fangs over the course of 3 years.  The deep dweller only dies if it can't retreat into the sea when it's reduced to 0 hit points, such as if it is beached, or suffocates."
+					]
+				},
+				{
+					"name": "Freedom of Movement",
+					"entries": [
+						"The deep dweller ignores difficult terrain, and magical effects can't reduce its speed or cause it to be {@condition restrained}. It can spend 5 feet of movement to escape from nonmagical restraints or being {@condition grappled}."
+					]
+				},
+				{
+					"name": "Legendary Resistance (1/Day)",
+					"entries": [
+						"If the deep dweller fails a saving throw, it can choose to succeed instead."
+					]
+				},
+				{
+					"name": "Psychic Horror",
+					"entries": [
+						"The deep dweller can use its telepathy only to display nightmarish images or feelings of abject horror.",
+						"Survivors of an attack by the deep dweller often experience nightmares and disturbed sleep for many months afterwards."
+					]
+				},
+				{
+					"name": "Tentacles and Fangs",
+					"entries": [
+						"The deep dweller has eight tentacles and four fangs. The tentacles can each be severed by magical slashing damage, and the fangs can be broken by magical bludgeoning damage. A tentacle has AC 18 and 20 hit points. A fang has AC 18 and 10 hit points. The deep dweller is defeated if all its tentacles are severed, and can't use its Bite if all fangs are broken."
+					]
+				},
+				{
+					"name": "Water Breathing",
+					"entries": [
+						"The deep dweller can only breathe underwater.  While out of water, the deep dweller can hold its breath for 1 hour."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The deep dweller makes two tentacle attacks, each of which it can replace with one use of Constrict. It can replace one tentacle attack with one use of Psychic Drain. The deep dweller can use different tentacles for each attack."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"Melee weapon attack: {@hit 10} to hit, reach 5ft., one target. {@h}19 ({@damage 3d8 + 6}) piercing damage. If the target is a Large or smaller creature {@condition grappled} by the deep dweller, that creature is swallowed, and the grapple ends. While swallowed, the creature is {@condition blinded} and {@condition restrained}, it has total cover against attacks and other effects outside the deep dweller, and it takes 17 ({@damage 5d6}) acid damage at the start of each of the deep dweller's turns. If the deep dweller takes 15 damage or more on a single turn from a creature inside it, the deep dweller must succeed on a {@dc 25} Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall {@condition prone} in a space within 10 feet of the deep dweller. If the deep dweller is reduced to 0 hit points or otherwise defeated, it vomits out all swallowed creatures and a burst of black, bloody ichor before fleeing."
+					]
+				},
+				{
+					"name": "Tentacle",
+					"entries": [
+						"Melee weapon attack: {@hit 10} to hit, reach 30 ft., one target.  {@h}16 ({@damage 3d6 + 6}) bludgeoning damage, and if the target is Large or smaller it is {@condition grappled} (escape {@dc 15}). Until this grapple ends, the target is {@condition restrained}, and if the deep dweller attacks and hits another target with the same tentacle, instead of grappling the new target, the currently {@condition grappled} creature takes 3 ({@damage 2d6}) bludgeoning damage. If the deep dweller hits a Huge or larger target with three tentacle attacks in the same round, it can use all three tentacles to grapple the target, and the deep dweller can't use those tentacles on another target until this grapple ends."
+					]
+				},
+				{
+					"name": "Constrict",
+					"entries": [
+						"Melee weapon attack: {@hit 10} to hit, reach 30 ft., one target {@condition grappled} by the deep dweller. {@h}23 ({@damage 5d6 + 6}) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Psychic Drain",
+					"entries": [
+						"One creature {@condition grappled} by the deep dweller must make on a {@dc 18} Intelligence saving throw. A creature takes 11 ({@damage 2d10}) psychic damage on a failed save, and half as much on a successful one, and the deep dweller regains a number of hit points equal to half the damage dealt. If the creature fails this saving throw by 10 or more, it also suffers a level of long-term madness."
+					]
+				},
+				{
+					"name": "Blinding Scream {@recharge 5}",
+					"entries": [
+						"The deep dweller unleashes a pulse of psychic energy, which radiates out from it in a 120-foot radius sphere. Creatures in the area must succeed on a {@dc 18} Intelligence saving throw. A creature takes 11 ({@damage 2d10}) psychic damage and is {@condition blinded} for 1 minute on a failed save, or takes half as much damage and isn't {@condition blinded} on a successful one. A {@condition blinded} creature can attempt this saving throw again at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature can't be {@condition blinded} by this feature for the next 24 hours."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "",
+					"entries": [
+						"The deep dweller can take 1 legendary action, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The deep dweller regains spent legendary actions at the start of its turn."
+					]
+				},
+				{
+					"name": "Tentacle Attack",
+					"entries": [
+						"The deep dweller makes a tentacle attack."
+					]
+				},
+				{
+					"name": "Constrict",
+					"entries": [
+						"The deep dweller uses its Constrict."
+					]
+				},
+				{
+					"name": "Hide",
+					"entries": [
+						"The deep dweller takes the Hide action."
+					]
+				}
+			],
+			"traitTags": [
+				"Legendary Resistances",
+				"Water Breathing"
+			],
+			"actionTags": [
+				"Multiattack",
+				"Swallow",
+				"Tentacles"
+			],
+			"languageTags": [
+				"TP"
+			],
+			"damageTags": [
+				"A",
+				"B",
+				"P",
+				"Y"
+			],
+			"miscTags": [
+				"AOE",
+				"RCH"
+			],
+			"conditionInflict": [
+				"blinded",
+				"restrained"
+			]
+		}
 	],
 	"item": [
 
