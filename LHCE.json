@@ -1046,7 +1046,400 @@
 		}
 	],
 	"item": [
-
+		{
+			"name": "Deep Blade",
+			"source": "",
+			"page": 0,
+			"baseitem": "longsword|PHB",
+			"bonusWeapon": "+1",
+			"charges": 3,
+			"entries": [
+				"rare",
+				{
+					"type": "entries",
+					"name": "Adult Properties:",
+					"entries": [
+						"Save DC 17, +2 to attack and damage rolls."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Illusion",
+						"This rugged blade is crafted from the protruding spines of the deep dweller's grasping tendrils. While not overly sharp, the blade's serrated edge gives it a fearsome intimidating appearance. You gain a +1 bonus to attack and damage rolls made with this magic weapon. Additionally, this sword has 3 charges and regains {@dice 1d3} charges each night at the stroke of midnight.",
+						"When you hit a creature with this blade, you can expend 1 charge to force that creature to make a DC 15 Wisdom saving throw. On a failed save, the target's eyes are covered in an inky, magical darkness, and the target becomes {@condition blinded} for 1 minute. A {@condition blinded} creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success"
+					]
+				}
+			]
+		},
+		{
+			"name": "Deep Dweller Leather",
+			"source": "",
+			"page": 0,
+			"baseItem": "leather armor|PHB",
+			"type": "LA",
+			"rarity": "none",
+			"weight": 10,
+			"ac": 11,
+			"bonusAc": "+2",
+			"entries": [
+				"rare",
+				{
+					"type": "entries",
+					"name": "Adult Properties:",
+					"entries": [
+						"Grants an additional +2 bonus to AC."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Illusion",
+						"This thick leather armor settles on your body like a rubbery mass, protecting you from harm while remaining as light as a feather.",
+						"While you are in {@quickref Vision and Light||2} or darkness, you are {@condition invisible} to creatures that are more than 30 feet away from you."
+					]
+				}
+			]
+		},
+		{
+			"name": "Deep Dweller Shield",
+			"source": "",
+			"page": 0,
+			"baseItem": "shield|PHB",
+			"type": "S",
+			"rarity": "none",
+			"weight": 6,
+			"ac": 2,
+			"bonusAc": "+1",
+			"entries": [
+				"uncommon",
+				{
+					"type": "entries",
+					"name": "Adult Properties:",
+					"entries": [
+						"While holding this shield, you have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Illusion",
+						"Once per day, you can use your action to slam the shield into the ground and cast {@spell darkness} at 2nd level. The magical darkness remains for 1 minute or until dispelled. Quiet screams and distant cries of terror can be heard emanating from within the spell's radius.",
+						"This shield is made from wood covered in the thick leather hide of the deep dweller and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time."
+					]
+				}
+			],
+			"attachedSpells": [
+				"darkness"
+			]
+		},
+		{
+			"name": "Deep Fang Daggers",
+			"source": "",
+			"page": 0,
+			"baseItem": "dagger|PHB",
+			"type": "M",
+			"rarity": "none",
+			"weight": 1,
+			"weaponCategory": "simple",
+			"property": [
+				"F",
+				"L",
+				"T"
+			],
+			"range": "20/60",
+			"dmg1": "1d4",
+			"dmgType": "P",
+			"bonusWeapon": "+2",
+			"dagger": true,
+			"weapon": true,
+			"entries": [
+				"rare (requires attunement)",
+				{
+					"type": "entries",
+					"name": "Adult Properties:",
+					"entries": [
+						"Each dagger has a +2 bonus to attack and damage rolls."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Illusion",
+						"This pair of daggers are carved from the fangs of the legendary deep dweller. Each dagger is a single piece; beginning with a smooth, sinewy handle and ending in a razor-sharp point.",
+						"Each dagger deals an additional {@damage 1d4} psychic damage when you hit a creature with this magic weapon, or {@dice 1d6} additional psychic damage if you are wielding a deep fang dagger in each hand. Additionally, when you dual wield these daggers, they emit wistful echoes and shrieks when passing by each other. Any creature within 10 feet of you who can hear the shrieks has disadvantage on attack rolls against you unless they are immune to the {@condition frightened} condition."
+					]
+				}
+			]
+		},
+		{
+			"name": "Deepblood Poison",
+			"source": "",
+			"page": 0,
+			"type": "P",
+			"entries": [
+				"rare",
+				{
+					"type": "entries",
+					"name": "Adult Properties:",
+					"entries": [
+						"Save DC 17"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This deadly vial contains a dark, thick poison that, when applied to an open wound or ingested, induces severe vomiting and hysteria.",
+						"As an action, you can throw the vial towards a point you can see within 20 feet of you. Each creature within 5 feet of that point must succeed on a DC 15 Constitution saving throw, or become {@condition poisoned} for 1 minute. Alternatively, you can rub the poison directly into a creature's open wound by using your action to make a melee weapon attack against the target. On a successful hit, the target becomes {@condition poisoned}. A creature {@condition poisoned} by Deepblood Poison can't take reactions and must roll a {@dice d10} at the start of each of its turns to determine its behavior for that turn:",
+						"The {@condition poisoned} creature can make a DC 15 Constitution saving throw at the end of its subsequent turns, ending the effect on itself on a success. A target automatically succeeds on this saving throw if it has all of its hit points, but automatically fails this saving throw if it instead ingests the poison, such as by consuming {@condition poisoned} food or drink. A creature so {@condition poisoned} (by ingestion) can only recover by way of lesser restoration or similar magic."
+					]
+				},
+				{
+					"type": "table",
+					"colLabels": [
+						"D10",
+						"Result"
+					],
+					"colStyles": [
+						"col-2 text-center",
+						"col-4 text-left"
+					],
+					"rows": [
+						[
+							"1",
+							"The target uses all its movement to run, screaming, in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. The target doesn't take an action this turn."
+						],
+						[
+							"2 - 6",
+							"The target doesn't move or take an action this turn, instead spending its turn vomiting black blood profusely."
+						],
+						[
+							"7 - 8",
+							"The target uses its action to make a melee attack against a randomly determined creature within its reach, while rambling incoherently. If there is no creature within its reach, the creature instead targets its own features, such as nails, hands, hair or ears."
+						],
+						[
+							"9 - 10",
+							"The target moves and acts normally."
+						]
+					]
+				}
+			]
+		},
+		{
+			"name": "Dweller Arrowhead",
+			"source": "",
+			"page": 0,
+			"baseItem": "arrow|PHB",
+			"type": "A",
+			"rarity": "none",
+			"weight": 0.05,
+			"bonusWeapon": "+1",
+			"entries": [
+				"uncommon",
+				{
+					"type": "entries",
+					"name": "Adult Properties:",
+					"entries": [
+						"Save DC 17, +2 bonus to attack rolls."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Illusion",
+						"This barbed arrow is carved from the remains of the deep dweller's tendril spines. You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical. Additionally, if you hit a creature with more than one of these arrows in the same turn, the target must succeed on a DC 14 Wisdom saving throw or become {@condition blinded} for 1 minute as their eyes become infected with a magical darkness.",
+						"A {@condition blinded} creature can repeat the saving throw at the end of each of its turns, ending the effect on a success."
+					]
+				}
+			]
+		},
+		{
+			"name": "Dweller Axe",
+			"type": "GV",
+			"requires": [
+				{
+					"axe": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "Dweller Axe ",
+				"source": "",
+				"page": 0,
+				"bonusWeapon": "+1",
+				"recharge": "dawn",
+				"rechargeAmount": "{@dice 1d3}",
+				"charges": 3,
+				"entries": [
+					"rare (requires attunement)",
+					{
+						"type": "entries",
+						"name": "Adult Properties:",
+						"entries": [
+							"Save DC 17, {=bonusWeapon} to attack and damage rolls."
+						]
+					},
+					{
+						"type": "entries",
+						"name": "School of Magic:",
+						"entries": [
+							"Illusion",
+							"This axe sports a fearsome and intimidating serrated head, forged from the spines of a deep dweller tentacle. You have a {=bonusWeapon} bonus to attack and damage rolls with this weapon, and it deals an additional {@damage 1d6} slashing damage on a successful hit. Additionally, the weapon has 3 charges. It regains {@dice 1d3} charges daily at dawn. When you hit a creature that doesn't have all its hit points with this weapon, you can expend 1 charge to force it to make a DC 14 Wisdom saving throw. On a failed save, the target is {@condition blinded} for 1 minute. A {@condition blinded} target can attempt the saving throw again at the end of each of its following turns, ending the effect on a success."
+						]
+					}
+				]
+			},
+			"__prop": "magicvariant"
+		},
+		{
+			"name": "Dweller Skin Coating",
+			"source": "",
+			"page": 0,
+			"entries": [
+				"very rare",
+				{
+					"type": "entries",
+					"name": "Adult Properties:",
+					"entries": [
+						"Grants the interior crew immunity to psychic damage, instead of resistance."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"This upgrade coats a ship's hull in a jet-black coat of powdered deep dweller flesh. The hull and other components of the ship are immune to lightning damage. Crew inside the ship have resistance to psychic damage, and advantage on saving throws made to resist mind-altering spells and other magical effects.",
+						"This feature doesn't extend to crew in the crow's nest, or on deck, only to those inside the ship itself."
+					]
+				}
+			]
+		},
+		{
+			"name": "Grasping Fluid",
+			"source": "",
+			"page": 0,
+			"type": "P",
+			"entries": [
+				"uncommon",
+				{
+					"type": "entries",
+					"name": "Adult Properties:",
+					"entries": [
+						"Heals {@dice 4d4 + 4} and {@dice 4d8 + 8} respectively."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Evocation",
+						"This thick, clear gel can be applied to an open wound, forming a protective, binding seal over the wound that prevents blood loss and accelerates healing. A single vial contains three doses. As an action, one dose can be applied to the skin.",
+						"The creature that receives it regains {@dice 2d4 + 4} hit points. The gel is more effective at promoting recovery if a body is resting. If applied during a short rest, the creature instead regains {@dice 2d8 + 8} hit points.",
+						"If applied to a creature who is dying, the gel stabilizes the creature immediately, but they remain {@condition unconscious} until awoken by other stimuli. How many hit points the {@condition unconscious} creature regains depends on how long they are allowed to rest. If the creature awakens in less than an hour they get {@dice 2d4 + 4} hit points, whereas if it is an hour or more they awaken with {@dice 2d8 + 8} hit points instead."
+					]
+				}
+			]
+		},
+		{
+			"name": "Medicinal Tape",
+			"source": "",
+			"page": 0,
+			"wondrous": true,
+			"entries": [
+				"rare",
+				{
+					"type": "entries",
+					"name": "Adult Properties:",
+					"entries": [
+						"Tape can be re-used once. Covers 10 x 10 ft."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"A small roll of thin, porous material, crafted from the suckers of a deep dweller tentacle. You can spend ten minutes to unravel the tape and bandage a {@condition poisoned}, {@condition petrified}, or diseased creature. The target creature's condition is slowly absorbed into the material over the course of {@dice 1d4} hours. Once absorbed, the tape is destroyed and can no longer be used, and the condition ends on that creature.",
+						"There is enough tape on the roll to cover a 5 ft x 5 ft area."
+					]
+				}
+			]
+		},
+		{
+			"name": "Mindspike Potion",
+			"source": "",
+			"page": 0,
+			"type": "P",
+			"entries": [
+				"rare",
+				{
+					"type": "entries",
+					"name": "Adult Properties:",
+					"entries": [
+						"You can also cast the {@spell sending} spell without requiring components, however the potion's effect ends after the spell is cast."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This potion glows with a dim, green hue when held towards the light. When poured, it has the consistency of water, but moves as a single, ooze-like entity. When you drink this potion, you gain advantage on Intelligence ability checks and Intelligence saving throws for 1 hour.",
+						"Additionally, for the duration you can cast the {@spell message} cantrip without requiring components."
+					]
+				}
+			],
+			"attachedSpells": [
+				"sending",
+				"message"
+			]
+		},
+		{
+			"name": "Notched Dweller Whip",
+			"source": "",
+			"page": 0,
+			"baseItem": "whip|PHB",
+			"type": "M",
+			"rarity": "none",
+			"weight": 3,
+			"weaponCategory": "martial",
+			"property": [
+				"F",
+				"R"
+			],
+			"dmg1": "1d4",
+			"dmgType": "S",
+			"bonusWeapon": "+1",
+			"weapon": true,
+			"entries": [
+				"rare (requires attunement)",
+				{
+					"type": "entries",
+					"name": "Adult Properties:",
+					"entries": [
+						"+2 bonus to attack and damage rolls."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Illusion",
+						"A whip, made from hardened leather and layered with hooked spines crafted from a deep dweller fang. The whip is black and rubbery in texture, and appears to twitch slightly when unsheathed.",
+						"You have a +1 bonus to attack and damage rolls with this weapon, and it deals an additional {@damage 1d4} psychic damage on a hit.",
+						"As an action you can begin spinning the whip around you, and if you concentrate on the whip as if concentrating on a spell, it will continue spinning around you for the next minute even after you let go of it. For this duration the whip emits a haunting shriek that can be heard out to 100 feet, and the first time a hostile creature comes within 10 feet of you or starts its turn there, it takes {@damage 4d4} psychic damage.",
+						"Once you use this feature, you can't use it again in this way again until you finish a long rest."
+					]
+				}
+			]
+		}
 	],
 	"spell": [
 		
