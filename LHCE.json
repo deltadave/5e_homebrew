@@ -639,6 +639,481 @@
 								"Looking the faded writing over, you make out what appears to be the words to an old sea shanty. The young man grins, placing his palm face up towards your face.",
 								"\"Worth a few coin?\" He asks, drunkenly."
 							]
+						},
+						{
+							"type": "entries",
+							"name": "Chapter 2: Umbrafang",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": ""
+									}
+								},
+								"Umbrafang lurks in swamps and stagnant pools, preying on any creatures unfortunate enough to cross its path. Umbrafang is an incarnation created by the mysterious kuo-toa; fishlike humanoids that once inhabited the shores and islands of the surface world."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Grim Tales and Strange Stories",
+							"entries": [
+								"Umbrafang began as an old wives' tale, a story told to children to keep them away from stagnant water and dangerous swamps. The story told of a fearsome beast which lurked at the water's edge, using its jellyfish-like appendages to lure in unsuspecting children before dragging them under the water, where they were never seen again.",
+								"While a grim story, the tales of Umbrafang were simply that, until word of the creature's existence reached the ears of the insane and obsessive kuo-toa. Constantly under attack by villagers and fishermen, the kuo-toa adopted this story into their culture, believing the mysterious creature to bring them protection and safety from those that would do them harm.",
+								"Enamoured with the idea of a monstrous protector, the kuo-toa began creating a statue in the creature's likeness; using seaweed for the beast's tentacles, and the remains of a jellyfish for the body. It wasn't long before their religious fervor took hold, transforming their newest creation from a rotting statue into a terrifying underwater predator.",
+								"{@b Swamp Lurker and Man-Eater}",
+								"Umbrafang's diet is broad, encompassing anything small enough to be drowned or attacked; humanoid or otherwise. While the kuo-toa once provided it sustenance through their devout worship, since their disappearance Umbrafang has been left unchecked in the regions surrounding Saltmarsh. Using its innate ability to teleport between bodies of stagnant water, the creature has proven time and again to be a dangerous hunter, capable of striking unseen from even the smallest puddle.",
+								"Umbrafang won't ordinarily seek out humanoids to consume, but when the surrounding rural area runs dry from excessive fishing or hunting, it turns its attention to more civilized areas. It quickly finds its way into squalid sewer systems or striking from buckets of motionless water.",
+								"{@b Motivations}",
+								"Umbrafang is a creature born of pure chaos, and seeks only to feed its insatiable hunger by any means necessary. A dog, deer, bear, commoner and shark are all possible targets for consumption in the eyes of Umbrafang. If a creature steps too close to its lair, Umbrafang lunges towards it, choking it into unconsciousness before dragging the limp body through the water and into its pocket plane to feed on it later.",
+								"While extremely aggressive, Umbrafang rarely humanoids, and avoids towns or villages unless provoked.",
+								"{@b Umbrafang's Lair}",
+								"Umbrafang resides in its own personal pocket plane, filled with stagnant water and littered with offal and the fleshless bones of its victims. Umbrafang can reach out and travel from this pocket plane to the Material Plane by means of water - borne teleportation. When hunting, Umbrafang selects a large body of water, often a swamp or still lake, to use as a temporary lair.",
+								"The lair becomes acrid and stagnant, and any fish or other habitants within it either die or flee. The air around the lair becomes noxious and thick, and a visible layer of smog can be seen drifting across its surface.",
+								"This lair remains for as long as Umbrafang is hunting in the area, and grants it access to any bodies of water within 5 miles, regardless of whether they are connected or not. When underwater,Umbrafang can see the surface of all bodies of water within 5 miles of its lair simultaneously, and can choose to breach the surface of any one of them, provided that water's surface is stagnant or undisturbed.",
+								"If Umbrafang's lair were located in a large lake in the middle of a busy city, it could breach the surface through a bowl of murky water left in a commoner's back garden, attack, and drag them back into the lake using the bowl of water as the connecting passageway.",
+								"A creature can only pass through this passageway if it is touching Umbrafang, otherwise it fails. If the target creature stops touching Umbrafang when half in the water, it is expelled back out in the same direction from which it entered.",
+								"{@b Lair Actions}",
+								"On initiative count 20 (losing initiative ties), Umbrafang takes a lair action to cause one of the following magical effects:",
+								"Umbrafang creates fog on the surface of the lair as though it had cast the stinking cloud spell. The fog lasts until initiative 20 on the next round.",
+								"The water in the lair becomes toxic and thick like tar. It remains this way until initiative count 20 on the next round. For the duration, movement in the water is considered difficult terrain for all creatures other than Umbrafang, and each creature in the water must succeed on a DC 13 Constitution saving throw or suffer 7 (2d6) poison damage and become poisoned until the end of its turn.",
+								"The ground surrounding the lair becomes a dense bog. Creatures that start their turn within 10 feet of the lair or move within range during their turn must succeed on a DC 13 Dexterity saving throw or fall prone and become incapacitated until the end of its next turn.",
+								"{@b Regional Effects}",
+								"The region surrounding Umbrafang's lair is warped by the creature's presence, creating one of the following magical effects:",
+								"The vegetation within 1 mile of the lair is rotten and decomposed, and gives off a smell of decaying fish.",
+								"Any water within 5 miles of the lair that is in a container more than 2 inches deep (including, but not limited to: buckets, bowls, puddles, toilets, mugs, steins, man-made ponds, and lakes) turns a dull shade of muddy brown. The water is safe to drink but tastes of raw fish, and becomes clear when poured or disturbed. It goes back to a muddy brown when it settles.",
+								"When spending more than ten minutes looking at a reflection in water within 5 miles of the lair, there is a 50% chance to get a sudden glimpse of Umbrafang. This glimpse lasts for 1 round. As long as it isn't incapacitated, Umbrafang always knows when a creature glimpses it in this way, and knows the exact location of the body of water used.",
+								"If Umbrafang dies, vegetation returns to normal over the course of 1d4 days. The other effects end immediately.",
+								"{@b Lesser And Greater Variants}",
+								"Umbrafang has two versions: a lesser variant and a greater variant. This is to allow Umbrafang to be introduced in two different difficulty stages. If your adventuring party are all level 3, a lesser Umbrafang would be a perfect legendary creature to encounter. If your party are level 5 or 6, then a greater Umbrafang would prove a much more balanced and challenging encounter. The items a character can craft from the defeated Umbrafang's harvested parts depend on the variant."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Size Comparison Chart",
+							"entries": [
+								"Below is a visual guide to give the Dungeon Master an idea of the size of Umbrafang, in comparison to a traditional sailing ship (30 crew), shark, and human of average height."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Drawing Out Umbrafang",
+							"entries": [
+								"Umbrafang can be drawn out by digging a pit 5 feet wide by 10 feet deep in a swamp or other muddy area, and filling it with rainwater and severed fish heads. Runic symbols must then be carved into the surroundings, warding the pit from outside interference and accelerating the water's stagnation. Then the area must be left untouched for 8 hours, after which time Umbrafang is drawn to the region in search of food.",
+								"While Umbrafang might appear in the pit itself, it is more likely to appear in a lake or other large body of fresh water and establish a lair there. This is usually within 5 or 6 miles of the area in which it was summoned. Umbrafang can remain in the region indefinitely, provided there is ample food and water for it to travel around in.",
+								"{@b The Umbrafang Sea Shanty}",
+								"Sailors who have previously encountered kuo-toa learned of a strange shanty the fishlike humanoids used to sing whenever they felt threatened. The shanty directly refers to Umbrafang, and is spoken and written in Undercommon. Those well versed in the Undercommon dialect can speak the shanty to gain a brief favour or trust from the kuo-toa, or to gleam more information on how Umbrafang could be summoned and 'appeased'. Translated in Common, the shanty reads as follows:",
+								"\"Here we sit on waters gold",
+								"Here we hunt in seas of old",
+								"Here we see strange figures come",
+								"One by one, with spear and drum",
+								"Here we run from creatures tall",
+								"Into shadows, safe and small",
+								"Here we pray and here we howl",
+								"Calling for a god that prowls",
+								"A beast that seeks, a beast that reeks",
+								"A beast that makes the tall ones shriek",
+								"It lives in their bowls, their cups and bogs",
+								"It strikes their cattle, sheep and hogs",
+								"It eats their spawn, bones and all",
+								"Crunches, chomps, big and small",
+								"Call it we do, when cold and scared",
+								"Flood the ground, see it prepared",
+								"Wait, wait for the runes and marks",
+								"Sit still, be quiet! Wait like sharks",
+								"For the beast to appear, hungry and bold",
+								"And watch it find a home in the cold",
+								"Watch it lure the creatures tall",
+								"Watch them cry, fight and fall",
+								"Cackle and cheer, and let it be sang",
+								"The revenge song of songs",
+								"Our Umbrafang!\"",
+								"[Umbrafang (Greater)]",
+								"[Umbrafang (Lesser)]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Harvesting Umbrafang Parts",
+							"entries": [
+								{
+									"type": "table",
+									"caption": "Harvesting Umbrafang Parts",
+									"colLabels": [
+										"Harvesting Table",
+										"Body Part" ,
+										"Harvest DC" ,
+										"Items Available to Craft",
+										"Item Crafting Requirements",
+										"Crafting DC and Time Taken"
+									],
+									"colStyles": [
+										"col-2 text-left",
+										"col-2 text-left",
+										"col-2 text-left",
+										"col-2 text-left",
+										"col-4 text-left"
+									],
+									"rows": [
+										[
+											"Umbrafang Tentacle (4d6 pieces)",
+											"DC 13 Wisdom (Survival) Salted storage barrel (Max of 3 pieces per barrel)",
+											"Umbra Whip (2 pieces required) Refractive Rope (10 ft per pieces used, max of 60 ft.)",
+											"Smith's tools: All items",
+											"Umbra Whip: DC 14 Strength (Athletics) 5 Hours Refractive Rope: DC 15 Intelligence (Arcana) 2 Hours per 10 ft created."
+										],
+										[
+											"Umbrafang Flesh (2d10 pieces)",
+											"DC 13 Wisdom (Survival) Salted storage barrel (Max of 8 pieces per barrel)",
+											"Umbra Mantle (4 pieces required) Umbrafang Tunic (3 pieces required) Umbrafang Jerky (2 pieces per pack)",
+											"Leatherworker's Tools: Umbra Mantle Umbrafang Tunic Cook's Utensils: Umbrafang Jerky",
+											"Umbra Mantle: DC 15 Intelligence (Arcana) 8 Hours Umbrafang Tunic: DC 15 Dexterity (Sleight of Hand) 4 Hours Umbrafang Jerky: DC 14 Wisdom (Survival) 8 Hours per pack"
+										],
+										[
+											"Umbrafang Poison Gland (1d10 glands)",
+											"DC 14 Intelligence (Nature) DC 16 Dexterity (Sleight of Hand) An empty jar, sealed with wax once filled.  (Max of 1 gland per jar)",
+											"Concentrated Anti-Venom (2 glands required per vial created) Umbrafang Poison (3 glands required per vial created)",
+											"Alchemist's Supplies: Concentrated Anti-Venom Poisoner's Kit: Umbrafang Poison",
+											"Concentrated Anti-Venom: DC 16 Wisdom (Medicine) 6 Hours per vial Umbrafang Poison: DC 16 Intelligence (Arcana) 8 Hours per vial"
+										],
+										[
+											"Umbrafang Tooth (2d8 teeth)",
+											"DC 13 Wisdom (Survival)",
+											"Umbrafang Kyoketsu (3 teeth and 10 feet of chain required) Umbra Arrowheads (set of 10) (5 teeth required) Longfang Blowgun (2 teeth required) Umbrahead Darts (set of 30) (10 teeth required)",
+											"Smith's Tools: All items Tinker's Tools: Umbrafang Kyoketsu",
+											"Umbrafang Kyoketsu DC 13 Dexterity (Sleight of Hand) and Intelligence (Tinker) 4 Hours Umbra Arrowheads DC 13 Dexterity (Sleight of Hand) 4 Hours Longfang Blowgun: DC 14 Dexterity (Sleight of Hand) 3 Hours Umbrahead Darts: DC 13 Dexterity (Sleight of Hand) 4 Hours"
+										],
+										[
+											"Umbrafang Blood (1d10 samples)",
+											"DC 15 Intelligence (Arcana) Empty glass vials (Max of 1 sample of blood per vial)",
+											"Umbra's Resilience (1 vial required) Frostburn Potion (2 vials required)",
+											"Alchemist's Supplies: Umbra's Resilience Herbalism Kit: Frostburn Potion",
+											"Umbra's Resilience: DC 16 Intelligence (Arcana) 6 Hours per vial Frostburn Potion: DC 16 Intelligence (Arcana) 6 Hours per vial"
+										]
+									]
+								},
+								"Umbrafang has six tentacles it uses to grapple and drown its prey by dragging them underwater. These tentacles can be harvested upon Umbrafang's death, along with its various poison glands, teeth and porous flesh. An adventurer removing poison glands must do so with extreme caution, as failure can result in a sudden shower of toxic chemicals.",
+								"The Harvest Table details the requirements for harvesting each body part, including the harvest DC, crafting DC, and resulting weapon or item the body part can be turned into.",
+								"{@b Failing To Harvest A Poison Gland}",
+								"Harvesting poison glans from Umbrafang can be hazardous for one's health. Should a character fail an ability check to harvest an Umbrafang poison gland by 5 or more, the gland ruptures, exploding out in a 10-foot radius sphere. Creatures caught in the sphere's area must make a DC 13 Constitution saving throw. A creature takes 10 (3d6) poison damage and becomes poisoned for 1 hour on a failed saving throw, or takes half as much damage and isn't poisoned on a successful one.",
+								"{@b Table Guide}:",
+								"Body Part: The part of the body that is being harvested, and how many pieces may be obtained from a successful harvest attempt.",
+								"{@b Harvest DC}: This details the ability check and DC required to successfully harvest the chosen part and any storage requirements the part has.",
+								"Each body part may only be successfully harvested once, unless specified otherwise, after which the body part is destroyed. If a creature fails the harvesting check by 5 or more, the body part is also destroyed, and can't be harvested again.",
+								"If harvesting a body part requires two or more checks, the checks can be performed by any creatures involved in the harvesting. A ranger, for example, might decide to join in on the harvesting by making the required Wisdom (Survival) check, leaving the Dexterity (Sleight of Hand) check to the rogue. Other characters can take the Help action to grant the harvesting characters advantage on the aforementioned checks.",
+								"{@b Items Available to Craft}: This column lists the item or items that may be crafted from harvested creature parts. You can only produce one of the listed items with each crafting attempt. The crafted item's properties are detailed at the end of the chapter.",
+								"{@b Item Crafting Requirements}: This section details any requirements that must be met to turn the harvested body part into an item. Harvested pieces that note a storage requirement (such as a vial or barrel of salt) must be placed in their respective containers immediately after being harvested, and should remain in the container until used in crafting. A harvested piece degrades over time when not placed in its particular container or being used for crafting. Each piece can remain outside of a container for a maximum of 1d4 hours (ignoring crafting times) before succumbing to rot. A rotten piece can't be crafted. If an item is listed under two or more tools, proficiency in and access to both sets of tools are required, though these proficiencies can be shared over multiple characters. For example, one character could take part in the crafting and have proficiency in one set of tools, and another character could also take part in the crafting and provide the proficiency needed for the other set of tools.",
+								"{@b Crafting DC}: The ability check and DC that must be met to successfully craft an item, and the time required to do so. If this check is failed by 5 or more, the harvested pieces used are destroyed in the crafting process.",
+								"If crafting an item requires two or more checks, the checks can be performed by any creatures taking part in the crafting of the item. A barbarian, for example, might decide to make the required Strength (Athletics) check, leaving the Intelligence (Arcana) check to the wizard. Other characters can take the Help action to grant the crafting characters advantage on the aforementioned checks."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Crafted Items",
+							"entries": [
+								"The crafted items listed below are in alphabetical order.",
+								"Some items on this list can only be crafted by using materials harvested from either the greater or lesser Umbrafang respectively.",
+								"The items properties change depending on which version of the creature it is crafted from, with the lesser properties displayed by default and the upgraded greater properties shown atop the description. Each item lists its school of magic, should it be the target of detect magic or similar spells.",
+								"[Concentrated Anti-Venom]",
+								"[Frostburn Potion]",
+								"[Longfang Blowgun]",
+								"[Refractive Rope]",
+								"[Umbra Arrowhead]",
+								"[Umbra Mantle]",
+								"[Umbra Whip]",
+								"[Umbra's Resilience]",
+								"[Umbrafang Jerky]",
+								"[Umbrafang Kyoketsu]",
+								"[Umbrafang Poison]",
+								"[Umbrafang Tunic]",
+								"[Umbrahead Dart]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Selling Harvested Materials",
+							"entries": [
+								"Materials harvested from Umbrafang can be sold to interested third parties, such as collectors, arcane scholars or nobility. Items can also be sold to criminal black-market dealers at an increased price, should the character have a criminal contact or background.",
+								"The Harvest Value table details average sale guidelines for a piece of each material type.",
+								"Costs may fluctuate based on your campaign's economy, sale location, or per trader, at the discretion of the Dungeon Master.",
+								{
+									"type": "table",
+									"caption": "Harvest Value Table",
+									"colLabels": [
+										"Material Name" ,
+										"Sale Price" ,
+										"Black Market Price"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-2 text-center",
+										"col-2 text-center"
+									],
+									"rows": [
+										[
+											"Umbrafang Tentacle",
+											"50 gp (Greater) 10 gp (Lesser)",
+											"75 gp (Greater) 30 gp (Lesser)"
+										],
+										[
+											"Umbrafang Flesh" ,
+											"50 gp (Greater) 30 gp (Lesser)",
+											"80 gp (Greater) 50 gp (Lesser)"
+										],
+										[
+											"Umbrafang Poison Gland",
+											"300 gp (Greater) 175 gp (Lesser)",
+											"450 gp (Greater) 300 gp (Lesser)"
+										],
+										[
+											"Umbrafang Tooth" ,
+											"30 gp (Greater) 10 gp (Lesser)",
+											"50 gp (Greater) 20 gp (Lesser)"
+										],
+										[
+											"Umbrafang Blood" ,
+											"300 gp (Greater) 175 gp (Lesser)",
+											"450 gp (Greater) 300 gp (Lesser)"
+										]
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "A Waterborne Watcher",
+							"entries": [
+								"Recommended Character Level: 5 - 6 (Greater) 1 - 2 (Lesser)",
+								"Minimum Equipment Required: Basic weaponry and equipment.",
+								"Recommended Equipment Required: A large rowboat (GoS, Appendix A: Of Ships and the Sea), and at least one magical weapon (if facing the greater version of Umbrafang).",
+								"Party Size: 4 - 6",
+								"Difficulty: Deadly (4), Hard/Medium (6)",
+								"Quest Creature: Umbrafang",
+								"Quest overview",
+								"All across Saltmarsh, villagers are mysteriously disappearing. The Saltmarsh guards are at their wit's end, and have no leads. The disappearances have been considered linked, but the guards cannot find a pattern to connect those that have vanished. All across the town, there are increasing reports of livestock and pets also going missing. The guards have now turned to local adventurers for help, offering a small keelboat as reward for their efforts.",
+								"Important Quest Notes",
+								"This quest provides a basic battle map for Umbrafang's current lair, located in the swampy outskirts of Saltmarsh. NPC and ship stat blocks for this quest are located in the Monster Manual and Ghosts of Saltmarsh supplements, and detailed at the end of the quest.",
+								"Below are a list of villagers who have been reported as missing you can use to flesh out the intrigue of this hunt.",
+								{
+									"type": "table",
+									"colLabels": [
+										"Name",
+										"Age",
+										"Days Missing Since Reported"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-2 text-center",
+										"col-2 text-center"
+									],
+									"rows": [
+										[
+											"Alliette Barrow",
+											"40",
+											"5 days"
+										],
+										[
+											"Dredge Luckton",
+											"35",
+											"4 days"
+										],
+										[
+											"Harriet Willowleaf",
+											"60",
+											"7 days"
+										],
+										[
+											"Jungen Foxglove",
+											"24",
+											"8 days"
+										],
+										[
+											"Ungid Fletcher",
+											"55",
+											"7 days"
+										],
+										[
+											"Markus Bladeborne",
+											"22",
+											"4 days"
+										],
+										[
+											"Jeremia Winglet",
+											"28",
+											"3 days"
+										],
+										[
+											"Amber Leaftoad",
+											"80",
+											"2 days"
+										]
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Stage 1: Meeting the NPCs",
+							"entries": [
+								"The characters are introduced to Eda Oweland, who explains the situation of missing persons in Saltmarsh. She reveals to the characters that the most recent disappearance took place inside the Wicker Goat, the oldest tavern in Saltmarsh. Eda goes on to explain that a man by the name of Hild Vandebue got into a bar fight a few nights ago, only to stagger into the toilets to wash his face and never came back out. The guards have searched high and low for him, but to no avail. She believes magical interference might be to blame, but doesn't know what.",
+								"Eda asks the characters to investigate the Wicker Goat further and see if they can find something the guards might have missed. If the characters succeed in solving the mystery, Oweland rewards them for their efforts with a battered but reliable keelboat, named The Waveskipper."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Stage 2: Exploration",
+							"entries": [
+								"Upon arriving at the Wicker Goat, the characters find it busy as usual with dwarven miners and town guard. The characters are taken into the back room by Lankus Kurrid, the tavern's owner, and allowed to investigate the area where Vandebue supposedly went missing.",
+								"Lankus has gathered the following information from patrons that were in his tavern that night. He shares this information willingly to the characters should they ask for it, but otherwise leaves them to their own devices:",
+								"The Bathrooms Had Recently Been Cleaned.",
+								"\"Those rooms were filthy. I'd wanted to get them cleaned a few night's prior, but the cleaner could only arrive today. I'll have to get them back in again though - the water's going brown!\"",
+								"The Bar Fight.",
+								"\"Honestly, we have one every other night in here. There's not much surprise about it. Though I reckon someone might've been using magic spells this time around, because when the scrapping died down, I could swear the place smelled like stagnant water.\"",
+								"Faces In The Ale.",
+								"\"Sure, there's a lot of weird stuff that goes on around here. I've seen my fair share of it. But there was something last night that drunken idiot said that's still sticking with me today: He said there was a face in his ale. I've checked the mug he was using, and checked my barrels. There's nothing living in 'em, I can assure you that!\"",
+								"The characters can make a {@b DC 15 Intelligence (History) check} to see if any of what Kurrid tells them sounds familiar. On a successful check, it is revealed the most likely culprit is some form of magical aquatic creature, known as Umbrafang.",
+								"If the characters don't speak with Kurrid about what happened, fail the history check, or wish to investigate further to confirm the theory of Umbrafang, they can perform one of the following ability checks. Each ability check takes between 10 and 20 minutes to complete.",
+								"{@b Check The Stall} ({@b DC 14 Wisdom (Perception) check}). The character checks the toilet stalls for any sign of damage. On a success, the character notices a bloodstain on the floor, created from a hand scrabbling for grip.",
+								"{@b Check For Magic} ({@b DC 14 Intelligence (Arcana) check}). The character checks the surrounding area for magical signs or wards.",
+								"This check automatically succeeds if a character casts detect magic.",
+								"Residual magic can be detected in pools of water deeper than 2 inches. The magic originates from the school of conjuration, and appears to be Planar in nature.",
+								"{@b Reconstruct Scene} ({@b DC 13 Charisma (Performance) check}). The character re-enacts various possible scenes of escape, coming to the conclusion that there was no possible way for the victim to have left the facilities by any other means than the front door, unless they had access to teleportation magic.",
+								"{@b Watch The Water}. The character spends ten or more minutes watching water in a bowl, sink, or other container, triggering the regional effect which briefly reveals Umbrafang to the character, and vice versa.",
+								"{@b Question the Guards} ({@b DC 13 Charisma (Persuasion) check}. The character spends 1 hour talking to the guards about the missing villagers. The guards reveal that each villager was alone when they went missing and there was muddy water present at the scene of each disappearance, though they considered the water a coincidence, as there was no other evidence to suggest it was linked to the victim.",
+								"After making one or more of these checks, characters can make a {@b DC 14 Intelligence (History) check} to determine what kind of creature could be responsible for the disappearances. A successful check reveals Umbrafang to be responsible. If the check succeeds by 5 or more, the character learns the lore surrounding its lair, including regional effects. Each completed ability check from the lists above reduces this check's DC by 1.",
+								"Once characters have identified Umbrafang as the culprit, they can begin to track it by making a {@b DC 14 Wisdom (Survival)}, or {@b Intelligence (Nature) check}. On a success, a character discerns the most likely location of Umbrafang's lair is a lake situated 4 miles outside Saltmarsh.",
+								"It takes the characters 2 hours to navigate the terrain outside of Saltmarsh to reach the lake. A DC 13 Wisdom (Survival) check decreases this travel time to 1 hour on a success. Characters should have the opportunity to discuss a plan either before they set off from Saltmarsh, or during the travel time. If a character has spent time looking in ponds, pools, or other containers of water on their journey to the lair, Umbrafang knows they are heading in its direction.",
+								"{@b Researching Umbrafang}",
+								"During the exploration stage, characters can also choose to gather information pertaining to Umbrafang from local rumours, hearsay, and old texts. A character can prepare for the upcoming encounter by making one of the ability checks detailed below.",
+								"A character can attempt each check once over the course of this quest. If a check is failed, no information is gathered.",
+								"{@b Gather Rumours} ({@b DC 13 Charisma (Persuasion) check}). The character spends time mingling with sailors, gathering rumours and hearsay about the legend of Umbrafang.",
+								"\"I've heard that it's a monstrous fish, with a mouth as wide as a cart! Get too close, and it'll swallow you whole!\"",
+								"Search Books and Old Scrolls ({@b DC 13 Intelligence (Investigation) check}).",
+								"The character spends 1d6 + 1 hours reading up on old tales and stories surrounding the lore of Saltmarsh, eventually discovering the ancient sea shanty created by the Kuo-toa.",
+								"{@b Listen To The Drunks} ({@b DC 13 Wisdom (Perception) check}. The character shadows drunks in the tavern, listening in on their conversation for any mention of others that might have disappeared, or any tall tales they have to tell.",
+								"\"I tell ya, I'm not lyin'! My ma used to tell me stories of a beast that could snatch us from our beds in the blink of an eye, if we ever went near deep water on our own. I tell ya, I didn't used to believe there was anythin' down there, but now... Well stories start somewhere don't they?\""
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Stage 3: The Hunt",
+							"entries": [
+								"This stage of the quest begins once the characters have reached the lair and either decided to attack Umbrafang, or Umbrafang ambushes them from a nearby pool of water. It is important to consider the environmental effects during this encounter, as rain, heat, or fog can change the battlefield significantly. The Dungeon Master can either choose the weather type for this encounter, or roll on the table below as the characters are journeying to the lair.",
+								"This weather effect remains for 2d4 hours before dispersing.",
+								{
+									"type": "table",
+									"caption": "Weather Table",
+									"colLabels": [
+										"D4" ,
+"Result"
+									],
+									"colStyles": [
+										"col-2 text-center"
+									],
+									"rows": [
+										[
+											"1" ,
+											"The area is hit by a thunderstorm, which covers a 15 mile radius. Attacks that deal fire damage have their damage die reduced by one step, to a minimum of 1d4. Attacks that deal lightning damage have their damage die increased by one step, to a maximum of 1d12."
+										],
+										[
+											"2",
+											"The area is covered by sea fog. This is more likely to occur if the characters arrive at the lair early in the morning or late into the evening. All creatures and objects within 20 miles of the coastline (including the lair) is lightly obscured in white fog."
+										],
+										[
+											"3",
+											"It is raining. The rain clouds cover a 30-mile radius, and move slowly south. The rain makes traversing the already boggy ground around the lair more difficult. A creature has disadvantage on Strength or Dexterity checks made to maintain their footing while on solid ground. In addition, ranged attack rolls suffer a -1 penalty to hit due to increased winds and lower visibility."
+										],
+										[
+											"4",
+											"It is extremely sunny with little cloud cover. A light breeze, originating from the sea, spreads across the region in a westerly direction. Fog and smoke clouds are dispersed immediately when created, and creatures have a +1 bonus to Wisdom (Perception) checks.  Creatures with the sunlight sensitivity trait are considered to always be in direct sunlight."
+										]
+									]
+								},
+								"{@b Umbrafang Tactics}",
+								"Umbrafang is a cunning and sly opponent, enticing its foes into its lair before blinding them with thick fog and attacking them one at a time.",
+								"If characters decide to traverse Umbrafang's lair using a rowboat or other means to remain above the surface, Umbrafang uses its lair actions to reduce visibility atop the water's surface before attempting to capsize the boat. Alternatively, Umbrafang chooses a single character that appears to display the biggest threat, either through magic use or raw strength, and pulls them into the water. Umbrafang loves to take advantage of its Powerful Swimmer ability to separate its foes. Once it has a creature grappled underwater, it puts as much distance between itself and the un-grappled allies as possible before enjoying its meal.",
+								"If the characters assail it from the water's edge and refuse to enter the lair, Umbrafang leaps up onto the ground and uses its Toxic Mucus. It then focuses on the target with the biggest threat range (usually a ranged character), attempting to grapple and pull them into the water. When Umbrafang grapples a target, it uses its Bite as soon as possible to swallow it. It then uses its Acidic Spittle on subsequent rounds to hit as many targets as possible. Umbrafang only gets within melee range of a target in order to grapple it, and uses its legendary actions to remain at range until it is ready to strike again.",
+								"If Umbrafang is reduced to 30 hit points or fewer, it attempts to escape by using its water-borne teleportation feature to teleport into Saltmarsh. Its plan can be revealed with a successful DC 13 Wisdom (Insight) check. Umbrafang can only use its teleportation ability if the water's surface is calm enough. If the surface of the lair is continually disturbed, Umbrafang's teleportation fails. The water in the lair is considered calm enough for Umbrafang to teleport from if it remains undisturbed for 2 rounds. Swimming or sailing in the water doesn't cause enough of a disturbance to prevent this, but a character jumping into or thrashing around in the water does.",
+								"If Umbrafang is killed in water, it's body floats for 5 minutes before beginning to sink.",
+								"Characters can attempt to determine the health (or combat ability) of Umbrafang by using their action to make a {@b DC 15 Wisdom (Insight)} or {@b Intelligence (Nature) check}. On a success, the character knows Umbrafang is one of the following:",
+								"95 - 158 hit points: Combat Capable",
+								"45 - 94 hit points: Slightly Weakened",
+								"44 or less hit points: Weak and Struggling"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Stage 4: Completion",
+							"entries": [
+								"After defeating Umbrafang, characters can harvest its parts, search its lair, and return to Eda Oweland for payment.",
+								"Upon providing proof of the creature's defeat, Oweland awards the characters The Waveskipper, along with the following additional items, depending on which version of the Umbrafang was defeated:",
+								"Greater Umbrafang",
+								"150gp and 50sp.",
+								"Free drink, room, and board at the Wicker Goat for as long as the characters remain in Saltmarsh.",
+								"A piece of crystal which glows faintly in the moonlight, found in the Saltmarsh mines.",
+								"Lesser Umbrafang",
+								"30gp and 25sp.",
+								"Free food at the Wicker Goat for as long as the characters remain in Saltmarsh.",
+								"Umbrafang's Lair",
+								"The following items can be found by characters willing to dive down into Umbrafang's lair and making a {@b Wisdom (Perception)} or {@b Intelligence (Investigation) check}. The items have varying ability check DCs. If a character meets or exceeds multiple DCs at once, they discover all items pertaining to those DCs.",
+								"{@b DC 10}: The skeletal remains of various common folk, with no identifying markings. A small leather pouch, containing 20cp and 5sp is buried under a thin layer of dirt beneath them.",
+								"{@b DC 14}: A waterlogged diary, sealed with a magical clasp (DC 20 to unlock). Most of the diary is indecipherable or unreadable.",
+								"The pages that are readable are written in a strange runic language, similar to draconic, but far more ancient. If translated, it reveals the Deep Dweller sea shanty (see chapter 1).",
+								"{@b DC 18}: A dead Sprite, inside a moss-covered glass bottle, which reads \"Heart Seer No. 03\"."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Notable NPCs and Other Stat Blocks",
+							"entries": [
+								"Name: Eda Oweland",
+								"Race: Human (She/Her)",
+								"Alignment: Chaotic good",
+								"Occupation: Senior member of the Saltmarsh town council",
+								"Stat Block: Noble",
+								"Personality Trait: Gruff, pragmatic. Her graying hair is cut short and her face bears the marks of a life lived outdoors. Refer to Ghosts of Saltmarsh for more personality details. (GoS, Chapter 1: Saltmarsh)",
+								"Name: Lankus Kurrid",
+								"Race: Human (He/Him)",
+								"Alignment: Neutral good",
+								"Occupation: Tavern owner",
+								"Stat Block: Guard",
+								"Personality Trait: Retired officer that caters to the dwarven miners and town guard around Saltmarsh. Refer to Ghosts of Saltmarsh for more details. (GoS, Chapter 1: Saltmarsh)",
+								"Name: Hild Vandebue",
+								"Race: Human (He/Him, deceased)",
+								"Alignment: Chaotic neutral",
+								"Occupation: Sailor",
+								"Stat Block: Commoner",
+								"Personality Trait: Hild is deceased, killed by Umbrafang. If the characters ask Lankus Kurrid or other locals, they reveal he was rough around the edges, and struggled with various debts he had mounted up with Keledek the Unspoken (GoS, Chapter 1: Saltmarsh).",
+								"Name: Gerald Netchwater",
+								"Race: Human (He/Him)",
+								"Alignment: Chaotic good",
+								"Occupation: Guard",
+								"Stat Block: Guard",
+								"Personality Trait: Gerald is in charge of the investigation into the disappearances, but has become drunk and despondent because his case hasn't turned up any leads. Gerald is likely to resent the characters for encroaching on his turf, but comes around to appreciating them when he learns of Umbrafang and the danger it presents, claiming it to be way above his pay grade.",
+								"Other Stat Blocks In This Quest",
+								"The Waveskipper uses the Keelboat stat block (GoS, Appendix A: Of Ships and the Sea). The keelboat has no weapons, and a set of broken Clockwork Oars (GoS, Appendix A: Of Ships and the Sea), which can be repaired by spending 20gp on materials and 10 hours over the course of 3 days replacing the clockwork rotors and chain belts."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Other Plot Hooks",
+							"entries": [
+								"Here are a few examples of other plot hooks you can use to introduce the legend of Umbrafang to your Dungeons & Dragons campaign:",
+								"A clan of Kuo-Toa pirates have been reported attacking and sinking merchant vessels off the coast of Wind's Cape Town.",
+								"Cape Town Guardhouse is offering a sizable reward to any adventurers willing to combat the Kuo-Toa threat.",
+								"A warning to potential applicants: many have already tried, and none have returned.",
+								"Those interested should speak with Watchmaster Aarith as soon as possible.",
+								"Aarith Greyborn,",
+								"Senior Watchmeister",
+								"Bramblebrook Bellhands has been complaining recently that his shop, \"Pet Brush Bathhouse\"Jhas become haunted by a sinister spirit.",
+								"He claims to have seen the eyes of a monster in the many bathtubs around the property he uses to bathe the livestock.",
+								"While initial investigations have brought up nothing but plumbing issues, Bramblebrook is convinced something far more sinister is going on, and to be honest, it's trying my patience.",
+								"Any adventurers willing to spend a few hours getting to the bottom of this shall find themselves a few coins richer. Speak to Marcelle Trillow at the Eastern Watchtower for more information.",
+								"Legend has it a fearsome beast prowls the swamps surrounding the small village of Greywind.",
+								"The village folk that reside within the town have become prisoners; unable to leave, lest the monstrous beast drag them to a watery grave. Their crops rotting in their fields and their water supply polluted and brown, there is very little time left before the once proud and bustling village becomes nothing but a deserted and desolate wasteland.",
+								"Can a hero slay the beast and free the town before it is too late?",
+								"Or will they themselves fall victim to the creatures insidious and bloodthirsty tactics?"
+							]
 						}
 					]
 				}
@@ -1043,6 +1518,374 @@
 				"blinded",
 				"restrained"
 			]
+		},
+		{
+			"name": "Umbrafang (Greater)",
+			"isNamedCreature": true,
+			"source": "",
+			"size": [
+				"H"
+			],
+			"type": "aberration",
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 18,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 158,
+				"formula": "15d12 + 60"
+			},
+			"speed": {
+				"walk": 5,
+				"swim": 50
+			},
+			"str": 18,
+			"dex": 16,
+			"con": 19,
+			"int": 14,
+			"wis": 20,
+			"cha": 15,
+			"save": {
+				"str": "+8",
+				"dex": "+8"
+			},
+			"senses": [
+				"blindsight 60 ft."
+			],
+			"passive": 15,
+			"resist": [
+				{
+					"resist": [
+						"cold",
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical weapons",
+					"cond": true
+				}
+			],
+			"immune": [
+				"poison"
+			],
+			"conditionImmune": [
+				"charmed",
+				"frightened",
+				"poisoned"
+			],
+			"languages": [
+				""
+			],
+			"cr": "12",
+			"trait": [
+				{
+					"name": "Amphibious",
+					"entries": [
+						"Umbrafang can breathe air and water."
+					]
+				},
+				{
+					"name": "Creature of Legend",
+					"entries": [
+						"Umbrafang is a unique creature of legend. Its weapon attacks are magical, and it has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Freedom of Movement",
+					"entries": [
+						"When in water, Umbrafang ignores difficult terrain, and magical effects can't reduce its speed or cause it to be {@condition restrained}. It can spend 5 feet of movement to escape from nonmagical restraints or being {@condition grappled}."
+					]
+				},
+				{
+					"name": "Legendary Resistance (2/Day)",
+					"entries": [
+						"If Umbrafang fails a saving throw, it can choose to succeed instead."
+					]
+				},
+				{
+					"name": "Toxic Aura",
+					"entries": [
+						"At the start of Umbrafang's turns, each creature within 5 feet of it takes 3 ({@damage 1d6}) poison damage. A creature that touches Umbrafang or hits it with a melee attack while within 5 feet of it takes 3 ({@damage 1d6}) poison damage."
+					]
+				},
+				{
+					"name": "Stagnant Protection",
+					"entries": [
+						"Umbrafang has advantage on Dexterity (Stealth) checks when in stagnant or still water. In addition, when underwater, it has a +2 bonus to its AC against attacks originating from out of or above water."
+					]
+				},
+				{
+					"name": "Powerful Swimmer",
+					"entries": [
+						"Umbrafang can move at full speed when grappling a single target, and half speed when grappling up to three separate targets. Targets are pulled along by Umbrafang as it moves, and remain within 15 feet of it at all times."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"Umbrafang makes three tentacle attacks. It can replace one tentacle attack with a single use of Bite."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"Melee weapon attack: {@hit 8} to hit, reach 5ft., one target. {@h}13 ({@damage 2d8 + 4}) piercing damage. If the target is a Large or smaller creature {@condition grappled} by Umbrafang, that creature is swallowed, and the grapple ends. While swallowed, the creature is {@condition blinded} and {@condition restrained}, it has total cover against attacks and other effects outside Umbrafang and it takes 7 ({@damage 2d6}) acid damage at the start of each of Umbrafang's turns. Umbrafang can only have one target swallowed at a time. If Umbrafang dies, a swallowed creature is no longer {@condition restrained} and can escape from the corpse using 5 feet of movement."
+					]
+				},
+				{
+					"name": "Tentacle",
+					"entries": [
+						"Melee weapon attack: {@hit 8} to hit, reach 15 ft., one target. {@h}7 ({@damage 2d6 + 4}) bludgeoning damage and 3 ({@damage 1d6}) poison damage.",
+						"If the target is Large or smaller it is {@condition grappled} (escape {@dc 16}).",
+						"Until this grapple ends, the target is {@condition restrained}, and Umbrafang can't use that tentacle on another target.",
+						"Umbrafang has 6 tentacles. Each can be used to grapple a different target."
+					]
+				},
+				{
+					"name": "Toxic Mucus (Out of Water Only, Recharge 5 - 6)",
+					"entries": [
+						"Umbrafang releases globules of sticky mucus from bulbous glands across its body, which scatter out from it in a 10-foot radius sphere. The mucus remains on the ground for 1 minute, or until washed away by 5 or more gallons of fresh water. A creature that starts its turn in the area or moves within the area for the first time on its turn must succeed on a {@dc 15} Strength saving throw or be {@condition restrained} by the mucus for 1 minute. A {@condition restrained} creature can attempt this saving throw again at the end of each of its turns, ending the effect on itself on a success."
+					]
+				},
+				{
+					"name": "Acidic Spittle {@recharge 5}",
+					"entries": [
+						"Umbrafang vomits up a corrosive spittle in a 5-foot-wide, 30-foot-long line. Creatures caught in the line must succeed on a {@dc 16} Dexterity saving throw or take 21 ({@damage 6d6}) acid damage.",
+						"If a creature who is wearing nonmagical armor fails this saving throw, the armor takes a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed.",
+						"If Umbrafang uses this ability while it has a creature swallowed, the creature is vomited up along with the spittle, taking 10 ({@damage 3d6}) acid damage and landing {@condition prone} at the end of the 30-foot line. If the creature is wearing nonmagical armor, the AC it offers is immediately and permanently reduced by 1. If this would place the vomited creature in a space already occupied by another creature, the occupying creature must succeed on a {@dc 15} Dexterity throw or be pushed 5 feet and knocked {@condition prone}. On a successful save, the creature isn't knocked {@condition prone}."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Tentacle Attack",
+					"entries": [
+						"Umbrafang makes a tentacle attack."
+					]
+				},
+				{
+					"name": "Fish's Flurry",
+					"entries": [
+						"Umbrafang moves up to half its movement speed without provoking opportunity attacks."
+					]
+				},
+				{
+					"name": "Digestion Glands (Costs 2 Actions)",
+					"entries": [
+						"Umbrafang recharges either its Acidic Spittle or Toxic Mucus"
+					]
+				}
+			],
+			"traitTags": [
+				"Amphibious",
+				"Legendary Resistances"
+			],
+			"senseTags": [
+				"B"
+			],
+			"actionTags": [
+				"Multiattack",
+				"Swallow",
+				"Tentacles"
+			],
+			"damageTags": [
+				"A",
+				"B",
+				"I",
+				"P"
+			],
+			"miscTags": [
+				"AOE",
+				"RCH"
+			],
+			"conditionInflict": [
+				"blinded",
+				"restrained"
+			]
+		},
+		{
+			"name": "Umbrafang (Lesser)",
+			"isNamedCreature": true,
+			"source": "",
+			"page": 0,
+			"size": [
+				"H"
+			],
+			"type": "aberration",
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 14,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 85,
+				"formula": "9d12 + 27"
+			},
+			"speed": {
+				"walk": 5,
+				"swim": 40
+			},
+			"str": 16,
+			"dex": 12,
+			"con": 17,
+			"int": 12,
+			"wis": 16,
+			"cha": 13,
+			"save": {
+				"str": "+6",
+				"dex": "+4"
+			},
+			"senses": [
+				"blindsight 60 ft."
+			],
+			"passive": 15,
+			"immune": [
+				"poison"
+			],
+			"conditionImmune": [
+				"charmed",
+				"frightened",
+				"poisoned"
+			],
+			"languages": [
+				""
+			],
+			"cr": "3",
+			"trait": [
+				{
+					"name": "Amphibious",
+					"entries": [
+						"Umbrafang can breathe air and water."
+					]
+				},
+				{
+					"name": "Creature of Legend",
+					"entries": [
+						"Umbrafang is a unique creature of legend. Its weapon attacks are magical, and it has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Freedom of Movement",
+					"entries": [
+						"When in water, Umbrafang ignores difficult terrain, and magical effects can't reduce its speed or cause it to be {@condition restrained}. It can spend 5 feet of movement to escape from nonmagical restraints or being {@condition grappled}."
+					]
+				},
+				{
+					"name": "Toxic Aura",
+					"entries": [
+						"At the start of Umbrafang's turns, each creature within 5 feet of it takes 2 ({@damage 1d4}) poison damage."
+					]
+				},
+				{
+					"name": "Stagnant Protection",
+					"entries": [
+						"Umbrafang has advantage on Dexterity (Stealth) checks when in stagnant or still water. In addition, when underwater, it has a +2 bonus to its AC against attacks originating from out of or above water."
+					]
+				},
+				{
+					"name": "Powerful Swimmer",
+					"entries": [
+						"Umbrafang can move at full speed when grappling a single target. A target is pulled along by Umbrafang as it moves, and remain within 15 feet of it at all times."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"Umbrafang makes two tentacle attacks, one of which it can replace with one use of Bite."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"Melee weapon attack: {@hit 5} to hit, reach 5ft., one target. {@h}8 ({@damage 1d8 + 3}) piercing damage. If the target is a Large or smaller creature {@condition grappled} by Umbrafang, that creature is swallowed, and the grapple ends. While swallowed, the creature is {@condition blinded} and {@condition restrained}, it has total cover against attacks and other effects outside Umbrafang and it takes 3 ({@damage 1d6}) acid damage at the start of each of Umbrafang's turns. Umbrafang can only have one target swallowed at a time. If Umbrafang dies, a swallowed creature is no longer {@condition restrained} and can escape from the corpse using 5 feet of movement."
+					]
+				},
+				{
+					"name": "Tentacle",
+					"entries": [
+						"Melee weapon attack: {@hit 5} to hit, reach 15 ft., one target.  {@h}5 ({@damage 1d4 + 3}) bludgeoning damage. If the target is Large or smaller it is {@condition grappled} (escape {@dc 15}). Until this grapple ends, the target is {@condition restrained}, and Umbrafang can't use that tentacle on another target.",
+						"Umbrafang has 6 tentacles. Each can be used to grapple a different target."
+					]
+				},
+				{
+					"name": "Toxic Mucus (Out of Water Only, Recharge 5 - 6)",
+					"entries": [
+						"Umbrafang releases globules of sticky mucus from bulbous glands across its body, which scatter out from it in a 10-foot radius sphere. The mucus remains on the ground for 1 minute, or until washed away by 5 or more gallons of fresh water. A creature that starts its turn in the area or moves within the area for the first time on its turn must succeed on a {@dc 13} Strength saving throw or be {@condition restrained} by the mucus for 1 minute. A {@condition restrained} creature can attempt this saving throw again at the end of each of its turns, ending the effect on itself on a success."
+					]
+				},
+				{
+					"name": "Acidic Spittle {@recharge 5}",
+					"entries": [
+						"Umbrafang vomits out a corrosive spittle in a 5-foot-wide, 30-foot-long line. Creatures caught in the line must succeed on a {@dc 13} Dexterity saving throw or take 10 ({@damage 3d6}) acid damage.",
+						"If a creature who is wearing nonmagical armor fails this saving throw, the armor takes a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed.",
+						"If Umbrafang uses this ability while it has a creature swallowed, the creature is vomited up along with the spittle, taking 3 ({@damage 1d6}) acid damage and landing {@condition prone} at the end of the 30-foot line. If the creature is wearing nonmagical armor, the AC it offers is immediately and permanently reduced by 1. If this would place the vomited creature in a space already occupied by another creature, the occupying creature must succeed on a {@dc 13} Dexterity throw or be pushed 5 feet and knocked {@condition prone}. On a successful save, the creature isn't knocked {@condition prone}."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "",
+					"entries": [
+						"Umbrafang can take 1 legendary action, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Umbrafang regains spent legendary actions at the start of its turn."
+					]
+				},
+				{
+					"name": "Tentacle Attack",
+					"entries": [
+						"Umbrafang makes a tentacle attack."
+					]
+				},
+				{
+					"name": "Fish's Flurry",
+					"entries": [
+						"Umbrafang moves up to half its movement speed without provoking opportunity attacks."
+					]
+				}
+			],
+			"traitTags": [
+				"Amphibious"
+			],
+			"senseTags": [
+				"B"
+			],
+			"actionTags": [
+				"Multiattack",
+				"Swallow",
+				"Tentacles"
+			],
+			"damageTags": [
+				"A",
+				"B",
+				"I",
+				"P"
+			],
+			"miscTags": [
+				"AOE",
+				"RCH"
+			],
+			"conditionInflict": [
+				"blinded",
+				"restrained"
+			]
 		}
 	],
 	"item": [
@@ -1051,6 +1894,7 @@
 			"source": "",
 			"page": 0,
 			"baseitem": "longsword|PHB",
+			"rarity": "rare",
 			"bonusWeapon": "+1",
 			"charges": 3,
 			"entries": [
@@ -1181,8 +2025,8 @@
 			"source": "",
 			"page": 0,
 			"type": "P",
+			"rarity": "rare",
 			"entries": [
-				"rare",
 				{
 					"type": "entries",
 					"name": "Adult Properties:",
@@ -1237,11 +2081,10 @@
 			"page": 0,
 			"baseItem": "arrow|PHB",
 			"type": "A",
-			"rarity": "none",
+			"rarity": "uncommon",
 			"weight": 0.05,
 			"bonusWeapon": "+1",
 			"entries": [
-				"uncommon",
 				{
 					"type": "entries",
 					"name": "Adult Properties:",
@@ -1268,16 +2111,17 @@
 					"axe": true
 				}
 			],
+			"rarity": "rare",
 			"inherits": {
 				"namePrefix": "Dweller Axe ",
 				"source": "",
 				"page": 0,
+				"reqAttune": true,
 				"bonusWeapon": "+1",
 				"recharge": "dawn",
 				"rechargeAmount": "{@dice 1d3}",
 				"charges": 3,
 				"entries": [
-					"rare (requires attunement)",
 					{
 						"type": "entries",
 						"name": "Adult Properties:",
@@ -1296,13 +2140,14 @@
 				]
 			},
 			"__prop": "magicvariant"
-		},
+		}
+		,
 		{
 			"name": "Dweller Skin Coating",
 			"source": "",
 			"page": 0,
+			"rarity": "very rare",
 			"entries": [
-				"very rare",
 				{
 					"type": "entries",
 					"name": "Adult Properties:",
@@ -1326,8 +2171,8 @@
 			"source": "",
 			"page": 0,
 			"type": "P",
+			"rarity": "uncommon",
 			"entries": [
-				"uncommon",
 				{
 					"type": "entries",
 					"name": "Adult Properties:",
@@ -1352,8 +2197,8 @@
 			"source": "",
 			"page": 0,
 			"wondrous": true,
+			"rarity": "rare",
 			"entries": [
-				"rare",
 				{
 					"type": "entries",
 					"name": "Adult Properties:",
@@ -1377,8 +2222,8 @@
 			"source": "",
 			"page": 0,
 			"type": "P",
+			"rarity": "rare",
 			"entries": [
-				"rare",
 				{
 					"type": "entries",
 					"name": "Adult Properties:",
@@ -1407,7 +2252,7 @@
 			"page": 0,
 			"baseItem": "whip|PHB",
 			"type": "M",
-			"rarity": "none",
+			"rarity": "rare",
 			"weight": 3,
 			"weaponCategory": "martial",
 			"property": [
@@ -1419,7 +2264,7 @@
 			"bonusWeapon": "+1",
 			"weapon": true,
 			"entries": [
-				"rare (requires attunement)",
+				"(requires attunement)",
 				{
 					"type": "entries",
 					"name": "Adult Properties:",
