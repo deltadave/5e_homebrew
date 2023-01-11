@@ -1114,6 +1114,485 @@
 								"Can a hero slay the beast and free the town before it is too late?",
 								"Or will they themselves fall victim to the creatures insidious and bloodthirsty tactics?"
 							]
+						},
+						{
+							"type": "entries",
+							"name": "Chapter 3: The Abyss Maw",
+							"entries": [
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": ""
+									}
+								},
+								"A vast, malicious predator, little escapes the jaws of the abyss maw. The abyss maw drifts between the Planes of Existence via the Astral Plane; using its numerous grasping pseudopods to drag unwary creatures into its waiting gullet."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "A Monstrous Migrant",
+							"entries": [
+								"The abyss maw is in a constant state of migration, moving between the Planes as often as the changing of the tide.",
+								"While it lacks the cunning and intelligence of other Plane-striding creatures, the abyss maw's ferocious, shark-like tendencies makes it one of the most feared hunters in the Astral Sea. Its migration leads it many times through the Material Plane, where it preys on whales, giant squid, and even juvenile deep dwellers, should the legendary beasts ever cross paths.",
+								"The abyss maw's extreme metabolism forces it to eat constantly throughout its lifespan. Each creature consumed is digested entirely, leaving no traces behind. This pattern has made hunting down the abyss maw an extremely tricky and costly endeavour. Many ships who set sail in search of it vanish overnight, their crews and supplies providing a brief, but grisly, nourishment for its unending search for food.",
+								"{@b Territorial and Unrelenting}",
+								"Although the abyss maw doesn't remain in the same location for very long, when it first arrives in a region it quickly rises to become a territorial alpha predator, contested only by the largest and fiercest of foes. The abyss maw doesn't back down if challenged over territory by a more powerful creature, opting instead to cause as much damage to its opponent as possible before its own demise. Like a cornered rat, the abyss maw fights with tooth and tendril until either it or its attacker are slain. Even after its death, the damage its opponent sustains from such an unrelenting assault can leave lasting, permanent scars. Some larger monstrosities, such as the astral dreadnought, can be seen sporting a plethora of scarred wounds from such pyrrhic victories, acting both as a trophy of survival and as a warning to others.",
+								"{@b Motivations}",
+								"An abyss maw exists as a toxic infestation, invading the territories of other species with the sole purpose of driving them out of their natural habitats. The abyss maw traverses the planes on the currents of the Astral Sea, becoming drawn to the Material Plane when spellcasters call upon particularly potent divination magic, like a moth drawn to an open flame. Once manifested, the abyss maw explodes with rage and hunger, attacking everything in sight until it consumes its way to the top of the food chain.",
+								"{@b The Abyss Maw's Lair}",
+								"The abyss maw's lair is located in a dark cove, cave or underwater lake, most commonly found in the upper levels of the Underdark. The lair is always half-filled with water, creating a pool connected together by a series of underwater tunnels. The abyss maw uses these tunnels to travel from one area of the lair to the other. The lair is connected to the outside world by means of a large flooded tunnel, carved out by the abyss maw itself. This tunnel stretches for anywhere between 1 and 3 miles, and appears naturally formed to the untrained eye. Tooth marks etched into the rock hint at its unnatural creation.",
+								"The tunnel has its own ecosystem, filled with alien fish and aquatic life originating from various planes of existence, drawn to the lair by the abyss maw's planar magic. The lair itself is a bridge between two or more planes, and exhibits traits common to them. If the lair were linked between the Material Plane and the Elemental Plane of Fire, it might exhibit extreme heat and be situated near an active volcano.",
+								"Fire elementals would drift atop pockets of bubbling water, while firenewts form small colonies on rocky outcrops. If the abyss maw were to migrate to the Shadowfell next, the lair would be devoid of color, and endemic life, such as the aforementioned firenewt colonies, would appear grey and skeletal.",
+								"The abyss maw remains in its lair between 10 and 15 hours per day.",
+								"During the night it exits via its excavated tunnel, to prey on hapless victims and unwary creatures before retreating to digest its grisly meal.",
+								"{@b Lair Actions}",
+								"On initiative count 20 (losing initiative ties), the abyss maw takes a lair action to cause one of the following magical effects:",
+								"The abyss maw's truesight extends to 120 feet until initiative count 20 on the next round. While its truesight is doubled in this way, it is able to innately detect if any creature within that radius is not native to the Plane of Existence they are on. If the abyss maw detects such a creature, it may use its reaction to immediately cast banishment using its Innate Spellcasting feature, doubling the range of the spell to 120 feet.",
+								"A surge of planar magic permeates the lair, creating disruptive feedback to spellcasters within it. Until initiative count 20 on the next round, whenever a spellcaster attempts to cast a spell, they must succeed on a DC 14 Constitution saving throw or take 1d6 force damage per level of the spell (minimum 1d6), and the spell fails. Druid and Ranger spells are immune to this effect.",
+								"Powerful magical winds rush through the lair from a random Plane of Existence, causing a brief, but potent, atmospheric shift. Each creature of the abyss maw's choosing must make a saving throw from the Planar Winds Table. If the effect deals damage, it deals the amount shown in the table on a failed save, or half as much on a successful one. Any other effect lasts until the end of the creatures next turn on a failed save.",
+								{
+									"type": "table",
+									"caption": "Planar Winds Table",
+									"colLabels": [
+										"D12",
+										"Plane of Existence",
+										"Saving Throw",
+										"Effect"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-3 text-left",
+										"col-3 text-left",
+										"col-3 text-left"
+									],
+									"rows": [
+										[
+											"1",
+											"Elemental" ,
+											"Dexterity" ,
+											"2d6 fire damage"
+										],
+										[
+											"2",
+											"Pandemonium",
+											"Wisdom",
+											"Short-term madness (DMG, Chapter 8)"
+										],
+										[
+											"3",
+											"Hades",
+											"Constitution",
+											"Three levels of exhaustion"
+										],
+										[
+											"4",
+											"Ethereal" ,
+											"Intelligence" ,
+											"3d4 force damage"
+										],
+										[
+											"5" ,
+											"Elemental",
+											"Strength",
+											"2d6 cold damage"
+										],
+										[
+											"6",
+											"Positive",
+											"Charisma",
+											"2d8 radiant damage"
+										],
+										[
+											"7",
+											"Limbo",
+											"Wisdom",
+											"Restrained"
+										],
+										[
+											"8",
+											"Mechanus",
+											"Dexterity",
+											"Prone"
+										],
+										[
+											"9",
+											"Astral",
+											"Intelligence",
+											"Charmed"
+										],
+										[
+											"10",
+											"Negative",
+											"Charisma",
+											"2d8 necrotic damage"
+										],
+										[
+											"11",
+											"Elemental",
+											"Strength",
+											"2d6 thunder damage"
+										],
+										[
+											"12",
+											"Acheron (Avalas)",
+											"Constitution",
+											"Stunned"
+										]
+									]
+								},
+								"{@b Regional Effects}",
+								"The region surrounding the abyss maw's lair is warped by its presence, creating one or two of the following magical effects.",
+								"These effects change daily, fluctuating more frequently if planar or divination magic is used within 10 miles of the lair.",
+								"Brief booms of battle can be heard at random times throughout the day within a 5-mile radius of the lair. These cries of warfare originate from the battle-planes of Acheron.",
+								"The color of flora and fauna in a 3-mile radius surrounding the lair is ashen and grey, as if devoid of life. This originates from the Plane of the Shadowfell.",
+								"Sunlight and other sources of light within 5 miles of the lair become unnaturally bright. Spells that deal radiant damage deal an additional 1d4 damage when cast, but have a 50% of exploding, dealing the spell's damage to all creatures in a 5-foot radius sphere centered on the caster. A creature caught in the spell's radius can make a DC 14 Dexterity saving throw, taking no damage on a successful save. This originates from the Positive Energy Plane.",
+								"Darkness, shadows and other dimly lit areas within 5 miles of the lair become wreathed in a magical darkness. Spells that deal necrotic damage deal an additional 1d4 damage when cast, but have a 50% chance to drain the life from the caster. An affected caster must succeed on a DC 14 Constitution saving throw. On a failed save, a creature's maximum hit points are reduced by 1d4 for each level of the spell. This reduction lasts until the creature finishes a short or long rest. This originates from the Negative Energy Plane.",
+								"The air in a 5-mile radius surrounding the lair becomes ice cold, and the landscape is bathed in a thin layer of frost. All creatures gain vulnerability to cold damage while within the lair. This originates from the Elemental Plane of Water.",
+								"The air in a 5-mile radius of the lair becomes unbearably hot and tropical, regardless of climate. Cold water becomes warm, and warm water reaches boiling point twice as fast as normal. All creatures gain resistance to cold damage while within the lair. This originates from the Elemental Plane of Fire.",
+								"Events within a 5-mile radius of the lair appear to move precisely on time, with no interruptions. Trains arrive at the exact   arrival time, while shops open and close on schedule with no interruptions. A creature that spends more than 5 hours exposed to this effect becomes devoid of creative pursuits and personality until it leaves the effect's area. This originates from the Plane of Mechanus.",
+								"Creatures that sleep within 5 miles of the abyss maw's lair gain the effects of the etherealness spell for 1 hour during their sleep. While sleeping in this way, the creature can't be interacted with in any way, and suffers vivid dreams. This originates from the Astral Plane."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Summoning the Abyss Maw",
+							"entries": [
+								"The abyss maw's attention can be drawn towards the Material Plane by creating a summoning circle out of raw meat within 500 feet of a large body of water at night, such as a lagoon or lake, and casting a divination spell of 1st-level or higher while standing inside the circle.",
+								"At least 3lbs of raw meat used in the circle must originate from one or more of the following creatures:",
+								"Aboleth",
+								"Deep Dweller (Juvenile or Adult)",
+								"Giant Octopus",
+								"Merrow",
+								"Whale",
+								"Giant Shark",
+								"Killer Whale",
+								"A caster can use transmutation magic, such as the polymorph spell or prestidigitation cantrip, to magically transform 5lbs of raw meat into meat from one of the creatures above by making a DC 14 ability check using their spellcasting ability modifier. The spell slot is expended, regardless of whether the caster passed or failed this ability check. On a successful check, the meat remains transformed for 1 hour, and the caster must maintain concentrating on the spell for the hour, regardless of whether the spell required concentration or not.",
+								"Once the summoning ritual has been completed, the abyss maw can be lured into the Material Plane by placing 10lbs of raw meat into a large body of water within 500 feet of the summoning circle and speaking the chorus of the abyss maw sea shanty. Upon the shanty's completion the abyss maw appears immediately and is hostile to all creatures.",
+								"{@b The Abyss Maw Sea Shanty}",
+								 "The abyss maw sea shanty was first created by nautical wizards, who spent many years out at sea studying aquatic flora and fauna. While navigating, such wizards used their knowledge of divination magic to guide ships to new areas for study or to predict weather and avoid storms. Eventually, their shanty drew the ire of the abyss maw, who wrought massive devastation on their ships.",
+								"The attack of an abyss maw is a cautionary legend popular with spellcasting sailors, and can be heard frequently sung aboard vessels sailed by divination capable navigators or spellcasters.",
+								"\"Oooh oh, on dreams it feeds,",
+								"-The yonder beast on astral seasOooh oh, hear well this tale",
+								"- A bloody lesson from the veil -",
+								"(Chorus)",
+								"- Oooh oh, astral sea - Keep thy beast away from me We sail through night, wind and storm",
+								"- Oooh oh, press on till dawn We draw our wands and raise our swords",
+								"- Oooh oh, sound the horns On flash of light and chanted spells",
+								"- Oooh oh, listen well The beast did rise, roar and swell",
+								"-Oooh oh, beyond the veilIt lunged and lashed atop the deck",
+								"- Oooh oh, prepare the nets The air was cold and hot and wet",
+								"- Oooh oh, with blood and sweat Huge great jaws bit down on deck",
+								"- Oooh oh, aim for the neck Monstrous teeth tore in with glee",
+								"- Oooh oh, abandon thee - Oooh oh, astral sea - Keep thy beast away from me Arm yourself with cautions small",
+								"- Oooh oh, it hunts us all For the beast lurks here, when darkness falls!",
+								"- Oooh oh, it kills us all Grab your lanterns, light them well!",
+								"- Oooh oh, it seeks with smell And if you see it, ring the bells!",
+								"- Oooh oh, dead tell no tales Strike with magic, club and blade!",
+								"- Oooh oh, a hunt is made And see it cower, hear it roar!",
+								"- Oooh oh, that Abyssal Maw! -",
+								"{@b Lesser And Greater Variants}",
+								"The abyss maw has two versions: a lesser variant and a greater variant. This is to allow the abyss maw to be introduced in two different tiers of adventure. If your adventuring party are all level 5, for example, the lesser variant would be a perfect legendary creature to hunt If your party are level 10 or 11, then the greater variant would prove a more challenging encounter. The items a character can craft from a defeated abyss maw depends on the variant it faced.",
+								"[Abyss Maw (Greater)]",
+								"[Abyss Maw (Lesser)]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Size Comparison Chart",
+							"entries": [
+								"Below is a visual guide to give the Dungeon Master an idea of the size of an abyss maw in comparison to a traditional sailing ship (30 crew), shark, and human of average height."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Harvesting Abyss Maw Parts",
+							"entries": [
+								{
+									"type": "table",
+									"caption": "Harvesting Table",
+									"colLabels": [
+										"Body Part",
+										"Harvest DC",
+										"Items Available to Craft",
+										"Item Crafting Requirements",
+										"Crafting DC and Time Taken"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-3 text-center",
+										"col-3 text-center",
+										"col-3 text-center",
+										"col-3 text-center"
+									],
+									"rows": [
+										[
+											"Abyss Maw Pseudopods (3d6 pieces)",
+											"DC 13 Wisdom (Survival) Salted storage barrel (Max of 3 pieces per barrel)",
+											"Maw Wand (White) (2 pieces required) Maw Wand (Blue) (2 pieces required) Maw Wand (Yellow) (2 pieces required) Maw Wand (Black) (2 pieces required)",
+											"Woodcarver's Tools: All items",
+											"Maw Wand (White) DC 15 Intelligence (Arcana) 6 Hours Maw Wand (Blue) DC 14 Intelligence (Arcana) 7 Hours Maw Wand (Yellow) DC 15 Intelligence (Arcana) 6 Hours Maw Wand (Black) DC 16 Intelligence (Arcana) 5 Hours"
+										],
+										[
+											"Abyss Maw Flesh (2d10 pieces)",
+											"DC 13 Wisdom (Survival) Salted storage barrel (Max of 8 pieces per barrel)",
+											"Planestrider Leather (4 pieces required) Planestrider Shield (3 pieces required) Ethereal Wraps (4 pieces required)",
+											"Leatherworker's Tools: All items",
+											"Planestrider Leather: DC 15 Strength (Athletics) 6 Hours Planestrider Shield: DC 15 Dexterity (Sleight of Hand) 4 Hours Ethereal Wraps: DC 15 Intelligence (Arcana) 8 Hours"
+										],
+										[
+											"Abyss Maw Eyes (1d12 eyes)",
+											"DC 17 Wisdom (Perception) DC 16 Dexterity (Sleight of Hand) An empty bottle, covered in black silk and sealed in wax once filled.  (Max of 3 eyes per vial)",
+											"Charm of the Abyss (3 eyes required) Abyss Ring (3 eyes required)",
+											"Alchemist's Supplies: All items Smith's Tools: Abyss Ring Glassblower's Tools: Charm of the Abyss",
+											"Charm of the Abyss: DC 14 Dexterity (Sleight of Hand) and DC 15 Intelligence (Arcana) 6 Hours Abyss Ring: DC 14 Strength (Athletics) and DC 15 Intelligence (Arcana) 5 Hours"
+										],
+										[
+											"Abyss Maw Teeth (2d8 teeth)",
+											"DC 14 Wisdom (Survival)",
+											"Maw-tooth Necklace (3 teeth required) Abyss Arrowheads (set of 10) (5 teeth required) Planestrike Blade (5 teeth required)",
+											"Tinker's Tools: All items Smith's Tools: Planestrike Blade",
+											"Maw-tooth Necklace DC 14 Dexterity (Sleight of Hand) 4 Hours Abyss Arrowheads DC 14 Dexterity (Sleight of Hand) 4 Hours Planestrike Blade: DC 15 Strength (Athletics) and DC 15 Intelligence (Tinker) 3 Hours"
+										],
+										[
+											"Abyss Maw Blood (2d8 samples)",
+											"DC 17 Intelligence (Arcana) Storage vials, each containing a small clove of garlic, and sealed by wax once filled.  (Max of 1 sample per vial)",
+											"Iron Mind Potion (2 samples required) Potion of the Planestrider (3 samples required)",
+											"Alchemist's Supplies: All items",
+											"Iron Mind Potion: DC 15 Wisdom (Medicine) 6 Hours Potion of the Planestrider: DC 16 Intelligence (Arcana) 8 Hours"
+										]
+									]
+								},
+								"The abyss maw has six pseudopods which it uses to channel its magical abilities and grapple its prey. Each of these tentacles retains a portion of the abyss maw's magic when severed, and can be harvested for later use.",
+								"The Harvest Table details the requirements for harvesting each body part, including the harvest DC, crafting DC, and resulting weapon or item the body part can be turned into.",
+								"{@b Table Guide}:",
+								"{@b Body Part}: The part of the body that is being harvested, and how many pieces may be obtained from a successful harvest attempt.",
+								"{@b Harvest DC}: This details the ability check and DC required to successfully harvest the chosen part and any storage requirements the part has. Each body part may only be successfully harvested once, unless specified otherwise, after which the body part is destroyed. If a creature fails the harvesting check by 5 or more, the body part is also destroyed, and can't be harvested again.",
+								"If harvesting a body part requires two or more checks, the checks can be performed by any creatures involved in the harvesting.",
+								"A ranger, for example, might decide to join in on the harvesting by making the required Wisdom (Survival) check, leaving the Dexterity (Sleight of Hand) check to the rogue. Other characters can take the Help action to grant the harvesting characters advantage on the aforementioned checks.",
+								"{@b Items Available to Craft}: This column lists the item or items that may be crafted from harvested creature parts. You can only produce one of the listed items with each crafting attempt. The crafted item's properties are detailed at the end of the chapter.",
+								"{@b Item Crafting Requirements}: This section details any requirements that must be met to turn the harvested body part into an item. Harvested pieces that note a storage requirement (such as a vial or barrel of salt) must be placed in their respective containers immediately after being harvested, and should remain in the container until used in crafting. A harvested piece degrades over time when not placed in its particular container or being used for crafting. Each piece can remain outside of a container for a maximum of 1d4 hours (ignoring crafting times) before succumbing to rot. A rotten piece can't be crafted. If an item is listed under two or more tools, proficiency in and access to both sets of tools are required, though these proficiencies can be shared over multiple characters. For example, one character could take part in the crafting and have proficiency in one set of tools, and another character could also take part in the crafting and provide the proficiency needed for the other set of tools.",
+								"{@b Crafting DC}: The ability check and DC that must be met to successfully craft an item, and the time required to do so. If this check is failed by 5 or more, the harvested pieces used are destroyed in the crafting process.",
+								"If crafting an item requires two or more checks, the checks can be performed by any creatures taking part in the crafting of the item. A barbarian, for example, might decide to make the required Strength (Athletics) check, leaving the Intelligence (Arcana) check to the wizard. Other characters can take the Help action to grant the crafting characters advantage on the aforementioned checks."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Crafted Items",
+							"entries": [
+								"The crafted items listed below are in alphabetical order.",
+								"Some items on this list can only be crafted using materials harvested from either the greater or lesser abyss maw respectively. The items properties change depending on which version of the creature it is crafted from, with the lesser properties displayed by default and the upgraded greater properties shown atop the description. Each item lists its school of magic, should it be the target of detect magic or similar spells.",
+								"[Abyss Arrowhead]",
+								"[Abyss Ring]",
+								"[Charm Of The Maw]",
+								"[Ethereal Wraps]",
+								"[Iron Mind Potion]",
+								"[Maw Wand (Black)]",
+								"[Maw Wand (Blue)]",
+								"[Maw Wand (White)]",
+								"[Maw Wand (Yellow)]",
+								"[Maw-Tooth Necklace]",
+								"[Planestrider Leather]",
+								"[Planestrider Shield]",
+								"[Planestrike Blade]",
+								"[Potion Of The Planeskipper]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Selling Harvested Materials",
+							"entries": [
+								"Materials harvested from an abyss maw can be sold to interested third parties. Items can also be sold to criminal blackmarket dealers at an increased price, though the associated risks of doing so can vary from one location to the next. The Harvest Value table details average sale guidelines for a piece of each material type.",
+								"Costs may fluctuate based on your campaign's economy, sale location, or per trader, at the discretion of the Dungeon Master.",
+								{
+									"type": "table",
+									"caption": "Harvest Value Table",
+									"colLabels": [
+										"Material Name",
+										"Sale Price",
+										"Black Market Price"
+									],
+									"colStyles": [
+										"col-2 text-left",
+										"col-2 text-left",
+										"col-2 text-left"
+									],
+									"rows": [
+										[
+											"Abyss Maw Pseudopod",
+											"60 gp (Greater) 15 gp (Lesser)",
+											"85 gp (Greater) 30 gp (Lesser)"
+										],
+										[
+											"Abyss Maw Flesh",
+											"30 gp (Greater) 20 gp (Lesser)",
+											"60 gp (Greater) 40 gp (Lesser)"
+										],
+										[
+											"Abyss Maw Eye",
+											"300 gp (Greater) 175 gp (Lesser)",
+											"450 gp (Greater) 300 gp (Lesser)"
+										],
+										[
+											"Abyss Maw Tooth",
+											"30 gp (Greater) 10 gp (Lesser)",
+											"40 gp (Greater) 15 gp (Lesser)"
+										],
+										[
+											"Abyss Maw Blood",
+											"310 gp (Greater) 185 gp (Lesser)",
+											"430 gp (Greater) 225 gp (Lesser)"
+										]
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "A Deadly Harvest",
+							"entries": [
+								"{@b Recommended Character Level}: 5 - 8 (Greater) 3 - 4 (Lesser)",
+								"{@b Minimum Equipment Required}: Access to a 1st-level divination spell. Basic weaponry and equipment for waterborne combat. At least one magical weapon (if facing a greater abyss maw).",
+								"{@b Recommended Equipment Required}: A large rowboat (GoS, Appendix A: Of Ships and the Sea), and at least two magical weapons (if facing a greater abyss maw).",
+								"{@b Party Size}: 4 - 6",
+								"{@b Difficulty}: Deadly (4), Hard/Medium (6)",
+								"{@b Quest Creature}: Abyss Maw",
+								"{@b Quest overview}",
+								"Sanmill Peck, a curator of strange and interesting artifacts, is looking for a group of capable individuals to work with them on a particularly dangerous adventure. The characters must help Peck summon an abyss maw and severe one of its grasping pseudopods for their research.",
+								"{@b Important Quest Notes}",
+								"This quest provides a basic battle map for the abyss maw's summoned location, as well as the tools required to perform the summoning ritual. NPC and ship stat blocks mentioned in this quest are located in the Monster Manual and Ghosts of Saltmarsh supplements. Other stat blocks are detailed at the end of the quest."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Stage 1: Meeting the NPCs",
+							"entries": [
+								"Upon responding to the advertisement, the characters are introduced to Sanmill Peck, a halfling druid who resides in an underground burrow on the outskirts of Coastmyre Town. Upon entering Peck's home, the characters see it is adorned with various scientific instruments and alchemical equipment. Strange skeletons of forgotten sea creatures from the ocean floor hang from the low ceiling, and the wooden floors are covered in runic stones and various pieces of scribbled parchments.",
+								"Peck reveals they have discovered an ancient and forgotten planar being: the abyss maw. They explain that the existence of such a creature has been well known to sailors, but was always considered a tall tale. Peck presents the abyss maw sea shanty to the characters, and explains that they have uncovered the means to summon it, but requires help if they are to retrieve the abyss maw's magical pseudopods.",
+								"Peck offers to pay the characters in gold, plus the promise that, should the abyss maw be killed, they are welcome to harvest it and craft items for their own personal use.",
+								"If the characters accept, Peck gives them a day to prepare for the hunt, and tells them to meet outside a smuggler's tavern, the Wicked Oar, at dusk."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Stage 2: Exploration",
+							"entries": [
+								"During this section characters have the option to purchase goods for the trial ahead, as well as gather information about the abyss maw.",
+								"Should the characters wish to research more about the abyss maw, they can perform one of the following activities and respective ability checks. The time taken for each activity is detailed in its respective entry.",
+								"{@b Consult the Sailors} ({@b DC 14 Charisma (Persuasion) check}). The character spends 1d4 hours working on the docks, gathering information from sailors stationed there. The sailors tell the character two random pieces of information from the list below:",
+								"\"I've heard that's a mighty beast, so it is. They say it can swallow a crocodile whole!\"",
+								"\"It's a foul creature, spawned in the depths of the abyss itself. No man can defeat it - not with the magic it wields in those tentacles. You'd be better off fighting a shark bare-handed, mark my words.\"",
+								"\"I've heard the beast brings with it monstrous roars of battle - as if an army is at it's back. Not only that, but it can vanish at the drop of an anchor.",
+								"Gone, without a trace.\"",
+								"\"Just like the song says, it's drawn in by navigation magic. You know the stuff. Tells ya which is north, all that. You'd better watch yourself out there on the seas. The more magic you're wantin' to use, the more chance you've got of losing yer ship!\"",
+								"{@b Research in the Libraries} ({@b DC 14 Intelligence (History) check}). The character spends 1d4 hours researching the history of the abyss maw in various ancient scrolls, provided by a library or from Sanmill Peck's personal research journals. Completing this activity grants the character 2 of the following pieces of information from eye witness accounts of the creature:",
+								"\"The creature can't be tied down or chained. We tried everything short of magical restraints. It was simply not good enough.\"",
+								"\"Its grasping pseudopods protrude from a singular flesh sac, located within it's throat. While the flesh sac appears to be extremely resilient, the pseudopods can be severed with surprising ease.\"",
+								"\"Each pseudopod acts as a conduit for, granting the creature magical abilities far beyond that of a conventional wizard. It is unclear whether the removal of these pseudopods should impact the creature's casting ability or not.\"",
+								"\"The creature is not restricted to breathing water. Eyewitness accounts claim the creature had no difficulty fighting atop their galleon.\"",
+								"\"Eyewitnesses report the creature to be extremely large in size; both resilient enough in resistance and size to present a challenge to even the most experienced crew.\"",
+								"{@b Consult The Gods} ({@b DC 15 Intelligence (Religion) check}). The character attempts to commune with their chosen deity or patron, gleaming fragmented imagery of the abyss maw they can interpret. On a successful check, read or paraphrase one of the following visions to the character:",
+								"\"You stand in a cold, black lake, your feet barely dipping beneath the water's icy surface. Six glowing tendrils snake out of the darkness towards you, shifting and blinking in and out of existence before the water gives way beneath you; plunging you towards a colossal, multi-toothed maw.\"",
+								"\"Your skin prickles as you feel your astral form drift upwards, slowly being drawn towards the Astral Sea. You see shapeless forms writhe and twist in the void. Suddenly, they take shape, as a vast, schooner-sized creature breaches the wistful peace. Its multiple eyes dart in various directions as its gigantic tendrils propel it through the Astral Sea, before it flickers, and vanishes from sight.\"",
+								"{@b Summoning The Abyss Maw}",
+								"Once the characters meet Peck outside the Wicked Oar, they begin their journey to an underground lake, 10 miles away from Peck's burrow. This journey takes the characters 6 hours. Characters can assist Peck in navigating by making a {@b DC 15 Wisdom (Survival) check}. On a success, the journey time is reduced by 2 hours.",
+								"Peck explains the location must contain a large body of water, otherwise the abyss maw could be drawn elsewhere by mistake. They ask the characters to help him ambush and kill a Giant Octopus lurking in the waters. Once defeated, Peck performs the summoning ritual outlined earlier in this chapter, using the giant octopus as a component. The characters must then sing the abyss maw sea shanty to completion in order to draw the abyss maw into the location. Peck sings the lines written in bold. The characters should sing the crew lines, written in italics.",
+								"If the characters have access to a boat, Peck advises they sail out to the middle of the water before beginning the sea shanty."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Stage 3: The Hunt",
+							"entries": [
+								"The hunt begins as soon as the sea shanty is completed. The water in the area warps and twists, forming a whirlpool which vomits forth a cold, stagnant air and the roars of swords crashing on shields. The whirlpool and sounds fade over the course of 1d6 minutes, after which time the abyss maw is drawn to the area.",
+								"The area immediately shifts to accommodate the abyss maw, transforming itself into a lair connected to one random Plane of Existence, chosen from, the Plane regional effects detailed earlier in this chapter.",
+								"{@b Abyss Maw Tactics}",
+								"The abyss maw is extremely aggressive and territorial. It is an intelligent and cunning foe, and is drawn to attacking spellcasters first. It uses its lair actions to shut down spellcasting characters as much as possible, while keeping the group separate and isolated.",
+								"If the characters are using a rowboat or a means of transport to traverse the water other than swimming, the abyss maw attacks the boat first. If it inflicts more than 30 damage in a single round to the boat, it springs a leak and sinks in 1d4 + 1 rounds unless the characters find a way to repair it.",
+								"The abyss maw's actions change depending on its remaining hit points, as detailed in the State Table. The abyss maw becomes more and more aggressive the more its hit points are reduced.",
+								"When the abyss maw is acting defensively, it focuses on separating the characters before making its attack. When the abyss maw becomes aggressive, it selects a single random creature from the party and attacks relentlessly. When the abyss maw is in a weakened state, it uses its lair actions to cause as much damage to all creatures as it can, and repeatedly casts damaging spells.",
+								"If the abyss maw is killed in water, its body sinks to the bottom of the lake in 4 rounds, but any severed pseudopods remain floating on the surface. Characters can attempt to dive into the water to harvest the remaining parts of the abyss maw, but the lake is 100 feet deep.",
+								"Characters can attempt to determine the health (or combat ability) of the abyss maw by using their action to make a DC 16 Wisdom (Insight) or Intelligence (Nature) check. On a success, consult the State Table for more information.",
+								{
+									"type": "table",
+									"caption": "State Table",
+									"colLabels": [
+										"Hit Points",
+										"Abyss Maw Condition",
+										"Abyss Maw Tactics"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-2 text-center",
+										"col-2 text-center"
+									],
+									"rows": [
+										[
+											"150 - 100 (greater) 65 - 95 (lesser)",
+											"Undiminished",
+											"Defensive"
+										],
+										[
+											"99 - 60 (greater) 64 - 40 (lesser)",
+											"Threatened and slightly wounded",
+											"Aggressive"
+										],
+										[
+											"59 or less (greater) 39 or less (lesser)",
+											"Severely wounded and extremely aggressive",
+											"Weakened"
+										]
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Stage 4: Completion",
+							"entries": [
+								"After defeating the abyss maw, characters can harvest its parts and can return with Peck to their burrow to receive payment. Peck also harvests one of the abyss maw's pseudopods, and take a sample of its blood for their research.",
+								"The lair contains nothing else of interest. Upon returning with Peck alive, the characters are awarded the following, depending on the abyss maw variant faced:",
+								"Greater Abyss Maw",
+								"200 gp and 100 sp.",
+								"An old, gnarled staff that used to belong to Peck's friend, who vanished under mysterious circumstances. Peck never managed to understand their friend's fascination with it (Staff of Swarming Insects, DMG, Chapter 7: Treasure).",
+								"A small idol, depicting the tendril of a long-forgotten beast wrapping around the mast of a sailing ship. Peck says it washed ashore 10 years ago, and they have no clue as to its origins (This could hint towards the arrival of a Deep Dweller).",
+								"Lesser Abyss Maw",
+								"100gp.",
+								"A choice of 1 potion from Peck's personal stores. Each potion (DMG, Chapter 7: Treasure) appears as a sickly yellow-brown liquid, with a faded label hanging loosely from a cork stopper.",
+								"Potion of Animal Friendship",
+								"Potion of Greater Healing",
+								"Potion of Poison",
+								"Potion of Diminution",
+								"A small green egg, covered in yellow spots. It is cold to the touch, and weighs 2lbs, but fits in the palm of your hand. Peck says it is a 'lucky charm', though they have never managed to get it to hatch, nor figured out what creature it came from."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Notable NPCs and Other Stat Blocks",
+							"entries": [
+								"{@b Name}: Sanmill Peck",
+								"{@b Race}: Halfling (They/Them)",
+								"{@b Alignment}: Neutral good",
+								"{@b Occupation}: Scholar and Researcher",
+								"{@b Stat Block}: Druid with the following additions:",
+								"Strength 13 (+1), Intelligence 14 (+2), Charisma 13 (+1)",
+								"{@b Personality Trait}: Eccentric, easily distracted, knowledgeable on various nature-related topic, and a huge bookworm. Peck is well known around Coastmyre and often frequents the fishmongers and local taverns. They enjoy cooking and follow the teachings of a good-aligned nature deity."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Other Plot Hooks",
+							"entries": [
+								"Here are a few examples of other plot hooks you can use to introduce the legend of the abyss maw to your Dungeons & Dragons campaign:",
+								"The region surrounding the eastern shore has been frozen for over a week. In the height of summer, no less!",
+								"Any adventurers willing to investigate and solve this strange phenomenon shall be justly rewarded by the Scholars Guild on their return. Those interested should be able to start promptly and without delay.",
+								"Speak to Meister Greyback in the Southern Lighthouse at your earliest convenience for more information.",
+								"A young brass dragon has recently been sighted in the region.",
+								"While some believe it to be a good omen, many hunters have reported animals and creatures acting strangely, as if fleeing in fear of some terrible beast. Two nights ago, a gigantic roar and crash echoed out from the ancient lake where the dragon had made its lair, and the dragon hasn't been seen since.",
+								"Adventurers willing to investigate this matter further should speak with Errant Gosli at the Bleak Coast Tavern between the hours of 5pm and 10pm.",
+								"The mountain village of North's Peak has never been overly colorful, being situated so far above sea level. However, recently, residents have reported their crops have begun to turn grey, as if devoid of color entirely. In addition, sounds of combat can be heard in the early hours of the morning, echoing from the abandoned mines deep within the mountain.",
+								"The locals believe the mountain to be cursed by an evil spirit, but lack the tools to defeat it themselves..."
+							]
 						}
 					]
 				}
@@ -1885,6 +2364,435 @@
 			"conditionInflict": [
 				"blinded",
 				"restrained"
+			]
+		},
+		{
+			"name": "Abyss Maw (Greater)",
+			"source": "",
+			"page": 0,
+			"size": [
+				"H"
+			],
+			"type": "monstrosity",
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 16,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 230,
+				"formula": "20d12 + 100"
+			},
+			"speed": {
+				"walk": 0,
+				"swim": 60
+			},
+			"str": 20,
+			"dex": 15,
+			"con": 21,
+			"int": 16,
+			"wis": 18,
+			"cha": 19,
+			"save": {
+				"str": "+9",
+				"wis": "+8"
+			},
+			"senses": [
+				"truesight 60 ft."
+			],
+			"passive": 14,
+			"resist": [
+				"acid",
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing and slashing damage"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"poison",
+				"psychic"
+			],
+			"conditionImmune": [
+				"charmed",
+				"frightened",
+				"poisoned"
+			],
+			"languages": [
+				"'"
+			],
+			"cr": "12",
+			"spellcasting": [
+				{
+					"name": "Innate Spellcasting",
+					"headerEntries": [
+						"The abyss maw's innate spellcasting ability is Charisma (spell save {@dc 16}, {@hit 8} to hit with spell attacks). The abyss maw can innately cast the following spells, requiring no components:"
+					],
+					"will": [
+						"{@spell banishment}",
+						"{@spell levitate}",
+						"{@spell misty step}"
+					],
+					"daily": {
+						"3e": [
+							"{@spell blink}",
+							"{@spell Evard's black tentacles}",
+							"{@spell hunger of Hadar}"
+						],
+						"1e": [
+							"{@spell etherealness}",
+							"{@spell plane shift}",
+							"{@spell prismatic spray}"
+						]
+					},
+					"ability": "cha",
+					"displayAs": "action"
+				}
+			],
+			"action": [
+				{
+					"name": "Amphibious",
+					"entries": [
+						"The abyss maw can breathe air and water."
+					]
+				},
+				{
+					"name": "Astral Swimmer",
+					"entries": [
+						"When the abyss maw is in a Plane of Existence other than the Material Plane, it has a fly speed equal to its swimming speed."
+					]
+				},
+				{
+					"name": "Creature of Legend",
+					"entries": [
+						"The abyss maw is a unique creature of legend. Its attacks are magical, and it is immune to any spell or effect that would alter its form."
+					]
+				},
+				{
+					"name": "Death Throes",
+					"entries": [
+						"If the abyss maw is reduced to 0 hit points, it immediately makes a single melee weapon attack as a reaction.",
+						"This attack has advantage, and if it hits, it is an automatic critical hit. After resolving this attack, the abyss maw dies."
+					]
+				},
+				{
+					"name": "Freedom of Movement",
+					"entries": [
+						"The abyss maw ignores difficult terrain, and magical effects can't reduce its speed or cause it to be {@condition restrained}. It can spend 5 feet of movement to escape from nonmagical restraints or being {@condition grappled}."
+					]
+				},
+				{
+					"name": "Legendary Resistance (2/Day)",
+					"entries": [
+						"When the abyss maw fails a saving throw, it can choose to succeed instead.",
+						"Plane-touched Pseudopods. The abyss maw channels its magical ability through 6 pseudopods, which protrude from a fleshy mound in its throat. A pseudopod can be severed by an attack or spell that deals magical slashing damage. Each pseudopod has AC 20 and 30 hit points. When a pseudopod is severed, the abyss maw's spell save DC and attack modifier is reduced by 1. If all pseudopods are severed, any spell the abyss maw attempts to cast immediately fails."
+					]
+				},
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The abyss maw makes two pseudopod attacks, one of which it can replace with one use of Bite."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"Melee weapon attack: +9 to hit, reach 5ft., one target. {@h}21 ({@damage 3d10 + 5}) piercing damage. If the target is a Large or smaller creature, it is also {@condition grappled} (escape {@dc 17}), and the abyss maw can't use its bite on another target."
+					]
+				},
+				{
+					"name": "Consume",
+					"entries": [
+						"Melee weapon attack: +9 to hit, reach 5ft., one target {@condition grappled} by the abyss maw's Bite. {@h}21 ({@damage 3d10 + 5}) piercing damage, and the target is that creature is swallowed, and the grapple ends. While swallowed, the creature is {@condition blinded} and {@condition restrained}, it has total cover against attacks and other effects outside the abyss maw, and it takes 7 ({@damage 2d6}) acid damage at the start of each of the abyss maw's turns.",
+						"The abyss maw can only have one target swallowed at a time.",
+						"If the abyss maw takes 30 damage or more on a single turn from a creature inside it, it must succeed on a {@dc 20} Constitution saving throw at the start of its turn or regurgitate the swallowed creature, which falls {@condition prone} in a space within 5 feet of the abyss maw. If a swallowed creature is reduced to 0 hit points, it is disintegrated, along with all items it was carrying, leaving no trace behind. If the abyss maw dies, a swallowed creature is no longer {@condition restrained} by it and can escape from the corpse using 5 feet of movement."
+					]
+				},
+				{
+					"name": "Pseudopod",
+					"entries": [
+						"Melee weapon attack: +9 to hit, reach 15 ft., one target. {@h}12 ({@damage 2d6 + 5}) bludgeoning damage. If the target is hit by 2 or more pseudopods in the same round and is Large or smaller, it is {@condition grappled} (escape {@dc 17}). Until this grapple ends, the target is {@condition restrained}, and the abyss maw can't use those pseudopods on another target.",
+						"The abyss maw has 6 pseudopods."
+					]
+				}
+			],
+			"legendaryActions": 2,
+			"legendary": [
+				{
+					"name": "Pseudopod Strike",
+					"entries": [
+						"The abyss maw makes a tentacle attack."
+					]
+				},
+				{
+					"name": "Planar Tendrils (Costs 2 Actions)",
+					"entries": [
+						"The abyss maw casts a spell."
+					]
+				}
+			],
+			"senseTags": [
+				"U"
+			],
+			"actionTags": [
+				"Multiattack",
+				"Swallow"
+			],
+			"damageTags": [
+				"A",
+				"B",
+				"P"
+			],
+			"damageTagsSpell": [
+				"A",
+				"B",
+				"C",
+				"F",
+				"I",
+				"L",
+				"O"
+			],
+			"spellcastingTags": [
+				"I"
+			],
+			"miscTags": [
+				"RCH"
+			],
+			"conditionInflict": [
+				"blinded",
+				"grappled",
+				"restrained"
+			],
+			"conditionInflictSpell": [
+				"blinded",
+				"incapacitated",
+				"petrified",
+				"restrained"
+			]
+		},
+		{
+			"name": "Abyss Maw (Lesser)",
+			"source": "",
+			"page": 0,
+			"size": [
+				"H"
+			],
+			"type": "monstrosity",
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 14,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 95,
+				"formula": "9d12 + 36"
+			},
+			"speed": {
+				"walk": 0,
+				"swim": 50
+			},
+			"str": 16,
+			"dex": 15,
+			"con": 18,
+			"int": 14,
+			"wis": 16,
+			"cha": 17,
+			"save": {
+				"str": "+6",
+				"wis": "+6"
+			},
+			"senses": [
+				"truesight 30 ft."
+			],
+			"passive": 13,
+			"resist": [
+				"acid",
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing and slashing damage"
+					],
+					"note": "from nonmagical attacks",
+					"cond": true
+				}
+			],
+			"immune": [
+				"poison",
+				"psychic"
+			],
+			"conditionImmune": [
+				"charmed",
+				"frightened",
+				"poisoned"
+			],
+			"languages": [
+				"'"
+			],
+			"cr": "7",
+			"spellcasting": [
+				{
+					"name": "Innate Spellcasting",
+					"headerEntries": [
+						"The abyss maw's innate spellcasting ability is Charisma (spell save {@dc 14}, {@hit 6} to hit with spell attacks). The abyss maw can innately cast the following spells, requiring no components:"
+					],
+					"will": [
+						"{@spell levitate}",
+						"{@spell misty step}"
+					],
+					"daily": {
+						"1": [
+							"{@spell arcane gate}",
+							"{@spell etherealness}"
+						],
+						"3": [
+							"{@spell banishment}",
+							"{@spell hunger of Hadar}"
+						]
+					},
+					"ability": "cha"
+				}
+			],
+			"trait": [
+				{
+					"name": "Amphibious",
+					"entries": [
+						"The abyss maw can breathe air and water."
+					]
+				},
+				{
+					"name": "Astral Swimmer",
+					"entries": [
+						"When the abyss maw is in a Plane of Existence other than the Material Plane, it has a fly speed equal to its swimming speed."
+					]
+				},
+				{
+					"name": "Creature of Legend",
+					"entries": [
+						"The abyss maw is a unique creature of legend. Its attacks are magical, and it has advantage on saving throws made to resist any spell or effect that would alter its form."
+					]
+				},
+				{
+					"name": "Death Throes",
+					"entries": [
+						"If the abyss maw is reduced to 0 hit points, it immediately makes a single melee weapon attack as a reaction.",
+						"This attack has advantage, and if it hits, it is an automatic critical hit. After resolving this attack, the abyss maw dies."
+					]
+				},
+				{
+					"name": "Freedom of Movement",
+					"entries": [
+						"The abyss maw ignores difficult terrain, and magical effects can't reduce its speed or cause it to be {@condition restrained}. It can spend 10 feet of movement to escape from nonmagical restraints or being {@condition grappled}."
+					]
+				},
+				{
+					"name": "Legendary Resistance (1/Day)",
+					"entries": [
+						"When the abyss maw fails a saving throw, it can choose to succeed instead.",
+						"Plane-touched Pseudopods. The abyss maw channels its magical ability through 6 pseudopods, which protrude from a fleshy mound in its throat. A pseudopod can be severed by an attack or spell that deals magical slashing damage. Each pseudopod has AC 15 and 20 hit points. When a pseudopod is severed, the abyss maw's spell save DC and attack modifier is reduced by 1. If all pseudopods are severed, any spell the abyss maw attempts to cast immediately fails."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The abyss maw makes two pseudopod attacks, one of which it can replace with one use of Bite."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"Melee weapon attack: +6 to hit, reach 5ft., one target. {@h}13 ({@damage 3d6 + 3}) piercing damage. If the target is a Large or smaller creature, it is also {@condition grappled} (escape {@dc 13}), and the abyss maw can't use its bite on another target."
+					]
+				},
+				{
+					"name": "Consume",
+					"entries": [
+						"Melee weapon attack: +6 to hit, reach 5ft., one target {@condition grappled} by the abyss maw's Bite. {@h}13 ({@damage 3d6 + 3}) piercing damage, and the target is that creature is swallowed, and the grapple ends. While swallowed, the creature is {@condition blinded} and {@condition restrained}, it has total cover against attacks and other effects outside the abyss maw, and it takes 3 ({@damage 1d6}) acid damage at the start of each of the abyss maw's turns. The abyss maw can only have one target swallowed at a time. If the abyss maw takes 20 damage or more on a single turn from a creature inside it, it must succeed on a {@dc 20} Constitution saving throw at the start of its turn or regurgitate the swallowed creature, which falls {@condition prone} in a space within 5 feet of the abyss maw. If a swallowed creature is reduced to 0 hit points, it is disintegrated and destroyed, along with all nonmagical items it was carrying, leaving no trace behind. If the abyss maw dies, a swallowed creature is no longer {@condition restrained} by it and can escape from the corpse using 5 feet of movement.",
+						"The abyss maw can only swallow one creature at a time."
+					]
+				},
+				{
+					"name": "Pseudopod",
+					"entries": [
+						"Melee weapon attack: +6 to hit, reach 15 ft., one target. {@h}7 ({@damage 1d8 + 3}) bludgeoning damage. If the target is hit by 3 or more pseudopods in the same round and is Large or smaller, it is {@condition grappled} (escape {@dc 13}). Until this grapple ends, the target is {@condition restrained}, and the abyss maw can't use those pseudopods on another target.",
+						"The abyss maw has 6 pseudopods."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "",
+					"entries": [
+						"The abyss maw can take 1 legendary action, choosing from the options below. The legendary action option can be used only at the end of another creature's turn. The abyss maw regains a spent legendary action at the start of its turn."
+					]
+				},
+				{
+					"name": "Darting Rush",
+					"entries": [
+						"The abyss maw moves up to half its swimming speed without provoking opportunity attacks."
+					]
+				},
+				{
+					"name": "Pseudopod Strike",
+					"entries": [
+						"The abyss maw makes a tentacle attack."
+					]
+				}
+			],
+			"traitTags": [
+				"Amphibious",
+				"Death Burst",
+				"Legendary Resistances"
+			],
+			"senseTags": [
+				"U"
+			],
+			"actionTags": [
+				"Multiattack",
+				"Swallow"
+			],
+			"damageTags": [
+				"A",
+				"B",
+				"P"
+			],
+			"damageTagsSpell": [
+				"A",
+				"C",
+				"O"
+			],
+			"spellcastingTags": [
+				"I"
+			],
+			"miscTags": [
+				"RCH"
+			],
+			"conditionInflict": [
+				"blinded",
+				"grappled",
+				"restrained"
+			],
+			"conditionInflictSpell": [
+				"blinded",
+				"incapacitated"
 			]
 		}
 	],
