@@ -1593,6 +1593,618 @@
 								"The mountain village of North's Peak has never been overly colorful, being situated so far above sea level. However, recently, residents have reported their crops have begun to turn grey, as if devoid of color entirely. In addition, sounds of combat can be heard in the early hours of the morning, echoing from the abandoned mines deep within the mountain.",
 								"The locals believe the mountain to be cursed by an evil spirit, but lack the tools to defeat it themselves..."
 							]
+						},
+						{
+							"type": "entries",
+							"name": "Chapter 4: The Bathyal Beholder",
+							"entries": [
+								"Simply being in the presence of a bathyal beholder is enough to twist the mind and drown the senses. Unlike its more intelligent kin, the bathyal beholder trades much of its greedy, hateful nature for one of morbid fascination and observation.",
+								"These sea-dwelling aberrations take great pleasure in dismantling ships and dissecting seafaring creatures. Like other beholders, they have an unnatural ability to levitate, though they rarely have to rely on it in their preferred, aquatic environment.",
+								"Bathyal beholders eye stalks are almost always thin, a by-product of their tendency to keep them curled within their crustacean shells.",
+								"When a bathyal beholder sleeps, its large, lidless eye remains open, calmly scanning the surrounding landscape for danger."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Xenophobic Observers",
+							"entries": [
+								"Bathyal beholders are aggressive and xenophobic, choosing to hunt and kill all creatures within its zone of influence before settling in a region. While their lairs are unusually small, each is packed with a scattering of shells, skeletons, underwater relics and sunken wrecks.",
+								"This debris serves them as an underwater protective fortress, from which the bathyal beholder lurks and observes.",
+								"Within this fortress, a bathyal beholder lurks, observing passing wildlife with hateful fascination.",
+								"To a beholder, all living things are plotting to betray them, even if such creatures are not capable of conscious thought. Bathyal beholders take this paranoid delusion to greater depths, capturing and dissecting passerby aquatic life in a bid to uncover the secrets its mind insists they are hiding.",
+								"{@b Hoarders of Wealth and Secrets}",
+								"A bathyal beholder's lair is filled with various trinkets, treasures and artifacts it has amassed over years of plundering sunken ships.",
+								"The floors of the beholder's lair are carved into vast pits using its disintegrating eye ray, which the beholder fills with captured treasures. Ship hulls and stolen statues create the lair's walls, melded into underwater rock faces or protruding floors transmutation rays. Holes are sealed and water drained from the interior upon the structure's completion, creating a sealed, if leaky, environment the beholder can use to perform its vile, experiments.",
+								"A bathyal always keeps most of its eyestalks hidden inside its carapace, with only a few out at a time, constantly switching them out during combat to confound its enemies. Should intruders break into the bathyal's underwater fortress, the beholder floods the ground with seawater before rising up to higher levels to harry its foes from above. When threatened in its lair, a bathyal beholder will often attempt to subdue its victims without killing them, so as to later dissect them piece by piece. In doing so, it hopes that eventually, one of its victims will reveal the secret it has long been searching for.",
+								"{@b Motivations}",
+								"Bathyal beholders share many traits with other beholders, including their rampant xenophobia, paranoia, vanity, and megalomania. Many decorate their bodies with shells taken from giant crustaceans, which doubles as protective body armor.",
+								"Where bathyal beholders differ from other beholder-kin is in their strange fascination with the biology of non-beholders, and indulge this curiosity by capturing and dissecting any prey hapless enough to wander into its lair. When the beholder spies something new for the first time, it captures the creature for observation, but it isn't long before observation becomes demise.",
+								"{@b A Bathyal Beholder's Lair}",
+								"A beholder's lair is typically a small, secretive bastion located on the edge of an underwater cliff, or within the ruins of a sunken ship, where it can attack without fear of its prey escaping.",
+								"{@b Lair Actions}",
+								"When fighting inside its lair, a beholder can invoke abhorrent, otherworldly magic to bend the surrounding structure to its whims.",
+								"On initiative count 20 (losing initiative ties), the beholder can take a lair action to cause one of the following effects:",
+								"The ground within the lair suddenly floods with 2 feet of dark seawater. Until initiative count 20 on the next round, the area is difficult terrain for medium or larger creatures. Smaller creatures must swim.",
+								"Walls within 120 feet of the beholder become soft and pulsate with eldritch magic until initiative count 20 on the next round. Strange shrieks and howls can be heard by any creature within 10 feet of a wall. Any creature that starts its turn within 10 feet of a wall must succeed on a DC 17 Wisdom saving throw or become drawn into it and incapacitated. Another creature can free an incapacitated creature from the wall with a {@b DC 16 Strength (Athletics) check}.",
+								"The lair's structure shifts to the beholder's specifications. Partition walls collapse and reform into open doorways, and the treasure pits rise upwards, sending a wave of objects cascading towards the beholder's enemies. Each creature of the beholder's choosing within 10 feet of the floor must make a DC 17 Dexterity saving throw. A creature takes 10 (3d6) bludgeoning damage and is knocked prone on a failed save, or half as much damage and isn't knocked prone on a successful one. If a creature fails this saving throw by 5 or more, it is also buried under the beholder's treasure, and is restrained. A restrained creature can drag itself free of the mounting treasures by using its action to make a {@b DC 16 Strength (Athletics) check}.",
+								"The lair retains the newly transformed layout until the beholder chooses to use this lair action again. This action doesn't alter the lairs structural integrity, nor can it affect any outer walls.",
+								"The beholder can't use the same effect on consecutive rounds.",
+								"{@b Regional Effects}",
+								"A region containing a beholder's lair is warped by the creature's unnatural presence, which creates one or more of the following effects:",
+								"Creatures within 1 mile of the beholder's lair find their skin becoming constantly damp, and all food eaten tastes rotten.",
+								"When the beholder sleeps, minor warps in reality occur within 1 mile of its lair, vanishing 24 hours later. Natural sources of water and indigenous wildlife begin exhibiting unnatural changes in color or biology; anything from growing extra appendages to starting to glow is possible for this dreamscape made real.",
+								"Boats and seafaring vessels crossing the water's surface in a 10 mile radius above the lair mysteriously spring random leaks. In addition, lanterns and nonmagical objects with round or bumpy objects (such as rivets or braille) manifest unblinking eyes, which can only be seen in a creature's peripheral vision.",
+								"If the beholder dies, these effects fade over the course of 1d6 days.",
+								"{@b Bathyals and Bathyal Tyrants}",
+								"Bathyal beholders grow in power and strength the longer they are left unchallenged. The traditional bathyal beholder is a younger bathyal, one that is less than 500 years old. While still a formidable opponent, it lacks the magical finesse and control of the legendary bathyal tyrant.",
+								"A bathyal tyrant has spent 500 or more years lurking beneath the waves and has amassed quite the collection of treasures. A tyrant is a master of its innate abilities and surroundings, capable of manifesting much more powerful spells than its younger counterparts. Some bathyal tyrants even choose to enter melee of their own accord, their spined tendrils and muscular form more than a match for most conventional opponents. These tyrants, while much more dangerous, are also more sought out by hunters for their blood, which transforms to a deep green upon a bathyal's growth into a tyrant. A tyrant's blood has much higher value on the black market than it's lesser kin.",
+								"A bathyal tyrant can be distinguished from its younger counterpart by the spines adorning its pseudopods, and the hum of magical energy that surrounds it. Young bathyals have not yet developed the hardened chitin required to grow such formidable melee weapons, nor mastered their aberration magic."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Size Comparison Chart",
+							"entries": [
+								"Below is a visual guide to give the Dungeon Master or players an idea of the size of a bathyal beholder, in comparison to a traditional sailing ship (30 crew), shark, and human of average height.",
+								{
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": ""
+									}
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Tales Older Than Time",
+							"entries": [
+								"Tales of an undersea beholder have been a popular topic amongst sailors ever since the fishing ship Lucky's Stride crashed into a trade port with only half her crew and a wide-eyed tale of horror and death. Many sea variations of the bathyal sea shanty are known to the sailors and fishermen of Saltmarsh docks, but only the original shanty is known to hold magical power over the tyrant beneath the sea.",
+								"{@b The Bathyal Sea Shanty}",
+								"This shanty is most commonly known only by the older dwarves in the Saltmarsh mines, or the elven and gnomish sailors who have spent their formative years working the docks when Saltmarsh was still in its infancy.",
+								"The shanty can be spoken or sung by anyone, but only to some does its magic rise to the surface. Warlocks with a Pact of the Old Ones, aberrant creatures, or beings steeped in magic can bring out these hidden qualities of the shanty. To these select few, words flow and echo into the distance like an unearthly choir, while eldritch ripples of awakened energies settles on the speaker's shoulders like a cold veil.",
+								"The shanty is as follows:",
+								"\"Upon mðuntayn passes and grey winds of old lie creatures and watchers of aeons told",
+								"{@i Beasts of such madness in the éies of men}",
+								"{@i Impossibly lurking in their ashen dens}",
+								"{@i It stares at the water with a wild man's gaze}",
+								"{@i It bréeth'd in the ocean and left its cave}",
+								"{@i With éies filled with power and hunger in steádd}",
+								"{@i It dived and devoured and slaughtered and fed}",
+								"{@i It left to sea, from the my'rés now free}",
+								"{@i And it lyvës in me, yes it sees through me}",
+								"{@i That deep blue sea, yes it hears through me}",
+								"{@i And now it's free... that bâthyâl beast!}\"",
+								"{@b Words of Dread}",
+								"Certain words of the bathyal shanty are written and spoken in Deep Speech, an aberrant language used by mind flayers and other cosmic horrors. The pronunciation guide for these words is in the table below. Each word sounds strikingly similar to a common word (such as 'éies' being spoken as 'eyes'), but have an altogether different meaning when translated literally. They are collectively known as words of dread. Nonmagical creatures that speak a word of dread with intent are subject to intense feelings of terror and emptiness as soon as the words leave their lips, though nothing more happens.",
+								"If a creature steeped in magic speaks a cursed word with intent, however, it functions as the verbal component for a spell. Such a speaker must roll on the Aberrant Speech table to determine what happens.",
+								"The speaker doesn't need to roll on the table if the word of dread is not spoken with intent. For example, a wizard could sing or read the shanty aloud to no avail unless they spoke the word of dread with an intention to understand it, or use it to elicit a reaction from another creature.",
+								{
+									"type": "table",
+									"caption": "Words of Dread",
+									"colLabels": [
+										"Word",
+										"Literal Translation",
+										"Pronunciation"
+									],
+									"colStyles": [
+										"col-2 text-left",
+										"col-2 text-left",
+										"col-2 text-left"
+									],
+									"rows": [
+										[
+											"{@i mðuntayn}",
+											"Loss",
+											"Mountain"
+										],
+										[
+											"{@i éies}",
+											"Entity",
+											"Eyes"
+										],
+										[
+											"{@i bréeth'd}",
+											"Void",
+											"Breathed"
+										],
+										[
+											"{@i steádd}",
+											"Hunger",
+											"Stead"
+										],
+										[
+											"{@i my'rés}",
+											"Madness",
+											"Mires"
+										],
+										[
+											"{@i lyvës}",
+											"Silence",
+											"Lives"
+										],
+										[
+											"{@i bâthyâl}", 
+											"Deep One",
+											"Bath-Yal"
+										]
+									]
+								},
+								"{@b Translating A Word of Dread}",
+								"A word of dread can be translated by making a DC 17 Intelligence (Arcana) check. This check is made with advantage if the creature speaks deep speech, has studied aberrations at length, or is connected to an Old One in some way.",
+								"{@b Deep Speech Effects}",
+								"When a character with the ability and intent speaks a word of dread, have them roll percentile dice and consult the table below. If their roll is equal or less than the percentage shown for the spoken word, a magical effect is triggered. In each case the result indicates how many times to roll on Effect Table 1, Effect Table 2, or both. Each effect table has a column for the default effect, and an upgraded effect to use in place if the same result is rolled twice. If the effect requires a target, the target is one creature the speaker can see who can also hear the speaker and understands at least one language. The effects last for 1d10 minutes, or until the afflicted creature is subjected to a remove curse spell, unless specified otherwise.",
+								"{@b Deep Speech Table}",
+								{
+									"type": "table",
+									"caption": "Deep Speech Table",
+									"colLabels": [
+										"Word Spoken",
+										"Chance to trigger magical effect",
+										"Result"
+									],
+									"colStyles": [
+										"col-1 text-left",
+										"col-1 text-left",
+										"col-4 text-left"
+									],
+									"rows": [
+										[
+											"mðuntayn",
+											"50%",
+											"Roll twice on Table 1, applying both effects"
+										],
+										[
+											"éies",
+											"25%",
+											"Roll twice on Table 2, and choose the lowest rolled (minimum 1)."
+										],
+										[
+											"bréeth'd",
+											"50%",
+											"Roll three times on Table 1, combining the 2 highest effects, or once on Table 2."
+										],
+										[
+											"steádd",
+											"75%",
+											"Roll once on Table 1, removing 1 from the total rolled"
+										],
+										[
+											"my'rés",
+											"75%",
+											"Roll once on Table 1"
+										],
+										[
+											"lyvës",
+											"25%",
+											"Roll twice on Table 2, and choose the highest rolled."
+										],
+										[
+											"bâthyâl",
+											"25%",
+											"Roll twice on Table 1, and once on Table 2, applying all effects at once."
+										]
+									]
+								},
+								{
+									"type": "table",
+									"caption": "Effect Table 1",
+									"colLabels": [
+										"D12",
+										"Effect",
+										"Effect if result is rolled again"
+									],
+									"colStyles": [
+										"col-1 text-center",
+										"col-5 text-left",
+										"col-5 text-left"
+									],
+									"rows": [
+										[
+											"1",
+											"The target's eyes become clouded with black ichor, blinding them for the duration.",
+											"The ichor sprouts long tendrils to bind the target, restraining them for the duration."
+										],
+										[
+											"2",
+											"The vision of a faceless, humanoid creature appears in the speaker's peripherals. The creature is visible only to the speaker, and if they move, the creature moves with them to remain always within 60 feet but no closer than 50 feet. If the speaker attempts to look directly at the creature, the illusion vanishes, but reappears in their peripherals a moment later",
+											"The illusion remains lurking in the speaker's peripherals for 2d6 hours. During this time, if the speaker attempts to sleep, the feeling of an icy hand caresses their face, shocking them awake."
+										],
+										[
+											"3",
+											"The target hears a shrill voice, echoing from a nearby crack in a wall or other small hole, crying for help. No other creatures hear the voice, which becomes more desperate the longer it is ignored.",
+											"After the regular duration, the voices stop, but reappear every 1d10 hours for the next 24. The target hears banging originate from behind doors, walls or floorboards. If it inspects the banging, the target must make a DC 15 Wisdom saving throw or become charmed. While charmed in this way, the target is convinced the voice is that of a trapped loved one."
+										],
+										[
+											"4",
+											"The target begins to feel as though something is moving within their stomach. The skin around their navel distends grotesquely as a small chitinous creature extrudes from within it. The creature scuttles down the target's leg and burrows into the ground.",
+											"The speaker's hands become withered, dehydrated, and icy cold to the touch. The target loses all feeling in their fingers and toes, and both speaker and target can only read words reversed in a mirror."
+										],
+										[
+											"5",
+											"A Gibbering Mouther appears within 30 feet of the target, and is hostile to all creatures.",
+											"When the original gibbering mouther is reduced to 0 hit points by a melee weapon, it divides into two new gibbering mouthers, each with only 30 hit points."
+										],
+										[
+											"6",
+											"The target's fingernails fall off. Underneath are small, spiderlike eyes, which dart around and squirm wildly.",
+											"The effect remains for 2d6 hours, during which time the target also feels the perpetual discomfort of a small insect climbing on the back of their eyes each time they blink."
+										],
+										[
+											"7",
+											"The target's skin assumes a grainy texture, like sand, which lasts for 1 hour. If the targets skin becomes wet during this time, it froths and bubbles, emitting strange slurping sounds only the target can hear.",
+											"If the targets skin becomes wet, black grasping tendrils emerge from within the froth and bubbles. The tendrils wrap themselves around the target and pulsate, as if measuring its heartbeat. These tendrils vanish when the skin is dried or wiped."
+										],
+										[
+											"8",
+											"Every gold piece the speaker is carrying in a nonmagical purse or bag gains a mouth filled with razor sharp teeth.  The coins attempt to eat anything they come into contact with (but not each other).",
+											"The coins grow 8 metallic legs, and begin moving towards the nearest set of teeth. If a gold piece touches a creature's tooth, the tooth rots and immediately falls out. Then the gold piece inserts itself legs first into the cavity, reshaping itself into a gold tooth. This replacement is permanent."
+										],
+										[
+											"9",
+											"The speaker casts Evard's black tentacles, without components, on the target. The spell doesn't require concentration, and lasts for the duration.",
+											"The speaker casts Evard's black tentacles without components, centered on itself. In addition, the spell's radius is increased to 60 feet. The spell remains for 1 minute before vanishing."
+										],
+										[
+											"10",
+											"The target's tongue becomes riddled with a dozen small round boils, about the size of a pea. It can feel something moving around in each of them. If any of the boils are popped, the target vomits.",
+											"The round boils in the target's mouth pop, and the target vomits up 1d4 black, ooze-like creatures that use the statistics of a Rust Monster, except they are small oozes instead of medium monstrosities.  They are hostile to all creatures, and remain for 1 minute or until killed."
+										],
+										[
+											"11",
+											"The target's hair falls out, transforming into slithering black leeches which writhe and twist across the ground towards the nearest source of blood.",
+											"The leeches merge together, transforming into 1d4 Gricks. The gricks are hostile to all creatures, and are drawn towards the nearest source of blood."
+										],
+										[
+											"12",
+											"The speaker's jaw expands before they must spend their action vomiting up hundreds of teeth. The teeth remain for the duration, at which point they melt into the floor, chattering an incomprehensible gibberish as they do so.",
+											"The teeth take the shape of an eldritch horror, which appears within 30 feet of the speaker, and is hostile to all creatures. The horror uses the statistics of a Flesh Golem, which remains for 2d4 rounds or until killed, whereupon it reverts to the lifeless teeth which created it. The teeth clatter to the ground and chatter incoherently before vanishing."
+										]
+									]
+								},
+								{
+									"type": "table",
+									"caption": "Effect Table 2",
+									"colLabels": [
+										"D3",
+										"Effect",
+										"Effect if result is rolled again"
+									],
+									"colStyles": [
+										"col-1 text-left",
+										"col-5 text-left",
+										"col-5 text-left"
+									],
+									"rows": [
+										[
+											"1",
+											"The target becomes assailed with hellish visions of the great void beyond. The creature immediately suffers a short-term madness (DMG, Chapter 8: Running the Game).",
+											"The speaker also catches a glimpse of the realm-between-worlds.  Both the speaker and target suffer a long-term madness (DMG, Chapter 8: Running the Game), which lasts for 1d10 x 10 hours."
+										],
+										[
+											"2",
+											"Every open body of nonmagical liquid (including mugs of ale, pots of soup, etc.) within a 5-mile radius of the speaker become infested with hundreds of floating eyes. The eyes remain for the duration, and then vanish without a trace.  Each creature that looks at the eyes must succeed on a DC 15 Intelligence saving throw or become afflicted with a shortterm madness, which lasts for 1 minute.",
+											"All creatures within a 5-mile radius lose the ability to read any language for 1d10 minutes. Those who persist and try to read despite the incomprehensibility of any text must succeed a DC 22 Intelligence saving throw or become afflicted with a short term madness for 1 minute."
+										],
+										[
+											"3",
+											"The speaker casts the plane shift spell without components on the target, with a range of 60 feet, using their own spell save DC or spell attack modifier to do so.",
+											"The speaker casts banishment without components, centered on itself (spell save DC 17). On a failed save, the creature is transported to an otherworldly pocket Plane, filled with cosmic horrors and monstrous entities. The creature returns in 1d4 rounds and is afflicted with an indefinite madness (DMG, Chapter 8: Running the Game). This madness lasts until cured by the greater restoration spell, or similar magic."
+										]
+									]
+								},
+								"[Bathyal Beholder]",
+								"[Bathyal Tyrant]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Harvesting Bathyal Parts",
+							"entries": [
+								{
+									"type": "table",
+									"caption": "Harvesting Table",
+									"colLabels": [
+										"Body Part",
+										"Harvest DC",
+										"Items Available to Craft",
+										"Item Crafting Requirements",
+										"Crafting DC and Time Taken"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-2 text-center",
+										"col-2 text-center",
+										"col-2 text-center",
+										"col-2 text-center",
+										"col-2 text-center"
+									],
+									"rows": [
+										[
+											"Bathyal Eye Stalk (1d8 stalks)",
+											"DC 16 Wisdom (Survival) Dry storage container (Max of 4 pieces per container)",
+											"Bathyal Wands: Coral Wand Wand of Charming Wand of Holding Wand of Dissection Wand of Transmuting Wand of Drowning Wand of Erosion Wand of Desiccation (1 stalk required for each)",
+											"Tinker's tools: All items",
+											"Bathyal Wands (Various): DC 17 Intelligence (Arcana) 8 Hours"
+										],
+										[
+											"Bathyal Flesh (2d10)",
+											"DC 15 Wisdom (Survival) Salted storage container (Max of 20 pieces per container)",
+											"Bathyal Leather (5 pieces required) Patch of the Tyrant (3 pieces required) Baked Bathyal Steak (1 piece required)",
+											"Leatherworker's Tools: Bathyal Leather Patch of the Tyrant Cook's Utensils: Baked Bathyal Steak",
+											"Bathyal Leather: DC 15 Strength (Athletics) 8 Hours Patch of the Tyrant: DC 15 Dexterity (Sleight of Hand) and DC 17 Intelligence (Arcana) 6 Hours Baked Bathyal Steak DC 14 Wisdom (Survival) 1 Hour"
+										],
+										[
+											"Central Bathyal Eye (1 eye)",
+											"DC 19 Wisdom (Survival) A watertight barrel, filled with saltwater",
+											"Watchful Crest (1 eye required) Tyrant's Gaze (1 eye required)",
+											"Tinker's Tools: Watchful Crest Alchemist's Supplies: Tyrant's Gaze",
+											"Watchful Crest: DC 19 Intelligence (Arcana) and DC 14 Strength (Athletics) 8 Hours, over 2 days Tyrant's Gaze: DC 19 Intelligence (Arcana) 8 Hours"
+										],
+										[
+											"Bathyal Spines (2d10 spines)",
+											"DC 16 Wisdom (Survival)",
+											"Ocean Warder's Charm (2 spines required) Bathyal Bolts (set of 10) (5 spines required) Bathyal Arrows (set of 10) (5 spines required) Tyrant Blade (2 spines required)",
+											"Tinker's Tools: Ocean Warder's Charm Smith's Tools: Bathyal Bolts Bathyal Arrows Tyrant Blade",
+											"Ocean Warder's Charm: DC 15 Dexterity (Sleight of Hand) 3 Hours Bathyal Bolts: DC 15 Strength (Athletics) 4 Hours Bathyal Arrows: DC 15 Strength (Athletics) 4 Hours Tyrant Blade: DC 16 Strength (Athletics) 4 Hours"
+										],
+										[
+											"Bathyal Blood (1d10 Bathyal vials, or Tyrant vials, depending on variant faced)",
+											"DC 18 Intelligence (Arcana) and DC 15 Wisdom (Medicine) One vial per blood sample taken.",
+											"Bathyal Elixir (2 Bathyal vials required) Tyrant's Resolve (2 Tyrant vials required)",
+											"Alchemist's Supplies: All items",
+											"Bathyal Elixir: DC 18 Intelligence (Arcana) 6 Hours Tyrant's Resolve: DC 18 Intelligence (Arcana) 6 Hours"
+										],
+										[
+											"Bathyal Shell (2d6 fragments)",
+											"DC 17 Wisdom (Survival)",
+											"Tyrant Plate (4 fragments required) Bathyal Plate (3 fragments required) Seastrider Armor (2 fragments required)",
+											"Smith's Tools All items",
+											"Tyrant Plate: DC 17 Strength (Athletics) 6 Hours Bathyal Plate: DC 16 Strength (Athletics) 6 Hours Seastrider Armor: DC 16 Strength (Athletics) 6 Hours"
+										]
+									]
+								},
+								"{@b Harvesting Bathyal Parts}",
+								"The bathyal beholder and bathyal tyrant each have eight eye stalks, which are used to fire the creature's various magical rays. Both creatures also have a single large eye and are covered in a protective carapace, created from the shells of other sea dwelling creatures.",
+								"The eye stalks, central eye, shell and various other elements of the creatures can be harvested to produced weird and wonderful items.",
+								"The Harvest Table details the requirements for harvesting each body part, including the harvest DC, crafting DC, and resulting weapon or item the body part can be turned into.",
+								"{@b Table Guide:}",
+								"{@b Body Part}: The part of the body that is being harvested, and how many pieces may be obtained from a successful harvest attempt.",
+								"{@b Harvest DC}: This details the ability check and DC required to successfully harvest the chosen part and any storage requirements the part has. Each body part may only be successfully harvested once, unless specified otherwise, after which the body part is destroyed. If a creature fails the harvesting check by 5 or more, the body part is also destroyed, and can't be harvested again.",
+								"If harvesting a body part requires two or more checks, the checks can be performed by any creatures involved in the harvesting.",
+								"A ranger, for example, might decide to join in on the harvesting by making the required Wisdom (Survival) check, leaving the Dexterity (Sleight of Hand) check to the rogue. Other characters can take the Help action to grant the harvesting characters advantage on the aforementioned checks.",
+								"{@b Items Available to Craft}: This column lists the item or items that may be crafted from harvested creature parts. You can only produce one of the listed items with each crafting attempt. The crafted item's properties are detailed at the end of the chapter.",
+								"{@b Item Crafting Requirements}: This section details any requirements that must be met to turn the harvested body part into an item. Harvested pieces that note a storage requirement (such as a vial or barrel of salt) must be placed in their respective containers immediately after being harvested, and should remain in the container until used in crafting. A harvested piece degrades over time when not placed in its particular container or being used for crafting. Each piece can remain outside of a container for a maximum of 1d4 hours (ignoring crafting times) before succumbing to rot. A rotten piece can't be crafted. If an item is listed under two or more tools, proficiency in and access to both sets of tools are required, though these proficiencies can be shared over multiple characters. For example, one character could take part in the crafting and have proficiency in one set of tools, and another character could also take part in the crafting and provide the proficiency needed for the other set of tools.",
+								"{@b Crafting DC}: The ability check and DC that must be met to successfully craft an item, and the time required to do so. If this check is failed by 5 or more, the harvested pieces used are destroyed in the crafting process.",
+								"If crafting an item requires two or more checks, the checks can be performed by any creatures taking part in the crafting of the item. A barbarian, for example, might decide to make the required Strength (Athletics) check, leaving the Intelligence (Arcana) check to the wizard. Other characters can take the Help action to grant the crafting characters advantage on the aforementioned checks."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Crafted Items",
+							"entries": [
+								"The crafted items listed below are in alphabetical order, with the exception of the Bathyal wands, which are detailed at the end of this section.",
+								"Some items on this list can only be crafted using materials harvested from either the Bathyal Beholder or Bathyal Tyrant respectively.",
+								"If the item can be crafted from either version of the creature, the properties change depending on which version it is crafted from, with the lesser properties displayed by default and the upgraded Tyrant properties shown atop the description. Each item also lists its school of magic, should it be the target of detect magic or similar spells.",
+								"[Baked Bathyal Steak]",
+								"[Bathyal Arrow]",
+								"[Bathyal Bolt]",
+								"[Bathyal Elixir]",
+								"[Bathyal Leather]",
+								"[Bathyal Plate]",
+								"[Ocean Warden's Charm]",
+								"[Patch of the Tyrant]",
+								"[Seastrider Armor]",
+								"[Tyrant Blade]",
+								"[Tyrant's Gaze]",
+								"[Tyrant's Plate]",
+								"[Tyrant's Resolve]",
+								"[Watchful Crest]",
+								"[Coral Wand]",
+								"[Wand of Charming]",
+								"[Wand of Desiccation]",
+								"[Wand of Dissection]",
+								"[Wand of Drowning]",
+								"[Wand of Erosion]",
+								"[Wand of Restriction]",
+								"[Wand of Transmuting]"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Selling Harvested Materials",
+							"entries": [
+								"Materials harvested from a bathyal beholder or bathyal tyrant can be sold to various interested third parties, mostly wizards or those of arcane repute. Harvested items can also be sold to criminal blackmarket dealers at an increased price, though the associated risks of doing so can vary from one location to the next.",
+								"The Harvest Value table details average sale guidelines for a piece of each material type.",
+								"Costs may fluctuate based on your campaign's economy, sale location, or per trader, at the discretion of the Dungeon Master.",
+								{
+									"type": "table",
+									"caption": "Harvest Value Table",
+									"colLabels": [
+										"Material Name",
+										"Sale Price",
+										"Black Market Price"
+									],
+									"colStyles": [
+										"col-2 text-left",
+										"col-2 text-left",
+										"col-2 text-left"
+									],
+									"rows": [
+										[
+											"Bathyal Eye Stalk",
+											"120 gp (Tyrant) 80 gp (Beholder)",
+											"200 gp (Tyrant) 150 gp (Beholder)"
+										],
+										[
+											"Bathyal Flesh",
+											"100 gp (Tyrant) 75 gp (Beholder)",
+											"175 gp (Tyrant) 120 gp (Beholder)"
+										],
+										[
+											"Bathyal Eye",
+											"500 gp (Tyrant) 375 gp (Beholder)",
+											"900 gp (Tyrant) 700 gp (Beholder)"
+										],
+										[
+											"Bathyal Spines",
+											"45 gp (Tyrant) 15 gp (Beholder)",
+											"50 gp (Tyrant) 25 gp (Beholder)"
+										],
+										[
+											"Bathyal Blood",
+											"400 gp (Tyrant) 250 gp (Beholder)",
+											"650 gp (Tyrant) 400 gp (Beholder)"
+										],
+										[
+											"Bathyal Shell",
+											"450 gp (Tyrant) 275 gp (Beholder)",
+											"750 gp (Tyrant) 450 gp (Beholder)"
+										]
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Menace Beneath the River",
+							"entries": [
+								"{@b Recommended Character Level}: 10 - 15 (Tyrant) 8 - 10 (Beholder)",
+								"{@b Minimum Equipment Required}: At least one magical weapon, a good understanding of party tactics and composition.",
+								"Recommended Equipment Required: At least two magical weapons, and access to spells capable of healing wounds and removing petrification and other effects.",
+								"{@b Party Size}: 4 - 6",
+								"{@b Difficulty}: Deadly + (4), Hard (6)",
+								"{@b Quest Creature}: Bathyal Beholder or Tyrant",
+								"{@b Quest overview}",
+								"Strange events have been assailing homes and taverns in Liar's Peak for the past week. Patrons of the coastal inns are complaining of all their food tasting rotten, while eerie cries and howls can be heard permeating the crashing waves late each night.",
+								"An old and grizzled adventurer, known to many as Elissa Whitby, left Liar's Peak two days ago to investigate a strange trail leading towards a deep creek, and hasn't returned. The characters must pick up the trail left by Whitby, locate her, and unearth the mystery assailing the region.",
+								"{@b Important Quest Notes}",
+								"This quest provides a basic battle map for the bathyal's lair, and provides additional supplies, should the characters locate Elissa Whitby's body. As the quest has been written to refer to either a bathyal beholder or bathyal tyrant, the term bathyal is used as a descriptor that can be applied to either creature."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Stage 1: Meeting the NPCs",
+							"entries": [
+								"The adventure begins when the characters first explore Liar's Peak (or whichever small fishing town you decide to set the adventure in). Strange things start to happen after the characters spend a night in the area. After questioning the locals, a human by the name of Winston Pendrikk can be seen wandering the streets with a worried expression.",
+								"If questioned, Winston begs for their help. They explain that their companion, Elissa Whitby, arrived in the town a little over a week ago, but she disappeared shortly after she noticed strange runic writings appearing on road signs. Winston reveals that over the past week, strange occurrences caused the locals to believe a great evil is about the befall them.",
+								"Pendrikk doesn't necessarily believe in the resident's superstitions, but is concerned nonetheless for their companion. There's no denying something strange is going on, and Whitby might have stumbled into the center of it. Pendrikk asks the characters to follow the same trail Whitby did, in hopes of finding her before something else does."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Stage 2: Exploration",
+							"entries": [
+								"Pendrikk points the characters in the direction Whitby was last seen, towards a stretch of bogs near the coast. After an hour of walking, any number of characters can make a DC 15 Wisdom (Survival) check to attempt to locate Whitby's tracks. On a failure, the searching character stumbles into a bog and is knocked prone, taking 7 (2d6) bludgeoning damage. If no character succeeds on the check, the party gets lost in the bogs and it takes them an additional 1d4+1 hours of searching in harsh conditions to locate Whitby's tracks. Characters lost in the bog do not benefit from taking a short rest.",
+								"Once the characters locate Whitby's tracks, a DC 15 Wisdom (Perception) check reveals the shattered remains of a longbow, nestled deep in the mud nearby. A DC 15 Wisdom (Survival) check reveals the longbow is dry and desiccated.",
+								"Whitby's tracks lead the characters to a river, filled with rushing water and twisting coral, after which the trail goes cold as it vanishes into the stream. The characters are presented with three choices:",
+								"{@b Follow The River Downstream}. The characters follow the water downstream, eventually coming to a small natural dam. A DC 16 Wisdom (Perception) or Intelligence (Investigation) check reveals a mass of coral pressed up against the dam, nestled between fallen trees. If the characters remove the coral, the petrified body of Elissa Whitby is revealed beneath it, among dried sea life. If the characters possess the means to reverse her petrification, they discover Whitby to be badly wounded, saved from bleeding out by the petrification.",
+								"Removing Whitby's petrification causes her to begin making death saving throws. A DC 15 Wisdom (Medicine) check reveals a deep wound beneath her arm, which is causing her bleeding.",
+								"A {@b DC 16 Intelligence (Arcana or History) check} reveals Whitby was attacked and killed by a bathyal. Proceeding upstream, the characters see additional signs of the bathyal's lair, as described below. If Whitby is healed, she offers to join the characters to take her revenge.",
+								"{@b Cross The River And Search For Clues}. Characters can attempt to cross the river by making a DC 14 Strength (Athletics) check. Failing the check means the character takes 7 (2d6) bludgeoning damage, and is carried downstream (see \"Follow The River Downstream\").",
+								"The river is 60 feet deep, and the rushing water is capable of easily dragging a creature weighing 400lbs or less downstream.",
+								"Characters who make it across discover the wildlife on the opposite side of the river is twisted and deformed. Birds have and additional eye or wing, while smaller forest creatures sport writhing appendages, which grasp at objects on their own.",
+								"{@b Follow The River Upstream}. The river winds upstream through the bog and trees for about a mile. Halfway up this distance the characters can spot a glimmer of gold nestled in the bank. A DC 15 Intelligence (Investigation) or Wisdom (Perception) check reveals this to be a golden statuette, worth 20 gold pieces. The statuette is covered in small barnacles, and held together with seaweed. A DC 16 Intelligence (Arcana or Nature) check reveals that the statuette is a sign the region has become home to a bathyal, which has likely made its lair further upstream.",
+								"Continuing to investigate the river further, the characters notice the wreckage of a small sailing ship, half submerged in the bank. The area around the ship, both underwater and above, is covered in sharp coral and seaweed, confirming the presence of a bathyal's lair."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Stage 3: The Hunt",
+							"entries": [
+								"The hunt begins once the characters discover the bathyal's lair. If the characters choose to sneak up on the bathyal, they may do so by making a Dexterity (Stealth) check versus the bathyal's Passive Perception. On a failure, or if no attempt was made, the bathyal is alerted to the group's presence. An alerted bathyal doesn't emerge to confront invaders, but instead fires eye rays out of gaps in the lair wall.",
+								"If the bathyal doesn't notice their presence, the characters can sneak in undetected. Whether the bathyal is surprised by the characters, however, is down to the DM's discretion. For weakened parties, allowing the surprise round to trigger might offer them a helping hand in the early stages of the encounter.",
+								"{@b Bathyal Tactics}",
+								"The bathyal lurks within the confines of its lair until either forced to retreat from it, or it believes the characters to pose no threat to it.",
+								"During combat, it targets ranged characters first using its Eye Rays, ensuring at least two rays target the same character for maximum damage on the first round of combat.",
+								"{@b Bathyal Tyrant}. A bathyal tyrant remains out of reach of melee characters, and prefers to focus on ranged characters or spellcasters that are separated from the main group. On these, it uses is action to Bite or Consume Thoughts, while using its Legendary Action to cast animate objects, targeting small pieces of coral and treasure in its lair. When concentrating on the spell, it uses the animated objects to attack a weakened character, or one that appears the most threatening to it.",
+								"If the tyrant finds itself overwhelmed by the characters, it takes cover in the upper areas of the lair and attempts to lure the characters into a false sense of victory by pretending to surrender. If this fools characters into dropping their guard, it focuses all its attacks on the strongest member of the party, attempting to kill them to level the playing field.",
+								"Alternatively, the tyrant uses its Lair Actions to divide up and restrain characters before demanding their surrender in Deep Speech. Should the characters flee, the tyrant doesn't pursue them.",
+								"{@b Bathyal Beholder}. A bathyal beholder fights at range as much as possible. It uses its Legendary Action to cast slow, targeting enemy spellcasters first. It then divides its eye rays between ranged characters on subsequent turns, and ensures its Antimagic Cone remains focused on spellcasters unaffected by the slow spell.",
+								"Should the bathyal beholder believe itself to be close to defeat, it uses its Lair Action restructure the area, attempting to trap the characters in sealed section of the lair it can then begin to flood, before fleeing. Once free of the encounter, it disappears into the nearby river, vanishing downstream to begin plotting its revenge.",
+								"Unlike other creatures, the bathyal always attempts to cover up its current damaged state as an intimidation tactic. A character can use their action to try and see through this guise by making a DC 14 Wisdom (Insight) check. On a success, consult the state table below to determine how injured the bathyal appears to be.",
+								{
+									"type": "table",
+									"caption": "State Table",
+									"colLabels": [
+										"Hit Points",
+										"Bathyal Condition"
+										],
+										"colStyles": [
+											"col-2 text-center",
+											"col-4 text-center"
+										],
+										"rows": [
+											[
+												"332 - 200 (greater) 161 - 130 (lesser)",
+												"Undamaged/unharmed"
+											],
+											[
+												"199 - 100 (greater) 129 - 60 (lesser)",
+												"Wounded"
+											],
+											[
+												"99 or less (greater) 59 or less (lesser)",
+												"Badly Wounded/Threatened/Intimidated"
+											]
+										]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Stage 4: Completion",
+							"entries": [
+								"After defeating the bathyal, characters can harvest its parts and search its lair for treasures. The following items can be easily found by anyone who takes the time to look:",
+								"35 copper pieces, their facings etched with the symbol of a skull.   3,500 sp, and 2,000 gp 22lbs of raw fish hide, perfectly dissected and stored, worth a total of 25 gp  400lbs of crushed coral, shells and ocean dwelling flora, worth a total of 200 gp if sold to an interested third-party collector.",
+								"The dissected remains of two humanoid creatures. Inside the chest cavity of one lies a mysterious mechanical contraption, clearly unfinished.",
+								"4 bottles of fine wine, worth a total of 50 gp, the bottles sealed and covered in barnacles.",
+								"A brass rod, covered in molluscs and coral, which feels cold to the touch. It is actually an immovable rod (DMG, Chapter 7: Treasure)",
+								"The following additional items can be found with a successful DC 17 Intelligence (Investigation) or Wisdom (Perception) check:",
+								"A ragged, moth eaten and soggy backpack, covered in seaweed, which is actually a Heward's handy haversack (DMG, Chapter 7: Treasure), A stone egg, covered in intricate, mysterious symbols, which shudders when held near one of the following elements, chosen at random, or by the DM: 1) Fire, 2) Ice, 3) Rock, 4) Water.",
+								"If the characters return to Winston Pendrikk with either news of Whitby's petrified state, her untimely death, or Whitby herself before defeating the bathyal, they request that the characters track down and defeat whatever creature was responsible. Should the characters present them with evidence of the defeated bathyal, Pendrikk offers his services to the group, requesting to travel with them for a while as their leatherworker, blacksmith and alchemist.",
+								"Should the characters accept, Pendrikk remains with them for 2d6 weeks before either setting off again with their rescued friend, or departing for a fresh start alone."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Notable NPCs and Other Stat Blocks",
+							"entries": [
+								"{@b Name}: Winston Pendrikk",
+								"{@b Race}: Human (They/Them)",
+								"{@b Alignment}: Neutral good",
+								"{@b Occupation}: Craftsmen",
+								"{@b Stat Block}: WInston is a Veteran with additional proficiency in Investigation (+2), Religion (+2), Alchemist's Supplies, Leatherworker's Tools, and Smith's Tools.",
+								"{@b Personality Trait}: Friendly, knowledgeable, loyal and helpful. A fine friend to have, both on and off the field of battle.",
+								"{@b Special Feature}: Pendrikk can spend time maintaining the armor of allies he travels with. During a long rest, if characters leave their armor with Pendrikk, that armor gains a +1 bonus to AC.",
+								"Once a character wearing the enhanced armor is hit by an attack, this AC bonus is lost.",
+								"In addition, should a character require help crafting an item, Pendrikk can offer their services to assist them, granting the character advantage on the roll, and reducing the ability check DC required by 1 (minimum of 13).",
+								"{@b Name}: Elissa Whitby",
+								"{@b Race}: Human (She/Her)",
+								"{@b Alignment}: Neutral good",
+								"{@b Occupation}: Adventurer",
+								"{@b Stat Block}: Elissa is a Veteran with additional proficiency in Acrobatics (+4), Insight (+4), Medicine (+2), Cartographer's tools, and Cook's utensils.",
+								"{@b Personality Trait}: Stoic, strong-willed and a natural born leader.",
+								"Tempered in battle as a soldier before leaving to become an adventurer, Elissa enjoys exploring new lands and discovering new ingredients.",
+								"{@b Special Feature}: Elissa can forage for enough food to feed up to herself and six other Medium or smaller creatures per day while travelling.",
+								"Characters who travel with Elissa can never get lost. Elissa can spend 8 hours over the course of 3 days to learn the current region's common language or dialect, provided she is able to speak to locals of that region. Additionally, she can craft a map of the region after spending 1 week travelling it."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Other Plot Hooks",
+							"entries": [
+								"Here are a few examples of other plot hooks you can use to introduce the legendary bathyal beholder or bathyal tyrant to your Dungeons & Dragons campaign:",
+								"Ginred Town has been beset by a strange, terrifying creature. No local has seen it, but whatever it is has been assaulting the populace late at night, dragging hapless victims away towards the old quarry lake.  The guards have found one body so far, which washed ashore two days ago, with its internal organs surgically removed.",
+								"Anyone who wishes to investigate this matter further should contact Avirii Armstrong, at the Ginred barracks, as soon as possible.",
+								"Rumor has it an ancient shipwreck has been seen moving slowly up the Irelid River.",
+								"Locals claim to have seen the waters turn a crystal clear blue, while fisherman have returned from their expeditions only to bring with them bright, colorful and bizarre looking aquatic creatures.",
+								"Some say the shipwreck is a blessing, though others believe it to be the bringer of a terrible curse. Adventurers willing to investigate these strange tales further should speak with Rolon Doliviin, at Sundown Detective Agency as soon as possible.",
+								"Lady Luck, the infamous pirate vessel, has been seen adrift a few miles off the Ember Coast. Its sails appeared tattered and its crew nonexistent.",
+								"After returning from their exploration, local scouts have reported a large number of mutilated bodies on board, each of their heads crushed inwards by some monstrous beast. While I dont care of the fate of pirates, what does concern me is the constant reports of otherworldly manifestations the ships presence appears to have brought to the nearby fishing villages.",
+								"The first person to uncover the mystery of this vessel and put my mind at ease of the situation will find themselves a good deal gold richer. If youre interested, come find me between the hours of 5pm and 7pm in the White Whale Tavern, half a mile east of Ember Town main gate.",
+								"Lucas Invictus IV"
+							]
 						}
 					]
 				}
