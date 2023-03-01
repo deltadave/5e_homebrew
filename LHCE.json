@@ -4433,8 +4433,7 @@
 	"monster": [
 		{
 			"name": "Deep Dweller (Adult)",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"G"
 			],
@@ -4627,7 +4626,7 @@
 		},
 		{
 			"name": "Deep Dweller (Juvenile)",
-			"source": "",
+			"source": "gp_lhce",
 			"page": 0,
 			"size": [
 				"G"
@@ -4832,7 +4831,7 @@
 		{
 			"name": "Umbrafang (Greater)",
 			"isNamedCreature": true,
-			"source": "",
+			"source": "gp_lhce",
 			"size": [
 				"H"
 			],
@@ -5026,8 +5025,7 @@
 		{
 			"name": "Umbrafang (Lesser)",
 			"isNamedCreature": true,
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"H"
 			],
@@ -5199,8 +5197,7 @@
 		},
 		{
 			"name": "Abyss Maw (Greater)",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"H"
 			],
@@ -5413,8 +5410,7 @@
 		},
 		{
 			"name": "Abyss Maw (Lesser)",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"H"
 			],
@@ -5628,8 +5624,7 @@
 		},
 		{
 			"name": "Bathyal Beholder",
-			"source": "gp_anpcg",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"L"
 			],
@@ -5863,8 +5858,7 @@
 		},
 		{
 			"name": "Bathyal Tyrant",
-			"source": "gp_anpcg",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"L"
 			],
@@ -6121,8 +6115,7 @@
 		},
 		{
 			"name": "Death Crab Ophelia (Greater)",
-			"source": "gp_anpcg",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"T"
 			],
@@ -6324,8 +6317,7 @@
 		},
 		{
 			"name": "Death Crab Ophelia (Lesser)",
-			"source": "gp_anpcg",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"T"
 			],
@@ -6539,8 +6531,7 @@
 		},
 		{
 			"name": "Sea Flayer (Greater)",
-			"source": "gp_anpcg",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"G"
 			],
@@ -6729,8 +6720,7 @@
 		},
 		{
 			"name": "Sea Flayer (Lesser)",
-			"source": "gp_anpcg",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"G"
 			],
@@ -6908,8 +6898,7 @@
 		},
 		{
 			"name": "Mind Flayer Head",
-			"source": "gp_anpcg",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"T"
 			],
@@ -7000,8 +6989,7 @@
 		},
 		{
 			"name": "Reef Swarm (Greater)",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"G"
 			],
@@ -7157,8 +7145,7 @@
 		},
 		{
 			"name": "Reef Swarm (Lesser)",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"G"
 			],
@@ -7309,8 +7296,7 @@
 		},
 		{
 			"name": "Endraleth (Greater)",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"G"
 			],
@@ -7493,8 +7479,7 @@
 		},
 		{
 			"name": "Endraleth (Lesser)",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"G"
 			],
@@ -7676,8 +7661,7 @@
 		},
 		{
 			"name": "Abyssal Fireworm",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"M"
 			],
@@ -7788,8 +7772,7 @@
 		},
 		{
 			"name": "Aqua Vespid Swarm",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"L"
 			],
@@ -7894,8 +7877,7 @@
 		},
 		{
 			"name": "Aqua Vespid",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"S"
 			],
@@ -7988,8 +7970,7 @@
 		},
 		{
 			"name": "Atropos",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"T"
 			],
@@ -8148,8 +8129,7 @@
 		},
 		{
 			"name": "Atropos (Astral Body)",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"M"
 			],
@@ -8252,8 +8232,7 @@
 		},
 		{
 			"name": "Blood Lash",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"S"
 			],
@@ -8339,8 +8318,7 @@
 		},
 		{
 			"name": "Young Burrow Worm",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"T"
 			],
@@ -8413,8 +8391,7 @@
 		},
 		{
 			"name": "Adult Burrow Worm",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"M"
 			],
@@ -8507,8 +8484,7 @@
 		},
 		{
 			"name": "Greenjacket",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"S"
 			],
@@ -8582,8 +8558,7 @@
 		},
 		{
 			"name": "Deathjacket Swarm",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"H"
 			],
@@ -8687,8 +8662,7 @@
 		},
 		{
 			"name": "Colossal Greenjacket",
-			"source": "",
-			"page": 0,
+			"source":"gp_lhce",
 			"size": [
 				"H"
 			],
@@ -8818,8 +8792,7 @@
 		},
 		{
 			"name": "Corpse Harvester",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"L"
 			],
@@ -8947,8 +8920,7 @@
 		},
 		{
 			"name": "Corpse Harvester Elder",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"H"
 			],
@@ -9096,8 +9068,7 @@
 		{
 			"name": "Death Leech",
 			"isNamedCreature": true,
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"S"
 			],
@@ -9203,8 +9174,7 @@
 		},
 		{
 			"name": "Deep Crawler Infant",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"S"
 			],
@@ -9285,8 +9255,7 @@
 		},
 		{
 			"name": "Deep Crawler Adult",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"M"
 			],
@@ -9388,8 +9357,7 @@
 		},
 		{
 			"name": "Deep Crawler Matriarch",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"L"
 			],
@@ -9494,8 +9462,7 @@
 		},
 		{
 			"name": "Driftwood Mimic",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"M"
 			],
@@ -9633,8 +9600,7 @@
 		},
 		{
 			"name": "Drowned Spectre",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"M"
 			],
@@ -9761,8 +9727,7 @@
 		},
 		{
 			"name": "Fata Morgana",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"M"
 			],
@@ -9933,8 +9898,7 @@
 		},
 		{
 			"name": "Fossil Golem",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"M"
 			],
@@ -10043,8 +10007,7 @@
 		},
 		{
 			"name": "Gibberfish",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"S"
 			],
@@ -10153,8 +10116,7 @@
 		},
 		{
 			"name": "Swarm of Gibberfish",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"L"
 			],
@@ -10271,8 +10233,7 @@
 		},
 		{
 			"name": "Infested Avian",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"S"
 			],
@@ -10382,8 +10343,7 @@
 		},
 		{
 			"name": "Inflated Triodrodrilus",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"S"
 			],
@@ -10490,8 +10450,7 @@
 		},
 		{
 			"name": "Lonely Husk",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"S"
 			],
@@ -10610,8 +10569,7 @@
 		},
 		{
 			"name": "Macrophytic Ooze",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"M"
 			],
@@ -10716,8 +10674,7 @@
 		},
 		{
 			"name": "Parasight",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"T"
 			],
@@ -10835,8 +10792,7 @@
 		},
 		{
 			"name": "Sand Raptor",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"L"
 			],
@@ -10939,8 +10895,7 @@
 		},
 		{
 			"name": "Sandwyrm",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"G"
 			],
@@ -11072,8 +11027,7 @@
 		},
 		{
 			"name": "Schlorvakk",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"M"
 			],
@@ -11241,8 +11195,7 @@
 		},
 		{
 			"name": "Sea Trident",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"S"
 			],
@@ -11378,8 +11331,7 @@
 		},
 		{
 			"name": "Shredder Swarm",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"H"
 			],
@@ -11483,8 +11435,7 @@
 		},
 		{
 			"name": "Swarm of Shrieking Steps",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"L"
 			],
@@ -11586,8 +11537,7 @@
 		},
 		{
 			"name": "Shrieking Step",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"S"
 			],
@@ -11653,8 +11603,7 @@
 		},
 		{
 			"name": "Shrieking King",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"H"
 			],
@@ -11839,8 +11788,7 @@
 		},
 		{
 			"name": "Softshell Mind-Eater",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"T"
 			],
@@ -11937,8 +11885,7 @@
 		},
 		{
 			"name": "Stalking Zuzu",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"L"
 			],
@@ -12098,8 +12045,7 @@
 		},
 		{
 			"name": "Tide Hopper",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"L"
 			],
@@ -12232,8 +12178,7 @@
 		},
 		{
 			"name": "Watchlin",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"size": [
 				"S"
 			],
@@ -12357,8 +12302,7 @@
 	"item": [
 		{
 			"name": "Deep Blade",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"baseitem": "longsword|PHB",
 			"rarity": "rare",
 			"bonusWeapon": "+1",
@@ -12385,8 +12329,7 @@
 		},
 		{
 			"name": "Deep Dweller Leather",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"baseItem": "leather armor|PHB",
 			"type": "LA",
 			"rarity": "none",
@@ -12415,8 +12358,7 @@
 		},
 		{
 			"name": "Deep Dweller Shield",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"baseItem": "shield|PHB",
 			"type": "S",
 			"rarity": "none",
@@ -12448,8 +12390,7 @@
 		},
 		{
 			"name": "Deep Fang Daggers",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"baseItem": "dagger|PHB",
 			"type": "M",
 			"rarity": "none",
@@ -12488,8 +12429,7 @@
 		},
 		{
 			"name": "Deepblood Poison",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"type": "P",
 			"rarity": "rare",
 			"entries": [
@@ -12543,8 +12483,7 @@
 		},
 		{
 			"name": "Dweller Arrowhead",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"baseItem": "arrow|PHB",
 			"type": "A",
 			"rarity": "uncommon",
@@ -12571,46 +12510,46 @@
 		},
 		{
 			"name": "Dweller Axe",
-			"type": "GV",
-			"requires": [
-				{
-					"axe": true
-				}
-			],
+			"source": "gp_lhce",
+			"baseItem": "battleaxe|PHB",
+			"type": "M",
 			"rarity": "rare",
-			"inherits": {
-				"namePrefix": "Dweller Axe ",
-				"source": "",
-				"page": 0,
-				"reqAttune": true,
-				"bonusWeapon": "+1",
-				"recharge": "dawn",
-				"rechargeAmount": "{@dice 1d3}",
-				"charges": 3,
-				"entries": [
-					{
-						"type": "entries",
-						"name": "Adult Properties:",
-						"entries": [
-							"Save DC 17, {=bonusWeapon} to attack and damage rolls."
-						]
-					},
-					{
-						"type": "entries",
-						"name": "School of Magic:",
-						"entries": [
-							"Illusion",
-							"This axe sports a fearsome and intimidating serrated head, forged from the spines of a deep dweller tentacle. You have a {=bonusWeapon} bonus to attack and damage rolls with this weapon, and it deals an additional {@damage 1d6} slashing damage on a successful hit. Additionally, the weapon has 3 charges. It regains {@dice 1d3} charges daily at dawn. When you hit a creature that doesn't have all its hit points with this weapon, you can expend 1 charge to force it to make a DC 14 Wisdom saving throw. On a failed save, the target is {@condition blinded} for 1 minute. A {@condition blinded} target can attempt the saving throw again at the end of each of its following turns, ending the effect on a success."
-						]
-					}
-				]
-			},
-			"__prop": "magicvariant"
+			"reqAttune": true,
+			"weight": 4,
+			"weaponCategory": "martial",
+			"property": [
+				"V"
+			],
+			"dmg1": "1d8",
+			"dmgType": "S",
+			"dmg2": "1d10",
+			"bonusWeapon": "+1",
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d3}",
+			"charges": 3,
+			"axe": true,
+			"weapon": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Adult Properties:",
+					"entries": [
+						"Save DC 17, +2 to attack and damage rolls."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Illusion",
+						"This axe sports a fearsome and intimidating serrated head, forged from the spines of a deep dweller tentacle. You have a +1 bonus to attack and damage rolls with this weapon, and it deals an additional {@damage 1d6} slashing damage on a successful hit. Additionally, the weapon has 3 charges. It regains {@dice 1d3} charges daily at dawn. When you hit a creature that doesn't have all its hit points with this weapon, you can expend 1 charge to force it to make a DC 14 Wisdom saving throw. On a failed save, the target is {@condition blinded} for 1 minute. A {@condition blinded} target can attempt the saving throw again at the end of each of its following turns, ending the effect on a success."
+					]
+				}
+			]
 		},
 		{
 			"name": "Dweller Skin Coating",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"rarity": "very rare",
 			"entries": [
 				{
@@ -12633,8 +12572,7 @@
 		},
 		{
 			"name": "Grasping Fluid",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"type": "P",
 			"rarity": "uncommon",
 			"entries": [
@@ -12659,8 +12597,7 @@
 		},
 		{
 			"name": "Medicinal Tape",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"wondrous": true,
 			"rarity": "rare",
 			"entries": [
@@ -12684,8 +12621,7 @@
 		},
 		{
 			"name": "Mindspike Potion",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"type": "P",
 			"rarity": "rare",
 			"entries": [
@@ -12713,8 +12649,7 @@
 		},
 		{
 			"name": "Notched Dweller Whip",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"baseItem": "whip|PHB",
 			"type": "M",
 			"rarity": "rare",
@@ -12752,8 +12687,7 @@
 		},
 		{
 			"name": "Concentrated Anti-Venom",
-			"source": "gp_anpcg",
-			"page": 0,
+			"source": "gp_lhce",
 			"type": "P",
 			"rarity": "rare",
 			"entries": [
@@ -12776,8 +12710,7 @@
 		},
 		{
 			"name": "Frostburn Potion",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"type": "P",
 			"rarity": "uncommon",
 			"resist": [
@@ -12803,8 +12736,7 @@
 		},
 		{
 			"name": "Longfang Blowgun",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"baseItem": "blowgun|PHB",
 			"type": "R",
 			"rarity": "uncommon",
@@ -12841,8 +12773,7 @@
 		},
 		{
 			"name": "Refractive Rope",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"wondrous": true,
 			"rarity": "rare",
 			"entries": [
@@ -12866,8 +12797,7 @@
 		},
 		{
 			"name": "Umbra Arrowhead",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"baseItem": "arrow|PHB",
 			"type": "A",
 			"rarity": "uncommon",
@@ -12894,8 +12824,7 @@
 		},
 		{
 			"name": "Umbra Mantle",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"wondrous": true,
 			"rarity":"rare",
 			"modifySpeed": {
@@ -12923,8 +12852,7 @@
 		},
 		{
 			"name": "Umbra Whip",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"baseItem": "whip|PHB",
 			"type": "M",
 			"rarity": "rare",
@@ -12959,8 +12887,7 @@
 		},
 		{
 			"name": "Umbra's Resilience",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"type": "P",
 			"rarity": "rare",
 			"resist": [
@@ -12982,8 +12909,7 @@
 		},
 		{
 			"name": "Umbrafang Jerky",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"wondrous": true,
 			"rarity": "rare",
 			"entries": [
@@ -13008,8 +12934,7 @@
 		},
 		{
 			"name": "Umbrafang Kyoketsu",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"baseItem": "dagger|PHB",
 			"type": "M",
 			"rarity": "rare",
@@ -13047,8 +12972,7 @@
 		},
 		{
 			"name": "Umbrafang Poison",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"type": "P",
 			"rarity": "rare",
 			"entries": [
@@ -13074,8 +12998,7 @@
 		},
 		{
 			"name": "Umbrafang Tunic",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"baseItem": "studded leather armor|PHB",
 			"type": "LA",
 			"resist": [
@@ -13107,8 +13030,7 @@
 		},
 		{
 			"name": "Umbrahead Dart",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"baseItem": "dart|PHB",
 			"type": "R",
 			"rarity": "common",
@@ -13139,9 +13061,3410 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "Abyss Arrowhead",
+			"source": "gp_lhce",
+			"baseItem": "arrow|PHB",
+			"type": "A",
+			"rarity": "uncommon",
+			"weight": 0.05,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Slashing damage increases to {@dice 1d6}."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Transmutation",
+						"This razor sharp and horrifically jagged arrow is carved from the teeth of an abyss maw. When you make an attack with this ammunition, you deal an extra {@damage 1d4} slashing damage on a hit.",
+						"The barbed arrowhead embeds itself into the target of the attack, and deals an additional {@damage 1d4} slashing damage to the target when removed. In addition, until the arrow is removed, the target only regains half the amount of health it would normally regain from a short or long rest (minimum of 1). When removed, roll {@dice 1d6}. On a 4 or above, the arrow is destroyed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Abyss Ring",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity":"very rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"The rings duration increases to 20 x your Intelligence modifier."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This black obsidian ring has reflective irises of the abyss maw embedded within it. While wearing this ring as an action, you can speak the command word to open the eye. While opened, you gain {@sense truesight} out to a range of 20 feet. The eye remains open for a number of minutes equal to 10 x your Intelligence modifier (minimum of 10 minutes).",
+						"Once this feature has been used, it can't be used again until the next dawn."
+					]
+				}
+			]
+		},
+		{
+			"name": "Charm Of The Maw",
+			"source": "gp_lhce",
+			"rarity": "rare",
+			"wondrous": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"The charm has an additional 2 charges."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Transmutation",
+						"This silver charm houses inside it the liquefied eyes of an abyss maw. The liquid swirls and glows with an eerie, soft light, and has a single charge. As an action on your turn, you can draw power from the charm and expend a charge to cast the {@spell blink} spell without any components.",
+						"The charm regains all expended charges after being left in complete darkness for 8 hours."
+					]
+				}
+			],
+			"attachedSpells": [
+				"blink"
+			]
+		},
+		{
+			"name": "Ethereal Wraps",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "rare",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"There is enough fabric to use both the blindfold and hand wraps at the same time, and vision in the Ethereal Plane increases to 120 feet."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Conjuration",
+						"This stretch of thin fabric is crafted from the flesh of an abyss maw.",
+						"There is just enough material to wrap around a single hand or the eyes.",
+						"As an action, you can don or doff the wrap as a blindfold or as a hand wrap, but not both. While your hand is wrapped, you can use a bonus action to reach into, or interact with a creature or object on the Ethereal Plane. While blindfolded, you are blind to your surroundings but can see into the Ethereal Plane up to a range of 60 feet. Your wrapped hand must be free and open in order to reach into the Ethereal Plane. Whilst you can interact with creatures or objects on that plane of existence, you can't move them between planes using this item.",
+						"The fabric has 40 hit points and AC 15. It regains lost hit points at a rate of 1 per minute. If the fabric is reduced to 0 hit points, it disintegrates and is destroyed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Iron Mind Potion",
+			"source": "gp_lhce",
+			"type": "P",
+			"rarity": "very rare",
+			"immune": [
+				"psychic"
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"You gain immunity to psychic damage for {@dice 1d4 + 1} hours instead."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This dark, tar-like potion is stored in a clear, glass bottle which becomes square once sealed, if it wasn't already. When you drink this potion, you gain immunity to psychic damage for 1 hour, and your tongue becomes stained black for 8 hours."
+					]
+				}
+			]
+		},
+		{
+			"name": "Maw Wand (Black)",
+			"source": "gp_lhce",
+			"type": "WD",
+			"recharge": "dusk",
+			"rechargeAmount": "{@dice 1d3}",
+			"charges": 3,
+			"rarity": "rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Spell save DC increases to 17."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Conjuration",
+						"This dark wooden wand is covered in a thin membrane from an abyss maw's grasping pseudopods, which writhes and squirms under harsh light. The wand has 3 charges.",
+						"As an action, you can expend one or more of the charges to cast the following spells (save DC 14):",
+						"Misty step (1 charge), hunger of Hadar (2 charges), Evard's black tentacles (3 charges)",
+						"The wand regains {@dice 1d3} expended charges daily at dusk. If you expend the wand's last charge, roll a {@dice d20}. On a 1, the wand crumbles into dust and is destroyed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Maw Wand (Blue)",
+			"source": "gp_lhce",
+			"type": "WD",
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d4}",
+			"charges": 6,
+			"rarity": "rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Spell save DC 16."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Schools of Magic:",
+					"entries": [
+						"Abjuration, Transmutation",
+						"This wand has a smooth, reflective blue surface, which glows with an eerie green light. Dried suckers, carved from an abyss maw, make up the handle. The wand has 6 charges.",
+						"As an action, you can expend one or more charges to cast one of the following spells at its lowest level (save DC 14):",
+						"Levitate (1 charge), banishment (3 charges), blink (4 charges)",
+						"The wand regains {@dice 1d4} expended charges daily at dawn. If you expend the wand's last charge, roll a {@dice d20}. On a 1, the wand dissolves into a watery goop and is destroyed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Maw Wand (White)",
+			"source": "gp_lhce",
+			"type": "WD",
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d3}",
+			"charges": 3,
+			"rarity": "very rare",
+			"reqAttune": true,
+			"entries": [
+				"very rare (requires attunement)",
+				"Greater Abyss Maw only, requires attunement by a creature with an Intelligence of 17 or higher.",
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Evocation",
+						"This long white wand is woven together from the muscle sinews of an abyss maw's magical pseudopod. A sharp spine protrudes from the bottom of the wand's handle, and it emits a low, audible hum of arcane power when held aloft. The wand has 3 charges.",
+						"As an action, you can expend one of these charges to cast {@spell prismatic spray} (DC 17). The wand regains {@dice 1d3} expended charges daily at dawn. If you expend the wand's last charge, or your Intelligence is reduced to below 17 for any reason, roll a {@dice d20}. On a 5 or lower, you fail to control the remainder of the wand's power. The wand emits a magical explosion out from it in a 15-foot radius sphere. Each creature caught in the area must make a DC 17 Dexterity saving throw, taking {@damage 10d6} force damage on a failed save, or half as much on a successful one. The wand then evaporates into dust and is destroyed."
+					]
+				}
+			],
+			"attachedSpells": [
+				"prismatic spray"
+			]
+		},
+		{
+			"name": "Maw Wand (Yellow)",
+			"source": "gp_lhce",
+			"type": "WD",
+			"recharge": "dusk",
+			"rechargeAmount": "{@dice 1d4 + 1}",
+			"charges": 7,
+			"rarity": "rare",
+			"reqAttune": true,
+			"entries": [
+				"Greater Abyss Maw only, requires attunement by a creature with a Charisma of 16 or higher",
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Transmutation",
+						"This gnarled and twisted wand has a pulsating, glowing strand of muscle at its core, surgically removed from a severed abyss maw pseudopod. The wand flickers and turns {@condition invisible} for {@dice 1d8} hours at seemingly random intervals, though the attuned creature can always see it. The wand has 7 charges.",
+						"As an action, you can expend one or more of the charges to cast one of the following spells:",
+						"Misty step (1 charge), blink (2 charges), etherealness (5 charges)",
+						"The wand regains {@dice 1d4 + 1} charges daily at dusk. If you expend the wand's last charge, roll a {@dice d20}. On a 1, the wand fades from existence entirely and is destroyed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Maw-Tooth Necklace",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Damage dealt increases to {@dice 2d10}."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Transmutation",
+						"While wearing this charm, you can use a bonus action to cause your teeth to sharpen into jagged, fish-like fangs for 1 minute, or until you end the effect with a bonus action. While transformed, attacks with your fangs count as unarmed strikes which deal {@dice 2d6} magical piercing damage on a successful hit.",
+						"Once used, the charm can't be activated again until your next short or long rest."
+					]
+				}
+			]
+		},
+		{
+			"name": "Planestrider Leather",
+			"source": "gp_lhce",
+			"baseItem": "leather armor|PHB",
+			"type": "LA",
+			"resist": [
+				"acid"
+			],
+			"rarity": "rare",
+			"reqAttune": true,
+			"weight": 10,
+			"ac": 11,
+			"bonusAc": "+1",
+			"bonusSavingThrow": "+1",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Grants a +1 bonus to AC"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"While you wear this specially crafted leather armor you have resistance to acid damage and advantage on saving throws to resist any effect that would send you to another Plane of Existence against your will."
+					]
+				}
+			]
+		},
+		{
+			"name": "Planestrider Shield",
+			"source": "gp_lhce",
+			"baseItem": "shield|PHB",
+			"type": "S",
+			"resist": [
+				"acid"
+			],
+			"rarity": "rare",
+			"reqAttune": true,
+			"weight": 6,
+			"ac": 2,
+			"bonusAc": "+1",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Grants a +1 bonus to AC"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"This rounded buckler is crafted from the hide of an abyss maw, and strengthened with wooden and metal structural supports.",
+						"While you wield this shield, you have resistance to acid damage.",
+						"Additionally, you can don and doff the shield as a bonus action.",
+						"When you would be hit by a weapon or spell attack, you can use your reaction to cause the shield to briefly pull you into the Ethereal Plane, forcing the attack roll to have disadvantage against you. Once you use the shield in this way, you cannot do so again until you finish a short or long rest."
+					]
+				}
+			]
+		},
+		{
+			"name": "Planestrike Blade",
+			"source": "gp_lhce",
+			"baseItem": "longsword|PHB",
+			"type": "M",
+			"rarity": "very rare",
+			"reqAttune": true,
+			"weight": 3,
+			"weaponCategory": "martial",
+			"property": [
+				"V"
+			],
+			"dmg1": "1d8",
+			"dmgType": "S",
+			"dmg2": "1d10",
+			"bonusWeapon": "+1",
+			"sword": true,
+			"weapon": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Gains +2 bonus to attack and damage rolls."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Conjuration",
+						"This translucent blade is carved from the fangs of an abyss maw, using various shards of gold and silver in the blade's creation to sharpen and enhance its magical properties. You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
+						"While wielding this blade, you can use your action to cut open a gateway to a plane of existence that borders the one in which you currently reside. For example, if on the Material Plane, you could open a gateway to the Feywild or the Shadowfell. The gateway can lead to any area on that plane of existence you choose upon its creation. If the description is not exact, the gateway opens within a 5-mile radius of the user's intended location. The gateway remains open for a number of rounds equal to your Charisma modifier (minimum of 1). During this time you must concentrate on keeping the gateway open as if concentrating on a spell. Medium or smaller creatures can pass through the gate unimpeded, though larger creatures may be able to squeeze or reach through it at the DM's discretion.",
+						"Once this feature has been used, it can't be used again for {@dice 1d6 + 1} days."
+					]
+				}
+			]
+		},
+		{
+			"name": "Potion Of The Planeskipper",
+			"source": "gp_lhce",
+			"type": "P",
+			"rarity": "rare",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Increase the duration to 8 hours."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"This potion is filled with a deep green smoke, which flows like liquid when poured. Consuming this potion does nothing, but leaves a sour taste of raw meat on the palate. As an action, you can pour this potion over your feet, and gain the effects of the freedom of movement spell, which lasts for 1 hour."
+					]
+				}
+			]
+		},
+		{
+			"name": "Baked Bathyal Steak",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "rare",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Tyrant Properties:",
+					"entries": [
+						"Temporary hit points gained increase to 22 ({@dice 4d10})."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Transmutation",
+						"A 12oz steak, carved from the hide of a bathyal beholder or tyrant.",
+						"The steak is heavily seasoned while tough and rubbery to chew. A single steak can provide a day's worth of nourishment for up to 3 Medium creatures, or 1 Large creature. After consuming the steak, each creature gains 18 ({@dice 4d8}) temporary hit points, which last for 6 hours."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Otherworldly Dreams",
+					"entries": [
+						"A creature that consumes a bathyal steak is afflicted with bizarre dreams and otherworldly visions as they rest. At the end of the creature's next long rest, roll on the {@table Wild Magic Surge|PHB} table (PHB, Chapter 3: Classes) and apply the effects.",
+						"In addition, if the roll is odd, the creature conjures {@dice 1d4} gibbering mouthers. The gibbering mouthers appear in unoccupied spaces within 30 feet of the target and are hostile to all creatures. If the roll is even, the creature gains 18 ({@dice 4d8}) temporary hit points, which last for 8 hours.",
+						"A steak remains edible for {@dice 2d4} days, at which point it rots and is destroyed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Bathyal Arrow",
+			"source": "gp_lhce",
+			"baseItem": "arrow|PHB",
+			"type": "A",
+			"rarity": "common",
+			"weight": 0.05,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Tyrant Properties:",
+					"entries": [
+						"The arrow's damage increases to {@dice 1d6}."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Evocation",
+						"This ivory colored arrow is carved from the spines of a bathyal beholder or tyrant. The stem of the arrow is brittle but tough, and covered with small hooked barbs. When you hit a creature with this arrow, you deal an additional {@damage 1d4} psychic damage.",
+						"Once it hits a target, this ammunition is no longer magical."
+					]
+				}
+			]
+		},
+		{
+			"name": "Bathyal Bolt",
+			"source": "gp_lhce",
+			"rarity": "common",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Tyrant Properties:",
+					"entries": [
+						"The bolt's damage increases to {@dice 1d6}."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Evocation",
+						"This ivory colored crossbow bolt is carved from the spines of a Bathyal Beholder. The bolt is tough and heavier than traditional bolts, sporting two fearsome barbs on either side of the head. When you hit a creature with this bolt you deal an additional {@damage 1d4} psychic damage.",
+						"Once it hits a target, this ammunition is no longer magical."
+					]
+				}
+			]
+		},
+		{
+			"name": "Bathyal Elixir",
+			"source": "gp_lhce",
+			"type": "P",
+			"rarity": "very rare",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This crimson liquid glitters and squirms when held in direct sunlight, and small, grasping tendrils form from it when poured.",
+						"The tendrils are harmless, but make drinking the potion extremely uncomfortable. When you drink this potion, you gain advantage on saving throws against spells and other magical effects for 1 hour.",
+						"After this effect ends, you spend your next turn violently retching before eventually vomiting up the carcass of a tiny, decaying, multi-limbed aberration."
+					]
+				}
+			]
+		},
+		{
+			"name": "Bathyal Leather",
+			"source": "gp_lhce",
+			"baseItem": "studded leather armor|PHB",
+			"type": "LA",
+			"rarity": "rare",
+			"weight": 13,
+			"ac": 12,
+			"bonusAc": "+2",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Tyrant Properties:",
+					"entries": [
+						"Grants additional +2 to AC."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"A set of {@item studded leather armor|PHB}, crafted from the treated flesh of a bathyal beholder or tyrant. The leather is tough and magically absorbent. While wearing this armor, you gain advantage on saving throws against magical effects that would decrease your movement speed. Additionally, as an action you can automatically succeed on a saving throw against any effect decreasing your movement speed, including the {@condition restrained} or {@condition grappled} condition. Once this feature has been used, it can't be used again until the next dawn."
+					]
+				}
+			]
+		},
+		{
+			"name": "Bathyal Plate",
+			"source": "gp_lhce",
+			"baseItem": "half plate armor|PHB",
+			"type": "MA",
+			"rarity": "rare",
+			"reqAttune": true,
+			"weight": 40,
+			"ac": 15,
+			"bonusAc": "+2",
+			"stealth": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Tyrant Properties:",
+					"entries": [
+						"Grants an additional +2 to AC."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"This calcified, coral colored half plate is crafted from the protective shell of a bathyal beholder or tyrant. When wet, it slowly shifts through various color, and is extremely tough. While you wear this armor, any critical hit against you becomes a normal hit instead. This is determined when the attack hits, but before damage is rolled. While you remain attuned to this armor, twitching eyes appear and disappear across it at random intervals, granting you {@sense truesight} out to 10 feet."
+					]
+				}
+			]
+		},
+		{
+			"name": "Ocean Warden's Charm",
+			"source": "gp_lhce",
+			"rarity": "rare",
+			"entries": [
+				"ship upgrade (mast)",
+				{
+					"type": "entries",
+					"name": "Tyrant Properties:",
+					"entries": [
+						{
+							"type": "list",
+							"items": [
+								""
+							]
+						}
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"This crafted metal symbol is infused with the spines of a bathyal beholder or bathyal tyrant. When embedded in the mast of a ship, this magical charm protects it against the natural disasters or traditional wear. When faced with natural-occurring phenomenon, the ship cannot capsize or sink, and while it can run aground, any damage it sustains from doing so is purely cosmetic. The ship never suffers wear-and-tear from regular use, and will always remain seaworthy unless it sustains damage in combat."
+					]
+				}
+			]
+		},
+		{
+			"name": "Patch of the Tyrant",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment bathyal tyrant only",
+						"This leathery eye patch is crafted from the flesh of a bathyal tyrant.",
+						"While you wear it, you have advantage on Charisma ({@skill Intimidation}) checks.",
+						"While at sea, you can use a bonus action to cause the eye patch to take the shape of a monstrous eye for 1 minute. The eye twitches and darts around wildly of its own volition, alerting you to incoming dangers. For the duration, you are assumed to be under the effects of the sanctuary spell. This effect ends early is you kill a hostile creature, or when you choose to end it as a bonus action.",
+						"Once you've used the eye patch in this way, you cannot do so again until the following stroke of midnight."
+					]
+				}
+			]
+		},
+		{
+			"name": "Seastrider Armor",
+			"source": "gp_lhce",
+			"baseItem": "chain mail|PHB",
+			"type": "HA",
+			"rarity": "uncommon",
+			"weight": 55,
+			"ac": 16,
+			"strength": "13",
+			"bonusAc": "+1",
+			"modifySpeed": {
+				"static": {
+					"swim": 40
+				}
+			},
+			"stealth": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment bathyal beholder only",
+						"This dull brown armor is crafted from the soft internal shell of a bathyal beholder. The armor is covered in rings of varying colour, denoting the shell's age. You have a +1 bonus to AC while wearing this armor. Additionally, you gain a swimming speed of 40 feet."
+					]
+				}
+			]
+		},
+		{
+			"name": "Tyrant Blade",
+			"source": "gp_lhce",
+			"baseItem": "longsword|PHB",
+			"type": "M",
+			"rarity": "very rare",
+			"reqAttune": true,
+			"weight": 3,
+			"weaponCategory": "martial",
+			"property": [
+				"V"
+			],
+			"dmg1": "1d8",
+			"dmgType": "S",
+			"dmg2": "1d10",
+			"bonusWeapon": "+3",
+			"sword": true,
+			"weapon": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment bathyal tyrant only",
+						"A sinister looking blade, forged from the spines of a legendary bathyal tyrant. Sharp barbs run the length of one side, giving the blade a jagged, saw-like appearance. You gain a +3 bonus to attack and damage rolls made with this magic weapon. It has the heavy and two-handed properties, if it didn't have them already, and deals an additional damage die on a successful hit."
+					]
+				}
+			]
+		},
+		{
+			"name": "Tyrant's Gaze",
+			"source": "gp_lhce",
+			"type": "P",
+			"rarity": "very rare",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Tyrant Properties:",
+					"entries": [
+						"The cone's range increases to 30 feet."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This sweet-smelling potion has the consistency of pickled cabbage, and is peppered with small, pea sized eyes. When you consume this potion, your eyes create a small area of antimagic, as in the {@spell antimagic field} spell, in a 15-foot cone. The effect lasts for 1 minute before wearing off.",
+						"At the start of your turn, you decide which way the cone faces, and whether or not it is active."
+					]
+				}
+			]
+		},
+		{
+			"name": "Tyrant's Plate",
+			"source": "gp_lhce",
+			"rarity": "very rare",
+			"entries": [
+				"Ship upgrade (hull)",
+				{
+					"type": "entries",
+					"name": "Tyrant Properties:",
+					"entries": [
+						"Piercing damage increases to 14 ({@dice 4d6})."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"This magical hull plating is forged from the aged shell of a bathyal tyrant. Bound together with iron and steel, this hull is littered with dozens of extended, sharpened spines. When the ship's hull suffers damage from a melee weapon attack, the attacking target immediately takes 7 ({@dice 2d6}) magical piercing damage.",
+						"Additionally, the ship and any crew inside it's hull gain advantage on saving throws made to resist spells and other magical effects while at sea.",
+						"While this ship upgrade is intact crew members and ship passengers designated by the captain gain {@sense truesight} out to 60 feet, and the ship is always able to safely navigate to the nearest port."
+					]
+				}
+			]
+		},
+		{
+			"name": "Tyrant's Resolve",
+			"source": "gp_lhce",
+			"type": "P",
+			"rarity": "very rare",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"Bathyal Tyrant only",
+						"This green liquid bubbles and froths when disturbed. The interior of the bottle is stained black from its contents, and a copper stopper is plugged into its top, sealed by yellow wax. When you drink this potion, you immediately gain all the benefits of having taken a long rest.",
+						"The first long rest you take after drinking this potion, however, is fraught with strange shadows in your nightmares. Whenever you try to sleep, you wake 1 hour later screaming from a terror you can't remember. This effect wears off at dawn's first light, but can be suppressed by holding a {@quickref Vision and Light||2||bright light} over the afflicted creature for the duration of the long rest."
+					]
+				}
+			]
+		},
+		{
+			"name": "Watchful Crest",
+			"source": "gp_lhce",
+			"rarity":"very rare",
+			"entries": [
+				"Ship upgrade (figurehead)",
+				{
+					"type": "entries",
+					"name": "Tyrant Properties:",
+					"entries": [
+						"The cone's range increases to 120 feet."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Necromancy",
+						"This iron figurehead is carved in the shape of a fearsome beholder, either bathyal, tyrant or another of its kin of the artisan's choice.",
+						"The figurehead sculpture has a large glass eye in its centre, filled with the preserved remains of a bathyal beholder or tyrant's central eye."
+					]
+				}
+			]
+		},
+		{
+			"name": "Coral Wand",
+			"source": "gp_lhce",
+			"type": "WD",
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d3}",
+			"charges": 3,
+			"rarity": "very rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Tyrant Properties:",
+					"entries": [
+						"Spell save DC increases to 18."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Transmutation",
+						"This metal wand is covered in sea flora, and has a handle carved from {@condition petrified} coral. This wand has 3 charges and regains {@dice 1d3} expended charges daily at dawn. As an action, you can expend one of these charges to fire a bubbling ray of light towards one creature you can see within 120 feet of you. The target creature must make a DC 16 Dexterity saving throw. On a failed save, the creature starts to become covered in coral and is {@condition restrained}. It must make a Strength saving throw at the end of its next turn. On a success, the effect ends, and the target breaks free. On a failure, the creature transforms into a coral structure and is {@condition petrified} until freed by the greater restoration spell or other magic.",
+						"If you expend the wand's last charge, roll a {@dice d20}. On a 1, the wand self-petrifies, and becomes mundane."
+					]
+				}
+			]
+		},
+		{
+			"name": "Wand of Charming",
+			"source": "gp_lhce",
+			"type": "WD",
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d3}",
+			"charges": 3,
+			"rarity": "rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Tyrant Properties:",
+					"entries": [
+						"Spell save DC increases to 18."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This wand has an alluring appearance, and is ornately carved from driftwood found at sea; in its handle sits a single unblinking eye, coated in clear pine resin. The wand has 3 charges and regains {@dice 1d3} expended charges daily at dawn. You can use an action to wave the wand towards one creature that can see and hear you within 120 feet. The target creature must succeed on a DC 16 Wisdom saving throw or be {@condition charmed} by you for 1 hour, or until you or your companions do anything harmful to it.",
+						"If you expend the wand's last charge, roll a {@dice d20}. On a 1, the wand explodes in a flash of brightly colored light, and is destroyed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Wand of Desiccation",
+			"source": "gp_lhce",
+			"type": "WD",
+			"charges": 3,
+			"rarity":"very rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Tyrant Properties:",
+					"entries": [
+						"Spell save DC increases to 18."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Necromancy",
+						"This silvery wand is brittle, and dry to the touch. The tip hooks back around on itself like a wound tendril. The wand has 3 charges. Once per day if it is kept damp for at least 1 minute it regains {@dice 1d3} charges.",
+						"As an action, you can raise the wand above your head, speak its command word, and expend a charge to force a creature you can see within 120 feet of you to make a DC 16 Constitution saving throw.",
+						"On a failed save, the target creature takes {@damage 10d10} necrotic damage as all liquid is sucked out of its body. The target dies if this reduces it to 0 hit points. This has no effect on constructs, or creatures that don't retain water.",
+						"If you expend the wand's last charge, roll a {@dice d20}. On a 1, the wand crumbles to dust and is destroyed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Wand of Dissection",
+			"source": "gp_lhce",
+			"type": "WD",
+			"recharge": "dawn",
+			"rechargeAmount": 3,
+			"charges": 3,
+			"rarity":"very rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Tyrant Properties:",
+					"entries": [
+						"Spell save DC increases to 18."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Evocation requires attunement by a creature with a Dexterity of 14 or higher This wand twists in on itself, featuring a plaited external stem, that surrounds the remains of a bathyal eye stalk, frozen in amber. The tip of the wand is sharp and pointed, akin to a needle. This wand has 3 charges and regains all expended charges daily at dawn. As an action, you can thrust the wand towards a creature you can see within 120 feet of you, causing the wand to emit a streaking red ray towards it. The targeted creature must make a Dexterity saving throw, taking {@damage 8d8} slashing damage on a failed save, or half as much damage on a successful one. If the creature fails the saving throw by 10 or more, the wand also severs one of the target's limbs, with the effect of such loss determined by the DM. If the creature has no limb to sever, the wand lops off a portion of its body instead.",
+						"If you expend the wand's last charge, roll a {@dice d20}. On a 1, the wand shatters into tiny fragments, and is destroyed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Wand of Drowning",
+			"source": "gp_lhce",
+			"type": "WD",
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d3}",
+			"charges": 3,
+			"rarity": "very rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Tyrant Properties:",
+					"entries": [
+						"Spell save DC increases to 18."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Necromancy",
+						"This spongy wand is crafted from the severed eye stalk of a bathyal beholder. The wand has 3 charges and regains {@dice 1d3} expended charges daily at dawn. As an action, you can wave the wand towards a creature you can see within 120 feet of you and expend one charge to force that creature to make a DC 16 Constitution saving throw.",
+						"On a failed save, the target creature begins to suffocate. A creature suffocating in this way has 2 rounds to end the effect before it drops to 0 hit points. The target can attempt the saving throw again at the end of each of its turns, ending the effect on itself on a success. This has no effect on creatures that don't need to breathe air.",
+						"If you expend the wand's last charge, roll a {@dice d20}. On a 1, the wand's shudders before disintegrating."
+					]
+				}
+			]
+		},
+		{
+			"name": "Wand of Erosion",
+			"source": "gp_lhce",
+			"type": "WD",
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d3}",
+			"charges": 3,
+			"rarity":"very rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Tyrant Properties:",
+					"entries": [
+						"Spell save DC 18."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Evocation",
+						"This dull grey wand has a handle carved from bone, and a core made from a bathyal's eye stalk. The wand has 3 charges and regains {@dice 1d3} charges daily at dawn. As an action, you can point the wand towards a creature you can see within 120 feet of you and expend a charge to force it to make a Dexterity saving throw or take {@damage 10d8} force damage. If this damage reduces the creature to 0 hit points, its body is ground down into a pile of gritty, sand colored bone and destroyed.",
+						"Alternatively, you may target a nonmagical object or magical effect that is Large or smaller, which is automatically eroded to nothing. If the target is a Huge or larger object or creation of magical force, this ray erodes away a 10-foot cube of it.",
+						"If you expend the wand's last charge, roll a {@dice d20}. On a 1, the wand succumbs to its own erosion, turning into a fine sand, and is destroyed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Wand of Restriction",
+			"source": "gp_lhce",
+			"type": "WD",
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d3 + 3}",
+			"charges": 6,
+			"rarity": "rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Tyrant Properties:",
+					"entries": [
+						"Spell save DC increases to 18."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment.",
+						"This knobbly wooden wand is carved from burnt oak, and encases the eye stalk of a bathyal beholder or tyrant. This wand has 6 charges and regains {@dice 1d3 + 3} expended charges daily at dawn. As an action you can point the wand towards one creature you can see within 120 feet and expend a charge to emit a ray of blue light. The target creature must succeed on a DC 16 Constitution saving throw or be {@condition paralyzed} for 1 minute. A {@condition paralyzed} creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+						"If you expend the wand's last charge, roll a {@dice d20}. On a 1, the wand's eye turns a deathly shade of white, and becomes mundane."
+					]
+				}
+			]
+		},
+		{
+			"name": "Wand of Transmuting",
+			"source": "gp_lhce",
+			"type": "WD",
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d6 + 1}",
+			"charges": 7,
+			"rarity": "very rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Tyrant Properties:",
+					"entries": [
+						"Spell save DC increases to 18, and can cast {@spell animate objects} (6 charges)."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Transmutation",
+						"This brittle wand is carved from hardened coral, and has a single eye set atop its crown. The wand has 7 charges and regains {@dice 1d6 + 1} charges daily at dawn. As an action, you can speak the wand's command word, and cast the {@spell prestidigitation} cantrip. Alternatively, as an action, you can wave the wand towards a target of your choice and expend a number of charges to cast one of the following spells (Save DC 16): {@spell levitate} (1 charge), {@spell slow} (2 charges), or {@spell polymorph} (3 charges)",
+						"If you expend the wand's last charge, roll a {@dice d20}. On a 1, the wand transforms into a piece of furniture, then a small beast, before finally settling as a pile of yellow goop, and is destroyed."
+					]
+				}
+			],
+			"attachedSpells": [
+				"animate objects",
+				"prestidigitation",
+				"levitate",
+				"slow",
+				"polymorph"
+			]
+		},
+		{
+			"name": "Bracelet of Watchful Eyes",
+			"source": "",
+			"page": 0,
+			"wondrous": true,
+			"rarity": "rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						""
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Divination",
+						"This braided leather bracelet has charms hanging from it made from Ophelia's eyes. While wearing the bracelet, you are {@condition invisible} to anyone using divination magic to spy on you. Anyone using such magic can still discern your surroundings, but can not perceive you.",
+						"Additionally, you have advantage on Wisdom ({@skill Perception}) checks to determine if you are being watched or followed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Crab Jerky",
+			"source": "gp_lhce",
+			"immune": [
+				"cold"
+			],
+			"wondrous": true,
+			"rarity": "uncommon",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"The duration increases to 1 hour."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Transmutation",
+						"This pouch holds {@dice 3d6} servings of crab jerky. When you eat a piece of this jerky you gain the ability to breathe underwater for 1 minute, and for this duration you are immune to cold damage while underwater."
+					]
+				}
+			]
+		},
+		{
+			"name": "Crabshell Canoe",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "uncommon",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						{
+							"type": "list",
+							"items": [
+								""
+							]
+						}
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Transmutation",
+						"This is a small boat, carved from the fragments of Ophelia's crab shell. While you are holding the shell you can speak its command word as a bonus action to cause the carving to expand into a bright red boat. The boat is 15 feet long, 6 feet wide, and 4 feet deep. The boat has two pairs of oars, a small folding mast, and an anchor. This boat can hold up to 6 Medium creatures comfortably.",
+						"When it becomes a boat, its weight becomes that of a normal vessel of its size. If the command word is spoken again, it shrinks back to its original size so long as no creatures are on the boat."
+					]
+				}
+			]
+		},
+		{
+			"name": "Lance of the Death Crab",
+			"source": "",
+			"page": 0,
+			"baseItem": "lance|PHB",
+			"type": "M",
+			"rarity": "very rare",
+			"weight": 6,
+			"weaponCategory": "martial",
+			"property": [
+				"R",
+				"S"
+			],
+			"dmg1": "1d12",
+			"dmgType": "P",
+			"bonusWeapon": "+2",
+			"weapon": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"The necrotic damage increases to {@dice 2d6}"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Evocation, Necromancy",
+						"The head of this lance is made from the leg of an enormous crab, honed to a razor tip. You have a +2 bonus to attack and damage rolls made with this magic lance. When you hit a creature with this weapon, you deal an additional {@damage 1d6} necrotic damage.",
+						"If you are underwater or equipped with the Shield of the Abyss, the lance loses the two-handed property. Additionally, you do not have disadvantage on attack rolls with this weapon due to being underwater."
+					]
+				}
+			]
+		},
+		{
+			"name": "Mechanical Pereiopods",
+			"source": "gp_lhce",
+			"rarity": "rare",
+			"entries": [
+				"Ship Upgrade (movement)",
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"The ship's movement speed on land increases to 30 feet."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Transmutation",
+						"Using a combination of mechanical parts and transmutation magic, the oars on this ship are replaced with a series of monstrous legs befitting a gigantic crustacean. The legs propel the ship as oars conventionally would, but require no crew.",
+						"In addition, these mechanical legs grant the ship a movement speed of 15 feet while on dry land. The legs can bear the ship's weight, but can't traverse dense terrain, such as thick jungle undergrowth or mountainous regions."
+					]
+				}
+			]
+		},
+		{
+			"name": "Necromancer's Plate",
+			"source": "",
+			"page": 0,
+			"baseItem": "plate armor|PHB",
+			"type": "HA",
+			"rarity": "very rare",
+			"reqAttune": true,
+			"weight": 65,
+			"ac": 18,
+			"strength": "15",
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d3 + 2}",
+			"charges": 5,
+			"stealth": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Spell save DC increases to 17."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment, Necromancy",
+						"While you wear this monstrous plate armor, you can't be {@condition frightened} by undead or fiends and you have advantage on Charisma ({@skill Intimidation}) checks made against such creatures.",
+						"This armor has 5 charges, and regains {@dice 1d3 + 2} expended charges daily at dawn. As an action, you can expend a number of charges to cast the following spells without material components (Save DC 15):",
+						"Cause fear (1 charge), blindness/deafness (2 charges), or animate dead (3 charges)"
+					]
+				}
+			]
+		},
+		{
+			"name": "Ophelia's Eye",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"bonusWeaponAttack": "+1",
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d3 + 3}",
+			"charges": 6,
+			"rarity": "very rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"When casting a spell from the eye, it has a +1 bonus to attack rolls and the spell save DC."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Necromancy",
+						"This glass jar holds a preserved eye from Ophelia suspended in a putrid liquid. It has 6 charges and regains {@dice 1d3 + 3} expended charges daily at dawn.",
+						"As an action you can expend one or more of the item's charges to cast one of the following spells, using your spellcasting ability for the attack roll or spell save DC:",
+						"Inflict wounds (1 charge), blindness/deafness (2 charges), ray of enfeeblement (3 charges), or contagion (5 charges)",
+						"In addition, you can use this eye as an arcane focus. When casting any of the aforementioned spells while using the eye as your focus, you can expend 1 additional charge to amplify the spells effect:"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Blindness/Deafness",
+					"entries": [
+						"If the creature fails its initial saving throw, it has disadvantage on all future saving throws to end the spell's effect."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Ray of Enfeeblement",
+					"entries": [
+						"If a creature fails its initial saving throw, it doesn't get to make additional saving throws to end the effect at the end of each of its turns thereafter. Additionally, it has disadvantage on all Strength checks and saving throws for the duration."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Contagion",
+					"entries": [
+						"If the target creature fails its saving throw, it is afflicted with Flesh Rot in addition to whichever disease you chose for the spell."
+					]
+				}
+			]
+		},
+		{
+			"name": "Ophelia's Hatred",
+			"source": "gp_lhce",
+			"baseItem": "shortsword|PHB",
+			"type": "M",
+			"rarity": "very rare",
+			"reqAttune": true,
+			"weight": 2,
+			"weaponCategory": "martial",
+			"property": [
+				"F",
+				"L"
+			],
+			"dmg1": "1d6",
+			"dmgType": "P",
+			"bonusWeapon": "+2",
+			"sword": true,
+			"weapon": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"The attack and damage roll bonus increases to +3."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Evocation",
+						"This fearsome set of short swords are constructed from two of Ophelia's monstrous legs. Each blade is sharpened to a point and has its handle bound using bone and sinew.",
+						"The short swords are magical melee weapons with a +2 bonus to attack and damage rolls, and deal an additional {@damage 1d4} necrotic damage on a hit.",
+						"As a bonus action, you can magically fuse the two hilts together to form a single weapon with a blade on either end, called a twinblade.",
+						"The twinblade has the two handed and finesse properties, and deals {@damage 2d6} slashing damage. Additionally, it deals {@damage 1d8} cold damage on a successful hit instead of the short sword's necrotic damage.",
+						"The weapon remains as a twinblade until you use a bonus action to separate it back into a pair of short swords."
+					]
+				}
+			]
+		},
+		{
+			"name": "Ophelia's Malice",
+			"source": "",
+			"page": 0,
+			"baseItem": "hand crossbow|PHB",
+			"type": "R",
+			"rarity": "rare",
+			"reqAttune": true,
+			"weight": 3,
+			"weaponCategory": "martial",
+			"property": [
+				"A",
+				"L",
+				"LD"
+			],
+			"range": "30/120",
+			"dmg1": "1d6",
+			"dmgType": "P",
+			"bonusWeapon": "+1",
+			"crossbow": true,
+			"weapon": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"The attack and damage roll bonus increases to +3."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Evocation, necromancy",
+						"This fearsome crossbow is constructed from the chitinous legs of the death crab, and attaches to the lower arm with a set of leather and iron straps. You gain a +1 bonus to attack and damage rolls made with this magic weapon. It also loses the light property. When fired, the crossbow consumes the loaded ammunition and emits a streak of wailing bolts towards your target, dealing {@damage 3d6} necrotic damage on a successful hit."
+					]
+				}
+			],
+			"ammoType": "crossbow bolt|phb"
+		},
+		{
+			"name": "Robes of Necrosis",
+			"source": "gp_lhce",
+			"rarity": "rare",
+			"reqAttune": true,
+			"wondrous": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"The temporary hit points gained increase to {@dice 1d4 + 2} per spell level."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Necromancy",
+						"This robe is made by soaking cloth in death crab blood, and sewing it together using a bone needle carved from an undead creature.",
+						"While you wear these magical robes, whenever you cast a spell from the school of necromancy, you gain {@dice 1d4} temporary hit points per spell level expended. These temporary hit points last for 10 minutes."
+					]
+				}
+			]
+		},
+		{
+			"name": "Robes of Ophelia's Presence",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "very rare",
+			"reqAttune": true,
+			"entries": [
+				"very rare (requires attunement)",
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"The CR of undead the item affects increases to CR 1."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment, Illusion",
+						"This dark brown robe edged in red is interwoven with sinew from the remains of Ophelia herself. While you wear it, undead creatures of CR 1/2 or lower automatically miss any melee or ranged weapon attack against you, and you can't be {@condition charmed} by undead."
+					]
+				}
+			]
+		},
+		{
+			"name": "Sea's Bane",
+			"source": "gp_lhce",
+			"baseItem": "warhammer|PHB",
+			"type": "M",
+			"rarity": "rare",
+			"reqAttune": true,
+			"weight": 2,
+			"weaponCategory": "martial",
+			"property": [
+				"V"
+			],
+			"dmg1": "1d8",
+			"dmgType": "B",
+			"dmg2": "1d10",
+			"bonusWeapon": "+2",
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d6 + 1}",
+			"charges": 7,
+			"hammer": true,
+			"weapon": true,
+			"entries": [
+				"rare (requires attunement)",
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Additional necrotic and cold damage both increase to {@dice 1d8}."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Evocation",
+						"This arcane warhammer has been crafted from nigh-impenetrable crab claws. The head of the hammer emits a cold, frosty mist and crackles with necrotic energy.",
+						"This is a magical weapon with a +2 to attack and damage rolls. The weapon has 7 charges and it regains {@dice 1d6 + 1} charges daily at dawn.",
+						"While you remained attuned to it, when you hit a creature with this weapon, you can expend a number of charges to deal an additional {@damage 1d6} necrotic or cold damage to the target per charge expended."
+					]
+				}
+			]
+		},
+		{
+			"name": "Shards of the Lich Queen",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d3}",
+			"charges": 3,
+			"rarity": "very rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Intelligence maximum increases to 22."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"While you remain attuned to these magical shards of bone, your Intelligence score increases by 2, to a maximum of 20. The shards orbit your body and have 3 charges. They regain {@dice 1d3} expended charges each day at dawn.",
+						"As an action, you can expend 1 charge to cause the shards to augment your spellcasting with dark magic for 1 minute. For the duration, you have a +1 bonus to your spellcasting save DC and spellcasting attack rolls."
+					]
+				}
+			]
+		},
+		{
+			"name": "Shield of Anti-Necrosis",
+			"source": "gp_lhce",
+			"baseItem": "shield|PHB",
+			"type": "S",
+			"resist": [
+				"necrotic"
+			],
+			"rarity": "rare",
+			"reqAttune": true,
+			"weight": 6,
+			"ac": 2,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"When you succeed on a saving throw against necrotic damage but you still would take half damage, you instead take no damage."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration, necromancy",
+						"This wooden shield has mottled black death crab hide stretched over its surface. You have resistance to necrotic damage while you wield it, and when you make a saving throw against an effect or spell that deals necrotic damage while wearing this shield, you have advantage on the roll.",
+						"Additionally, if you die while attuned with this shield, you can't be raised as an undead creature as long as the shield remains within close proximity of your corpse."
+					]
+				}
+			]
+		},
+		{
+			"name": "Staff of the Death Crab",
+			"source": "gp_lhce",
+			"srd": true,
+			"basicRules": true,
+			"type": "M",
+			"weight": 4,
+			"weaponCategory": "simple",
+			"property": [
+				"V"
+			],
+			"dmg1": "1d6",
+			"dmgType": "B",
+			"dmg2": "1d8",
+			"staff": true,
+			"rarity": "very rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment, Illusion greater variant only",
+						"This staff has several of Ophelia's eyes on it, each one {@condition petrified} in place by powerful magic. This staff can be wielded as a magic quarterstaff.",
+						"When you hold this staff in your hands, you can use a bonus action to become immediately aware of all undead creatures within 120 feet of you. You know their exact location and also identify the kind of undead creature in each case.",
+						"Additionally, when holding this staff you can see 60 feet into the Ethereal Plane when you are on the Material Plane, and vice versa.",
+						"Weapon and spell attacks made using this staff can target creatures on the Ethereal Plane when you are on the Material Plane, and vice versa."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Unrelenting Gaze",
+					"entries": [
+						"As an action you can activate the staff and cause the eyes to open. When you do so, choose one creature you can see within 120 feet of you.",
+						"The target creature must make a DC 18 Wisdom saving throw.",
+						"On a failed save it takes {@damage 4d8} psychic damage and is {@condition frightened} of you until the end of its next turn. If the creature is an undead it is {@condition stunned} until the end of its next turn instead of {@condition frightened}.",
+						"This feature has no effect on creatures with Turn Immunity, and once you've used the staff in this way, you cannot do so again until you complete a long rest."
+					]
+				}
+			]
+		},
+		{
+			"name": "The Black Hull",
+			"source": "gp_lhce",
+			"rarity": "very rare",
+			"entries": [
+				"Ship Upgrade (hull)",
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration, Necromancy",
+						"Greater variant only",
+						"This twisted hull is created by fusing together Ophelia's shell remains with a conventional ship hull. Imbued with necromancy magic, the hull warps and deforms, growing fearsome spines across its structure and coating the interior in a dull, green light.",
+						"The ship is immune to necrotic and cold damage. In addition, friendly creatures aboard the ship are resistant to necrotic damage and can't be turned or {@condition frightened}."
+					]
+				}
+			]
+		},
+		{
+			"name": "Undeath Bane's Ammunition",
+			"source": "gp_lhce",
+			"baseItem": "arrow|PHB",
+			"type": "A",
+			"rarity": "very rare",
+			"weight": 0.05,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						""
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Evocation",
+						"This leather bag contains 10 pieces of enchanted ammunition. The ammunition deals radiant damage instead of its normal damage type. If a piece of ammunition strikes an undead with a CR of 2 or lower and the undead doesn't have Turn Immunity, it is instantly destroyed.",
+						"In addition, this ammunition can damage a lich's phylactery even if that phylactery is otherwise indestructible.",
+						"Each piece of ammunition shatters in a burst of light once used, and can't be recovered."
+					]
+				}
+			]
+		},
+		{
+			"name": "Unholy Bone Powder",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "rare",
+			"entries": [
+				"Greater properties: The Challenge Rating of undead this affects increases to CR 5 and below.",
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"This bag of powder is made from the bones of an immensely strong undead and it dries out your skin with even the smallest contact.",
+						"As an action you can spread a handful of this powder over a 5-foot diameter circle. For the next year, or until purposefully dispersed by another creature, undead with a Challenge Rating of 3 or lower can't pass over, through, or touch this space in any way."
+					]
+				}
+			]
+		},
+		{
+			"name": "Unholy Lacquer",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"bonusWeapon": "+1",
+			"rarity": "very rare",
+			"entries": [
+				"Greater properties: The weapon gains a +2 bonus to attack and damage rolls instead of +1.",
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Necromancy",
+						"This vial of scarlet blood can impart special properties to any nonmagical weapon or ammunition exposed to it. You can use an action to pour the lacquer over a single melee weapon or up to 20 pieces of ammunition. The lacquer immediately coagulates, covering the item in a thin coat of red slime.",
+						"For 1 hour, the slime faintly pulses on the surface of the item before suddenly sloughing off and disintegrating, leaving the item blackened with a slight red glint. The weapon or ammunition becomes magical, gains a permanent +1 bonus to attack and damage rolls, and deals an additional {@damage 1d8} necrotic damage on a successful hit."
+					]
+				}
+			]
+		},
+		{
+			"name": "Vial of Undeath's Bane",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity":"very rare",
+			"entries": [
+				"Greater properties: Save DC increases to 15.",
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Evocation",
+						"As an action, you can throw this vial of watery red fluid towards a point you can see on the ground within 30 feet of you. The vial explodes into a fine mist, creating a 15-foot radius sphere centered on that point. Undead that begin their turn in this area or move through for the first time on their turn must make a DC 12 Constitution saving throw or be {@condition stunned} for 1 minute. Undead with a Challenge Rating of 5 or lower that were caught in the blast's radius have disadvantage on the initial saving throw.",
+						"A {@condition stunned} creature can attempt the saving throw again at the start of its next turn, ending the effect on itself on a success.",
+						"In addition, when a lich is exposed to the mist, it takes an additional 30 days to rejuvenate the next time it dies."
+					]
+				}
+			]
+		},
+		{
+			"name": "Charm of the Flayer",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "rare",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						{
+							"type": "list",
+							"items": [
+								""
+							]
+						}
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"While you wear this small charm around your neck, you have advantage on saving throws to avoid being {@condition charmed}, {@condition frightened}, {@condition paralyzed}, or {@condition poisoned}. The charm contains a small shrunken piece of sea flayer flesh, which glistens with magical power."
+					]
+				}
+			]
+		},
+		{
+			"name": "Cloak of the Flayer",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"The pressure you can withstand increases to a depth of 10,000 feet."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This dark green cloak is crafted from the hide of a sea flayer. The hide continually shifts and writhes around the cloak like a second skin. While you wear this cloak, you have advantage on Dexterity ({@skill Stealth}) checks.",
+						"In addition, you can raise the cloak's hood above your head as an action on your turn. While the cloak's hood is raised, you can breathe normally underwater, and can withstand underwater pressures down to a depth of 3,000 feet."
+					]
+				}
+			]
+		},
+		{
+			"name": "Figurine of Wondrous Power (Flayer-Kin)",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "very rare",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Figurine's save DC increases to 16"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Transmutation",
+						"A {@item figurine of wondrous power} is a statuette of a creature small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature. The creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.",
+						"The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Flayer-Kin (very rare)",
+					"entries": [
+						"This is a small glass figurine of a mind flayer head. When thrown, it transforms into a floating mind flayer head (see stat block below) for up to 5 hours. Once it has been used, it can't be used again until 7 days have passed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Flayer Arrow",
+			"source": "gp_lhce",
+			"baseItem": "arrow|PHB",
+			"type": "A",
+			"rarity": "rare",
+			"weight": 0.05,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Grants +2 bonus to attack roll."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"A set of 10 arrows carved from the scaled hide of the sea flayer. The arrows have a streamlined shape similar to a spear, making them perfect for underwater use. When you make a ranged weapon attack using one of these arrows, you gain a +1 bonus to the attack roll. In addition, the arrows range or properties are unaffected by elemental effects (magical or otherwise) that would slow its movement or reduce its range, such as the wind wall spell, or being loosed while underwater."
+					]
+				}
+			]
+		},
+		{
+			"name": "Flayer Bolt",
+			"source": "gp_lhce",
+			"baseItem": "arrow|PHB",
+			"type": "A",
+			"rarity": "rare",
+			"weight": 0.05,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Grants +2 bonus to attack roll."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"A set of 10 bolts carved from the scaled hide of the sea flayer. The bolts are carved to appear like small hunting spears, making them perfect for underwater use. When you make a ranged weapon attack using one of these bolts, you gain a +1 bonus to the attack roll. In addition, the bolts range or properties are unaffected by elemental effects (magical or otherwise) that would slow its movement or reduce its range, such as the wind wall spell, or being fired from a crossbow while underwater."
+					]
+				}
+			]
+		},
+		{
+			"name": "Flayer Leather",
+			"source": "gp_lhce",
+			"baseItem": "studded leather armor|PHB",
+			"type": "LA",
+			"rarity": "rare",
+			"reqAttune": true,
+			"weight": 13,
+			"ac": 12,
+			"bonusAc": "+1",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Grants +1 bonus to AC (max 16)."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This thickened leather armor is crafted from the hardened skin of a sea flayer, and provides its wearer with a magical resilience to sickness and disease. While you wear this armor, your Constitution score increases by 1, to a maximum of 20. In addition, you have advantage on saving throws against disease and the {@condition poisoned} condition."
+					]
+				}
+			]
+		},
+		{
+			"name": "Flayer's Bowstring",
+			"source": "gp_lhce",
+			"baseItem": "longbow|PHB",
+			"type": "R",
+			"rarity": "rare",
+			"reqAttune": true,
+			"weight": 2,
+			"weaponCategory": "martial",
+			"property": [
+				"A",
+				"H",
+				"2H"
+			],
+			"range": "150/600",
+			"dmg1": "1d8",
+			"dmgType": "P",
+			"bow": true,
+			"weapon": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"The arrows damage increases to {@dice 1d6}."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Evocation, Illusion",
+						"This sinewy bowstring is crafted from the flesh of a sea flayer.",
+						"When attached to a bow and drawn, it releases a telepathic crowd of whispers out towards all creatures within 60 feet of it, granting you a +1 bonus to Charisma ({@skill Intimidation}) checks for 1 minute.",
+						"In addition, the bowstring infuses the nocked arrow with psionic energy. When loosed, the arrow emits an eerie shriek as it whistles through the air and deals an additional {@damage 1d4} psychic damage on a hit."
+					]
+				}
+			],
+			"ammoType": "arrow|phb"
+		},
+		{
+			"name": "Flayer's Crossbow",
+			"source": "gp_lhce",
+			"baseItem": "heavy crossbow|PHB",
+			"type": "R",
+			"rarity": "rare",
+			"reqAttune": true,
+			"weight": 18,
+			"weaponCategory": "martial",
+			"property": [
+				"A",
+				"H",
+				"LD",
+				"2H"
+			],
+			"range": "100/400",
+			"dmg1": "1d10",
+			"dmgType": "P",
+			"grantsProficiency": true,
+			"bonusWeapon": "+2",
+			"crossbow": true,
+			"weapon": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Grants a +2 bonus to damage rolls."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This crossbow's string and handle are crafted from the muscle strands of a sea flayer. When held, you can use a bonus action to cause the muscle strands attached to the handle to wrap tightly around your arm, granting you a +2 bonus to attack rolls made with the weapon, and preventing you from being disarmed. In addition, each end of the bow is carved into a sharpened point, allowing the crossbow to be wielded as a shortsword, which you are considered proficient with while you remain attuned to this item."
+					]
+				}
+			],
+			"ammoType": "crossbow bolt|phb"
+		},
+		{
+			"name": "Grasping Gloves",
+			"source": "gp_lhce",
+			"rarity": "rare",
+			"reqAttune": true,
+			"wondrous": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						""
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"These leather gloves have small suckers woven into the fingertips, taken from the suction cups of a sea flayer. While you wear these gloves, you have a climbing speed equal to half your walking speed (rounded down). You can move up, down and across vertical surfaces and hang from ceilings while leaving your feet free. The gloves grip onto any surface, including ones covered by ice or oil, and grant you advantage on Strength checks made to maintain a grapple."
+					]
+				}
+			]
+		},
+		{
+			"name": "Potion of Regrowth",
+			"source": "gp_lhce",
+			"rarity": "very rare",
+			"type": "P",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						""
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"A small vial of concentrated sea flayer blood, treated with various alchemical ingredients to magically repair the hulls of nautical vessels and constructs. When poured, the vial has enough in its contents to cover a 30-foot-long, 2-inch-wide line. The ends of the line must connect together, forming a circle, for the potion to take effect. When applied to an object or structure, the potion magically repairs any damage to it contained within the circle.",
+						"Once the potion takes effect, its line lasts only for a brief second before flashing out brightly in a burst of green light, leaving the repaired section untouched."
+					]
+				}
+			]
+		},
+		{
+			"name": "Sea Blade",
+			"source": "gp_lhce",
+			"baseItem": "longsword|PHB",
+			"type": "M",
+			"rarity": "rare",
+			"reqAttune": true,
+			"weight": 3,
+			"weaponCategory": "martial",
+			"property": [
+				"V"
+			],
+			"dmg1": "1d8",
+			"dmgType": "S",
+			"dmg2": "1d10",
+			"bonusWeapon": "+1",
+			"sword": true,
+			"weapon": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"+2 bonus to attack and damage rolls."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This weapon is made from the scales of a sea flayer. The blade has a dark blue, reflective surface, and always feels cold to the touch.",
+						"When you look at your reflection within the blade, your eyes appear yellow and otherworldly.",
+						"You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you wield it, you have advantage on saving throws against being intimidated or {@condition frightened}."
+					]
+				}
+			]
+		},
+		{
+			"name": "Sea Flayer Arm Guards",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"bonusAc": "+1",
+			"rarity": "uncommon",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						""
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"These specialized arm guards are crafted using the scaled hide of a sea flayer, and are equipped on both forearms. While you wear these armored arm guards, you have a +1 bonus to AC."
+					]
+				}
+			]
+		},
+		{
+			"name": "Sea Flayer Shield",
+			"source": "gp_lhce",
+			"baseItem": "shield|PHB",
+			"type": "S",
+			"rarity": "rare",
+			"weight": 6,
+			"ac": 2,
+			"bonusAc": "+1",
+			"entries": [
+				"(Greater variant only)",
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"This extremely heavy tower shield is crafted from the hardened skin of a sea flayer. This shield has the heavy property. While holding it, you have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.",
+						"As a bonus action, you can slam the shield downward to doff it and merge it to the ground. When merged with the ground in this way, it can provide a single Medium or smaller creature with threequarters cover. The shield may be removed from the ground and donned again as an action."
+					]
+				}
+			]
+		},
+		{
+			"name": "Sea Flayer Wand",
+			"source": "gp_lhce",
+			"type": "WD",
+			"bonusWeapon": "+1",
+			"charges": 3,
+			"rarity": "very rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Great Properties:",
+					"entries": [
+						"The grell's armor class increases to 15, and it gets a +1 bonus to its attack and damage rolls."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Conjuration",
+						"This wand is created from the muscle mass of a sea flayer, which twists and writhes of its own volition. Its handle wraps around your arm and pulses like a leech. The wand has 3 charges. As an action, you can expend one of these charges to conjure a grell. The grell appears in an unoccupied space you can see within 30 feet of you. It remains for 1 hour, or until it drops to 0 hit points.",
+						"The grell acts on its own initiative and is friendly to you and your companions. It understands common and obeys any verbal commands you give it. If you don't issue any commands to it, the grell defends itself from hostile creatures, but otherwise take no actions.",
+						"If you expend the wand's last charge, roll a {@dice d20}. On a 1, the wand withers into dust and is destroyed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Sea Shard of Seeing",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						{
+							"type": "list",
+							"items": [
+								""
+							]
+						}
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This shard has a polished, reflective surface, and is crafted from a leathery egg sac taken from the tentacle of a sea flayer. Invisible creatures, or those on the Ethereal Plane, cast a reflection in this shard. You can angle the shard like a mirror using a free hand to detect the presence of such creatures, who also have disadvantage on Dexterity ({@skill Stealth}) checks made to hide from you while you use it."
+					]
+				}
+			]
+		},
+		{
+			"name": "Seafarer's Compass",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "rare",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						""
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This copper compass is crafted using solidified muscle strands of a sea flayer as the navigation needle. When held above water, the needle points in the direction of the largest creature within 1 mile of it. If such a creature is not native to the current plane of existence, the needle swells up and changes color to purple."
+					]
+				}
+			]
+		},
+		{
+			"name": "Seafarer's Splint",
+			"source": "gp_lhce",
+			"baseItem": "splint armor|PHB",
+			"type": "HA",
+			"rarity": "rare",
+			"weight": 60,
+			"ac": 17,
+			"strength": "15",
+			"bonusAc": "+1",
+			"stealth": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"You have a +2 bonus to AC."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"This armor is made of narrow vertical strips of hardened sea flayer flesh riveted to stained leather. Flexible strands of cross hatched sinew protects the joints. The armor is exceptionally buoyant, weighing a little over 20lbs and is unable to sink more than 20 feet underwater.",
+						"You have a +1 bonus to AC while wearing this armor."
+					]
+				}
+			]
+		},
+		{
+			"name": "Vial of Regeneration",
+			"source": "gp_lhce",
+			"type": "P",
+			"rarity": "very rare",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"You regain {@dice 1d6} hit points every 10 minutes."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Necromancy",
+						"Drinking this thick, sickly green potion causes you to regain {@dice 1d4} hit points every 10 minutes for {@dice 1d4 + 1} hours, provided that you have at least 1 hit point.",
+						"If you lose a body part while the potion is in effect, you can spend 10 minutes in concentration (as if on a spell) to cause the missing part to regrow and return to full functionality. Once a body part has been regrown in this way, the potion's effects end, regardless of the remaining duration."
+					]
+				}
+			]
+		},
+		{
+			"name": "Bow of the Deep Reef",
+			"source": "gp_lhce",
+			"type": "GV",
+			"rarity":"very rare",
+			"reqAttune": true,
+			"inherits": {
+				"namePrefix": "Bow of the Deep Reef ",
+				"recharge": "dawn",
+				"rechargeAmount": "{@dice 3d4}",
+				"charges": 12,
+				"entries": [
+					{
+						"type": "entries",
+						"name": "Greater Properties:",
+						"entries": [
+							"Dexterity saving throw increases to DC 18"
+						]
+					},
+					{
+						"type": "entries",
+						"name": "School of Magic:",
+						"entries": [
+							"Transmutation",
+							"This bow has an emerald sheen to it, and is strung with a blood red sinew. If you touch this bowstring without gloves or some form of protection you immediately take 1 acid damage. The weapon has 12 charges and regains {@dice 3d4} expended charges daily at dawn.",
+							"When you make an attack with this bow you can expend a number of charges to cause the arrow to dissolve mid-flight, transforming into a bolt of acid. On a hit the target takes {@damage 2d10} acid damage. Hit or miss, the bolt then explodes in a shower of bile. The target and each creature within 5 feet of it must succeed on a DC 16 Dexterity saving throw or take {@damage 1d6} acid damage per charge expended. Attacks made in this way are not affected by being underwater."
+						]
+					}
+				]
+			},
+			"__prop": "magicvariant"
+		},
+		{
+			"name": "Digestive Whip",
+			"source": "gp_lhce",
+			"baseItem": "whip|PHB",
+			"type": "M",
+			"rarity": "rare",
+			"reqAttune": true,
+			"weight": 3,
+			"weaponCategory": "martial",
+			"property": [
+				"F",
+				"R"
+			],
+			"dmg1": "1d4",
+			"dmgType": "S",
+			"bonusWeapon": "+2",
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d6 + 1}",
+			"charges": 7,
+			"weapon": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Acid damage increases to {@dice 2d8}"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Evocation",
+						"This whip is crafted from the tendrils of a swarmling. The whip gently writhes and twists when exposed to extreme heat or cold.",
+						"You gain a +2 bonus to attack and damage rolls made with this magical weapon. The whip has 7 charges. It regains {@dice 1d6 + 1} expended charges daily at dawn. When you hit a creature using this weapon, you can expend a number of charges to have one of the following effects: (1 charge) Deal an additional {@damage 2d6} acid damage to the target. (2 charges) Reduce the target's AC by 1 for 1 minute if the target is wearing armor made of metal."
+					]
+				}
+			]
+		},
+		{
+			"name": "Hardened Hull",
+			"source": "gp_lhce",
+			"rarity": "rare",
+			"entries": [
+				"Ship Upgrade (hull)",
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						{
+							"type": "list",
+							"items": [
+								""
+							]
+						}
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"This upgrade layers a ship's hull with ridged chitin, harvested from the legendary reef swarm. The hull has immunity to acid damage, and emanates a magical aura which protects components and objects on board from rust or corrosion."
+					]
+				}
+			]
+		},
+		{
+			"name": "Juggernaut Plate",
+			"source": "gp_lhce",
+			"baseItem": "plate armor|PHB",
+			"type": "HA",
+			"immune": [
+				"acid"
+			],
+			"resist": [
+				"acid"
+			],
+			"rarity": "very rare",
+			"weight": 65,
+			"ac": 18,
+			"strength": "15",
+			"stealth": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Any bludgeoning damage you take is instead reduced by 15 and you are immune to acid damage."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"This massive set of plate armor is made from the chitinous exterior of several swarmlings welded together rather than metal.",
+						"It is a mottled brown, covered in protruding spines, and is nigh unbreakable. When you put it on, you feel like you could run through a wall and not even feel it.",
+						"While wearing this plate armor, any bludgeoning damage you take is reduced by 10, you are resistant to acid damage, and have advantage on saving throws against being knocked {@condition prone} or {@condition restrained}."
+					]
+				}
+			]
+		},
+		{
+			"name": "Mask of the Reef",
+			"source": "gp_lhce",
+			"rarity": "rare",
+			"reqAttune": true,
+			"wondrous": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Grants an additional +2 bonus to Charisma ({@skill Intimidation}) checks."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This magical mask is created from the leathery flesh of a swarmling and has a number of writhing tendrils below the nose, hiding your lower face and neck. While wearing this mask, you have advantage on Charisma ({@skill Intimidation}) checks.",
+						"Additionally, while onboard a ship, you can use your action to cause the ship to magically perform an action that could be completed by a single crew member. This can be any action that would require use of the helm, oars, sails, or a single weapon the ship has mounted."
+					]
+				}
+			]
+		},
+		{
+			"name": "Notched Leather",
+			"source": "gp_lhce",
+			"baseItem": "leather armor|PHB",
+			"type": "LA",
+			"rarity": "uncommon",
+			"weight": 10,
+			"ac": 11,
+			"bonusAc": "+1",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Grants additional +1 bonus to AC"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"While you wear this thick leather armor, you have a +1 bonus to AC. Additionally, the armor is coated in a thin film of mucus, granting you advantage on saving throws or ability checks made to avoid or escape being {@condition grappled}."
+					]
+				}
+			]
+		},
+		{
+			"name": "Ocean Strider's Cloak",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"bonusAc": "+1",
+			"rarity": "very rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"While wearing this cloak you have a +1 bonus to AC"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This cloak is crafted from the flesh of a swarmling. When it sits on your shoulders, it writhes of its own volition as if it is constantly floating underwater.",
+						"While wearing this cloak you can choose to walk on water as if it were solid ground. Additionally, as an action you can pull the hood up or down. While the cloak's hood is up you can breathe normally in both air and water."
+					]
+				}
+			]
+		},
+		{
+			"name": "Potion of Corrosion",
+			"source": "gp_lhce",
+			"type": "P",
+			"rarity": "very rare",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"The Dexterity throw increases to DC 18"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Evocation",
+						"This cloudy, pale liquid smells strongly of burnt wood, and flakes of rusted metal can be seen floating within its bottle. When you pour this potion on a piece of metal or wood, the potion corrodes and disintegrates a 2-foot radius portion of it in {@dice 1d4} minutes. If you pour the liquid onto a creature that is wearing nonmagical armor made of metal or wood, the target must make a DC 16 Dexterity saving throw. On a failed save, that armor takes a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Reef Cutter Rope (100 ft)",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "uncommon",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Rope can hold up to 5,000lbs"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This dark, spongy rope is braided from the flesh of the reef swarm.",
+						"It is incredibly resilient, yet so lightweight it floats on water.",
+						"The rope can hold up to 3,000lbs before snapping, and weighs a total of 5lbs. Cutting the rope takes {@dice 2d10} minutes. If two severed ends of the rope are left within two feet of each other, they magically join together after {@dice 1d4} minutes."
+					]
+				}
+			]
+		},
+		{
+			"name": "Reef Dagger",
+			"source": "gp_lhce",
+			"baseItem": "dagger|PHB",
+			"type": "M",
+			"rarity": "uncommon",
+			"weight": 1,
+			"weaponCategory": "simple",
+			"property": [
+				"F",
+				"L",
+				"T"
+			],
+			"range": "20/60",
+			"dmg1": "1d4",
+			"dmgType": "P",
+			"dagger": true,
+			"weapon": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Acid damage increases to {@dice 2d4}"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Evocation",
+						"This curved dagger has a handle made of hardened bone and a fearsome blade carved from the pincer of a swarmling.",
+						"This magical weapon deals an additional {@damage 1d4} acid damage on a successful hit."
+					]
+				}
+			]
+		},
+		{
+			"name": "Reef-touched Thread",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "uncommon",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Fishing line chance increases to 75 percent."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This fine thread is created from the sinew of a swarmling, and is as strong as steel. The thread can be used to sew items together, or as fishing line.",
+						"If used as fishing line, there is a {@chance 50|50 percent} chance for the fishing line to attract and catch a Medium or smaller fish when cast in open water where fish are present, regardless of what type of bait is used.",
+						"If used to make clothing, the clothing created can never become wet, and will not tear under normal use."
+					]
+				}
+			]
+		},
+		{
+			"name": "Seaborne Bagh Nakh",
+			"source": "",
+			"page": 0,
+			"baseItem": "dagger|PHB",
+			"type": "M",
+			"rarity": "rare",
+			"reqAttune": true,
+			"weight": 1,
+			"weaponCategory": "simple",
+			"property": [
+				"F",
+				"L",
+				"T"
+			],
+			"range": "20/60",
+			"dmg1": "1d4",
+			"dmgType": "P",
+			"bonusWeapon": "+1",
+			"bonusAc": "+1",
+			"dagger": true,
+			"weapon": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"You instead have a +2 bonus to attack and damage rolls."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"These specialized twin daggers are crafted from the large front pincers of a swarmling. The weapons are crafted as a pair, and designed to fit over the knuckles and forearms to create a protective set of arm guards extending into short claws.",
+						"Each Bagh Nakh deals an additional {@damage 1d4} piercing damage on a hit.",
+						"While you are wearing both, you gain a +1 bonus to AC.",
+						"Additionally, while attuned to the pair, you gain a +1 bonus to attack and damage rolls made with these magical weapons, and a swimming speed equal to your walking speed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Singeing Scimitar",
+			"source": "gp_lhce",
+			"baseItem": "scimitar|PHB",
+			"type": "M",
+			"rarity": "very rare",
+			"weight": 3,
+			"weaponCategory": "martial",
+			"property": [
+				"F",
+				"L"
+			],
+			"dmg1": "1d6",
+			"dmgType": "S",
+			"sword": true,
+			"weapon": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Acid damage increases to {@dice 2d8}"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Necromancy",
+						"This scimitar is made from a single massive pincer. This weapon deals an additional {@damage 1d8} acid damage on a hit. Additionally, any creature that is not immune to acid damage must make a DC 11 Constitution saving throw the first time each turn they are hit with this weapon. Spellcasters that are concentrating on a spell make this saving throw with disadvantage. On a failure the creature has disadvantage on attack rolls and ability checks until the end of its next turn."
+					]
+				}
+			]
+		},
+		{
+			"name": "Spined Reef Flail",
+			"source": "",
+			"page": 0,
+			"baseItem": "flail|PHB",
+			"type": "M",
+			"rarity": "rare",
+			"reqAttune": true,
+			"weight": 2,
+			"weaponCategory": "martial",
+			"dmg1": "1d8",
+			"dmgType": "B",
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d6 + 2}",
+			"charges": 8,
+			"weapon": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Acid damage increases to {@dice 2d8}"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment, Evocation",
+						"This flail is created from the tendrils and spines of a deadly swarmling. At times it wriggles slightly on its own. It has 8 charges and regains {@dice 1d6 + 2} expended charges each day at dawn.",
+						"When you make a melee weapon attack with this magical weapon, as a reaction, you can expend a charge to reroll the die and take the second result.",
+						"Additionally, any time you hit with this flail you can choose to expend one charge to deal an additional {@damage 2d6} acid damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Swarming Sails",
+			"source": "gp_lhce",
+			"rarity": "very rare",
+			"entries": [
+				"Ship Upgrade (sails)"
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Save increases to DC 18"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"These tight, flesh coloured sails stretch across supporting struts of bone, created from the creatures residing within the legendary reef swarm. While the sails are unfurled, the waters around the ship teem with swarms of aquatic sea creatures, which gnaw and tear at enemies within 60 feet of it. Friendly underwater creature within this area are {@quickref Vision and Light||2||lightly obscured}.",
+						"When a hostile ship or creature in the water begins its turn in this area, or enters the area for the first time on a turn, it must make a DC 16 Strength saving throw. The target takes {@damage 4d6} piercing damage on a failed save, or half as much on a successful one."
+					]
+				}
+			]
+		},
+		{
+			"name": "Swarmling Buckler",
+			"source": "gp_lhce",
+			"baseItem": "shield|PHB",
+			"type": "S",
+			"rarity": "rare",
+			"weight": 6,
+			"ac": 2,
+			"bonusAc": "+3",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"You instead have a +5 bonus to AC against the triggering attack."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"This light buckler is crafted from the hardened chitin of a swarmling. While holding this shield, you have a +1 bonus to AC.",
+						"This bonus is in addition to the shield's normal bonus.",
+						"Additionally, when you are hit by a melee attack you can use your reaction to attempt to parry the blow, granting you a +3 bonus to AC against the triggering attack."
+					]
+				}
+			]
+		},
+		{
+			"name": "Swarmling Figurehead",
+			"source": "gp_lhce",
+			"rarity":"very rare",
+			"entries": [
+				"Ship Upgrade (figurehead)",
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Save and ability check DC increases to 18"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Evocation",
+						"This figurehead depicts a carving of a large swarmling, tendrils and pincers extended and ready to strike. As an action, the ship can activate this item to emit a 120-foot long, 10-foot wide line of dark, sticky mucus from the figurehead. Each creature and object in the line must make a DC 16 Dexterity saving throw.",
+						"A target takes 35 ({@damage 10d6}) acid damage and is {@condition restrained} for 1 minute on a failed save, or takes half as much damage and isn't {@condition restrained} on a successful one. A {@condition restrained} target can use its action to make a DC 16 Strength ({@skill Athletics}) check on its subsequent turns, freeing itself on a success.",
+						"Once a ship uses this action, it can't use it again until the next dawn."
+					]
+				}
+			]
+		},
+		{
+			"name": "Swarmling Tower Shield",
+			"source": "gp_lhce",
+			"baseItem": "shield|PHB",
+			"type": "S",
+			"rarity": "rare",
+			"weight": 6,
+			"ac": 2,
+			"bonusAc": "+1",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"AC bonus increases to +2"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"This heavy tower shield is crafted from the segmented ridges of a swarmling. Because of the shield's weight you must have a Strength score of 16 or above to wield it.",
+						"While holding this shield you have a +1 bonus to AC in addition to the shield's normal bonus. Additionally, you can make a melee weapon attack with this shield, with proficiency if you are proficient with shields. The shield has the heavy property, and deals {@dice 2d6} magical bludgeoning damage on a hit."
+					]
+				}
+			]
+		},
+		{
+			"name": "Tendril Jerky",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "uncommon",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Temporary hit points increase to {@dice 4d6}"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This bag of tough, tasteless jerky is created from the diced tendrils of one or more swarmlings. The bag contains {@dice 2d4 + 2} pieces. As an action, you can pull a piece of jerky from the pouch and consume it to gain {@dice 2d6} temporary hit points, which last for 1 hour."
+					]
+				}
+			]
+		},
+		{
+			"name": "Vial of Disintegration",
+			"source": "gp_lhce",
+			"type": "P",
+			"rarity":"very rare",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"The Dexterity save DC increases to 18"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Necromancy",
+						"This dark, blood red liquid bubbles and hisses from within a sealed glass sphere. As an action, you can throw the sphere at a point you can see within 30 feet of you, or within 90 feet while using a sling.",
+						"The sphere shatters on contact, and the contents within explode out in a 5-foot radius sphere. Creatures caught in the area must make a DC 16 Dexterity saving throw.",
+						"On a failed save, the target suffers {@damage 6d6 + 20} acid damage. If this damage reduces the target to 0 hit points, it is disintegrated.",
+						"A disintegrated creature and everything it is wearing and carrying, except magical items, are reduced to a bubbling, hissing green puddle. A creature killed in this way can only be resurrected by a true resurrection or wish spell."
+					]
+				}
+			]
+		},
+		{
+			"name": "Amulet of the Deep",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "uncommon",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						""
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Transmutation",
+						"While you wear this amulet, you can use a bonus action to grant yourself a set of gills, which allow you to breathe underwater.",
+						"In addition, the endraleth's magic flows through you while you have these gills, allowing you to read and speak Deep Speech and Giant.",
+						"The gills last until you dismiss them as a bonus action."
+					]
+				}
+			]
+		},
+		{
+			"name": "Armor of Cyclopean Strength",
+			"source": "gp_lhce",
+			"baseItem": "splint armor|PHB",
+			"type": "HA",
+			"rarity": "very rare",
+			"reqAttune": true,
+			"weight": 60,
+			"ac": 17,
+			"strength": "15",
+			"bonusAc": "+1",
+			"stealth": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Grants additional +1 bonus to AC."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"While wearing this special armor, your Strength becomes 22, unless it is already 22 or higher.",
+						"In addition, you have advantage on saving throws against magical effects that would result in you being {@condition charmed} or {@condition stunned}."
+					]
+				}
+			]
+		},
+		{
+			"name": "Breathless Bowstring",
+			"source": "gp_lhce",
+			"rarity": "very rare",
+			"reqAttune": true,
+			"type": "GV",
+			"requires": [
+				{
+					"bow": true
+				},
+				{
+					"crossbow": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "Breathless Bowstring ",
+				
+				"entries": [
+					{
+						"type": "entries",
+						"name": "Greater Properties:",
+						"entries": [
+							"Save DC increases to 17."
+						]
+					},
+					{
+						"type": "entries",
+						"name": "School of Magic:",
+						"entries": [
+							"Illusion",
+							"When you hit a creature with an arrow fired from this magical bow, the target takes an additional {@damage 2d6} psychic damage, and must make a DC 15 Wisdom saving throw. On a failure, the target creature loses the ability to breathe and begins to suffocate for 1 minute. On a successful save, the target is unaffected, and is immune to this effect for the next hour. An affected creature can attempt the saving throw on its subsequent turns, ending the effect on itself on a success.",
+							"This feature has no effect on undead, constructs, or creatures immune to being {@condition charmed}."
+						]
+					}
+				]
+			},
+			"__prop": "magicvariant"
+		},
+		{
+			"name": "Charmless Heart",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "very rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						""
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment, Illusion",
+						"This lantern contains the glowing remains of the endraleth's heart, crushed down into a concentrated powder. While you have this small, pocket-sized lantern on your person, you can't be {@condition charmed} or {@condition stunned}.",
+						"In addition, while you remain attuned to it, the lantern emits a {@quickref Vision and Light||2||bright light} which only you can see out to a range of 10 feet and {@quickref Vision and Light||2||dim light} for an additional 20 feet. This light illuminates the area to you as a normal lantern would, but affects no other creature."
+					]
+				}
+			]
+		},
+		{
+			"name": "Elixir of Deep Knowledge",
+			"source": "gp_lhce",
+			"type": "P",
+			"rarity":"very rare",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Intelligence cap increases to 22."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"When you drink this potion, your Intelligence score permanently increases by 2, to a maximum of 20, and your reading and learning speed doubles.",
+						"This bloody, clotted liquid is brewed from the brain matter of the endraleth. When drunk, small tentacles emerge from the liquid and writhe around the mouth and throat, as if attempting to climb out before being swallowed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Breathless Bowstring",
+			"source": "gp_lhce",
+			"rarity":"very rare",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Potion",
+					"entries": [
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Intelligence cap increases to 22."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Divination, Enchantment",
+						"This deep green potion has small flecks of brain matter adrift within its liquid, and bubbles unpleasantly when consumed.",
+						"When you drink this potion, your Wisdom score permanently increases by 2, to a maximum of 20, and you gain the ability to communicate with creatures telepathically out to a range of 10 feet."
+					]
+				}
+			]
+		},
+		{
+			"name": "Endraleth Blade",
+			"source": "",
+			"page": 0,
+			"baseItem": "longsword|PHB",
+			"type": "M",
+			"rarity": "very rare",
+			"reqAttune": true,
+			"weight": 3,
+			"weaponCategory": "martial",
+			"property": [
+				"V"
+			],
+			"dmg1": "1d8",
+			"dmgType": "S",
+			"dmg2": "1d10",
+			"bonusWeapon": "+2",
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d6 + 1}",
+			"charges": 7,
+			"sword": true,
+			"weapon": true,
+			"entries": [
+				"very rare (requires attunement)",
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Grants a +3 bonus to attack and damage rolls."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This gleaming white blade is forged from the fangs of the endraleth, and the handle is wrought iron and wrapped in a rugged leather.",
+						"You have a +2 bonus to attack and damage rolls made with this magical weapon.",
+						"The weapon has 7 charges. It regains {@dice 1d6 + 1} charges daily at dawn. When you hit a creature with this weapon, you can expend 1 charge to force that creature to make a DC 16 Wisdom saving throw. On a failed save, the target is {@condition stunned} until the end of its next turn.",
+						"This has no effect on creatures immune to being {@condition charmed}."
+					]
+				}
+			]
+		},
+		{
+			"name": "Endraleth Heartstone",
+			"source": "gp_lhce",
+			"rarity":"very rare",
+			"entries": [
+				"Ship upgrade (hull, internal)",
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration, Enchantment",
+						"This stone carving depicts the bound heart of the endraleth, held aloft by a pair of bloody hands. When placed in the center of a ship, the heart emits a calming pulse which can be felt by all creatures on board, granting advantage on Wisdom saving throws to avoid being {@condition frightened}.",
+						"In addition, as an action, the ship can activate this item to emit a shockwave throughout it, causing all friendly creatures on board to automatically succeed on the next saving throw made to end or resist one effect causing them to become {@condition charmed} or {@condition stunned}. If a creature benefiting from this effect doesn't make a saving throw within 1 hour, the benefit is lost.",
+						"Once a ship uses this action, it can't use it again until the next dawn."
+					]
+				}
+			]
+		},
+		{
+			"name": "Endraleth's Forge Dust",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "very rare",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						""
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This dust is made from the powdered remains of endraleth eyeballs mixed with the ground bones of another creature. Up to three weapons can be coated in this dust as they are forged. Weapons coated in this way faintly glow when within 100 feet of any creature that is the same kind and the one who's bones were used. The closer the creature is, the brighter it glows."
+					]
+				}
+			]
+		},
+		{
+			"name": "Endraleth's Hide of Resistance",
+			"source": "",
+			"page": 0,
+			"baseItem": "hide armor|PHB",
+			"type": "MA",
+			"rarity": "rare",
+			"reqAttune": true,
+			"weight": 12,
+			"ac": 12,
+			"bonusAc": "+1",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Grants a +1 bonus to AC."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"This blue hide armor is so intensely stiff you wonder if you could even move in it, yet when attuned it bends as smooth as silk.",
+						"While wearing this armor, any magical effect which would cause your speed to become 0 causes it to become 5 instead. In addition, whenever you are subject to an effect which prevents you from moving, you gain {@dice 1d12} temporary hit points that last for 1 hour.",
+						"As long as you have at least one of these temporary hit points remaining, you have advantage on saving throws against any effect which would cause you to become {@condition grappled}, {@condition paralyzed}, {@condition petrified}, {@condition restrained}, or {@condition stunned}."
+					]
+				}
+			]
+		},
+		{
+			"name": "Endraleth's Mind Shard",
+			"source": "gp_lhce",
+			"type": "P",
+			"grantsProficiency": true,
+			"rarity": "very rare",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment greater endraleth only",
+						"This vial contains a single large fragment of endraleth brain tissue, carefully preserved. When consumed, you feel a rush of power coupled with a sense of helplessness your mind is overwhelmed with visions and knowledge spanning across the entire cosmos. You become {@condition unconscious} for 1 minute, during which time no magic short of a wish spell can wake you. When you do awaken, you gain proficiency in any combination of up to 6 skills, tools, or languages of your choice. If you have the spellcasting feature you can choose to replace any number of these proficiencies with spells from your class spell list instead."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Cursed",
+					"entries": [
+						"For each new proficiency you've gained or spell you've learned, you lose a valuable memory or proficiency of the DM's choice. This loss of memory can't be reversed by anything other than a wish spell or the intervention of a deity. Additionally, the shadow of the endraleth lurks in your dreams until the curse is lifted."
+					]
+				}
+			]
+		},
+		{
+			"name": "Gillotine",
+			"source": "gp_lhce",
+			"baseItem": "scimitar|PHB",
+			"type": "M",
+			"rarity": "rare",
+			"reqAttune": true,
+			"weight": 3,
+			"weaponCategory": "martial",
+			"property": [
+				"F",
+				"L"
+			],
+			"dmg1": "1d6",
+			"dmgType": "S",
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d3}",
+			"charges": 3,
+			"sword": true,
+			"weapon": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						""
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This curved blade is made from an endraleth gill carefully stretched straight and dehydrated until it is rock hard.",
+						"This magical weapon has 3 charges and regains {@dice 1d3} expended charges daily at dawn. When you hit a creature with a melee attack using it you can expend a charge to force the target creature to make a DC 16 Constitution saving throw. On a failed save, the creature becomes {@condition frightened} of water, and for as long as it remains {@condition frightened}, it is convinced it can't breathe, even if it normally doesn't need to breathe.",
+						"A creature {@condition frightened} by this effect must make another Constitution saving throw at the end of each of its turns. If it successfully saves against this effect three times, the effect ends. If it fails its saves three times, it falls {@condition unconscious} for 1 minute, or until it takes damage. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind."
+					]
+				}
+			]
+		},
+		{
+			"name": "Helmet of Sanity",
+			"source": "gp_lhce",
+			"rarity": "very rare",
+			"reqAttune": true,
+			"wondrous": true,
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d3}",
+			"charges": 3,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"You automatically succeed on saving throws to avoid being afflicted with madness and can't be {@condition charmed}."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This leather helmet is crafted from the harvested flesh of the endraleth, and retains some of the creature's magical potency.",
+						"While you wear this helmet, you have advantage on saving throws to avoid being afflicted with madness or {@condition charmed}. If you already suffer from a type of madness or are {@condition charmed} before attuning to the helmet, such effects are suppressed while you wear it.",
+						"In addition, the helmet has 3 charges. It regains {@dice 1d3} charges daily at dawn. As an action, you can speak the helmet's command word and expend a number of charges to cast one of the following spells (spell save DC 16):",
+						"Heroism (1 charge) or calm emotions (2 charges)",
+						"If you expend the helmet's last charge, roll a {@dice d20}. On the roll of a 1, the helmet disintegrates, and is destroyed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Orb of Incapacitation",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "very rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Saving throw DC increases to 18."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Enchantment",
+						"This glistening ruby red glass sphere contains the extracted essence from the eyes of the endraleth. It shimmers a blood red when a creature looks at it.",
+						"As an action, you can activate the orb by speaking the command word, causing it to emit a bright, dazzling light in a 30-foot radius sphere for 1 minute. Creatures that can see the light and start their turn in the area or move into the area for the first time on their turn must succeed on a Wisdom saving throw or be {@condition charmed} by the orb for as long as they remain within its area of effect. A creature {@condition charmed} in this way is {@condition stunned}, but can attempt the saving throw again at the start of each of its subsequent turns, ending the effect on itself on a success.",
+						"When you activate this item, you can avert your eyes from the light to automatically pass the saving throw. Though you must immediately make the saving throw should you see the light at any point during the item's activation.",
+						"The orb can be activated once per day."
+					]
+				}
+			]
+		},
+		{
+			"name": "Pulsing Charm",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "rare",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						""
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"This small anatomically correct heart carved from ruby holds a piece of still-beating endraleth heart at its core. When you or any other humanoid creature within 10 feet of this charm would become {@condition paralyzed} or {@condition petrified}, the charm activates and negates the effect. When the charm is activated it glows a deep red and a pulse resonates through the air. The charm activates \\\"no more than once each round, and after activating a total of 3 times it goes dormant for 1 year."
+					]
+				}
+			]
+		},
+		{
+			"name": "Reflective Mantle",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"recharge": "midnight",
+			"rechargeAmount": "{@dice 1d3}",
+			"charges": 1,
+			"rarity":"very rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"The item's total charges increase to 3. It regains {@dice 1d3} expended charges daily at midnight."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"While you wear this dark, reflective leather cloak, you have advantage on Dexterity ({@skill Stealth}) checks, and when standing in {@quickref Vision and Light||2||dim light} or darkness, can turn {@condition invisible} as a bonus action. The invisibility remains until you take an action, enter a lit area, or are revealed by an effect such as the faerie fire spell.",
+						"In addition, the mantle has 1 charge. It regains the expended charge daily at midnight. When you would be hit by a spell or other ranged magical effect that targets only you, you can use your reaction and expend 1 charge to reflect the attack towards a creature you can see within 60 feet of you. Make a ranged spell attack, using your Intelligence modifier plus proficiency if you are a spellcaster.",
+						"On a hit, the spell or effect is resolved as if your target was the original target of the attack."
+					]
+				}
+			]
+		},
+		{
+			"name": "Sanity's Hunger",
+			"source": "gp_lhce",
+			"baseItem": "dagger|PHB",
+			"type": "M",
+			"rarity": "very rare",
+			"reqAttune": true,
+			"weight": 1,
+			"weaponCategory": "simple",
+			"property": [
+				"F",
+				"L",
+				"T"
+			],
+			"range": "20/60",
+			"dmg1": "1d4",
+			"dmgType": "P",
+			"bonusWeapon": "+2",
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d6 + 1}",
+			"charges": 7,
+			"dagger": true,
+			"weapon": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Grants a +3 bonus to attack and damage rolls."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Divination",
+						"This silver blade is forged using the crushed fangs of the endraleth, and shudders with the creature's psychic hunger.",
+						"You have a +2 bonus to attack and damage rolls with this magical dagger. The dagger has 7 charges. It regains {@dice 1d6 + 1} charges daily at dawn. As an action, you can expend one of the dagger's charges to cast {@spell detect thoughts} (spell save DC 16), requiring no components to do so. Alternatively, when you hit a creature with this weapon, you can expend 1 or more charges to inflict an additional {@damage 1d6} psychic damage per charge expended. If you expend all 7 charges at once, the target must succeed on a DC 16 Wisdom saving throw or suffer a short-term madness (DMG, Chapter 8: Running the Game).",
+						"If you expend the dagger's last charge, roll a {@dice d20}. On a roll of 1 your sanity briefly shatters, and you become afflicted with a long-term madness. The dagger then disintegrates into dust and is destroyed."
+					]
+				}
+			],
+			"attachedSpells": [
+				"detect thoughts"
+			]
+		},
+		{
+			"name": "Stone Piercer",
+			"source": "gp_lhce",
+			"baseItem": "dagger|PHB",
+			"type": "M",
+			"rarity": "uncommon",
+			"weight": 1,
+			"weaponCategory": "simple",
+			"property": [
+				"F",
+				"L",
+				"T"
+			],
+			"range": "20/60",
+			"dmg1": "1d4",
+			"dmgType": "P",
+			"bonusWeapon": "+1",
+			"dagger": true,
+			"weapon": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Grants a +1 bonus to attack and damage rolls."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Transmutation",
+						"This dagger is crafted from an endraleth fang, {@condition petrified} many times over. The first time each day that it hits a nonmagical object made from stone it disintegrates that object, or a 10-foot cube of that object, whichever is smaller. If this object is a creature that has been {@condition petrified}, they appear to shed a thin coating of stone and are no longer {@condition petrified}.",
+						"If the dagger frees a {@condition petrified} creature in this way, the dagger immediately disintegrates, and is destroyed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Tome of Deepsight",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"The range increases to 1,000 feet."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Divination",
+						"This tome is bound in red leather and it has segments of the endraleth's piercing pupils embedded in the center of it's cover. A wizard or warlock who attuned to this tome can use it as an arcane focus.",
+						"Once per day while holding this tome you can name an object, type of creature, or even a specific creature, out loud while staring into the eye. When you do so, if the named object or creature is within 250 feet of you, it becomes faintly outlined with a dull glow that only you can see for 1 minute. You can perceive a glowing target through walls, dense fog, illusionary effects and even while {@condition blinded} for this duration.",
+						"If the target is protected by a spell or other magical effect that blocks divination magic, such as Nystul's magic aura, the book's ability has no effect."
+					]
+				}
+			]
+		},
+		{
+			"name": "Weeping Wand",
+			"source": "gp_lhce",
+			"type": "WD",
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d3}",
+			"charges": 3,
+			"rarity": "rare",
+			"reqAttune": true,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"The spell save DC increases to 18."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Illusion",
+						"This mysterious iron banded wand is crafted from the harvested membrane of the endraleth's gills. The handle is a mottled grey, and shudders when held in direct sunlight.",
+						"The wand has 3 charges. It regains {@dice 1d3} expended charges daily at dawn. As an action, you can wave the wand and expend a number of charges to cast one of the following spells (save DC 16):",
+						"Disguise self (1 charge), Nystul's magic aura (2 charges), or hypnotic pattern (3 charges)",
+						"If you expend the wand's last charge, roll a {@dice d20}. On a 1, the wand shatters into fragments and is destroyed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Inflating Heart",
+			"source": "gp_lhce",
+			"wondrous": true,
+			"rarity": "uncommon",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Transmutation",
+						"This small, floating heart can be cooked or eaten raw. When consumed, you gain {@dice 2d4} hit points, and the heart cures one condition afflicting you or lifts one curse, as per the remove curse spell."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Cursed",
+					"entries": [
+						"For each day the heart remains on board a ship at sea, there is a 25% chance for it to attract the attention of a Gibberfish Gathering (previously in this chapter), Plesiosaurus, {@dice 2d4} Merrows, or a Corpse Harvester (previously in this chapter). The attracted creatures are hostile to the ship and her crew, and attacks until defeated, routed, or the heart is thrown overboard."
+					]
+				}
+			]
+		},
+		{
+			"name": "Macrophytic Jelly",
+			"source": "gp_lhce",
+			"type": "P",
+			"rarity": "uncommon",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Abjuration",
+						"You can spend ten minutes applying this vial of green jelly to instantly heal an open wound or sore and regains {@dice 1d4 + 1} hit points.",
+						"Alternatively, you can use an action on your turn and consume the vial's contents to instantly cure yourself of one disease currently affecting you. For the next 8 hours, you are immune to that disease, and can't be re-infected by it."
+					]
+				}
+			]
 		}
 	],
 	"spell": [
-		
+		{
+			"name": "Lonely Existence",
+			"source": "gp_lhce",
+			"level": 4,
+			"school": "transmutation",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "touch"
+				}
+			},
+			"components": {
+				"s": true,
+				"m": {
+					"text": "a vial containing sea water, 1 ounce of crushed bone, a drop of hag blood, and shards of a precious gemstone worth 400gp, which the spell consumes",
+					"cost": 40000,
+					"consume": true
+				}
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"entries": [
+				"Your touch inflicts a baleful curse. Make a melee spell attack against a creature within your reach. On a hit, you afflict the creature with the curse of Lonely Existence.",
+				"While cursed, the creature undergoes a magical transformation over the course of the next 3 days. At dawn, the target must make a Wisdom saving throw. Regardless of whether the target succeeds or fails the saving throw, it is afflicted with an effect each day, as detailed below. These effects are cumulative, and any levels of {@condition exhaustion} the creature gains can't be removed while the curse remains.",
+				{
+					"type": "entries",
+					"name": "1st Day:",
+					"entries": [
+						"The target suffers a level of {@condition exhaustion}, and all color drains from its form."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "2nd Day:",
+					"entries": [
+						"The target suffers a level of {@condition exhaustion}, and loses all memories from the past week."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "3rd Day:",
+					"entries": [
+						"The target suffers a level of {@condition exhaustion}, and gains an indefinite madness (DMG, Chapter 8: Running the Game).",
+						"After succeeding on two of these saving throws, the creature recovers from the curse and its effects fade at the end of the target's next long rest. If the target fails two or more of these saving throws, at the end of the target's next long rest, its body transforms into a fleshy mound of twitching ichor, and the target's soul is sealed within a solitary lidless eye residing atop the mound. The mound sprouts tentacles and transforms into a lonely husk in {@dice 1d4} hours.",
+						"This curse can be lifted by a 4th-level remove curse, greater restoration, or similar magic provided it was cast within the first week of the creature being afflicted."
+					]
+				}
+			],
+			"conditionInflict": [
+				"exhaustion"
+			],
+			"spellAttack": [
+				"M"
+			],
+			"savingThrow": [
+				"wisdom"
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Bard",
+						"source": "PHB"
+					},
+					{
+						"name": "Warlock",
+						"source": "PHB"
+					},
+					{
+						"name": "Wizard",
+						"source": "PHB"
+					}
+				]
+			}
+		}
 	]
 }
