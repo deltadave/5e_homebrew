@@ -15588,7 +15588,7 @@
 			"source": "gp_lhce",
 			"rarity": "very rare",
 			"entries": [
-				"Ship Upgrade (sails)"
+				"Ship Upgrade (sails)",
 				{
 					"type": "entries",
 					"name": "Greater Properties:",
@@ -15798,40 +15798,41 @@
 		{
 			"name": "Breathless Bowstring",
 			"source": "gp_lhce",
+			"baseItem": "longbow|PHB",
+			"type": "R",
 			"rarity": "very rare",
 			"reqAttune": true,
-			"type": "GV",
-			"requires": [
+			"weight": 2,
+			"weaponCategory": "martial",
+			"property": [
+				"A",
+				"H",
+				"2H"
+			],
+			"range": "150/600",
+			"dmg1": "1d8",
+			"dmgType": "P",
+			"bow": true,
+			"weapon": true,
+			"entries": [
 				{
-					"bow": true
+					"type": "entries",
+					"name": "Greater Properties:",
+					"entries": [
+						"Save DC increases to 17."
+					]
 				},
 				{
-					"crossbow": true
+					"type": "entries",
+					"name": "School of Magic:",
+					"entries": [
+						"Illusion",
+						"When you hit a creature with an arrow fired from this magical bow, the target takes an additional {@damage 2d6} psychic damage, and must make a DC 15 Wisdom saving throw. On a failure, the target creature loses the ability to breathe and begins to suffocate for 1 minute. On a successful save, the target is unaffected, and is immune to this effect for the next hour. An affected creature can attempt the saving throw on its subsequent turns, ending the effect on itself on a success.",
+						"This feature has no effect on undead, constructs, or creatures immune to being {@condition charmed}."
+					]
 				}
 			],
-			"inherits": {
-				"namePrefix": "Breathless Bowstring ",
-				
-				"entries": [
-					{
-						"type": "entries",
-						"name": "Greater Properties:",
-						"entries": [
-							"Save DC increases to 17."
-						]
-					},
-					{
-						"type": "entries",
-						"name": "School of Magic:",
-						"entries": [
-							"Illusion",
-							"When you hit a creature with an arrow fired from this magical bow, the target takes an additional {@damage 2d6} psychic damage, and must make a DC 15 Wisdom saving throw. On a failure, the target creature loses the ability to breathe and begins to suffocate for 1 minute. On a successful save, the target is unaffected, and is immune to this effect for the next hour. An affected creature can attempt the saving throw on its subsequent turns, ending the effect on itself on a success.",
-							"This feature has no effect on undead, constructs, or creatures immune to being {@condition charmed}."
-						]
-					}
-				]
-			},
-			"__prop": "magicvariant"
+			"ammoType": "arrow|phb"
 		},
 		{
 			"name": "Charmless Heart",
@@ -15998,8 +15999,7 @@
 		},
 		{
 			"name": "Endraleth's Hide of Resistance",
-			"source": "",
-			"page": 0,
+			"source": "gp_lhce",
 			"baseItem": "hide armor|PHB",
 			"type": "MA",
 			"rarity": "rare",
