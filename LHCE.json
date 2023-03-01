@@ -10481,7 +10481,6 @@
 			"int": 13,
 			"wis": 8,
 			"cha": 10,
-			"skill": "one skill the creature knew before its transformation",
 			"senses": [
 				"darkvision 60 ft."
 			],
@@ -10490,7 +10489,8 @@
 				{
 					"resist": [
 						"bludgeoning",
-						"piercing and slashing damage"
+						"piercing",
+						"slashing"
 					],
 					"note": "from nonmagical attacks",
 					"cond": true
