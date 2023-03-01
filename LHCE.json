@@ -9635,7 +9635,6 @@
 			"int": 14,
 			"wis": 8,
 			"cha": 11,
-			"skill": "one proficiency the creature had in life",
 			"senses": [
 				"darkvision 60 ft."
 			],
@@ -9648,7 +9647,8 @@
 				{
 					"resist": [
 						"bludgeoning",
-						"piercing and slashing damage"
+						"piercing",
+						"slashing"
 					],
 					"note": "from nonmagical attacks",
 					"cond": true
